@@ -8,6 +8,10 @@ mm_5=3
 mm_6=0
 mm_7=0
 
+[MM_CTX_AREASEL_CLK]
+mm_0=4
+mm_1=0
+
 [MM_CTX_AREASEL_EDGE]
 mm_0=2
 mm_1=1
@@ -15,6 +19,8 @@ mm_4=4
 mm_5=3
 
 [MM_CTX_ARRANGE_RMOUSE]
+mm_0=3
+mm_1=2
 mm_2=0
 mm_4=0
 mm_5=0
@@ -99,6 +105,10 @@ mm_1=1
 mm_0=1
 mm_4=2
 
+[MM_CTX_MIDI_PIANOROLL_CLK]
+mm_1=4
+mm_7=-1
+
 [MM_CTX_POOLEDENV]
 mm_0=2
 mm_1=1
@@ -135,4 +145,7 @@ mm_8=22
 
 [MM_CTX_TRACK_CLK]
 mm_8=7
+
+[MM_CTX_TRACK_DBLCLK]
+mm_0=40717
 
