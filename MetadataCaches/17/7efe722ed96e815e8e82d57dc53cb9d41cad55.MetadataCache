@@ -1,0 +1,15 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Borg Sound - Harley Davidson Sportster Iron 883"
+F "HD Sportster Iron 883, False start 2 and 3, L-Exhaust, R-Motor.wav" 3895352 0 1583868779 0
+D y 2016-05-1 c "Sound Devices 744t" d "Motorcycle, Harley Davidson, False Starts, Exhaust Oktava Mk012 To L, Motor Sm57 To R" s 96000
+D n 2 r 1:24:08.316 l 0:06.397 i 24
+F "HD Sportster Iron 883, Passby 100kmph, Asphalt surface, 2 variations.wav" 19541148 0 1583869013 0
+D a "Harley Davidson Sportster Iron 883 SFX library" y 2016-05-1 g "Vehicles, Motorcycle" d "Motorcycle, Harley Davidson, Passby 100Kmph, Asphalt Surface, 2 Variations, Close And Medium Distance"
+D s 96000 n 2 r 2:47:40.928 l 0:33.416
+D i 24
+F "HD Sportster Iron 883, Start, Accelerate on the spot, shut down, Beside vehicle.wav" 59952926 0 1583869089 0
+D y 2016-05-1 c "Sound Devices 633" d "Motorcycle, Harley Davidson, Start, Accelerate On The Spot, Shut Down, Beside Vehicle, Neumann km185 ORTF" s 96000
+D n 2 r 2:34:52.483 l 1:43.206 i 24
+F "HD Sportster Iron 883, Start, long idle, shut down, Beside vehicle.wav" 24752214 0 1583869011 0
+D a "Harley Davidson Sportster Iron 883 SFX library" y 2016-05-0 g "Vehicles, Motorcycle" c "Sound Devices 633"
+D d "Motorcycle, Harley Davidson, Start, Long Idle, Shut Down, Beside Vehicle, Close Distance, Neumann Km185 Ortf Pair" s 96000 n 2 r 1:09:20.523
+D l 0:42.416 i 24

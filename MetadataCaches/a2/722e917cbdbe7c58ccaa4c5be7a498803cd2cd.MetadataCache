@@ -1,0 +1,12 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Natural/Water Bubble"
+F "Water Bubble A 01.wav" 335172 0 1655728017 0
+D y 2013-07-12 s 44100 n 2 l 0:01.895
+D i 16
+F "Water Bubble B 04.wav" 379136 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:06.723
+D l 0:02.145 i 16
+F "Water Bubble B 08.wav" 513508 0 1655728017 0
+D y 2013-07-12 s 44100 n 2 r 0:16.136
+D l 0:02.906 i 16
+F "Water Bubbles 2.wav" 1966152 0 1436227745 0
+D s 96000 n 1 l 0:06.826 i 24

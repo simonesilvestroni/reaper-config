@@ -1,0 +1,58 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - U"
+F "Ucns Basementdoor 04 Squeaks.wav" 3215398 0 1488537028 0
+D y 2016-08-25 d "Basement Door, Metal, Squeak, Creak, Creepy, Horror" s 96000 n 2
+D r 0:06.000 l 0:05.571 i 24
+F "Ucns Blockeddoor 01 Creaks 09.wav" 3406174 0 1488536116 0
+D t 160705_001 a "My Recording" y 2016-08-25 c 0000007D6750434D2D4431303000000000000000000102020001000101000000000000000000000001000000020000000000000000000000000202001401
+D d "Pushing a Blocked Door, Creak, Scraping on Floor" s 96000 n 2 r 0:48.234
+D l 0:05.907 i 24
+F "Ucns Cupboarddoor 01 Squeaks 09.wav" 2330340 0 1488537383 0
+D t 160807_004 a "My Recording" y 2016-08-25 c 0000007D6750434D2D4431303000000000000000000202000001000101000000000000000000000001000000020000000000000000000000000201000001
+D d "Wooden Cupboard Door, Creak, Squeak, Contact Mics, Open, Close" s 96000 n 2 r 1:01.823
+D l 0:04.040 i 24
+F "Ucns Leatherglove 01 Creaks 13.wav" 1606396 0 1488537401 0
+D t 160718_001 a "My Recording" y 2016-08-25 c 0000007D6750434D2D4431303000000000000000000102020001000101000000000000000000000001000000020000000000000000000000000201000001
+D d "Leather Glover or Rope Creaking, Heavy Creaks" s 96000 n 2 r 1:01.459
+D l 0:02.769 i 24
+F "Udg05 Extra V2 Car Pass Bys Medium Speed Truck Approach And Depart.wav" 122703288 0 1488537533 0
+D y 2016-09-29 d "UDG05 | Car pass bys | Medium speed, Truck approach and depart, Small tire bumps, Auto" s 96000 n 2
+D l 3:30.795 i 24
+F "Umbrella 1,Compact,Close,Slide,Fold,Snap,02.wav" 537552 0 1481710444 0
+D s 96000 n 1 l 0:01.866 i 24
+F "Umbrella 2,Compact,Close,Slide,Fold,Snap,04.wav" 319784 0 1481710444 0
+D s 96000 n 1 l 0:01.110 i 24
+F "Umbrella 2,Compact,Movement,Fabric,Cleaning,Shake Out,05.wav" 739788 0 1481710445 0
+D s 96000 n 1 l 0:02.568 i 24
+F "Underground Dock Metro Downmix 1.wav" 14974540 0 1481710501 0
+D y 2015-02-25 s 48000 n 2 r 31:06.403
+D l 0:51.164 i 24
+F "Underground Dock Metro Passing Downmix 6.wav" 34908424 0 1481710501 0
+D y 2015-02-25 s 48000 n 2 r 1:07:55.215
+D l 1:59.303 i 24
+F "Up And Down.wav" 1079604 0 1439161995 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.119
+D i 16
+F "Upright Piano Drone Tension-03.wav" 43044718 0 1488537462 0
+D d "Musical Instrument, Upright Piano, Vertical Piano, Production Element, Drone, Atmosphere, Atmospheric Element, Tension, Mystery" s 96000 n 2 l 1:14.728
+D i 24
+F "Upright Piano Drone Tension-08.wav" 30575998 0 1488537530 0
+D d "Musical Instrument, Upright Piano, Vertical Piano, Production Element, Drone, Atmosphere, Atmospheric Element, Tension, Spooky, Mystery" s 96000 n 2 l 0:53.081
+D i 24
+F "Upright Piano Transition-08.wav" 4545706 0 1488536838 0
+D d "Musical Instrument, Upright Piano, Vertical Piano, Production Element, Transition, Whoosh, Atmospheric Element" s 96000 n 2 l 0:07.890
+D i 24
+F "Upright Piano Transition-13.wav" 3467074 0 1488537057 0
+D d "Musical Instrument, Upright Piano, Vertical Piano, Production Element, Transition, Whoosh, Atmospheric Element" s 96000 n 2 l 0:06.017
+D i 24
+F "Ural 4320 T12 Onbrd Various Driving Manouvers Interior.wav" 43284342 0 1488537330 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "onboard various driving manouvers interior Neumann RSM191 Sound Devices 722 wav"
+D d "onboard various driving manouvers interior Neumann RSM191 Sound Devices 722 wav" s 48000 n 2 l 2:29.877
+D i 24 m 0
+F "Ural 4320 T15 Ext Horn Passby Xy.wav" 6788552 0 1488536275 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior horn passby XY Sanken CSS-5 Fostex FR2 wav"
+D d "exterior horn passby XY Sanken CSS-5 Fostex FR2 wav" s 48000 n 2 l 0:23.157
+D i 24 m 0
+F "Ural 4320 T7 Ext Startup Away Passby Approach Stop.wav" 47065618 0 1488537525 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior startup away passby approach stop wav"
+D d "exterior startup away passby approach stop wav" s 48000 n 2 l 2:43.008
+D i 24 m 0

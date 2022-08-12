@@ -1,0 +1,14 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Roland CR-78/Roland CR-78 Snare"
+F "Roland CR-78 Snare.wav" 14660 0 1496185958 0
+D y 2017-05-30 s 44100 n 1 l 0:00.109
+D i 24
+F "Roland CR-78 Snare2.wav" 20084 0 1496185958 0
+D y 2017-05-30 s 44100 n 1 l 0:00.150
+D i 24
+F "Roland CR-78 Snare3.wav" 29488 0 1496185958 0
+D s 44100 n 1 l 0:00.222 i 24
+F "Roland CR-78 Snare_Bongo.wav" 19385 0 1496185958 0
+D s 44100 n 1 l 0:00.145 i 24
+F "Roland CR-78 Snare_Cymbal.wav" 49566 0 1496186130 0
+D y 2017-05-30 s 44100 n 1 l 0:00.373
+D i 24

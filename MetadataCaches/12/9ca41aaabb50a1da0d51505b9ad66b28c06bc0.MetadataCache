@@ -1,0 +1,1444 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/WEAPONS"
+F "083922 Neads Weapons And Mcc Battle Stations.wav" 7506436 0 1363480986 0
+D s 44100 n 2 l 0:42.553 i 16
+F "Agressive Rifle Single Shot Processed Near-001.wav" 2655378 0 1587116068 0
+D a Krotos y 2019-11-01 c "Aggressive Rifle Single Shot Processed Near" d "Aggressive Rifle Single Shot Processed Near"
+D s 96000 n 2 r 16:52.985 l 0:04.591
+D i 24 m 0
+F "Air Gun Short-001.wav" 1294310 0 1621846448 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: air gun, pneumatic, whirring, air, short"
+D d "Krotos: air gun, pneumatic, whirring, air, short" s 192000 n 2 r 54:45.688
+D l 0:01.109 i 24
+F "Air Gun Short-002.wav" 2249762 0 1621846452 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: air gun, pneumatic, whirring, air, short"
+D d "Krotos: air gun, pneumatic, whirring, air, short" s 192000 n 2 r 54:47.798
+D l 0:01.939 i 24
+F "AK47 Short Burst Natural Mid.wav" 2878142 0 1587116064 0
+D a Krotos y 2019-11-01 c "AK47 Short Burst Natural Mid" d "AK47 Short Burst Natural Mid"
+D s 96000 n 2 r 1:08.254 l 0:04.978
+D i 24 m 0
+F "AK47 Short Burst Natural Near.wav" 2892786 0 1587116060 0
+D a Krotos y 2019-11-01 c "AK47 Short Burst Natural Near" d "AK47 Short Burst Natural Near"
+D s 96000 n 2 r 1:02.931 l 0:05.003
+D i 24 m 0
+F Ambiencewarcity.wav 38530420 0 1481710523 0
+D d "Ambience, War, Explosions, City" s 96000 n 2 l 1:06.891
+D i 24
+F "Archery Bow.wav" 3027068 0 1502566203 0
+D s 44100 n 2 l 0:17.160 i 16
+F "Battle modern war S08Wa.wav" 71242738 0 1372263228 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"WARFARE, BATTLE, MODERN, WAR, LOOP, MILITARY, BATTLEFIELD"'
+D d '"WARFARE, BATTLE, MODERN, WAR, LOOP, MILITARY, BATTLEFIELD"' s 96000 n 2 l 2:03.502
+D i 24
+F "Battlefield Ambience.mp3" 2534503 0 1583931195 0
+D s 44100 n 2 l 1:13.222 i 277k
+F "Battlefield Firefight Ambience.mp3" 7843421 0 1583931186 0
+D s 44100 n 2 l 4:05.055 i 256k
+F "Beretta Natural Single Shot Far-001.wav" 2985224 0 1587116056 0
+D a Krotos y 2019-11-01 c "Beretta Natural Single Shot Far" d "Beretta Natural Single Shot Far"
+D s 96000 n 2 r 13:55.396 l 0:05.164
+D i 24 m 0
+F "Beretta Natural Single Shot Mechanical Near-001.wav" 2531516 0 1587116052 0
+D a Krotos y 2019-11-01 c "Beretta Natural Single Shot Mechanical Near" d "Beretta Natural Single Shot Mechanical Near"
+D s 96000 n 2 r 12:51.206 l 0:04.376
+D i 24 m 0
+F "Beretta Natural Single Shot Punchy Near-001.wav" 2519760 0 1587116048 0
+D a Krotos y 2019-11-01 c "Beretta Natural Single Shot Punchy Near" d "Beretta Natural Single Shot Punchy Near"
+D s 96000 n 2 r 13:07.228 l 0:04.355
+D i 24 m 0
+F "Beretta Single Shot Mid in an Office-001.wav" 602196 0 1587116044 0
+D a Krotos y 2019-11-01 c "Beretta Single Shot Mid in an Office" d "Beretta Single Shot Mid in an Office"
+D s 96000 n 2 r 15:00.805 l 0:01.026
+D i 24 m 0
+F BuckLazer_Burst_01.wav 1915470 0 1587116042 0
+D a Krotos y 2020-04-13 c BuckLazer_Burst d BuckLazer_Burst
+D s 96000 n 2 l 0:03.307 i 24
+D m 0
+F ChargeLazer_Burst_01.wav 3723494 0 1587116038 0
+D a Krotos y 2020-04-13 c ChargeLazer_Burst d ChargeLazer_Burst
+D s 96000 n 2 l 0:06.446 i 24
+D m 0
+F ChargeupSniper_01.wav 3933082 0 1587116034 0
+D a Krotos y 2020-04-13 c Chargeup_Sniper d Chargeup_Sniper
+D s 96000 n 2 l 0:06.810 i 24
+D m 0
+F "Clay Shooting Shotgun-001.wav" 1965826 0 1587116030 0
+D a Krotos y 2019-11-01 c "Clay Shooting Shotgun" d "Clay Shooting Shotgun"
+D s 96000 n 2 r 21:35.702 l 0:03.394
+D i 24 m 0
+F "CZ75 Natural Burst Near.wav" 2921092 0 1587116028 0
+D a Krotos y 2019-11-01 c "CZ75 Natural Burst Near" d "CZ75 Natural Burst Near"
+D s 96000 n 2 r 15:29.637 l 0:05.053
+D i 24 m 0
+F "Desert Eagle Shots.mp3" 376998 0 1583931254 0
+D s 44100 n 2 l 0:11.730 i 257k
+F "Distant Battle Horn.mp3" 489011 0 1583931254 0
+D s 44100 n 2 l 0:15.230 i 257k
+F "Distant Gun Fire.mp3" 147956 0 1583931254 0
+D s 44100 n 2 l 0:04.572 i 259k
+F "Distant Tank Fire.mp3" 1328273 0 1583930876 0
+D s 44100 n 2 l 0:41.457 i 256k
+F "Double Barrel Shotgun Processed Near-001.wav" 3029252 0 1587116024 0
+D a Krotos y 2019-11-01 c "Double Barrel Shotgun Processed Near" d "Double Barrel Shotgun Processed Near"
+D s 96000 n 2 r 19:46.888 l 0:05.240
+D i 24 m 0
+F "Dragunov Single Shot Punchy Near-001.wav" 2772444 0 1587116020 0
+D a Krotos y 2019-11-01 c "Dragunov Single Shot Punchy Near" d "Dragunov Single Shot Punchy Near"
+D s 96000 n 2 r 17:29.335 l 0:04.794
+D i 24 m 0
+F "Flamethrower Gesture-001.wav" 3587928 0 1587116016 0
+D a Krotos y 2019-11-01 c "Flamethrower Gesture" d "Flamethrower Gesture"
+D s 96000 n 2 r 19:12.318 l 0:06.210
+D i 24 m 0
+F GlitchGun_Burst_01.wav 1057878 0 1587116012 0
+D a Krotos y 2020-04-13 c GlitchGun_Burst d GlitchGun_Burst
+D s 96000 n 2 l 0:01.818 i 24
+D m 0
+F "Handcuffs 1.aiff" 145728 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 85.5031 s 48000
+D n 2 l 0:00.701 i 16
+F "Handcuffs 2.aiff" 95632 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 135.7082 s 48000
+D n 2 l 0:00.442 i 16
+F "Heavy Shotgun Processed Near-001.wav" 2859244 0 1587116008 0
+D a Krotos y 2019-11-01 c "Heavy Shotgun Processed Near" d "Heavy Shotgun Processed Near"
+D s 96000 n 2 r 20:16.384 l 0:04.945
+D i 24 m 0
+F "High Speed Assault Rifle Long Burst in a Small Room.wav" 1664734 0 1587116004 0
+D a Krotos y 2019-11-01 c "High Speed Assault Rifle Long Burst in a Small Room" d "High Speed Assault Rifle Long Burst in a Small Room"
+D s 96000 n 2 r 1:56.459 l 0:02.871
+D i 24 m 0
+F "Howitzer Artillery Gun Fire.mp3" 100309 0 1583931175 0
+D s 44100 n 2 l 0:03.083 i 260k
+F "Knife Throw.aiff" 331880 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 143.7108 s 48000
+D n 2 l 0:01.670 i 16
+F laser.wav 228574 0 1129393412 0
+D y 2005-10-15 s 44100 n 2 l 0:01.294
+D i 16
+F laser2.wav 524510 0 1129393496 0
+D y 2005-10-15 s 44100 n 2 l 0:02.972
+D i 16
+F laser3.wav 701510 0 1135006154 0
+D y 2005-10-15 s 44100 n 2 l 0:03.975
+D i 16
+F "M16 Natural Short Burst Mid.wav" 2983542 0 1587116002 0
+D a Krotos y 2019-11-01 c "M16 Natural Short Burst Mid" d "M16 Natural Short Burst Mid"
+D s 96000 n 2 r 5:42.563 l 0:05.161
+D i 24 m 0
+F "M16 Single Round Shots.mp3" 570931 0 1583931065 0
+D s 44100 n 2 l 0:17.790 i 257k
+F "M16 Single Round Shots_2.mp3" 570931 0 1583931066 0
+D s 44100 n 2 l 0:17.790 i 257k
+F "M16 Single Shot Mid-002.wav" 2181872 0 1587115998 0
+D a Krotos y 2019-11-01 c "M16 Single Shot Mid" d "M16 Single Shot Mid"
+D s 96000 n 2 r 7:10.580 l 0:03.769
+D i 24 m 0
+F "M24 Sniper Single Shot.mp3" 103653 0 1583931066 0
+D s 44100 n 2 l 0:03.187 i 260k
+F "M4 Carbine Rifle Multiple Bursts.mp3" 473964 0 1583931066 0
+D s 44100 n 2 l 0:14.760 i 257k
+F "M4 Natural Short Burst Far.wav" 2373210 0 1587115994 0
+D a Krotos y 2019-11-01 c "M4 Natural Short Burst Far" d "M4 Natural Short Burst Far"
+D s 96000 n 2 r 8:38.691 l 0:04.101
+D i 24 m 0
+F "M4 Short Burst Near.wav" 1823252 0 1587115990 0
+D a Krotos y 2019-11-01 c "M4 Short Burst Near" d "M4 Short Burst Near"
+D s 96000 n 2 r 8:12.764 l 0:03.147
+D i 24 m 0
+F "M4A1 Silenced Single Shot #2.mp3" 84426 0 1583931066 0
+D s 44100 n 2 l 0:02.587 i 261k
+F "M4A1 Silenced Single Shot.mp3" 84426 0 1583931066 0
+D s 44100 n 2 l 0:02.587 i 261k
+F "Marching Soldiers.aiff" 6916320 0 1505997470 0
+D a "Sound Ideas" d www.sound-ideas.com p 106.7658 s 48000
+D n 2 l 0:35.966 i 16
+F "Marching Soldiers.wav" 6344658 0 1439162278 0
+D a "Sound Ideas" s 44100 n 2 l 0:35.966
+D i 16
+F MassiveSciFiHandgun_01.wav 2071720 0 1587115988 0
+D a Krotos y 2020-04-13 c Massive_SciFi_Handgun_singleshot d Massive_SciFi_Handgun_singleshot
+D s 96000 n 2 l 0:03.578 i 24
+D m 0
+F MechReload_01.wav 1743150 0 1587115984 0
+D a Krotos y 2020-04-13 c MechReload_auto_scifi d MechReload_auto_scifi
+D s 96000 n 2 l 0:03.008 i 24
+D m 0
+F "Metal Soldier Walk N01.wav" 403428 0 1481710406 0
+D y 2013-05-08 s 96000 n 2 l 0:00.699
+D i 24
+F "Metal Soldier Walk N05.wav" 403494 0 1481710406 0
+D y 2013-05-08 s 96000 n 2 l 0:00.700
+D i 24
+F "Military Battle Modern.aiff" 18378120 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 80.2815 s 48000
+D n 2 l 1:35.663 i 16
+F "Military Battle Modern.wav" 16875182 0 1439162344 0
+D a "Sound Ideas" s 44100 n 2 l 1:35.663
+D i 16
+F "Military Battle Vietnam.aiff" 18154212 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 81.2722 s 48000
+D n 2 l 1:34.497 i 16
+F "Military Battle Vietnam.wav" 16669466 0 1439162572 0
+D a "Sound Ideas" s 44100 n 2 l 1:34.497
+D i 16
+F "Military Battle Ww2.aiff" 18699648 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 78.9003 s 48000
+D n 2 l 1:37.338 i 16
+F "Military Battle Ww2.wav" 17170586 0 1439161257 0
+D a "Sound Ideas" s 44100 n 2 l 1:37.338
+D i 16
+F "Military Tank Engine Idle.mp3" 1075826 0 1583931168 0
+D s 44100 n 2 l 0:33.568 i 256k
+F "Military Training Excercise Ambience.mp3" 4485537 0 1583931225 0
+D s 44100 n 2 l 2:20.121 i 256k
+F "MINIMI Natural Short Burst Near.wav" 4121138 0 1587115982 0
+D a Krotos y 2019-11-01 c "MINIMI Natural Short Burst Near" d "MINIMI Natural Short Burst Near"
+D s 96000 n 2 r 10:41.928 l 0:07.136
+D i 24 m 0
+F "MP40 Long Burst.mp3" 106996 0 1583930887 0
+D s 44100 n 2 l 0:03.292 i 260k
+F Nailer_01.wav 843464 0 1587115978 0
+D a Krotos y 2020-04-13 c nailer_scifi_airy_pneumatic_laser d nailer_scifi_airy_pneumatic_laser
+D s 96000 n 2 l 0:01.446 i 24
+D m 0
+F "Nuclear Countdown Explosion.mp3" 1523042 0 1583931182 0
+D s 44100 n 2 l 0:47.543 i 256k
+F "PM AG 1 1 ABSTRACT GUNS.wav" 645028 0 1552471347 0
+D t "Marker 01" a "Phil Michalski | PMSFX @pmsfx" y 2019-02-14 g GUNS
+D c "Gun, Shoot, Fire, Abstract, Blaster, Riffle Scifi, Imaginary" d "Abstract Guns Imaginary Sci-fi" s 96000 n 2
+D r 0:01.958 l 0:00.804 i 24 m 0
+F "PM AG 10 1 ABSTRACT GUNS.wav" 529446 0 1552471350 0
+D t "Marker 46" a "Phil Michalski | PMSFX @pmsfx" y 2019-02-14 g GUNS
+D c "Gun, Shoot, Fire, Abstract, Blaster, Riffle Scifi, Imaginary" d "Abstract Guns Imaginary Sci-fi" s 96000 n 2
+D r 1:49.441 l 0:00.603 i 24 m 0
+F "PM AG 12 2 ABSTRACT GUNS.wav" 620064 0 1552471351 0
+D t "Marker 57" a "Phil Michalski | PMSFX @pmsfx" y 2019-02-14 g GUNS
+D c "Gun, Shoot, Fire, Abstract, Blaster, Riffle Scifi, Imaginary" d "Abstract Guns Imaginary Sci-fi" s 96000 n 2
+D r 2:07.418 l 0:00.761 i 24 m 0
+F "PM AG 16 3 ABSTRACT GUNS.wav" 579192 0 1552471355 0
+D t "Marker 78" a "Phil Michalski | PMSFX @pmsfx" y 2019-02-14 g GUNS
+D c "Gun, Shoot, Fire, Abstract, Blaster, Riffle Scifi, Imaginary" d "Abstract Guns Imaginary Sci-fi" s 96000 n 2
+D r 2:42.411 l 0:00.690 i 24 m 0
+F "PM AG 27 5 ABSTRACT GUNS.wav" 326256 0 1552471358 0
+D t "Marker 135" a "Phil Michalski | PMSFX @pmsfx" y 2019-02-14 g GUNS
+D c "Gun, Shoot, Fire, Abstract, Blaster, Riffle Scifi, Imaginary" d "Abstract Guns Imaginary Sci-fi" s 96000 n 2
+D r 3:58.877 l 0:00.332 i 24
+F "PM AG 5 1 ABSTRACT GUNS.wav" 794592 0 1552471348 0
+D t "Marker 21" a "Phil Michalski | PMSFX @pmsfx" y 2019-02-14 g GUNS
+D c "Gun, Shoot, Fire, Abstract, Blaster, Riffle Scifi, Imaginary" d "Abstract Guns Imaginary Sci-fi" s 96000 n 2
+D r 0:53.480 l 0:01.064 i 24 m 0
+F PoliceAuto_Burst_01.wav 1710822 0 1587115974 0
+D a Krotos y 2020-04-13 c police_auto_burst_futuristic_scifi d police_auto_burst_futuristic_scifi
+D s 96000 n 2 l 0:02.952 i 24
+D m 0
+F "Powerful Handgun Single Short Processed Near-001.wav" 2360052 0 1587115972 0
+D a Krotos y 2019-11-01 c "Powerful Handgun Single Short Processed Near" d "Powerful Handgun Single Short Processed Near"
+D s 96000 n 2 r 16:09.235 l 0:04.078
+D i 24 m 0
+F "Pump Action Shotgun Processed Near-001.wav" 2230914 0 1587115968 0
+D a Krotos y 2019-11-01 c "Pump Action Shotgun Processed Near" d "Pump Action Shotgun Processed Near"
+D s 96000 n 2 r 20:43.424 l 0:03.854
+D i 24 m 0
+F "Remington Shotgun Shot And Reload.mp3" 99473 0 1583931176 0
+D s 44100 n 2 l 0:03.057 i 260k
+F "Remington Shotgun Single Shot.mp3" 131238 0 1583930914 0
+D s 44100 n 2 l 0:04.050 i 259k
+F "Ruger Mini 30 Assault Rifle Multiple Shots.mp3" 174706 0 1583931319 0
+D s 44100 n 2 l 0:05.408 i 258k
+F "Saiga Shotgun Single Shot.mp3" 115355 0 1583931319 0
+D s 44100 n 2 l 0:03.553 i 260k
+F SciFiShotgun_01.wav 3272760 0 1587115964 0
+D a Krotos y 2020-04-13 c scifi_shotgun_singleshot_charge d scifi_shotgun_singleshot_charge
+D s 96000 n 2 l 0:05.663 i 24
+D m 0
+F "Sword 1.aiff" 107092 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 119.8203 s 48000
+D n 2 l 0:00.500 i 16
+F "Sword 1.wav" 88488 0 1439161917 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.500
+D i 16
+F "Sword 2.aiff" 160228 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 77.1952 s 48000
+D n 2 l 0:00.777 i 16
+F "Sword 2.wav" 137260 0 1439163153 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.777
+D i 16
+F "Sword 3.aiff" 105744 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 121.2632 s 48000
+D n 2 l 0:00.494 i 16
+F "Sword 3.wav" 87436 0 1439161674 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.494
+D i 16
+F "Sword 4.aiff" 270820 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 88.6918 s 48000
+D n 2 l 0:01.353 i 16
+F "Sword 4.wav" 238824 0 1439162838 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.353
+D i 16
+F "Sword 5.aiff" 17656068 0 1506005648 0
+D a "Sound Ideas" d www.sound-ideas.com p 83.5666 s 48000
+D n 2 l 1:31.902 i 16
+F "Sword 5.wav" 16211798 0 1439161359 0
+D a "Sound Ideas" s 44100 n 2 l 1:31.902
+D i 16
+F "Sword Battle With Guns.wav" 10942736 0 1439161299 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.032
+D i 16
+F "Sword Hit 01.wav" 84686 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.952
+D i 16
+F "Sword Hit 02.wav" 24266 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.267
+D i 16
+F "Sword Hit 03.wav" 27160 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.300
+D i 16
+F "Sword Hit 04.wav" 27160 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.300
+D i 16
+F "Sword Hit 05.wav" 49188 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.550
+D i 16
+F "Sword Impact.wav" 396708 0 1439163082 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.248
+D i 16
+F "Sword Swipe 01.wav" 54700 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.613
+D i 16
+F "Sword Swipe 02.wav" 51300 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.574
+D i 16
+F "Sword Whip 01.wav" 39928 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.445
+D i 16
+F "Sword Whip 02.wav" 30070 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.333
+D i 16
+F "Sword Whip 03.wav" 22686 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.250
+D i 16
+F "Sword Whip 04.wav" 43896 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.490
+D i 16
+F "Uzi Long Burst.mp3" 100309 0 1583931241 0
+D s 44100 n 2 l 0:03.083 i 260k
+F "WEAPON - A-10 Thunderbolt Warthog 30mm Cannon Fire.mp3" 336038 0 1583931244 0
+D s 44100 n 2 l 0:10.450 i 257k
+F "WEAPON - Abrams Tank Fire 120mm.mp3" 94457 0 1583931244 0
+D s 44100 n 2 l 0:02.900 i 261k
+F "WEAPON - AK-47 Reload.mp3" 192260 0 1583931237 0
+D s 44100 n 2 l 0:05.956 i 258k
+F "WEAPON - AK-47 Short Burst.mp3" 154644 0 1583931237 0
+D s 44100 n 2 l 0:04.781 i 259k
+F "WEAPON - Akm 7.62X39Mm 1M Left On Ground Dpa4062 Clean Triple Shots X 1.wav" 779514 0 1481710398 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc. Wild foley and dedicated foley session included." s 96000 n 1 l 0:02.436
+D i 24
+F "WEAPON - Akm 7.62X39Mm 55M In Front Off Axis Clean Triple Shots X 1.wav" 1492956 0 1481710399 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc. Wild foley and dedicated foley session included." s 96000 n 2 l 0:02.436
+D i 24
+F "WEAPON - Arrow Fly By and Impact.mp3" 377834 0 1583931282 0
+D s 44100 n 2 l 0:11.756 i 257k
+F "WEAPON - assault rifle - dryfire.wav" 33348 0 1299534650 0
+D s 44100 n 2 l 0:00.188 i 16
+F "WEAPON - assault rifle - fire.wav" 257086 0 1299534650 0
+D y 2010-07-09 s 44100 n 2 l 0:01.450
+D i 16
+F "WEAPON - assault rifle - holster.wav" 80640 0 1299534650 0
+D s 44100 n 2 l 0:00.455 i 16
+F "WEAPON - assault rifle - magazine - in.wav" 130330 0 1299534650 0
+D y 2010-07-09 s 44100 n 2 l 0:00.731
+D i 16
+F "WEAPON - assault rifle - magazine - out.wav" 77206 0 1299534650 0
+D y 2010-07-09 s 44100 n 2 l 0:00.430
+D i 16
+F "WEAPON - assault rifle - ready.wav" 49144 0 1299534650 0
+D s 44100 n 2 l 0:00.276 i 16
+F "WEAPON - assault rifle - slide - in.wav" 66842 0 1299534650 0
+D y 2010-07-09 s 44100 n 2 l 0:00.371
+D i 16
+F "WEAPON - assault rifle - slide - out.wav" 74726 0 1299534650 0
+D y 2010-07-09 s 44100 n 2 l 0:00.416
+D i 16
+F "WEAPON - Assault Rifle M4 03 Burst 03.wav" 1455862 0 1481710528 0
+D y 2015-08-11 s 96000 n 2 r 1:12:11.041
+D l 0:02.484 i 24
+F "WEAPON - Audiobeast Large Warehouse Colt M1911 .45 Acp Pistol 10M Mkh8040 Pair 001 Single Shot X6.wav" 33205298 0 1481710544 0
+D y 2016-02-16 d Audiobeast_Large_Warehouse_Colt_M1911_.45_ACP_Pistol_10m_MKH8040_Pair_001_Single_Shot_x6 s 96000 n 2
+D r 38:12.118 l 0:57.341 i 24
+F "WEAPON - Audiobeast Medium Warehouse Browning M2 .50 Machine Gun 03M Rsm191 Ms Raw 002 Burst X2.wav" 23909618 0 1481710519 0
+D y 2016-02-1 d Audiobeast_Medium_Warehouse_Browning_M2_.50_Machine_Gun_03m_RSM191_MS_Raw_002_Burst_x2 s 96000 n 2
+D r 4:46:39.198 l 0:41.288 i 24
+F "WEAPON - Audiobeast Medium Warehouse Remington 870 12G Pump Action Shotgun 10M U87 001 Single Shot X8.wav" 17271792 0 1481710369 0
+D y 2016-02-16 d Audiobeast_Medium_Warehouse_Remington_870_12g_Pump_Action_Shotgun_10m_U87_001_Single_Shot_x8 s 96000 n 1
+D r 50:39.427 l 0:59.650 i 24
+F "WEAPON - Audiobeast Small Room H&K 416 5.56 Assault Rifle 05M Ls5 001 Single Shot X1.wav" 7721798 0 1481710524 0
+D y 2016-02-0 d Audiobeast_Small_Room_H&K_416_5.56_Assault_Rifle_05m_LS5_001_Single_Shot_x1 s 96000 n 2
+D r 7:30.901 l 0:13.332 i 24
+F "WEAPON - Automatic Cannon Mk44 03 Single Shot With Report 03.wav" 3840694 0 1481710465 0
+D y 2015-09-17 s 96000 n 2 r 1:04:30.389
+D l 0:06.560 i 24
+F "WEAPON - AWP Sniper Single Shot.mp3" 122879 0 1583930912 0
+D s 44100 n 2 l 0:03.788 i 259k
+F "WEAPON - axe - swish - 01.wav" 26934 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.259
+D i 16
+F "WEAPON - axe - swish - 02.wav" 30468 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.300
+D i 16
+F "WEAPON - axe - swish - 03.wav" 25412 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.242
+D i 16
+F "WEAPON - axe - swish - 04.wav" 25384 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.242
+D i 16
+F "WEAPON - axe - swish - 041.wav" 17740 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.155
+D i 16
+F "WEAPON - axe - swish - 05.wav" 25574 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.244
+D i 16
+F "WEAPON - axe - swish - 06.wav" 33212 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.331
+D i 16
+F "WEAPON - axe - swish - 07.wav" 24890 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.236
+D i 16
+F "WEAPON - axe - swish - 08.wav" 32232 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.320
+D i 16
+F "WEAPON - axe - swish - 09.wav" 21346 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.196
+D i 16
+F "WEAPON - axe - swish - 10.wav" 21452 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.197
+D i 16
+F "WEAPON - Barret 50. Caliber Sniper Single Shot.mp3" 123715 0 1583931194 0
+D s 44100 n 2 l 0:03.814 i 259k
+F "WEAPON - Barrett M98B .338 Lapua 2M Right Mkh60 Clean Single Shots X 17.wav" 19829110 0 1481710513 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, wild foley and a dedicated foley session." s 96000 n 1 r 5:32.000
+D l 1:08.624 i 24
+F "WEAPON - Barrett M98B .338 Lapua On Gun Dpa4062 Clean Single Shots X 17.wav" 19829094 0 1481710513 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, wild foley and a dedicated foley session." s 96000 n 1 r 5:32.000
+D l 1:08.624 i 24
+F "WEAPON - Beretta 93R 9Mm 1M Left On Ground Dpa4062 Clean Triple Shots X 1.wav" 938806 0 1481710508 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc. Wild foley and dedicated foley session included." s 96000 n 1 r 16:41.800
+D l 0:03.033 i 24
+F "WEAPON - Beretta 93R 9Mm 25M Behind Dpa4062 R Clean Triple Shots X 1.wav" 938766 0 1481710512 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc. Wild foley and dedicated foley session included." s 96000 n 1 r 16:41.800
+D l 0:03.033 i 24
+F "WEAPON - Beretta M9 Pistol Single Shot.mp3" 91950 0 1583931186 0
+D s 44100 n 2 l 0:02.822 i 261k
+F "WEAPON - Bolt Action Sniper Reload.mp3" 93622 0 1583930872 0
+D s 44100 n 2 l 0:02.874 i 261k
+F "WEAPON - Bolt Action Sniper Rifle Shot.mp3" 123715 0 1583930872 0
+D s 44100 n 2 l 0:03.814 i 259k
+F "WEAPON - Bomb Explosion Sci-Fi Plasma-04.wav" 1251226 0 1488536776 0
+D d "Weapon, Bomb, Explosion, Sci-Fi, Plasma" s 96000 n 2 l 0:02.170
+D i 24
+F "WEAPON - bow - composite - draw - 01.wav" 174826 0 1299534650 0
+D s 44100 n 1 l 0:01.980 i 16
+F "WEAPON - bow - composite - draw - 02.wav" 266348 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:02.974
+D i 16
+F "WEAPON - bow - composite - draw - 03.wav" 192586 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:02.138
+D i 16
+F "WEAPON - bow - composite - draw - 04.wav" 120596 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:01.321
+D i 16
+F "WEAPON - bow - composite - draw - 05.wav" 123078 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:01.350
+D i 16
+F "WEAPON - bow - composite - fire - 01.wav" 32978 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:00.328
+D i 16
+F "WEAPON - bow - composite - fire - 02.wav" 32468 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:00.322
+D i 16
+F "WEAPON - bow - composite - fire - 03.wav" 33062 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:00.329
+D i 16
+F "WEAPON - bow - composite - fire - 04.wav" 34422 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:00.344
+D i 16
+F "WEAPON - bow - composite - fire - 05.wav" 33790 0 1299534650 0
+D y 2010-07-26 s 44100 n 1 l 0:00.337
+D i 16
+F "WEAPON - bullet - ricochet - 01.wav" 59872 0 1299534650 0
+D s 44100 n 1 l 0:00.675 i 16
+F "WEAPON - bullet - ricochet - 02.wav" 44424 0 1299534650 0
+D s 44100 n 1 l 0:00.500 i 16
+F "WEAPON - bullet - ricochet - 03.wav" 55856 0 1299534650 0
+D s 44100 n 1 l 0:00.629 i 16
+F "WEAPON - bullet - ricochet - 04.wav" 68570 0 1299534650 0
+D s 44100 n 1 l 0:00.773 i 16
+F "WEAPON - bullet - ricochet - 05.wav" 63868 0 1299534650 0
+D s 44100 n 1 l 0:00.720 i 16
+F "WEAPON - bullet - ricochet - 06.wav" 67660 0 1299534650 0
+D s 44100 n 1 l 0:00.763 i 16
+F "WEAPON - Bullet 1.aiff" 1278052 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 145.6311 s 48000
+D n 2 l 0:06.592 i 16
+F "WEAPON - Bullet 1.wav" 1162984 0 1439161367 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.592
+D i 16
+F "WEAPON - Bullet 2.aiff" 374872 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 126.7201 s 48000
+D n 2 l 0:01.893 i 16
+F "WEAPON - Bullet 2.wav" 334244 0 1439162113 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.893
+D i 16
+F "WEAPON - Bullet 3.aiff" 269796 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 89.0428 s 48000
+D n 2 l 0:01.347 i 16
+F "WEAPON - Bullet 3.wav" 237884 0 1439162941 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.347
+D i 16
+F "WEAPON - Bullet Drop Leaves 03.wav" 124460 0 1481710526 0
+D s 48000 n 2 l 0:00.648 i 16
+F "WEAPON - Bullet Drop Wood 04.wav" 138288 0 1481710544 0
+D s 48000 n 2 l 0:00.720 i 16
+F "WEAPON - Bullet Flyby Fast 05.wav" 294116 0 1488537281 0
+D s 96000 n 2 l 0:00.510 i 24
+F "WEAPON - Bullet Impact Body 1.wav" 114264 0 1439162766 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.646
+D i 16
+F "WEAPON - Bullet Impact Body 2.wav" 82912 0 1439161828 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.469
+D i 16
+F "WEAPON - Bullet Impact Body Thump 02.wav" 271310 0 1488537282 0
+D s 96000 n 2 l 0:00.470 i 24
+F "WEAPON - Bullet Impact Concrete Brick 01.wav" 199292 0 1488537225 0
+D s 96000 n 2 l 0:00.345 i 24
+F "WEAPON - Bullet Impact Glass.wav" 76496 0 1439162614 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.432
+D i 16
+F "WEAPON - Bullet Impact Metal Heavy 08.wav" 472364 0 1488537322 0
+D s 96000 n 2 l 0:00.820 i 24
+F "WEAPON - Bullet Impact Metal.wav" 138180 0 1439161328 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.782
+D i 16
+F "WEAPON - Bullet Impact Wood.wav" 156028 0 1439161082 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.883
+D i 16
+F "WEAPON - Bullet Ricochets.mp3" 1008116 0 1583931145 0
+D s 44100 n 2 l 0:31.452 i 256k
+F "WEAPON - Bullet Shells Hitting Ground.mp3" 842604 0 1583931145 0
+D s 44100 n 2 l 0:26.280 i 256k
+F "WEAPON - bulletby - 01.wav" 23846 0 1299534650 0
+D s 44100 n 1 l 0:00.266 i 16
+F "WEAPON - bulletby - 02.wav" 20906 0 1299534650 0
+D s 44100 n 1 l 0:00.233 i 16
+F "WEAPON - bulletby - 03.wav" 23756 0 1299534650 0
+D s 44100 n 1 l 0:00.265 i 16
+F "WEAPON - bulletby - 04.wav" 25672 0 1299534650 0
+D s 44100 n 1 l 0:00.287 i 16
+F "WEAPON - bulletby - 05.wav" 13364 0 1299534650 0
+D s 44100 n 1 l 0:00.147 i 16
+F "WEAPON - bulletby - 06.wav" 16316 0 1299534650 0
+D s 44100 n 1 l 0:00.181 i 16
+F "WEAPON - bulletby - 07.wav" 6940 0 1299534650 0
+D s 44100 n 1 l 0:00.075 i 16
+F "WEAPON - bulletby - 08.wav" 4874 0 1299534650 0
+D s 44100 n 1 l 0:00.051 i 16
+F "WEAPON - bulletby - 09.wav" 12560 0 1299534650 0
+D s 44100 n 1 l 0:00.138 i 16
+F "WEAPON - bulletby - 10.wav" 7460 0 1299534650 0
+D s 44100 n 1 l 0:00.080 i 16
+F "WEAPON - bulletby - 11.wav" 7178 0 1299534650 0
+D s 44100 n 1 l 0:00.077 i 16
+F "WEAPON - bulletby - 12.wav" 8418 0 1299534650 0
+D s 44100 n 1 l 0:00.091 i 16
+F "WEAPON - bulletby - 13.wav" 8704 0 1299534650 0
+D s 44100 n 1 l 0:00.095 i 16
+F "WEAPON - bulletby - 14.wav" 8704 0 1299534650 0
+D s 44100 n 1 l 0:00.095 i 16
+F "WEAPON - bulletby - 15.wav" 9426 0 1299534650 0
+D s 44100 n 1 l 0:00.103 i 16
+F "WEAPON - bulletby - 16.wav" 5078 0 1299534650 0
+D s 44100 n 1 l 0:00.053 i 16
+F "WEAPON - bulletby - 17.wav" 11154 0 1299534650 0
+D s 44100 n 1 l 0:00.122 i 16
+F "WEAPON - bulletby - 18.wav" 9328 0 1299534650 0
+D s 44100 n 1 l 0:00.102 i 16
+F "WEAPON - bulletby - 19.wav" 4590 0 1299534650 0
+D s 44100 n 1 l 0:00.048 i 16
+F "WEAPON - bulletby - 20.wav" 15116 0 1299534650 0
+D s 44100 n 1 l 0:00.167 i 16
+F "WEAPON - bulletby - 21.wav" 12764 0 1299534650 0
+D s 44100 n 1 l 0:00.141 i 16
+F "WEAPON - bulletby - 22.wav" 10516 0 1299534650 0
+D s 44100 n 1 l 0:00.115 i 16
+F "WEAPON - bulletby - 23.wav" 10086 0 1299534650 0
+D s 44100 n 1 l 0:00.110 i 16
+F "WEAPON - bulletby - 24.wav" 14974 0 1299534650 0
+D s 44100 n 1 l 0:00.166 i 16
+F "WEAPON - bulletby - 25.wav" 4468 0 1299534650 0
+D s 44100 n 1 l 0:00.046 i 16
+F "WEAPON - bulletby - 26.wav" 9084 0 1299534650 0
+D s 44100 n 1 l 0:00.099 i 16
+F "WEAPON - bulletby - 27.wav" 8500 0 1299534650 0
+D s 44100 n 1 l 0:00.092 i 16
+F "WEAPON - bulletby - 28.wav" 11350 0 1299534650 0
+D s 44100 n 1 l 0:00.125 i 16
+F "WEAPON - bulletby - 29.wav" 14098 0 1299534650 0
+D s 44100 n 1 l 0:00.156 i 16
+F "WEAPON - bulletby - 30.wav" 25430 0 1299534650 0
+D s 44100 n 1 l 0:00.284 i 16
+F "WEAPON - Bullets Fly By.mp3" 269164 0 1583930981 0
+D s 44100 n 2 l 0:08.360 i 258k
+F "WEAPON - Colt .45 Single Shot.mp3" 134582 0 1583931200 0
+D s 44100 n 2 l 0:04.154 i 259k
+F "WEAPON - Colt 45 Distant Fire.mp3" 121207 0 1583931200 0
+D s 44100 n 2 l 0:03.736 i 260k
+F "WEAPON - Distant - Battle - Fireworks.wav" 666534 0 1299534650 0
+D a RS s 11025 n 1 l 0:30.212
+D i 16
+F "WEAPON - Flame Thrower.aiff" 2754640 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 134.5062 s 48000
+D n 2 l 0:14.274 i 16
+F "WEAPON - Flame Thrower.wav" 2518166 0 1439162540 0
+D a "Sound Ideas" s 44100 n 2 l 0:14.274
+D i 16
+F "WEAPON - Flamethrower Multi Long Liquid.wav" 9145682 0 1324557082 0
+D y  d "GASOLINE FLAMETHROWER MULTIPLE LONG Three long whooshes, idle sounds, liquid streaming " s 96000 n 2
+D l 0:15.587 i 24
+F "WEAPON - Flamethrower Multi Long.wav" 6175118 0 1324557082 0
+D y  d "GASOLINE FLAMETHROWER MULTIPLE LONG Two thick long whooshes ending in operator spout" s 96000 n 2
+D l 0:10.431 i 24
+F "WEAPON - Flamethrower Multi Medium and Long.wav" 3875484 0 1324557082 0
+D y  d "GASOLINE FLAMETHROWER MULTIPLE Two heavy bursts, one short, one medium" s 96000 n 2
+D l 0:06.439 i 24
+F "WEAPON - Flamethrower Multi Medium Whooshes.wav" 7173278 0 1324557084 0
+D y  d "GASOLINE FLAMETHROWER MULTIPLE MEDIUM Series of four short whooshes, idle sounds, fire crackling, spouting" s 96000 n 2
+D l 0:12.163 i 24
+F "WEAPON - Flamethrower Multi Serial Whooshes.wav" 7382450 0 1324557084 0
+D y  d "GASOLINE FLAMETHROWER MULTIPLE Thick bursts and whooshes, spouting, crackling, idle sounds" s 96000 n 2
+D l 0:12.526 i 24
+F "WEAPON - Flamethrower Multi Short Medium Long.wav" 13232168 0 1324557084 0
+D y  d "GASOLINE FLAMETHROWER MULTIPLE Soft airy whooshes, crackling,two short, two medium, two long" s 96000 n 2
+D l 0:22.682 i 24
+F "WEAPON - Flamethrower Single Long Stutter.wav" 3571918 0 1324557086 0
+D y  d "GASOLINE FLAMETHROWER SINGLE LONG Long steady whoosh, stuttering ending" s 96000 n 2
+D l 0:05.912 i 24
+F "WEAPON - Flamethrower Single Long Whoosh.wav" 2636476 0 1324557084 0
+D y  d "GASOLINE FLAMETHROWER SINGLE LONG Thick, long whoosh, slight crackle" s 96000 n 2
+D l 0:04.287 i 24
+F "WEAPON - Flamethrower Single Medium Burst.wav" 1719164 0 1324557088 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Medium burst with thick onset" s 96000 n 2
+D l 0:02.696 i 24
+F "WEAPON - Flamethrower Single Medium Soft.wav" 2728982 0 1324557082 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Medium length, soft, fluttering" s 96000 n 2
+D l 0:04.448 i 24
+F "WEAPON - Flamethrower Single Medium Thick.wav" 1400708 0 1324557088 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Thick whoosh, medium length" s 96000 n 2
+D l 0:02.143 i 24
+F "WEAPON - Flamethrower Single Medium Whoosh.wav" 1895912 0 1324557086 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Airy whoosh, medium length" s 96000 n 2
+D l 0:03.002 i 24
+F "WEAPON - Flamethrower Single Short.wav" 987124 0 1324557086 0
+D y  d "GASOLINE FLAMETHROWER SINGLE SHORT Short, heavy whoosh" s 96000 n 2
+D l 0:01.425 i 24
+F "WEAPON - Flamethrower Single Spout Medium.wav" 4196594 0 1324557084 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Spout and fluttering medium whoosh" s 96000 n 2
+D l 0:06.996 i 24
+F "WEAPON - Flamethrower Single Thick Burst.wav" 1640640 0 1324557086 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Medium, heavy burst, flamethrower spouts,  runs out of gas" s 96000 n 2
+D l 0:02.559 i 24
+F "WEAPON - Flamethrower Single Thick Long.wav" 2529730 0 1324557086 0
+D y  d "GASOLINE FLAMETHROWER SINGLE LONG Heavy, long burst, flutter and stutter" s 96000 n 2
+D l 0:04.103 i 24
+F "WEAPON - Flamethrower Single Thick Short Burst.wav" 1144700 0 1324557086 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Short, Heavy burst, flamethrower spouts" s 96000 n 2
+D l 0:01.698 i 24
+F "WEAPON - Flamethrower Single Thick Soft.wav" 3104846 0 1324557082 0
+D y  d "GASOLINE FLAMETHROWER SINGLE MEDIUM Thick, fluttering whoosh, medium length" s 96000 n 2
+D l 0:05.100 i 24
+F "WEAPON - Future Weapons 2 - Bio Gun - Reload 4.wav" 1644406 0 1481710445 0
+D d "futuristic weapons, rifle, sci-fi, gun, assault, shot, future, weap, future weapons 2, future weapons, soundmorph, Bio Gun" s 96000 n 2 l 0:02.646
+D i 24
+F "WEAPON - Future Weapons 2 - Energy Gun - Shot Single 2.wav" 915424 0 1481710445 0
+D d "futuristic weapons, rifle, sci-fi, gun, assault, shot, future, weap, future weapons 2, future weapons, soundmorph, power, electro, electric gun, energy gun,  specialized, weapon" s 96000 n 2 l 0:01.380
+D i 24
+F "WEAPON - Future Weapons 2 - Source - Ammunition Elements 13.wav" 1174078 0 1481709921 0
+D d "futuristic weapons, rifle, sci-fi, gun, assault, shot, future, weap, future weapons 2, future weapons, soundmorph, foley, reload, ammo, ammunition, source, source recording" s 96000 n 2 l 0:01.829
+D i 24
+F "WEAPON - Future Weapons 2 - Source - Laser Source 3.wav" 591468 0 1481710446 0
+D d "futuristic weapons, rifle, sci-fi, gun, assault, shot, future, weap, future weapons 2, future weapons, soundmorph, source, source recording, synth, synth layer" s 44100 n 2 l 0:02.667
+D i 16
+F "WEAPON - Glock 17 Shots 9mm.mp3" 132910 0 1583931104 0
+D s 44100 n 2 l 0:04.102 i 259k
+F "WEAPON - Glock 18 Full Auto Burst.mp3" 132910 0 1583931104 0
+D s 44100 n 2 l 0:04.102 i 259k
+F "WEAPON - Gun 20Mm.aiff" 698536 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 134.1649 s 48000
+D n 2 l 0:03.577 i 16
+F "WEAPON - Gun 20Mm.wav" 631260 0 1439162116 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.577
+D i 16
+F "WEAPON - Gun Bullet 1.wav" 9542108 0 1502566054 0
+D s 44100 n 2 l 0:54.093 i 16
+F "WEAPON - Gun Bullet 2.wav" 6759692 0 1502566099 0
+D s 44100 n 2 l 0:38.320 i 16
+F "WEAPON - Gun Bullet 3.wav" 7448828 0 1502566099 0
+D s 44100 n 2 l 0:42.226 i 16
+F "WEAPON - Gun Bullet 4.wav" 8168540 0 1502566071 0
+D s 44100 n 2 l 0:46.306 i 16
+F "WEAPON - Gun Bullet 5.wav" 10492316 0 1502565801 0
+D s 44100 n 2 l 0:59.480 i 16
+F "WEAPON - Gun Bullet.wav" 4365356 0 1502566054 0
+D s 44100 n 2 l 0:24.746 i 16
+F "WEAPON - Gun Cannon.aiff" 2311624 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 80.1658 s 48000
+D n 2 l 0:11.975 i 16
+F "WEAPON - Gun Cannon.wav" 2112578 0 1439162601 0
+D a "Sound Ideas" s 44100 n 2 l 0:11.975
+D i 16
+F "WEAPON - Gun Foley 1.wav" 3918476 0 1502565785 0
+D s 44100 n 2 l 0:22.213 i 16
+F "WEAPON - Gun Foley 2.wav" 3706796 0 1502565786 0
+D s 44100 n 2 l 0:21.013 i 16
+F "WEAPON - Gun Foley 3.wav" 4551164 0 1502563787 0
+D s 44100 n 2 l 0:25.800 i 16
+F "WEAPON - Gun Foley 4.wav" 4753436 0 1502563789 0
+D s 44100 n 2 l 0:26.946 i 16
+F "WEAPON - Gun Foley 5.wav" 3953756 0 1502564093 0
+D s 44100 n 2 l 0:22.413 i 16
+F "WEAPON - Gun Foley 6.wav" 4337132 0 1502564093 0
+D s 44100 n 2 l 0:24.586 i 16
+F "WEAPON - Gun Foley 7.wav" 6825548 0 1502565529 0
+D s 44100 n 2 l 0:38.693 i 16
+F "WEAPON - Gun Foley.wav" 5212076 0 1502561991 0
+D s 44100 n 2 l 0:29.546 i 16
+F "WEAPON - Gun Hand Click.aiff" 91848 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 142.0399 s 48000
+D n 2 l 0:00.422 i 16
+F "WEAPON - Gun Hand Click.wav" 74668 0 1439161883 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.422
+D i 16
+F "WEAPON - Gun Hand Cock.aiff" 60808 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 230.1055 s 48000
+D n 2 l 0:00.260 i 16
+F "WEAPON - Gun Hand Cock.wav" 46152 0 1439163382 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.260
+D i 16
+F "WEAPON - Gun Hand Load 1.aiff" 327748 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 145.609 s 48000
+D n 2 l 0:01.648 i 16
+F "WEAPON - Gun Hand Load 1.wav" 290904 0 1439163271 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.648
+D i 16
+F "WEAPON - Gun Hand Load 2.aiff" 326652 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 146.1039 s 48000
+D n 2 l 0:01.642 i 16
+F "WEAPON - Gun Hand Load 2.wav" 289920 0 1439162999 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.642
+D i 16
+F "WEAPON - Gun Hand Load 3.aiff" 200136 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 121.8609 s 48000
+D n 2 l 0:00.984 i 16
+F "WEAPON - Gun Hand Load 3.wav" 173860 0 1439162775 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.984
+D i 16
+F "WEAPON - Gun Hand Shot 1.aiff" 426396 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 110.9934 s 48000
+D n 2 l 0:02.162 i 16
+F "WEAPON - Gun Hand Shot 1.wav" 381584 0 1439161150 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.162
+D i 16
+F "WEAPON - Gun Hand Shot 2.aiff" 454296 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 104.0096 s 48000
+D n 2 l 0:02.307 i 16
+F "WEAPON - Gun Hand Shot 2.wav" 407192 0 1439161031 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.307
+D i 16
+F "WEAPON - Gun Hand Shot 3.aiff" 366092 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 129.8555 s 48000
+D n 2 l 0:01.848 i 16
+F "WEAPON - Gun Hand Shot 3.wav" 326176 0 1439163556 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.848
+D i 16
+F "WEAPON - Gun Hand Shot 4.wav" 1790744 0 1439163273 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.150
+D i 16
+F "WEAPON - Gun Hand Shot 5.wav" 1324482 0 1439163001 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.507
+D i 16
+F "WEAPON - Gun Hit Fx 01.wav" 174260 0 1439161778 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.987
+D i 16
+F "WEAPON - Gun Hit Fx 02.wav" 204744 0 1439163055 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:01.159
+D i 16
+F "WEAPON - Gun Holster 1.aiff" 176556 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 139.2044 s 48000
+D n 2 l 0:00.862 i 16
+F "WEAPON - Gun Holster 1.wav" 152220 0 1439161350 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.862
+D i 16
+F "WEAPON - Gun Holster 2.aiff" 167532 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 147.2995 s 48000
+D n 2 l 0:00.814 i 16
+F "WEAPON - Gun Holster 2.wav" 143860 0 1439163101 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.814
+D i 16
+F "WEAPON - Gun Holster.wav" 2373212 0 1502566017 0
+D s 44100 n 2 l 0:13.453 i 16
+F "WEAPON - Gun M1 Machine Shot.wav" 904498 0 1439161270 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.126
+D i 16
+F "WEAPON - Gun M16 Machine Shot 01.wav" 991178 0 1439163645 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.618
+D i 16
+F "WEAPON - Gun M16 Machine Shot 02.wav" 3926044 0 1439162524 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:22.255
+D i 16
+F "WEAPON - Gun M1918A2 Machine Shot.wav" 904498 0 1439161333 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.126
+D i 16
+F "WEAPON - Gun Machine 1.aiff" 796296 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 117.4497 s 48000
+D n 2 l 0:04.086 i 16
+F "WEAPON - Gun Machine 1.wav" 721076 0 1439161148 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.086
+D i 16
+F "WEAPON - Gun Machine 2.aiff" 341660 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 139.4572 s 48000
+D n 2 l 0:01.720 i 16
+F "WEAPON - Gun Machine 2.wav" 303732 0 1439162889 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.720
+D i 16
+F "WEAPON - Gun Pellet 1.wav" 5548412 0 1502563094 0
+D s 44100 n 2 l 0:31.453 i 16
+F "WEAPON - Gun Pellet.wav" 5063900 0 1502563167 0
+D s 44100 n 2 l 0:28.706 i 16
+F "WEAPON - Gun Reload.mp3" 86934 0 1583931231 0
+D s 44100 n 2 l 0:02.665 i 261k
+F "WEAPON - Gun Rifle Cock.aiff" 245216 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 98.3892 s 48000
+D n 2 l 0:01.219 i 16
+F "WEAPON - Gun Rifle Cock.wav" 215300 0 1439162768 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.219
+D i 16
+F "WEAPON - Gun Rifle Shot 1.aiff" 556052 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 84.5865 s 48000
+D n 2 l 0:02.837 i 16
+F "WEAPON - Gun Rifle Shot 1.wav" 500660 0 1439161109 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.837
+D i 16
+F "WEAPON - Gun Rifle Shot 2.aiff" 1203652 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 77.3196 s 48000
+D n 2 l 0:06.208 i 16
+F "WEAPON - Gun Rifle Shot 2.wav" 1095244 0 1439161263 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.208
+D i 16
+F "WEAPON - Gun Rifle Shot 3.wav" 825810 0 1439161351 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.680
+D i 16
+F "WEAPON - Gun Rifle Shot 4.wav" 904498 0 1439162102 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.126
+D i 16
+F "WEAPON - Gun Shell 1.wav" 5320268 0 1502566137 0
+D s 44100 n 2 l 0:30.160 i 16
+F "WEAPON - Gun Shell 2.wav" 5611916 0 1502566138 0
+D s 44100 n 2 l 0:31.813 i 16
+F "WEAPON - Gun Shell 3.wav" 5854172 0 1502565454 0
+D s 44100 n 2 l 0:33.186 i 16
+F "WEAPON - Gun Shell 4.wav" 4979228 0 1502565104 0
+D s 44100 n 2 l 0:28.226 i 16
+F "WEAPON - Gun Shell 5.wav" 6239900 0 1502565464 0
+D s 44100 n 2 l 0:35.373 i 16
+F "WEAPON - Gun Shell Concrete.aiff" 369312 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 128.6964 s 48000
+D n 2 l 0:01.864 i 16
+F "WEAPON - Gun Shell Concrete.wav" 329116 0 1439162815 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.864
+D i 16
+F "WEAPON - Gun Shell Wood.aiff" 328932 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 145.0662 s 48000
+D n 2 l 0:01.654 i 16
+F "WEAPON - Gun Shell Wood.wav" 291992 0 1439161860 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.654
+D i 16
+F "WEAPON - Gun Shell.wav" 4508828 0 1502563812 0
+D s 44100 n 2 l 0:25.560 i 16
+F "WEAPON - Gun Shot 01.wav" 456148 0 1270336256 0
+D s 48000 n 2 l 0:02.375 i 16
+F "WEAPON - Gun Shot 02.WAV" 14704 0 1270336256 0
+D s 11025 n 1 l 0:01.328 i 8
+F "WEAPON - Gun Shot 03.wav" 11146 0 1270336256 0
+D y 1995-01-30 s 11025 n 1 l 0:00.999
+D i 8
+F "WEAPON - Gun Shot 04.wav" 62172 0 1270336256 0
+D s 44100 n 2 l 0:00.352 i 16
+F "WEAPON - Gun Shot 05.wav" 249300 0 1270336256 0
+D y 2008-11-10 s 44100 n 2 l 0:01.412
+D i 16
+F "WEAPON - Gun Shot 06.wav" 247788 0 1270336256 0
+D s 44100 n 2 l 0:01.404 i 16
+F "WEAPON - Gun Shot 07.wav" 80348 0 1270336256 0
+D y 2005-05-30 s 44100 n 1 l 0:00.893
+D i 16
+F "WEAPON - Gun Shot 08.wav" 83344 0 1270336256 0
+D y 2005-05-30 s 44100 n 1 r 0:28.072
+D l 0:00.927 i 16
+F "WEAPON - Gun Shot 09.wav" 186394 0 1270336256 0
+D y 2005-05-30 s 44100 n 1 r 0:13.270
+D l 0:02.091 i 16
+F "WEAPON - Gun Shot 10.wav" 141908 0 1270336256 0
+D y 2005-05-30 s 44100 n 1 r 0:31.000
+D l 0:01.589 i 16
+F "WEAPON - Gun Shot 11.wav" 226368 0 1270336256 0
+D s 44100 n 2 l 0:01.283 i 16
+F "WEAPON - Gun Shot 118.wav" 1038096 0 1270336254 0
+D s 48000 n 2 l 0:05.406 i 16
+F "WEAPON - Gun Shot 119.wav" 124548 0 1270336254 0
+D y 2007-01-31 s 44100 n 2 l 0:00.705
+D i 16
+F "WEAPON - Gun Shot 12.wav" 103724 0 1270336256 0
+D s 44100 n 2 l 0:00.587 i 16
+F "WEAPON - Gun Shot 120.wav" 107396 0 1270336254 0
+D y 2007-01-31 s 44100 n 2 l 0:00.608
+D i 16
+F "WEAPON - Gun Shot 121.wav" 66052 0 1270336254 0
+D y 2007-01-31 s 44100 n 1 l 0:00.747
+D i 16
+F "WEAPON - Gun Shot 122.wav" 275628 0 1270336254 0
+D s 48000 n 2 l 0:01.435 i 16
+F "WEAPON - Gun Shot 123.wav" 431824 0 1270336254 0
+D s 48000 n 2 l 0:02.248 i 16
+F "WEAPON - Gun Shot 124.wav" 128280 0 1270336256 0
+D s 48000 n 2 l 0:00.667 i 16
+F "WEAPON - Gun Shot 13.wav" 201172 0 1270336256 0
+D s 44100 n 2 l 0:01.140 i 16
+F "WEAPON - Gun Shot 14.wav" 608636 0 1270336256 0
+D s 44100 n 2 l 0:03.450 i 16
+F "WEAPON - Gun Shot 15.wav" 134480 0 1270336256 0
+D t "HOLLYG_3        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.522 i 16
+F "WEAPON - Gun Shot 16.wav" 110672 0 1270336256 0
+D t "HOLLYG_4        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.252 i 16
+F "WEAPON - Gun Shot 17.wav" 60416 0 1270336256 0
+D t "LOAD1_1         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.682 i 16
+F "WEAPON - Gun Shot 18.wav" 79184 0 1270336256 0
+D t "LOAD2_1         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.895 i 16
+F "WEAPON - Gun Shot 19.wav" 124788 0 1270336256 0
+D t "LOAD3_1         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.412 i 16
+F "WEAPON - Gun Shot 20.wav" 51536 0 1270336256 0
+D t "LOAD4_1         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.581 i 16
+F "WEAPON - Gun Shot 21.wav" 164968 0 1270336256 0
+D t "M-60            " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.867 i 16
+F "WEAPON - Gun Shot 22.wav" 6660140 0 1270336256 0
+D s 44100 n 2 l 0:37.755 i 16
+F "WEAPON - Gun Shot 23.wav" 1417260 0 1270336256 0
+D s 44100 n 2 l 0:08.034 i 16
+F "WEAPON - Gun Shot 24.wav" 1409068 0 1270336256 0
+D s 44100 n 2 l 0:07.987 i 16
+F "WEAPON - Gun Shot 25.wav" 1392684 0 1270336256 0
+D s 44100 n 2 l 0:07.894 i 16
+F "WEAPON - Gun Shot 26.wav" 1597484 0 1270336256 0
+D s 44100 n 2 l 0:09.055 i 16
+F "WEAPON - Gun Shot 27.wav" 1212460 0 1270336256 0
+D s 44100 n 2 l 0:06.873 i 16
+F "WEAPON - Gun Shot 28.wav" 3293228 0 1270336256 0
+D s 44100 n 2 l 0:18.668 i 16
+F "WEAPON - Gun Shot 29.wav" 1048620 0 1270336256 0
+D s 44100 n 2 l 0:05.944 i 16
+F "WEAPON - Gun Shot 30.wav" 36208 0 1270336256 0
+D t "9MMBA_1         " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.408 i 16
+F "WEAPON - Gun Shot 31.wav" 125656 0 1270336256 0
+D t "9MMUZI_1        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.422 i 16
+F "WEAPON - Gun Shot 32.wav" 186000 0 1270336256 0
+D t "AK-47           " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:02.106 i 16
+F "WEAPON - Gun Shot 33.wav" 37200 0 1270336256 0
+D t "BOLT            " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.419 i 16
+F "WEAPON - Gun Shot 34.wav" 39760 0 1270336256 0
+D t "COLT45_1        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.448 i 16
+F "WEAPON - Gun Shot 35.wav" 92224 0 1270336256 0
+D t "HOLLYG_1        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.043 i 16
+F "WEAPON - Gun Shot 36.wav" 147408 0 1270336256 0
+D t "HOLLYG_2        " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.668 i 16
+F "WEAPON - Gun Shot 37.wav" 8008 0 1270336256 0
+D s 8794 n 1 l 0:00.905 i 8
+F "WEAPON - Gun Shot 38.wav" 347652 0 1270336256 0
+D y 2005-10-06 s 44100 n 2 l 0:01.964
+D i 16
+F "WEAPON - Gun Shot 39.wav" 603140 0 1270336256 0
+D y 2005-10-06 s 44100 n 2 l 0:03.413
+D i 16
+F "WEAPON - Gun Shot 40.wav" 1837 0 1270336256 0
+D s 11025 n 1 l 0:00.162 i 8
+F "WEAPON - Gun Shot 41.wav" 61972 0 1270336256 0
+D s 22050 n 2 l 0:01.403 i 8
+F "WEAPON - Gun Shot 42.wav" 65796 0 1270336256 0
+D s 11025 n 1 l 0:05.963 i 8
+F "WEAPON - Gun Shot 43.wav" 41962 0 1270336256 0
+D s 44100 n 1 l 0:00.950 i 8
+F "WEAPON - Gun Shot 44.wav" 15882 0 1270336256 0
+D s 11025 n 1 l 0:01.435 i 8
+F "WEAPON - Gun Shot 45.wav" 8903 0 1270336256 0
+D s 11025 n 1 l 0:00.803 i 8
+F "WEAPON - Gun Shot 46.wav" 15543 0 1270336256 0
+D s 11025 n 1 l 0:01.405 i 8
+F "WEAPON - Gun Shot 47.wav" 56156 0 1270336256 0
+D s 22050 n 2 l 0:00.636 i 16
+F "WEAPON - Gun Shot 48.wav" 102444 0 1270336256 0
+D s 44100 n 2 l 0:00.580 i 16
+F "WEAPON - Gun Shot 49.wav" 275104 0 1270336256 0
+D s 44100 n 2 l 0:01.559 i 16
+F "WEAPON - Gun Shot 50.wav" 228876 0 1270336256 0
+D s 44100 n 2 l 0:01.297 i 16
+F "WEAPON - Gun Shot 51.wav" 325864 0 1270336256 0
+D a "Manuel Schleis" s 44100 n 2 l 0:01.846
+D i 16
+F "WEAPON - Gun Shot 52.wav" 25248 0 1270336256 0
+D a "Manuel Schleis" s 44100 n 2 l 0:00.142
+D i 16
+F "WEAPON - Gun Shot 53.wav" 23052 0 1270336256 0
+D a "Manuel Schleis" s 44100 n 2 l 0:00.129
+D i 16
+F "WEAPON - Gun Shot 54.wav" 61948 0 1270336254 0
+D t "GUN             " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:00.700 i 16
+F "WEAPON - Gun Shot 55.wav" 150148 0 1270336254 0
+D t "SHOT            " b "AKAI MPC2000XL" s 44100 n 1
+D l 0:01.700 i 16
+F "WEAPON - Gun Shot 56.wav" 1139440 0 1270336254 0
+D s 44100 n 2 l 0:06.434 i 16
+F "WEAPON - Gun Shot 57.wav" 8404 0 1270336254 0
+D s 11025 n 1 l 0:00.758 i 8
+F "WEAPON - Gun Shotgun.aiff" 712036 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 131.5789 s 48000
+D n 2 l 0:03.648 i 16
+F "WEAPON - Gun Shotgun.wav" 643660 0 1439161819 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.648
+D i 16
+F "WEAPON - Gun Silencer.aiff" 64756 0 1506005647 0
+D a "Sound Ideas" d www.sound-ideas.com p 213.2859 s 48000
+D n 2 l 0:00.281 i 16
+F "WEAPON - Gun Silencer.wav" 49776 0 1439163360 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.281
+D i 16
+F "WEAPON - gunshot - combined.wav" 176534 0 1299534650 0
+D s 44100 n 1 l 0:02.000 i 16
+F "WEAPON - gunshot - original.wav" 176794 0 1299534650 0
+D s 44100 n 1 l 0:02.000 i 16
+F "WEAPON - gunshot - tail.wav" 145096 0 1299534650 0
+D s 44100 n 1 l 0:01.641 i 16
+F "WEAPON - gunshot - transient.wav" 31952 0 1299534650 0
+D s 44100 n 1 l 0:00.358 i 16
+F "WEAPON - Heavy Machine Gun Fire.mp3" 213994 0 1583930932 0
+D s 44100 n 2 l 0:06.636 i 258k
+F "WEAPON - Heckler & Koch G36C 5.56Mm Foley Close Up Mkh60 Mag In & Out.wav" 9580998 0 1481710548 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 r 16:06:45.231
+D l 0:33.016 i 24
+F "WEAPON - Impact Parry 01.wav" 531712 0 1488537049 0
+D y 2016-02-23 d "MEDIEVAL ARMOR WEAPON IMPACT PARRY; Metal weapon impacts another metal weapon. Ringing. Parrying. Parry. " s 96000 n 2
+D r 2:19.454 l 0:00.921 i 24
+F "WEAPON - knife - swish - 01.wav" 19300 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.173
+D i 16
+F "WEAPON - knife - swish - 02.wav" 23224 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.217
+D i 16
+F "WEAPON - knife - swish - 03.wav" 21796 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.201
+D i 16
+F "WEAPON - knife - swish - 04.wav" 19386 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.174
+D i 16
+F "WEAPON - knife - swish - 05.wav" 20054 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.181
+D i 16
+F "WEAPON - knife - swish - 06.wav" 19884 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.180
+D i 16
+F "WEAPON - knife - swish - 07.wav" 21132 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.194
+D i 16
+F "WEAPON - knife - swish - 08.wav" 20450 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.186
+D i 16
+F "WEAPON - knife - swish - 09.wav" 21208 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.195
+D i 16
+F "WEAPON - knife - swish - 10.wav" 22802 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.213
+D i 16
+F "WEAPON - leeenfield - dry.wav" 177326 0 1299534650 0
+D y 2010-08-09 s 44100 n 1 l 0:01.996
+D i 16
+F "WEAPON - leeenfield - long - v2.wav" 177326 0 1299534650 0
+D y 2010-08-09 s 44100 n 1 l 0:01.996
+D i 16
+F "WEAPON - leeenfield - long.wav" 177326 0 1299534650 0
+D y 2010-08-09 s 44100 n 1 l 0:01.996
+D i 16
+F "WEAPON - leeenfield - med.wav" 177326 0 1299534650 0
+D y 2010-08-09 s 44100 n 1 l 0:01.996
+D i 16
+F "WEAPON - leeenfield - short.wav" 177326 0 1299534650 0
+D y 2010-08-09 s 44100 n 1 l 0:01.996
+D i 16
+F "WEAPON - leeenfield - vshort.wav" 177326 0 1299534650 0
+D y 2010-08-09 s 44100 n 1 l 0:01.996
+D i 16
+F "WEAPON - M1918 Browning Automatic Rifle .30Cal 0.1M To Right Double Shots X 1.wav" 1842222 0 1481710488 0
+D d "M1918 Browning Automatic Rifle .30cal from World War II 0.1m to right SD744 MKH60 Double shots x 1.wav" s 96000 n 1 r 1:40.000
+D l 0:06.112 i 24
+F "WEAPON - M1918 Browning Automatic Rifle .30Cal 300M In Front Double Shots X 1.wav" 3602406 0 1481710239 0
+D d "M1918 Browning Automatic Rifle .30cal from World War II 300m in front Zoom H4n Double shots x 1.wav" s 96000 n 2 r 1:40.000
+D l 0:06.112 i 24
+F "WEAPON - M1919A4 Browning Machine Gun .30Cal 200M Left Behind Blanks Triple Shots X 1.wav" 2191910 0 1481709939 0
+D d "M1919A4 Browning Machine Gun .30cal from World War II 200m left behind D50 blanks Triple shots x 1.wav" s 96000 n 2 r 2:02:44.928
+D l 0:03.664 i 24
+F "WEAPON - M1919A4 Browning Machine Gun .30Cal 5M Behind Ortf Blanks Triple Shots X 1.wav" 2191998 0 1481710539 0
+D d "M1919A4 Browning Machine Gun .30cal from World War II 5m behind Zaxcom Schoeps ORTF blanks Triple shots x 1.wav" s 96000 n 2 r 2:02:44.928
+D l 0:03.664 i 24
+F "WEAPON - M1919A4 Browning Machine Gun .30Cal On Turret 1M Left Blanks Triple Shots X 2.wav" 4709918 0 1481710539 0
+D d "M1919A4 Browning Machine Gun .30cal from World War II on turret 1m left LS-5 blanks Triple shots x 2.wav" s 96000 n 2 r 2:51:37.482
+D l 0:08.010 i 24
+F "WEAPON - M1919A4 Browning Machine Gun .30Cal On Turret 300M In Front Blanks Triple Shots X 2.wav" 4710030 0 1481710438 0
+D d "M1919A4 Browning Machine Gun .30cal from World War II on turret 300m in front Zoom H4n blanks Triple shots x 2.wav" s 96000 n 2 r 2:51:37.482
+D l 0:08.010 i 24
+F "WEAPON - M1928A1 Thompson Submachine Gun .45Cal 0.3M To Side Ortf Burst Of Four X 1.wav" 2867942 0 1481710546 0
+D d "M1928A1 Thompson Submachine Gun .45cal from World War II 0.3m to side SD722 MKH8040 ORTF Burst of four x 1.wav" s 96000 n 2 r 1:27:20.874
+D l 0:04.842 i 24
+F "WEAPON - M1928A1 Thompson Submachine Gun .45Cal 300M In Front Burst Of Four X 1.wav" 2867806 0 1481710546 0
+D d "M1928A1 Thompson Submachine Gun .45cal from World War II 300m in front Zoom H4n Burst of four x 1.wav" s 96000 n 2 r 1:27:20.874
+D l 0:04.842 i 24
+F "WEAPON - Mini Uzi 9Mm 1M Left Off Axis Mkh416 Clean Four Shots X 1.wav" 1164798 0 1481710368 0
+D d "About 35 channels with distances and perspectives ranging from 1 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 l 0:03.730
+D i 24
+F "WEAPON - Mini Uzi 9Mm 30M In Front Off Axis Clean Four Shots X 1.wav" 2256778 0 1481710368 0
+D d "About 35 channels with distances and perspectives ranging from 1 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 2 l 0:03.730
+D i 24
+F "WEAPON - Missile 01.wav" 425682 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.819
+D i 16
+F "WEAPON - Missile 02.wav" 374232 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.235
+D i 16
+F "WEAPON - Missile 03.wav" 345636 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.911
+D i 16
+F "WEAPON - Missile 04.wav" 410656 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.648
+D i 16
+F "WEAPON - Missile 05.wav" 246462 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.787
+D i 16
+F "WEAPON - Missile 06.wav" 343158 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.883
+D i 16
+F "WEAPON - Missile 07.wav" 235988 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.668
+D i 16
+F "WEAPON - Missile 08.wav" 316850 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.585
+D i 16
+F "WEAPON - Missile 09.wav" 383904 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.345
+D i 16
+F "WEAPON - Missile 10.wav" 280466 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.172
+D i 16
+F "WEAPON - Missile Fly By 01.wav" 344706 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.901
+D i 16
+F "WEAPON - Missile Fly By 02.wav" 414334 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.690
+D i 16
+F "WEAPON - Missile Fly By 03.wav" 378506 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.284
+D i 16
+F "WEAPON - Missile Fly By 04.wav" 351444 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.977
+D i 16
+F "WEAPON - Missile Fly By 05.wav" 403492 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.567
+D i 16
+F "WEAPON - Missile Fly By 06.wav" 406586 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.602
+D i 16
+F "WEAPON - Missile Fly By 07.wav" 493688 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:05.590
+D i 16
+F "WEAPON - Missile Fly By 08.wav" 358058 0 986672984 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.052
+D i 16
+F "WEAPON - Missile Fly By.mp3" 153808 0 1583931226 0
+D s 44100 n 2 l 0:04.755 i 259k
+F "WEAPON - Molotovcocktail S08Wa.1394.wav" 3003918 0 1372263272 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"WARFARE, MOLOTOV, COCKTAIL, GLASS, FIREBALL, EXPLOSION, FIRE"'
+D d '"WARFARE, MOLOTOV, COCKTAIL, GLASS, FIREBALL, EXPLOSION, FIRE"' s 96000 n 2 l 0:05.186
+D i 24
+F "WEAPON - MOVES Special Forces GUN SHAKE 01.wav" 2767188 0 1544622770 0
+D a "Michel Marchant" y 2018-05-07 g Foley c "Foley, Military unit special forces, Shaking gun, Rattle, Fast 01"
+D d "Foley, Military unit special forces, Shaking gun, Rattle, Fast 01" s 192000 n 2 r 1:16:49.610
+D l 0:02.089 i 24 m 0
+F "WEAPON - Multiple Weapon Gun Shots Pack.mp3" 2633142 0 1583931167 0
+D s 44100 n 2 l 1:22.234 i 256k
+F "WEAPON - Multiple Weapon Gun Shots Pack_2.mp3" 2633142 0 1583931168 0
+D s 44100 n 2 l 1:22.234 i 256k
+F "WEAPON - pistol - clipin.wav" 143976 0 1299534650 0
+D s 44100 n 2 l 0:00.815 i 16
+F "WEAPON - pistol - clipout.wav" 36832 0 1299534650 0
+D s 44100 n 2 l 0:00.208 i 16
+F "WEAPON - pistol - dryfire.wav" 7132 0 1299534650 0
+D s 44100 n 1 l 0:00.079 i 16
+F "WEAPON - pistol - fire - 01.wav" 181906 0 1299534650 0
+D y 2010-07-03 s 44100 n 2 l 0:01.023
+D i 16
+F "WEAPON - pistol - fire - 02.wav" 108066 0 1299534650 0
+D y 2010-07-03 s 44100 n 2 l 0:00.605
+D i 16
+F "WEAPON - pistol - holster.wav" 119522 0 1299534650 0
+D s 44100 n 1 l 0:01.353 i 16
+F "WEAPON - pistol - ready.wav" 64848 0 1299534650 0
+D s 44100 n 1 l 0:00.733 i 16
+F "WEAPON - pistol - slidereturn.wav" 46752 0 1299534650 0
+D s 44100 n 2 l 0:00.264 i 16
+F "WEAPON - Reload16.wav" 705214 0 1488537284 0
+D d "Weapon, Reload, Mechanical Movements, Sci-Fi" s 96000 n 1 l 0:02.445
+D i 24
+F "WEAPON - Remington 700 7.62X51Mm 1M Right Mkh8040 1 Clean Single Shots X 14.wav" 15579526 0 1481710386 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots with regular and subsonic ammunition, wild foley and foley session." s 96000 n 1 r 6:48.000
+D l 0:53.867 i 24
+F "WEAPON - Remington 700 7.62X51Mm 50M Behind 788 Schoeps B Clean Single Shots X 14.wav" 15579518 0 1481710537 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots with regular and subsonic ammunition, wild foley and foley session." s 96000 n 1 r 6:48.000
+D l 0:53.867 i 24
+F "WEAPON - Riflewinchester30 30 Gr01.1580.wav" 1595820 0 1372263284 0
+D y 2013-03-21 d "Rifle, Winchester 30-30, Single Shot, Microphone Towards Down Range, Medium Perspective" s 96000 n 2
+D l 0:02.746 i 24
+F "WEAPON - Saiga-12 12G Solid Slug Foley Close Up Rsm191 R Cocking.wav" 6485934 0 1481710549 0
+D d "Various gun handling and foley" s 96000 n 1 r 18:13:34.131
+D l 0:22.289 i 24
+F "WEAPON - Saiga12 12G Solid Slug 1M Left Off Axis Mkh416 Clean Single Shots X 5.wav" 9859422 0 1481710448 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, bursts, wild foley and foley session." s 96000 n 1 r 2:32.000
+D l 0:34.000 i 24
+F "WEAPON - Saiga12 12G Solid Slug 55M In Front Off Axis Clean Bursts X 7.wav" 15613582 0 1481710440 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, bursts, wild foley and foley session." s 96000 n 2 r 3:10.010
+D l 0:26.990 i 24
+F "WEAPON - Sako Trg 22 Trg 1M Left Off Axis Mkh416 Clean Single Shots X 5.wav" 5313006 0 1481710434 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots w and w/o silencer and subsonic ammo, wild foley and foley session." s 96000 n 1 r 8:42.000
+D l 0:18.224 i 24
+F "WEAPON - Sako Trg 22 Trg Silencer 1M Right Mkh8040 1 Clean Single Shots X 6.wav" 6339094 0 1481710074 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots w and w/o silencer and subsonic ammo, wild foley and foley session." s 96000 n 1 r 9:14.000
+D l 0:21.786 i 24
+F "WEAPON - scifi - charge.wav" 1063500 0 1299534650 0
+D s 44100 n 2 l 0:06.027 i 16
+F "WEAPON - scifi - fire - 01.wav" 576984 0 1299534650 0
+D s 44100 n 2 l 0:03.269 i 16
+F "WEAPON - scifi - fire - 02.wav" 267724 0 1299534650 0
+D s 44100 n 2 l 0:01.515 i 16
+F "WEAPON - scifi - fire - 03.wav" 64766 0 1299534650 0
+D s 44100 n 1 l 0:00.732 i 16
+F "WEAPON - scifi - hiss.wav" 220632 0 1299534650 0
+D s 44100 n 1 l 0:02.500 i 16
+F "WEAPON - scifi - holster.wav" 96332 0 1299534650 0
+D s 44100 n 2 l 0:00.544 i 16
+F "WEAPON - scifi - ready.wav" 144384 0 1299534650 0
+D s 44100 n 2 l 0:00.816 i 16
+F "WEAPON - Shell Load Round Eject.wav" 3289170 0 1481710520 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Birdshot shell loaded into chamber and shell eject."
+D s 96000 n 2 r 0:04.235 l 0:05.708
+D i 24
+F "WEAPON - Shot Blaster-06.wav" 902704 0 1488537008 0
+D d "Weapon, Shot, Blaster, Laser, Plasma, Sci-Fi" s 96000 n 2 l 0:01.565
+D i 24
+F "WEAPON - Shot Spaceship Super Blaster-04.wav" 5056876 0 1488537398 0
+D d "Weapon, Shot, Spaceship, Super, Blaster, Laser, Plasma, Sci-Fi" s 96000 n 2 l 0:08.777
+D i 24
+F "WEAPON - shotgun - dryfire.wav" 11748 0 1299534650 0
+D s 44100 n 1 l 0:00.131 i 16
+F "WEAPON - shotgun - fire.wav" 192656 0 1299534650 0
+D y 2010-07-02 s 44100 n 2 l 0:01.084
+D i 16
+F "WEAPON - shotgun - holster.wav" 33860 0 1299534650 0
+D s 44100 n 1 l 0:00.382 i 16
+F "WEAPON - shotgun - pump - heavy.wav" 118552 0 1299534650 0
+D s 44100 n 2 l 0:00.670 i 16
+F "WEAPON - shotgun - pump.wav" 121500 0 1299534650 0
+D s 44100 n 2 l 0:00.688 i 16
+F "WEAPON - shotgun - rack - 01.wav" 18492 0 1299534650 0
+D s 44100 n 1 l 0:00.208 i 16
+F "WEAPON - shotgun - rack - 02.wav" 29796 0 1299534650 0
+D s 44100 n 1 l 0:00.336 i 16
+F "WEAPON - shotgun - rack - 03.wav" 26592 0 1299534650 0
+D s 44100 n 1 l 0:00.300 i 16
+F "WEAPON - shotgun - rack - 04.wav" 32628 0 1299534650 0
+D s 44100 n 1 l 0:00.368 i 16
+F "WEAPON - shotgun - rack - 05.wav" 36338 0 1299534650 0
+D s 44100 n 1 l 0:00.410 i 16
+F "WEAPON - shotgun - rack - 06.wav" 29080 0 1299534650 0
+D s 44100 n 1 l 0:00.328 i 16
+F "WEAPON - shotgun - rackclose.wav" 56212 0 1299534650 0
+D s 44100 n 2 l 0:00.317 i 16
+F "WEAPON - shotgun - rackopen.wav" 50520 0 1299534650 0
+D s 44100 n 2 l 0:00.285 i 16
+F "WEAPON - shotgun - ready.wav" 76974 0 1299534650 0
+D s 44100 n 1 l 0:00.871 i 16
+F "WEAPON - Shotgun Fire Round Eject 01.wav" 2537268 0 1481710520 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Shotgun, birdshot, single fire and shell eject."
+D s 96000 n 2 l 0:04.402 i 24
+F "WEAPON - Shotgun Fire Slug 01.wav" 3284436 0 1481710398 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Shotgun, slug, single fire."
+D s 96000 n 2 r 1:04.400 l 0:05.700
+D i 24
+F "WEAPON - Shotgun Pumps.mp3" 280867 0 1583931133 0
+D s 44100 n 2 l 0:08.725 i 258k
+F "WEAPON - Shotgun Quick Pump 01.wav" 856140 0 1481710398 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Shotgun quick pump x2. Dry."
+D s 96000 n 2 r 0:02.110 l 0:01.484
+D i 24
+F "WEAPON - Shotgunrackfast Za02.492.wav" 310754 0 1372263286 0
+D y 2012-- d "SHOTGUN, RACK, FAST" s 96000 n 2
+D l 0:00.531 i 24
+F "WEAPON - Shotgunremington870 Gr01.1739.wav" 1325340 0 1372263286 0
+D y 2013-03-21 d "Shotgun, Remington 870 12 Gauge, Bird Shot, Single Shot, Microphone Towards Down Range, Medium Perspective" s 96000 n 2
+D l 0:02.277 i 24
+F "WEAPON - Shotgunshell Land Concrete 02.wav" 168318 0 1481710544 0
+D y 2015-06-09 s 48000 n 2 l 0:00.875
+D i 16
+F "WEAPON - Shotgunshell Land Lino 03.wav" 163978 0 1481710544 0
+D y 2015-06-12 s 48000 n 2 l 0:00.853
+D i 16
+F "WEAPON - Smith & Wesson M29 .44 Magnum 1.5M Behind Right Clean Double Shots X 4.wav" 8719814 0 1481710463 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, wild foley and foley session." s 96000 n 2 r 4:02.000
+D l 0:15.000 i 24
+F "WEAPON - Smith & Wesson M29 .44 Magnum 2M Behind Right Pzm Clean Double Shots X 4.wav" 4399854 0 1481710025 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, wild foley and foley session." s 96000 n 1 r 4:02.000
+D l 0:15.000 i 24
+F "WEAPON - Smith & Wesson M29 .44 Magnum Foley Close Up Mkh416 Cylinder Open & Close.wav" 11696858 0 1481710434 0
+D d "Various gun handling and foley" s 96000 n 1 r 15:46:46.681
+D l 0:40.343 i 24
+F "WEAPON - Smith & Wesson M66 .357 Magnum 1M Left Off Axis Mkh416 Clean Double Shots X 2.wav" 1811822 0 1481710391 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots etc. Wild foley and foley session." s 96000 n 1 r 4:18.000
+D l 0:06.000 i 24
+F "WEAPON - Smith & Wesson M66 .357 Magnum 50M Behind Ehrlund L1 Clean Double Shots X 2.wav" 1811758 0 1481710396 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots etc. Wild foley and foley session." s 96000 n 1 r 4:18.000
+D l 0:06.000 i 24
+F "WEAPON - sniper rifle - cock.wav" 226930 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:01.279
+D i 16
+F "WEAPON - sniper rifle - dryfire.wav" 24942 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:00.133
+D i 16
+F "WEAPON - sniper rifle - fire - 02.wav" 404746 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:02.287
+D i 16
+F "WEAPON - sniper rifle - fire.wav" 389522 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:02.200
+D i 16
+F "WEAPON - sniper rifle - magazinein.wav" 204166 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:01.150
+D i 16
+F "WEAPON - sniper rifle - magazineout.wav" 119318 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:00.669
+D i 16
+F "WEAPON - Steyr Tmp 9Mm Foley Distant Mkh418S S Cocking & Dry Fire.wav" 14407126 0 1481710236 0
+D d "Various gun handling and foley" s 96000 n 1 r 17:33:48.325
+D l 0:49.778 i 24
+F "WEAPON - Submachine Gun Mp 40 02 Burst.wav" 2043286 0 1481710465 0
+D y 2015-08-09 s 96000 n 2 r 1:20:49.450
+D l 0:03.488 i 24
+F "WEAPON - Submachine Gun Tommy Gun 01 Burst 01.wav" 1450390 0 1481710011 0
+D y 2015-08-09 s 96000 n 2 r 1:27:30.048
+D l 0:02.474 i 24
+F "WEAPON - Submarinesonar S08Wa.1700.wav" 19958340 0 1372263290 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"WARFARE, SUBMARINE, SONAR, PING, MILITARY, MULTIPLE, MILITARY"'
+D d '"WARFARE, SUBMARINE, SONAR, PING, MILITARY, MULTIPLE, MILITARY"' s 96000 n 2 l 0:34.583
+D i 24
+F "WEAPON - sword - draw.wav" 115426 0 1299534650 0
+D s 44100 n 1 l 0:01.307 i 16
+F "WEAPON - sword - return.wav" 81934 0 1299534650 0
+D s 44100 n 1 l 0:00.927 i 16
+F "WEAPON - sword - swish - 01.wav" 18654 0 1299534650 0
+D s 44100 n 1 l 0:00.210 i 16
+F "WEAPON - sword - swish - 02.wav" 20576 0 1299534650 0
+D s 44100 n 1 l 0:00.231 i 16
+F "WEAPON - sword - swish - 03.wav" 19762 0 1299534650 0
+D s 44100 n 1 l 0:00.222 i 16
+F "WEAPON - sword - swish - 04.wav" 15486 0 1299534650 0
+D s 44100 n 1 l 0:00.174 i 16
+F "WEAPON - sword - swish - 05.wav" 19536 0 1299534650 0
+D s 44100 n 1 l 0:00.220 i 16
+F "WEAPON - sword - swish - 06.wav" 19868 0 1299534650 0
+D s 44100 n 1 l 0:00.223 i 16
+F "WEAPON - sword - swish - 07.wav" 16576 0 1299534650 0
+D s 44100 n 1 l 0:00.186 i 16
+F "WEAPON - sword - swish - 08.wav" 26058 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.250
+D i 16
+F "WEAPON - sword - swish - 09.wav" 20766 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.190
+D i 16
+F "WEAPON - sword - swish - 10.wav" 19884 0 1299534650 0
+D y 2010-07-24 s 44100 n 1 l 0:00.180
+D i 16
+F "WEAPON - T-34 Foley Cannon Height Adjustment.wav" 15233822 0 1481710515 0
+D d "T-34-85 World War II Russian tank cannon height adjustment foley LS-11" s 96000 n 2 r 15:37:06.221
+D l 0:26.282 i 24
+F "WEAPON - Taj Tank Battle Cannon Fire [Xy Stereo]001.wav" 6197206 0 1488537274 0
+D y 2016-10-25 d "TANK WAR VEHICLE; Tank Battle Cannon Fire. Recorded in XY Stereo." s 96000 n 2
+D r 17:07.982 l 0:10.757 i 24
+F "WEAPON - Taj Tank Battle Machine Guns (7.62 & 50 Cal), Walkie Talkie Chatter [Xy Stereo].wav" 14737768 0 1488537530 0
+D y 2016-10-25 d "TANK WAR VEHICLE; Tank Battle Machine Guns (7.62 & 50 cal), Walkie Talkie Chatter. Recorded in XY Stereo." s 96000 n 2
+D r 16:14.099 l 0:25.585 i 24
+F "WEAPON - Taj Tank Driving And Stopping, Revving, Close To Far [Ms Stereo].wav" 31511008 0 1488537528 0
+D y 2016-10-25 d "TANK WAR VEHICLE; Tank Driving and Stopping, Revving, Close To Far. Recorded in MS Stereo." s 96000 n 2
+D r 37:27.116 l 0:54.705 i 24
+F "WEAPON - thompson - prerender - dry.wav" 177680 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:01.000
+D i 16
+F "WEAPON - thompson - prerender - elong.wav" 177680 0 1299534650 0
+D y 2010-08-04 s 44100 n 2 l 0:01.000
+D i 16
+F "WEAPON - thompson - prerender - long.wav" 177680 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:01.000
+D i 16
+F "WEAPON - thompson - prerender - med.wav" 177680 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:01.000
+D i 16
+F "WEAPON - thompson - prerender - short.wav" 177680 0 1299534650 0
+D y 2010-08-03 s 44100 n 2 l 0:01.000
+D i 16
+F "WEAPON - Usas12 12G Solid Slug 1M Right Cs3 Clean Double Shots X 1.wav" 790684 0 1481710534 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots etc, wild foley and foley session." s 96000 n 1 l 0:02.474
+D i 24
+F "WEAPON - Usas12 12G Solid Slug 55M In Front Off Axis Clean Double Shots X 1.wav" 1515312 0 1481710535 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots etc, wild foley and foley session." s 96000 n 2 l 0:02.474
+D i 24
+F "WEAPON - Uzi 9Mm 1M Right Mkh8040 1 Clean Five Shots X 1.wav" 1252038 0 1481710539 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 l 0:04.020
+D i 24
+F "WEAPON - Uzi 9Mm 75M Behind Ehrlund R1 Clean Five Shots X 1.wav" 1252030 0 1481710537 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 l 0:04.020
+D i 24
+F "WEAPON - Vz61 Scorpion 9Mm 1.5M Behind Right Clean Double Shots X 1.wav" 1392760 0 1481710236 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 2 l 0:02.246
+D i 24
+F "WEAPON - Vz61 Scorpion 9Mm 50M Behind Ehrlund R1 Clean Double Shots X 1.wav" 735144 0 1481709701 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 l 0:02.246
+D i 24
+F "WEAPON - Warfare T3 Mg Whizzes Ricochets Bullet Cracks M10.wav" 104589538 0 1488537511 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Guns c "7.62mm machine gun whizzes ricochets bullet cracks Sony M10"
+D d "7.62mm machine gun whizzes ricochets bullet cracks Sony M10" s 96000 n 2 l 3:01.466
+D i 24 m 0
+F "WEAPON - Winchester Magnum Single Shot.mp3" 101145 0 1583931205 0
+D s 44100 n 2 l 0:03.109 i 260k

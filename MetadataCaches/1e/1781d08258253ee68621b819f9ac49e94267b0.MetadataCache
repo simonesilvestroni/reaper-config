@@ -1,0 +1,409 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Analog Drum Bass/Synths"
+F Juno_Disco_Tom01.wav 332936 0 1300384686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:01.886
+D i 16
+F Juno_Disco_Tom02.wav 327508 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:01.855
+D i 16
+F Juno_Kick01.wav 208640 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:01.181
+D i 16
+F Juno_Kick02.wav 30108 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.169
+D i 16
+F Juno_Kick03.wav 57166 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.215
+D i 24
+F Juno_MiscPerc01.wav 95884 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.542
+D i 16
+F Juno_MiscPerc02.wav 85548 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.484
+D i 16
+F Juno_MiscPerc03.wav 182110 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.687
+D i 24
+F Juno_MiscPerc04.wav 89616 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.507
+D i 16
+F Juno_Noize_Snare01.wav 159886 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.603
+D i 24
+F Juno_Noize_Snare02.wav 113420 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.642
+D i 16
+F Juno_Tom01.wav 241462 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.912
+D i 24
+F Juno_Tom02.wav 161542 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:00.610
+D i 24
+F Moog_Kick01.wav 20204 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.227
+D i 16
+F Moog_Kick02.wav 132540 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.501
+D i 16
+F Moog_Kick03.wav 119556 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.353
+D i 16
+F Moog_Kick04.wav 37602 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.424
+D i 16
+F Moog_Kick05.wav 29134 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.328
+D i 16
+F Moog_Kick06.wav 25444 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.286
+D i 16
+F Moog_Kick07.wav 63756 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.721
+D i 16
+F Moog_Misc01.wav 26028 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.293
+D i 16
+F Moog_Misc02.wav 31562 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.356
+D i 16
+F Moog_Misc03.wav 26284 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.296
+D i 16
+F Moog_Misc04.wav 25724 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.290
+D i 16
+F Moog_Misc05.wav 12068 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.135
+D i 16
+F Moog_Misc06.wav 15962 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.179
+D i 16
+F Moog_Misc07.wav 13740 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.154
+D i 16
+F Moog_Misc08.wav 11852 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.132
+D i 16
+F Moog_Misc09.wav 176418 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.998
+D i 16
+F Moog_Misc10.wav 173640 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.967
+D i 16
+F Moog_Misc11.wav 18886 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.212
+D i 16
+F Moog_Misc12.wav 28740 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.324
+D i 16
+F Moog_Misc13.wav 28402 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.320
+D i 16
+F Moog_Misc14.wav 117506 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.330
+D i 16
+F Moog_Misc15.wav 79838 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.903
+D i 16
+F Moog_Misc16.wav 78982 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.893
+D i 16
+F Moog_Misc17.wav 24966 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.281
+D i 16
+F Moog_Misc18.wav 111358 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.261
+D i 16
+F Moog_Misc19.wav 115130 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.303
+D i 16
+F Moog_Misc20.wav 25484 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.287
+D i 16
+F Moog_Misc21.wav 27846 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.314
+D i 16
+F Moog_Misc22.wav 93574 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.059
+D i 16
+F Moog_Misc23.wav 39124 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.442
+D i 16
+F Moog_Misc24.wav 105770 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.197
+D i 16
+F Moog_Misc25.wav 93432 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.057
+D i 16
+F Moog_Misc26.wav 124030 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.404
+D i 16
+F Moog_Misc27.wav 142418 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.613
+D i 16
+F Moog_Misc28.wav 145946 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.653
+D i 16
+F Moog_Misc29.wav 162090 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.836
+D i 16
+F Moog_Misc30.wav 147690 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.672
+D i 16
+F Moog_Misc31.wav 79378 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.898
+D i 16
+F Moog_Misc32.wav 97032 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.098
+D i 16
+F Moog_Misc33.wav 66876 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.756
+D i 16
+F Moog_Misc34.wav 85510 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.967
+D i 16
+F Moog_Misc35.wav 97240 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.100
+D i 16
+F Moog_Misc36.wav 148266 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.679
+D i 16
+F Moog_Misc37.wav 157626 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.785
+D i 16
+F Moog_Misc38.wav 123082 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.393
+D i 16
+F Mopho_Kick01.wav 69460 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.785
+D i 16
+F Mopho_Kick02.wav 58078 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.656
+D i 16
+F Mopho_Kick03.wav 56332 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.637
+D i 16
+F Mopho_Kick04.wav 40968 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.462
+D i 16
+F Mopho_Kick05.wav 60040 0 1300384688 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.679
+D i 16
+F Mopho_Kick06.wav 56006 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.633
+D i 16
+F Mopho_Misc01.wav 55866 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.631
+D i 16
+F Mopho_Misc02.wav 67080 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.759
+D i 16
+F Mopho_Misc03.wav 16048 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.180
+D i 16
+F Mopho_Misc04.wav 41842 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.472
+D i 16
+F Mopho_Misc05.wav 42354 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.478
+D i 16
+F Mopho_Misc06.wav 48008 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.542
+D i 16
+F Mopho_Misc07.wav 68168 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.771
+D i 16
+F Mopho_Misc08.wav 52598 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.594
+D i 16
+F Mopho_Misc09.wav 60784 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.687
+D i 16
+F Mopho_Misc10.wav 56200 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.635
+D i 16
+F Mopho_Misc11.wav 306712 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:03.475
+D i 16
+F Mopho_Misc12.wav 117640 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.332
+D i 16
+F Mopho_Misc13.wav 25138 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.283
+D i 16
+F Mopho_Misc14.wav 27144 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.306
+D i 16
+F Mopho_Misc15.wav 26350 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.297
+D i 16
+F Mopho_Misc16.wav 176552 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:02.000
+D i 16
+F Mopho_Misc17.wav 188848 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:02.139
+D i 16
+F Mopho_Misc18.wav 171768 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.945
+D i 16
+F Mopho_Misc19.wav 37512 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.423
+D i 16
+F Mopho_Misc20.wav 31368 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.354
+D i 16
+F Mopho_Snare01.wav 13984 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.157
+D i 16
+F Mopho_Snare02.wav 15328 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.172
+D i 16
+F Mopho_Snare03.wav 16228 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.182
+D i 16
+F Mopho_Snare04.wav 68124 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.770
+D i 16
+F Mopho_Snare05.wav 88712 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.004
+D i 16
+F Waldorf_pulse_Kick01.wav 44426 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.502
+D i 16
+F Waldorf_pulse_Kick02.wav 14732 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.165
+D i 16
+F Waldorf_pulse_Kick03.wav 25168 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.283
+D i 16
+F Waldorf_pulse_Kick04.wav 48710 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.550
+D i 16
+F Waldorf_pulse_Kick05.wav 91928 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.040
+D i 16
+F Waldorf_pulse_Misc01.wav 155574 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.762
+D i 16
+F Waldorf_pulse_Misc02.wav 132956 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.505
+D i 16
+F Waldorf_pulse_Misc03.wav 25804 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.291
+D i 16
+F Waldorf_pulse_Misc04.wav 73180 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.828
+D i 16
+F Waldorf_pulse_Misc05.wav 114054 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.291
+D i 16
+F Waldorf_pulse_Misc06.wav 133698 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.514
+D i 16
+F Waldorf_pulse_Misc07.wav 37914 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.428
+D i 16
+F Waldorf_pulse_Misc08.wav 34956 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.394
+D i 16
+F Waldorf_pulse_Misc09.wav 41950 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.474
+D i 16
+F Waldorf_pulse_Misc10.wav 70790 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.801
+D i 16
+F Waldorf_pulse_Misc11.wav 13388 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.150
+D i 16
+F Waldorf_pulse_Misc12.wav 36102 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.407
+D i 16
+F Waldorf_pulse_Misc13.wav 46032 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.520
+D i 16
+F Waldorf_pulse_Misc14.wav 53988 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.610
+D i 16
+F Waldorf_pulse_Misc15.wav 197772 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:02.240
+D i 16
+F Waldorf_pulse_Misc16.wav 50310 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.568
+D i 16
+F Waldorf_pulse_Misc17.wav 50310 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.568
+D i 16
+F Waldorf_pulse_Misc18.wav 325722 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:03.691
+D i 16
+F Waldorf_pulse_Misc19.wav 318186 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:03.606
+D i 16
+F Waldorf_pulse_Misc20.wav 62470 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.706
+D i 16
+F Waldorf_pulse_Misc21.wav 40006 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.452
+D i 16
+F Waldorf_pulse_Misc22.wav 38384 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.433
+D i 16
+F Waldorf_pulse_Misc23.wav 86920 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.983
+D i 16
+F Waldorf_pulse_Misc24.wav 70856 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.801
+D i 16
+F Waldorf_pulse_Misc25.wav 274126 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:03.106
+D i 16
+F Waldorf_pulse_Misc26.wav 369764 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:04.190
+D i 16
+F Waldorf_pulse_Misc27.wav 376902 0 1300384690 0
+D a "The Groove Criminals" s 44100 n 1 l 0:04.271
+D i 16
+F Waldorf_pulse_Misc28.wav 124932 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.414
+D i 16
+F Waldorf_pulse_Misc29.wav 200838 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:02.275
+D i 16
+F Waldorf_pulse_Misc30.wav 13692 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.153
+D i 16
+F Waldorf_pulse_Misc31.wav 7158 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.079
+D i 16
+F Waldorf_pulse_Misc32.wav 17318 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.194
+D i 16
+F Waldorf_pulse_Misc33.wav 57148 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.646
+D i 16
+F Waldorf_pulse_Misc34.wav 136838 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:01.549
+D i 16
+F Waldorf_pulse_Misc35.wav 45846 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.518
+D i 16
+F Waldorf_pulse_Misc36.wav 39242 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.443
+D i 16
+F Waldorf_pulse_Misc37.wav 40138 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.453
+D i 16
+F Waldorf_pulse_Misc38.wav 37722 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.426
+D i 16
+F Waldorf_pulse_Misc39.wav 47252 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:00.534
+D i 16
+F Waldorf_pulse_Misc40.wav 263302 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:02.983
+D i 16
+F Waldorf_pulse_Misc41.wav 328042 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:03.717
+D i 16
+F Waldorf_pulse_Misc42.wav 343400 0 1300384692 0
+D a "The Groove Criminals" s 44100 n 1 l 0:03.891
+D i 16

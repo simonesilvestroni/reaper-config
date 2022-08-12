@@ -1,0 +1,199 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Robot/Robot Voices/VocoderBot"
+F RR_VocoderBotA-Affirmative.wav 343844 0 1357912224 0
+D s 44100 n 2 l 0:01.299 i 24
+F RR_VocoderBotA-AgainPlease.wav 378254 0 1357912224 0
+D s 44100 n 2 l 0:01.429 i 24
+F RR_VocoderBotA-Asteroid.wav 306146 0 1357912224 0
+D s 44100 n 2 l 0:01.156 i 24
+F RR_VocoderBotA-Automatic.wav 382766 0 1357912224 0
+D s 44100 n 2 l 0:01.446 i 24
+F RR_VocoderBotA-Bass.wav 305468 0 1357912224 0
+D s 44100 n 2 l 0:01.154 i 24
+F RR_VocoderBotA-BinaryLove1.wav 370868 0 1357912224 0
+D s 44100 n 2 l 0:01.401 i 24
+F RR_VocoderBotA-BinaryLove2.wav 329078 0 1357912224 0
+D s 44100 n 2 l 0:01.243 i 24
+F RR_VocoderBotA-ByteMe.wav 311780 0 1357912224 0
+D s 44100 n 2 l 0:01.178 i 24
+F RR_VocoderBotA-Cancel.wav 317168 0 1357912226 0
+D s 44100 n 2 l 0:01.198 i 24
+F RR_VocoderBotA-CannotExecute.wav 385778 0 1357912224 0
+D s 44100 n 2 l 0:01.457 i 24
+F RR_VocoderBotA-Compiling.wav 289574 0 1357912224 0
+D s 44100 n 2 l 0:01.094 i 24
+F RR_VocoderBotA-Complete.wav 310430 0 1357912226 0
+D s 44100 n 2 l 0:01.172 i 24
+F RR_VocoderBotA-ComputerLove1.wav 375488 0 1357912226 0
+D s 44100 n 2 l 0:01.418 i 24
+F RR_VocoderBotA-ComputerLove2.wav 365618 0 1357912226 0
+D s 44100 n 2 l 0:01.381 i 24
+F RR_VocoderBotA-Computing.wav 284090 0 1357912224 0
+D s 44100 n 2 l 0:01.073 i 24
+F RR_VocoderBotA-Crash.wav 275762 0 1357912224 0
+D s 44100 n 2 l 0:01.041 i 24
+F RR_VocoderBotA-Dance.wav 242390 0 1357912224 0
+D s 44100 n 2 l 0:00.915 i 24
+F RR_VocoderBotA-Danger.wav 267662 0 1357912224 0
+D s 44100 n 2 l 0:01.011 i 24
+F RR_VocoderBotA-DoesNotCompute.wav 408362 0 1357912224 0
+D s 44100 n 2 l 0:01.543 i 24
+F RR_VocoderBotA-DoIt1.wav 229130 0 1357912224 0
+D s 44100 n 2 l 0:00.865 i 24
+F RR_VocoderBotA-DoIt2.wav 254198 0 1357912224 0
+D s 44100 n 2 l 0:00.960 i 24
+F RR_VocoderBotA-DoItAgain.wav 354182 0 1357912224 0
+D s 44100 n 2 l 0:01.338 i 24
+F RR_VocoderBotA-Dominate.wav 303218 0 1357912226 0
+D s 44100 n 2 l 0:01.145 i 24
+F RR_VocoderBotA-Don'tDoThat.wav 329564 0 1357912224 0
+D s 44100 n 2 l 0:01.245 i 24
+F RR_VocoderBotA-Don'tMove.wav 298064 0 1357912224 0
+D s 44100 n 2 l 0:01.126 i 24
+F RR_VocoderBotA-Drop.wav 228920 0 1357912224 0
+D s 44100 n 2 l 0:00.864 i 24
+F RR_VocoderBotA-Drums.wav 270848 0 1357912224 0
+D s 44100 n 2 l 0:01.023 i 24
+F RR_VocoderBotA-Electro.wav 331922 0 1357912226 0
+D s 44100 n 2 l 0:01.254 i 24
+F RR_VocoderBotA-Electro2.wav 298796 0 1357912226 0
+D s 44100 n 2 l 0:01.128 i 24
+F RR_VocoderBotA-ElectroBoogie.wav 437948 0 1357912226 0
+D s 44100 n 2 l 0:01.654 i 24
+F RR_VocoderBotA-Execute.wav 301466 0 1357912224 0
+D s 44100 n 2 l 0:01.139 i 24
+F RR_VocoderBotA-Frequency.wav 333674 0 1357912224 0
+D s 44100 n 2 l 0:01.260 i 24
+F RR_VocoderBotA-Functional.wav 339854 0 1357912226 0
+D s 44100 n 2 l 0:01.284 i 24
+F RR_VocoderBotA-Funky.wav 249686 0 1357912224 0
+D s 44100 n 2 l 0:00.943 i 24
+F RR_VocoderBotA-Galaxy.wav 317192 0 1357912224 0
+D s 44100 n 2 l 0:01.198 i 24
+F RR_VocoderBotA-GetDown.wav 383360 0 1357912226 0
+D s 44100 n 2 l 0:01.448 i 24
+F RR_VocoderBotA-GetOnUp.wav 399926 0 1357912226 0
+D s 44100 n 2 l 0:01.511 i 24
+F RR_VocoderBotA-Goodbye.wav 278246 0 1357912224 0
+D s 44100 n 2 l 0:01.051 i 24
+F RR_VocoderBotA-GoToHell.wav 329198 0 1357912224 0
+D s 44100 n 2 l 0:01.243 i 24
+F RR_VocoderBotA-Gravity.wav 298148 0 1357912224 0
+D s 44100 n 2 l 0:01.126 i 24
+F RR_VocoderBotA-Greetings.wav 340124 0 1357912224 0
+D s 44100 n 2 l 0:01.285 i 24
+F RR_VocoderBotA-Halt.wav 261278 0 1357912224 0
+D s 44100 n 2 l 0:00.987 i 24
+F RR_VocoderBotA-Hello.wav 281234 0 1357912224 0
+D s 44100 n 2 l 0:01.062 i 24
+F RR_VocoderBotA-HellYeah.wav 289514 0 1357912224 0
+D s 44100 n 2 l 0:01.093 i 24
+F RR_VocoderBotA-HellYes.wav 302780 0 1357912224 0
+D s 44100 n 2 l 0:01.143 i 24
+F RR_VocoderBotA-Higher.wav 241568 0 1357912224 0
+D s 44100 n 2 l 0:00.912 i 24
+F RR_VocoderBotA-Hold.wav 255854 0 1357912224 0
+D s 44100 n 2 l 0:00.966 i 24
+F RR_VocoderBotA-IAmTheWinner.wav 388958 0 1357912224 0
+D s 44100 n 2 l 0:01.469 i 24
+F RR_VocoderBotA-ILikeYou.wav 362618 0 1357912224 0
+D s 44100 n 2 l 0:01.370 i 24
+F RR_VocoderBotA-Illogical.wav 293690 0 1357912224 0
+D s 44100 n 2 l 0:01.109 i 24
+F RR_VocoderBotA-Incoming.wav 300032 0 1357912224 0
+D s 44100 n 2 l 0:01.133 i 24
+F RR_VocoderBotA-Lifeform.wav 316904 0 1357912226 0
+D s 44100 n 2 l 0:01.197 i 24
+F RR_VocoderBotA-Locked.wav 259466 0 1357912224 0
+D s 44100 n 2 l 0:00.980 i 24
+F RR_VocoderBotA-Logic.wav 239294 0 1357912226 0
+D s 44100 n 2 l 0:00.904 i 24
+F RR_VocoderBotA-Lower.wav 243098 0 1357912226 0
+D s 44100 n 2 l 0:00.918 i 24
+F RR_VocoderBotA-Machine.wav 401468 0 1357912224 0
+D s 44100 n 2 l 0:01.516 i 24
+F RR_VocoderBotA-Malfunction.wav 377954 0 1357912226 0
+D s 44100 n 2 l 0:01.428 i 24
+F RR_VocoderBotA-Memory.wav 262616 0 1357912224 0
+D s 44100 n 2 l 0:00.992 i 24
+F RR_VocoderBotA-Monitoring.wav 306194 0 1357912224 0
+D s 44100 n 2 l 0:01.156 i 24
+F RR_VocoderBotA-Negative.wav 301646 0 1357912224 0
+D s 44100 n 2 l 0:01.139 i 24
+F RR_VocoderBotA-No.wav 315686 0 1357912224 0
+D s 44100 n 2 l 0:01.192 i 24
+F RR_VocoderBotA-NotLogical.wav 393410 0 1357912224 0
+D s 44100 n 2 l 0:01.486 i 24
+F RR_VocoderBotA-NotPermitted.wav 347144 0 1357912226 0
+D s 44100 n 2 l 0:01.311 i 24
+F RR_VocoderBotA-NoWay1.wav 380372 0 1357912224 0
+D s 44100 n 2 l 0:01.437 i 24
+F RR_VocoderBotA-NoWay2.wav 355052 0 1357912224 0
+D s 44100 n 2 l 0:01.341 i 24
+F RR_VocoderBotA-NoWayOut.wav 403712 0 1357912224 0
+D s 44100 n 2 l 0:01.525 i 24
+F RR_VocoderBotA-OhMyGod1.wav 389384 0 1357912224 0
+D s 44100 n 2 l 0:01.471 i 24
+F RR_VocoderBotA-OhMyGod2.wav 358166 0 1357912224 0
+D s 44100 n 2 l 0:01.353 i 24
+F RR_VocoderBotA-OhYeah1.wav 334880 0 1357912224 0
+D s 44100 n 2 l 0:01.265 i 24
+F RR_VocoderBotA-OhYeah2.wav 359882 0 1357912224 0
+D s 44100 n 2 l 0:01.359 i 24
+F RR_VocoderBotA-OnTheDancefloor1.wav 432602 0 1357912224 0
+D s 44100 n 2 l 0:01.634 i 24
+F RR_VocoderBotA-OnTheDancefloor2.wav 431060 0 1357912224 0
+D s 44100 n 2 l 0:01.628 i 24
+F RR_VocoderBotA-Planet.wav 248378 0 1357912224 0
+D s 44100 n 2 l 0:00.938 i 24
+F RR_VocoderBotA-Play.wav 252350 0 1357912224 0
+D s 44100 n 2 l 0:00.953 i 24
+F RR_VocoderBotA-Positive.wav 278390 0 1357912224 0
+D s 44100 n 2 l 0:01.051 i 24
+F RR_VocoderBotA-Record.wav 291566 0 1357912224 0
+D s 44100 n 2 l 0:01.101 i 24
+F RR_VocoderBotA-Robot.wav 340430 0 1357912224 0
+D s 44100 n 2 l 0:01.286 i 24
+F RR_VocoderBotA-Robotic.wav 307094 0 1357912224 0
+D s 44100 n 2 l 0:01.160 i 24
+F RR_VocoderBotA-Searching.wav 293042 0 1357912224 0
+D s 44100 n 2 l 0:01.107 i 24
+F "RR_VocoderBotA-Solar System.wav" 395108 0 1357912224 0
+D s 44100 n 2 l 0:01.492 i 24
+F RR_VocoderBotA-Space.wav 358184 0 1357912224 0
+D s 44100 n 2 l 0:01.353 i 24
+F RR_VocoderBotA-Start.wav 278342 0 1357912224 0
+D s 44100 n 2 l 0:01.051 i 24
+F RR_VocoderBotA-StayWhereYouAre.wav 474704 0 1357912224 0
+D s 44100 n 2 l 0:01.793 i 24
+F RR_VocoderBotA-Stop.wav 306362 0 1357912224 0
+D s 44100 n 2 l 0:01.157 i 24
+F RR_VocoderBotA-System.wav 289190 0 1357912226 0
+D s 44100 n 2 l 0:01.092 i 24
+F RR_VocoderBotA-TakeItHigher.wav 394700 0 1357912224 0
+D s 44100 n 2 l 0:01.491 i 24
+F RR_VocoderBotA-TakeMeHome.wav 392456 0 1357912224 0
+D s 44100 n 2 l 0:01.482 i 24
+F RR_VocoderBotA-Universe.wav 335144 0 1357912224 0
+D s 44100 n 2 l 0:01.266 i 24
+F RR_VocoderBotA-Warning.wav 342542 0 1357912226 0
+D s 44100 n 2 l 0:01.294 i 24
+F RR_VocoderBotA-WhatAreYouDoing.wav 395750 0 1357912224 0
+D s 44100 n 2 l 0:01.495 i 24
+F RR_VocoderBotA-WhatDoYouWant.wav 403694 0 1357912224 0
+D s 44100 n 2 l 0:01.525 i 24
+F RR_VocoderBotA-WhereAreWe.wav 305192 0 1357912224 0
+D s 44100 n 2 l 0:01.153 i 24
+F RR_VocoderBotA-WhereAreYou.wav 322448 0 1357912224 0
+D s 44100 n 2 l 0:01.218 i 24
+F RR_VocoderBotA-WhoAreYou.wav 322376 0 1357912224 0
+D s 44100 n 2 l 0:01.218 i 24
+F RR_VocoderBotA-WhyAreYouHere.wav 373982 0 1357912224 0
+D s 44100 n 2 l 0:01.413 i 24
+F RR_VocoderBotA-WhyDoYouSayThat.wav 367274 0 1357912224 0
+D s 44100 n 2 l 0:01.387 i 24
+F RR_VocoderBotA-Yes.wav 252170 0 1357912224 0
+D s 44100 n 2 l 0:00.952 i 24
+F RR_VocoderBotA-YouKillMe.wav 361784 0 1357912224 0
+D s 44100 n 2 l 0:01.366 i 24
+F RR_VocoderBotA-YouLose.wav 361592 0 1357912224 0
+D s 44100 n 2 l 0:01.366 i 24

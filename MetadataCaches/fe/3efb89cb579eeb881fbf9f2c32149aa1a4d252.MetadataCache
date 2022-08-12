@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundBits -  Screams & Shouts 2 - Monsters"
+F Monster_Pain_Death_121.wav 1063310 0 1583868134 0
+D t "Screams and Shouts 2 - Voalized Monsters" y 2015-12-14 d "Monster, Pain, Moan, Dying" s 96000
+D n 2 r 25:09.658 l 0:01.838 i 24
+F Monster_Roar_Growl_009.wav 2515218 0 1583868135 0
+D t "Screams and Shouts 2 - Voalized Monsters" y 2015-12-10 d "Monster, Growl, Threaten, Angry, Hiss" s 96000
+D n 2 r 0:43.285 l 0:04.360 i 24
+F Monster_Roar_Growl_164.wav 761120 0 1583867534 0
+D y 2015-12-21 d "Creature, Goblin, Insect, Angry, Hiss, Threaten" s 96000 n 2
+D r 0:13.898 l 0:01.318 i 24
+F Monster_Struggle_Grunt_240.wav 395560 0 1583867535 0
+D y 2015-12-21 d "Creature, Goblin, Insect, Grunt, Struggle, Attack, Angry" s 96000 n 1
+D r 1:01.376 l 0:01.366 i 24

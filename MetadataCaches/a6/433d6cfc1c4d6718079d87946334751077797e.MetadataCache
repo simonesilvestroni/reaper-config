@@ -1,0 +1,64 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/AMBIENCE/AMB - FIRE"
+F "AMB - FIRE - crack - 01.wav" 5128 0 1299534632 0
+D s 44100 n 1 l 0:00.056 i 16
+F "AMB - FIRE - crack - 02.wav" 1926 0 1299534632 0
+D s 44100 n 1 l 0:00.020 i 16
+F "AMB - FIRE - crack - 03.wav" 10672 0 1299534632 0
+D s 44100 n 1 l 0:00.119 i 16
+F "AMB - FIRE - crack - 04.wav" 4500 0 1299534632 0
+D s 44100 n 1 l 0:00.049 i 16
+F "AMB - FIRE - crack - 05.wav" 9192 0 1299534632 0
+D s 44100 n 1 l 0:00.102 i 16
+F "AMB - FIRE - crack - 06.wav" 7792 0 1299534632 0
+D s 44100 n 1 l 0:00.086 i 16
+F "AMB - FIRE - crack - 07.wav" 17174 0 1299534632 0
+D s 44100 n 1 l 0:00.193 i 16
+F "AMB - FIRE - crack - 08.wav" 7204 0 1299534632 0
+D s 44100 n 1 l 0:00.080 i 16
+F "AMB - FIRE - crack - 09.wav" 3152 0 1299534632 0
+D s 44100 n 1 l 0:00.034 i 16
+F "AMB - FIRE - crack - 10.wav" 3602 0 1299534632 0
+D s 44100 n 1 l 0:00.039 i 16
+F "AMB - FIRE - crackle - loop.wav" 435744 0 1299534632 0
+D s 44100 n 1 l 0:04.938 i 16
+F "AMB - FIRE - crackly - lowhumloop.wav" 39622 0 1299534632 0
+D s 4000 n 1 l 0:04.936 i 16
+F "AMB - FIRE - crackly - medhumloop.wav" 59350 0 1299534632 0
+D s 6000 n 1 l 0:04.934 i 16
+F "AMB - FIRE - crackly - shortloop.wav" 435744 0 1299534632 0
+D s 44100 n 1 l 0:04.938 i 16
+F "AMB - FIRE - large - loop - mono.wav" 1696728 0 1299534632 0
+D s 44100 n 1 l 0:19.235 i 16
+F "AMB - FIRE - med - loop - mono.wav" 1253946 0 1299534632 0
+D s 44100 n 1 l 0:14.213 i 16
+F "AMB - FIRE - small - loop - mono.wav" 2514582 0 1299534632 0
+D s 44100 n 1 l 0:28.508 i 16
+F "Fire 1.aiff" 11965580 0 1505997470 0
+D a "Sound Ideas" d www.sound-ideas.com p 123.3442 s 48000
+D n 2 l 1:02.264 i 16
+F "Fire 1.wav" 10983666 0 1439163553 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.264
+D i 16
+F "Fire 2.aiff" 11875392 0 1505997470 0
+D a "Sound Ideas" d www.sound-ideas.com p 124.2818 s 48000
+D n 2 l 1:01.795 i 16
+F "Fire 2.wav" 10900806 0 1439162321 0
+D a "Sound Ideas" s 44100 n 2 l 1:01.795
+D i 16
+F "Fire 3.wav" 11006756 0 1439161275 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "Fire 4.wav" 11095044 0 1439162836 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.896
+D i 16
+F "Fire Burning And Crackling.mp3" 864338 0 1583931099 0
+D s 44100 n 2 l 0:26.959 i 256k
+F "Fire Long.wav" 15610038 0 1202138872 0
+D y 2008-02-04 s 44100 n 1 l 2:56.976
+D i 16
+F "Firecampfirecam S08Fi.12.wav" 65898286 0 1372263248 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"FIRE, FIRE, CAMPFIRE, CAMPING, WOOD, CRACKLE, LOOP"'
+D d '"FIRE, FIRE, CAMPFIRE, CAMPING, WOOD, CRACKLE, LOOP"' s 96000 n 2 l 1:54.240
+D i 24
+F "House Fire Burning.mp3" 1162761 0 1583931175 0
+D s 44100 n 2 l 0:36.285 i 256k

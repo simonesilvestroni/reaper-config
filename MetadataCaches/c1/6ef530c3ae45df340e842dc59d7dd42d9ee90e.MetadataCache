@@ -1,0 +1,49 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Ultrabeat Samples/Drum Machine Designer/Neon GB"
+F Blip_Neon_GB.aif 23498 0 1430433359 0
+D s 44100 n 2 l 0:00.127 i 16
+F Block_Neon_GB.aif 41870 0 1655146331 0
+D s 44100 n 2 l 0:00.228 i 16
+F Clap_1_Neon_GB.aif 255982 0 1655146331 0
+D s 44100 n 2 l 0:01.414 i 16
+F Clap_2_Neon_GB.aif 56882 0 1430433359 0
+D s 44100 n 2 l 0:00.311 i 16
+F Clap_3_Neon_GB.aif 32698 0 1430433359 0
+D s 44100 n 2 l 0:00.177 i 16
+F Crash_Neon_GB.aif 115374 0 1430433359 0
+D s 44100 n 2 l 0:00.635 i 16
+F Djembe_Neon_GB.aif 151854 0 1430433359 0
+D s 44100 n 2 l 0:00.837 i 16
+F Hi-Hat_1_Neon_GB.aif 72458 0 1655146331 0
+D s 44100 n 2 l 0:00.398 i 16
+F Hi-Hat_2_Neon_GB.aif 64646 0 1430433359 0
+D s 44100 n 2 l 0:00.354 i 16
+F Hi-Hat_Open_Neon_GB.aif 37650 0 1430433359 0
+D s 44100 n 1 l 0:00.412 i 16
+F Kick_1_Neon_GB.aif 28326 0 1430433359 0
+D s 44100 n 1 l 0:00.308 i 16
+F Kick_2_Neon_GB.aif 25936 0 1430433359 0
+D s 44100 n 1 l 0:00.282 i 16
+F Ride_Neon_GB.aif 792680 0 1655146331 0
+D s 44100 n 2 l 0:04.387 i 16
+F Shaker_1_Neon_GB.aif 35518 0 1430433359 0
+D s 44100 n 2 l 0:00.193 i 16
+F Shaker_2_Neon_GB.aif 38538 0 1655146331 0
+D s 44100 n 2 l 0:00.210 i 16
+F Snare_1_Neon_GB.aif 58466 0 1430433359 0
+D s 44100 n 2 l 0:00.320 i 16
+F Snare_2_Neon_GB.aif 15674 0 1430433359 0
+D s 44100 n 1 l 0:00.168 i 16
+F Snare_3_Neon_GB.aif 109122 0 1655146331 0
+D s 44100 n 2 l 0:00.601 i 16
+F Synth_FX_Neon_GB.aif 158494 0 1430433359 0
+D s 44100 n 2 l 0:00.874 i 16
+F Thump_Neon_GB.aif 55522 0 1430433359 0
+D s 44100 n 2 l 0:00.304 i 16
+F Tom_High_Neon_GB.aif 67490 0 1430433359 0
+D s 44100 n 2 l 0:00.370 i 16
+F Tom_HighMid_Neon_GB.aif 78198 0 1430433359 0
+D s 44100 n 2 l 0:00.429 i 16
+F Tom_Low_Neon_GB.aif 93034 0 1430433359 0
+D s 44100 n 2 l 0:00.512 i 16
+F Tom_Mid_Neon_GB.aif 62062 0 1430433359 0
+D s 44100 n 2 l 0:00.340 i 16

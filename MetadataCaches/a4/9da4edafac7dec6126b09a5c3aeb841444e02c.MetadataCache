@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - 3maze -  Doors, Locks and Drawers"
+F door_close_003.wav 385246 0 1583867139 0
+D y 2015-05-25 s 96000 n 2 r 1:00:00.000
+D l 0:00.666 i 24
+F door_open_004.wav 433310 0 1583868491 0
+D y 2015-08-10 s 96000 n 2 r 1:00:02.000
+D l 0:00.750 i 24
+F draw_close_005.wav 613544 0 1583868491 0
+D y 2015-06-01 s 96000 n 2 r 1:00:00.000
+D l 0:01.062 i 24
+F squeaky_closet_door_open_001.wav 1684736 0 1583868492 0
+D y 2015-01-12 s 96000 n 2 r 1:00:00.000
+D l 0:02.919 i 24

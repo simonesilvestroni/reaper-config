@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - West Wolf - WATER"
+F "W 04 Water_05_Cave, Ambience, Water Drops, River_T05.wav" 12286746 0 1583869091 0
+D t WATER c "water, cave, ambience, water drops, river, stereo, ortf" d "sFILENAME=W 04 Water_05_Cave, Ambience, Water Drops, River_T05.wav  sTRK1=L  sTRK2=R  sNOTE=water, cave, ambience, water drops, river, stereo, ortf  sPROJECT=WATER  sSCENE=W 04 Water_05_Cave, Ambience, Water Drops, River_  sTAPE=ORTF  sTAKE=05  " s 48000
+D n 2 l 0:42.623 i 24
+F "W 04 Water_10_City, Rain, Roof_T04.wav" 17003042 0 1583868995 0
+D t WATER c "water, city, rain, roof, raindrops, diferent surfaces, stereo, xy, " d "sFILENAME=W 04 Water_10_City, Rain, Roof_T04.wav  sSCENE=W 04 Water_10_City, Rain, Roof_  sTAPE=XY  sTAKE=04  sTRK1=L  sTRK2=R  sNOTE=water, city, rain, roof, raindrops, diferent surfaces, stereo, xy,   " s 48000
+D n 2 l 0:59.000 i 24
+F "W 04 Water_19_Splashing, Sailing, Ship_T03.wav" 36529728 0 1583869037 0
+D t WATER y 2016-11-25 c "water, splashing, sailing, ship, stereo, " d "sPROJECT=WATER  sSCENE=W 04 Water_19_Splashing, Sailing, Ship_  sTAPE=ORTF  sTAKE=03  sNOTE=water, splashing, sailing, ship, stereo,   sTRK1=L  sTRK2=R  sFILENAME=W 04 Water_19_Splashing, Sailing, Ship_T03.wav  "
+D s 48000 n 2 l 2:06.800 i 24
+F "W 04 Water_24_Splashing, Sailing, Small, Fishing, Ship_T03.wav" 31403226 0 1583869098 0
+D t WATER c "water, splashing,sailing, small, fishing, ship, stereo, " d "sFILENAME=W 04 Water_24_Splashing, Sailing, Small, Fishing, Ship_T03.wav  sSCENE=W 04 Water_24_Splashing, Sailing, Small, Fishing, Ship_  sTAPE=ORTF  sTAKE=03  sNOTE=water, splashing,sailing, small, fishing, ship, stereo,   sTRK1=L  sTRK2=R  " s 48000
+D n 2 l 1:49.000 i 24

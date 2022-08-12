@@ -1,0 +1,552 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Dance Urban Pop"
+F Background_arp(130BPM).wav 977122 0 1294742078 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bashful_bass01(130BPM).wav 977122 0 1294741680 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bashful_bass02(130BPM).wav 977122 0 1294741680 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bashful_bass03(130BPM).wav 977122 0 1294741680 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bee_Synt01(130BPM).wav 1954108 0 1294741680 0
+D a "The Groove Criminals" s 44100 n 2 l 0:07.384
+D i 24
+F Bee_Synt02(130BPM).wav 977122 0 1294741680 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bee_Synt03(130BPM).wav 977122 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bee_Synt04(130BPM).wav 977122 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bee_Synt05(130BPM).wav 977122 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Bee_Synt06(130BPM).wav 977122 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F BomBomBass(130BPM).wav 977122 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Buzzbass01(128BPM).wav 992386 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Buzzbass02(128BPM).wav 992386 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Chewy_Bass01(92BPM).wav 1380658 0 1294741682 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Chewy_Bass02(92BPM).wav 1380658 0 1294741684 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Crossover_Synth01(127BPM).wav 1000204 0 1294741684 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Crossover_Synth02(127BPM).wav 1000204 0 1294741684 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Crossover_Synth03(110BPM).wav 1154758 0 1294741684 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.363
+D i 24
+F Crossover_Synth04(100BPM).wav 1270222 0 1294741684 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Crossover_Synth05(120BPM).wav 1058536 0 1294741684 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Driven_Bass01(120BPM).wav 1058536 0 1294742002 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Driven_Bass02(120BPM).wav 1058536 0 1294741994 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Driven_Bass03(82BPM).wav 1549018 0 1294741686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.853
+D i 24
+F Fader(80BPM).wav 1587736 0 1294741686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Flabby_Strings01(100BPM).wav 1270222 0 1294741686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Flabby_Strings02(100BPM).wav 1270222 0 1294741686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Flabby_Strings03(100BPM).wav 1270222 0 1294741686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F French_filtered01(130BPM).wav 977122 0 1294741686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F French_filtered02(130BPM).wav 977122 0 1294741688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F French_filtered03(125BPM).wav 1016200 0 1294741688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.840
+D i 24
+F French_filtered04(130BPM).wav 977122 0 1294741688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Gated_Chew(92BPM).wav 1380658 0 1294741688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Looking_back_bass(1340BPM).wav 977122 0 1294741954 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F One_Note_bass01(130BPM).wav 977122 0 1294741688 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F One_Note_bass02(130BPM).wav 977122 0 1294741940 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Paddy01(130BPM).wav 977122 0 1294741928 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Phart_bass01(130BPM).wav 977122 0 1294741916 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Phart_bass02(128BPM).wav 992386 0 1294741906 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Phart_bass03(128BPM).wav 992386 0 1294741690 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Phart_bass04(122BPM).wav 1041190 0 1294741690 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Pootpoot_bass(130BPM).wav 977122 0 1294741690 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance01a(130BPM).wav 977122 0 1294741334 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance01b(130BPM).wav 977122 0 1294741334 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance01c(130BPM).wav 977122 0 1294741334 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance02a(128BPM).wav 992386 0 1294741334 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance02b(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance02c(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance02d(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance03a(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance03b(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance03c(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance04a(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance04b(128BPM).wav 992386 0 1294741336 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance04c(128BPM).wav 992386 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance05a(128BPM).wav 992386 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance05b(128BPM).wav 992386 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance05c(128BPM).wav 992386 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance06a(125BPM).wav 1016200 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.840
+D i 24
+F Pop_Dance06b(125BPM).wav 1016200 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.840
+D i 24
+F Pop_Dance06c(125BPM).wav 1016200 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.840
+D i 24
+F Pop_Dance07a(130BPM).wav 977122 0 1294741338 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance07b(130BPM).wav 977122 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance07c(130BPM).wav 977122 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance08a(127BPM).wav 1000204 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Pop_Dance08b(127BPM).wav 1000204 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Pop_Dance08c(127BPM).wav 1000204 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Pop_Dance09a(110BPM).wav 1154758 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.363
+D i 24
+F Pop_Dance09b(110BPM).wav 1154758 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.363
+D i 24
+F Pop_Dance09c(110BPM).wav 1154758 0 1294741340 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.363
+D i 24
+F Pop_Dance10a(122BPM).wav 1041190 0 1294741342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Pop_Dance10b(122BPM).wav 1041190 0 1294741342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Pop_Dance10c(122BPM).wav 1041190 0 1294741342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Pop_Dance11a(100BPM).wav 1270222 0 1294741342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Pop_Dance11b(100BPM).wav 1270222 0 1294741342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Pop_Dance11c(100BPM).wav 1270222 0 1294741342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Pop_Dance12a(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance12b(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance12c(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance12d(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance13a(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance13b(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance13c(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance13d(120BPM).wav 1058536 0 1294741344 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Pop_Dance14a(128BPM).wav 992386 0 1294748342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance14b(128BPM).wav 992386 0 1294748342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance14c(128BPM).wav 992386 0 1294748342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Pop_Dance15a(130BPM).wav 977122 0 1294748342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance15b(130BPM).wav 977122 0 1294748342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pop_Dance15c(130BPM).wav 977122 0 1294748342 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Processed_Chordz01(130BPM).wav 977122 0 1294741690 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Processed_Chordz02(130BPM).wav 977122 0 1294741690 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Processed_Chordz03(130BPM).wav 977122 0 1294741690 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Processed_Chordz04(130BPM).wav 977122 0 1294741692 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Processed_Chordz05(130BPM).wav 977122 0 1294741692 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Processed_Chordz06(80BPM).wav 793936 0 1294741692 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.000
+D i 24
+F Processed_Chordz07(122BPM).wav 1041190 0 1294741692 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Pump_Bass01(130BPM).wav 977122 0 1294741692 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Pumpy80s(130BPM).wav 977122 0 1294741692 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F ShadowBass01(128BPM).wav 992386 0 1294741870 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F ShadowBass02(128BPM).wav 992386 0 1294741694 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.750
+D i 24
+F Simple_8_Bass01(130BPM).wav 977122 0 1294741854 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Simple_8_Bass02(130BPM).wav 977122 0 1294741694 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Slippy_Synth01(122BPM).wav 1041190 0 1294741694 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Slippy_Synth02(122BPM).wav 1041190 0 1294741694 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Slippy_Synth03(122BPM).wav 1041190 0 1294741694 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Stormy(130BPM).wav 1954108 0 1294741824 0
+D a "The Groove Criminals" s 44100 n 2 l 0:07.384
+D i 24
+F Subby01(130BPM).wav 977122 0 1294741808 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Synth_arp01(130BPM).wav 977122 0 1294741696 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Synth_arp02(130BPM).wav 977122 0 1294741696 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Synth_arp03(120BPM).wav 2116936 0 1294741696 0
+D a "The Groove Criminals" s 44100 n 2 l 0:08.000
+D i 24
+F Synth_arp04(105BPM).wav 1209742 0 1294741696 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.571
+D i 24
+F Synth_arp05(105BPM).wav 1209742 0 1294741698 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.571
+D i 24
+F Synth_arp06(105BPM).wav 1209742 0 1294741698 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.571
+D i 24
+F Synth_arp07(80BPM).wav 1587736 0 1294741698 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Synth_arp08(130BPM).wav 977122 0 1294741698 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Synth_arp09(122BPM).wav 1041190 0 1294741698 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.934
+D i 24
+F Trad_bass01(130BPM).wav 977122 0 1294741698 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Trad_bass02(130BPM).wav 977122 0 1294741764 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Trad_bass03(130BPM).wav 977122 0 1294741756 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Trad_bass04(130BPM).wav 977122 0 1294741748 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Trancey_Synth(127BPM).wav 1000204 0 1294741700 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Two_Note_bass(130BPM).wav 977122 0 1294741700 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_Dance(130BPM).wav 977030 0 1294746164 0
+D s 44100 n 2 l 0:03.692 i 24
+F Urban_dance_chopSynth01(70BPM).wav 1814542 0 1294741700 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_dance_chopSynth02(70BPM).wav 1814542 0 1294741700 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_dance_chopSynth03(92BPM).wav 1380658 0 1294741700 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Urban_pop01a(70BPM).wav 1814542 0 1294741346 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop01b(70BPM).wav 1814542 0 1294741346 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop01c(70BPM).wav 1814542 0 1294741346 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop02a(92BPM).wav 1380658 0 1294741346 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Urban_pop02b(92BPM).wav 1380658 0 1294741346 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Urban_pop02c(92BPM).wav 1380658 0 1294741346 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.217
+D i 24
+F Urban_pop03a(115BPM).wav 1104556 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.173
+D i 24
+F Urban_pop03b(115BPM).wav 1104556 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.173
+D i 24
+F Urban_pop03c(115BPM).wav 1104556 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.173
+D i 24
+F Urban_pop04a(130BPM).wav 977122 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop04b(130BPM).wav 977122 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop04c(130BPM).wav 977122 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop05a(130BPM).wav 977122 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop05b(130BPM).wav 977122 0 1294741348 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop05c(130BPM).wav 977122 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop05d(130BPM).wav 977122 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop05e(130BPM).wav 977122 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop06a(95BPM).wav 1337068 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.052
+D i 24
+F Urban_pop06b(95BPM).wav 1337068 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.052
+D i 24
+F Urban_pop06c(95BPM).wav 1337068 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.052
+D i 24
+F Urban_pop07a(90BPM).wav 1411342 0 1294741350 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.333
+D i 24
+F Urban_pop07b(90BPM).wav 1411342 0 1294741352 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.333
+D i 24
+F Urban_pop07c(90BPM).wav 1411342 0 1294741352 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.333
+D i 24
+F Urban_pop08a(100BPM).wav 1270222 0 1294741352 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop08b(100BPM).wav 1270222 0 1294741352 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop08c(100BPM).wav 1270222 0 1294741352 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop08d(100BPM).wav 1270222 0 1294741354 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop09a(100BPM).wav 1587736 0 1294741354 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_pop09b(100BPM).wav 1587736 0 1294741354 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_pop09c(100BPM).wav 1587736 0 1294741354 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_pop10a(82BPM).wav 1549018 0 1294741354 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.853
+D i 24
+F Urban_pop10b(82BPM).wav 1549018 0 1294741354 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.853
+D i 24
+F Urban_pop10c(82BPM).wav 1549018 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:05.853
+D i 24
+F Urban_pop11a(100BPM).wav 1270222 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop11b(100BPM).wav 1270222 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop11c(100BPM).wav 1270222 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Urban_pop12a(120BPM).wav 1058536 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Urban_pop12b(120BPM).wav 1058536 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Urban_pop12c(120BPM).wav 1058536 0 1294741356 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Urban_pop12d(120BPM).wav 1058536 0 1294741358 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.000
+D i 24
+F Urban_pop13a(70BPM).wav 1814542 0 1294741358 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop13b(70BPM).wav 1814542 0 1294741358 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop13c(70BPM).wav 1814542 0 1294741358 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop13d(70BPM).wav 1814542 0 1294741358 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.857
+D i 24
+F Urban_pop14a(118BPM).wav 1076476 0 1294747198 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.067
+D i 24
+F Urban_pop14b(118BPM).wav 1076476 0 1294747198 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.067
+D i 24
+F Urban_pop14c(118BPM).wav 1076476 0 1294747198 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.067
+D i 24
+F Urban_pop15a(130BPM).wav 977122 0 1294747198 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop15b(130BPM).wav 977122 0 1294747200 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop15c(130BPM).wav 977122 0 1294747200 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 24
+F Urban_pop16a(80BPM).wav 1587736 0 1294749402 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_pop16b(80BPM).wav 1587736 0 1294749402 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_pop16c(80BPM).wav 1587736 0 1294749404 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_pop16d(80BPM).wav 1587736 0 1294749404 0
+D a "The Groove Criminals" s 44100 n 2 l 0:06.000
+D i 24
+F Urban_Trance_Chops01(100BPM).wav 1270222 0 1294741702 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.800
+D i 24
+F Will_I_try_bass01(127BPM).wav 1000204 0 1294741702 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Will_I_try_bass02(127BPM).wav 1000204 0 1294741702 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24
+F Will_I_try_bass03(127BPM).wav 1000204 0 1294741702 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.779
+D i 24

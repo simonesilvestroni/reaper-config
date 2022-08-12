@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaTeam Extensions" commit="a97336e09c44a18024db010f187eee4a3f005064">
+  <category name="API">
+    <reapack name="ak5k_ReaBlink.ext" type="extension" desc="ReaBlink: Ableton Link REAPER plug-in extension">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 REAPER Plug-In Extension providing ReaScript bindings for Ableton Link session, and Ableton Link Test Plan compliant implementations (Master/Puppet modes) for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\field{\*\fldinst{HYPERLINK "https://github.com/ak5k/reablink/wiki/Quick-start-user-guide"}}{\fldrslt{\ul
+Quick start user guide
+}}}
+\line {\field{\*\fldinst{HYPERLINK "https://forum.cockos.com/showthread.php?t=254027"}}{\fldrslt{\ul
+More information
+}}}
+\par}
+}
+]]></description>
+        <link rel="screenshot">https://i.imgur.com/Q8PZUIk.gif</link>
+      </metadata>
+      <version name="0.4.3" author="ak5k" time="2021-12-24T00:53:54Z">
+        <source platform="win64" file="reaper_reablink-x64.dll">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-x64.dll</source>
+        <source main="main" type="script" file="ReaBlink_Monitor.lua">https://github.com/ak5k/reablink/releases/download/v0.4.3/ReaBlink_Monitor.lua</source>
+        <source platform="win32" file="reaper_reablink-x86.dll">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-x86.dll</source>
+        <source platform="darwin64" file="reaper_reablink-arm64-x86_64.dylib">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-arm64-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_reablink-arm64-x86_64.dylib">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-arm64-x86_64.dylib</source>
+        <source platform="linux32" file="reaper_reablink-i686.so">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-i686.so</source>
+        <source platform="linux64" file="reaper_reablink-x86_64.so">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_reablink-armv7l.so">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_reablink-aarch64.so">https://github.com/ak5k/reablink/releases/download/v0.4.3/reaper_reablink-aarch64.so</source>
+      </version>
+      <version name="0.4.4" author="ak5k" time="2021-12-29T00:06:15Z">
+        <changelog><![CDATA[Puppet mode related performance tweaks.
+ReaBlink Monitor script file now has commented out placeholder line for enabling Master mode.]]></changelog>
+        <source platform="win64" file="reaper_reablink-x64.dll">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-x64.dll</source>
+        <source main="main" type="script" file="ReaBlink_Monitor.lua">https://github.com/ak5k/reablink/releases/download/v0.4.4/ReaBlink_Monitor.lua</source>
+        <source platform="win32" file="reaper_reablink-x86.dll">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-x86.dll</source>
+        <source platform="linux32" file="reaper_reablink-i686.so">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-i686.so</source>
+        <source platform="linux64" file="reaper_reablink-x86_64.so">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_reablink-armv7l.so">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_reablink-aarch64.so">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-aarch64.so</source>
+        <source platform="darwin-arm64" file="reaper_reablink-arm64.dylib">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-arm64.dylib</source>
+        <source platform="darwin64" file="reaper_reablink-x86_64.dylib">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-x86_64.dylib</source>
+        <source platform="darwin32" file="reaper_reablink-i386.dylib">https://github.com/ak5k/reablink/releases/download/v0.4.4/reaper_reablink-i386.dylib</source>
+      </version>
+    </reapack>
+    <reapack name="js_ReaScriptAPI.ext" type="extension" desc="js_ReaScriptAPI: API functions for ReaScripts">
+      <metadata>
+        <link rel="donation">https://www.paypal.me/juliansader</link>
+      </metadata>
+      <version name="0.93" author="juliansader" time="2018-10-11T12:01:40Z">
+        <changelog><![CDATA[Initial beta release]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.93/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.93/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.93/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.93/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.93/reaper_js_ReaScriptAPI32.so</source>
+      </version>
+      <version name="0.94" author="juliansader" time="2018-10-14T15:44:14Z">
+        <changelog><![CDATA[New WAV writer functions by Xenakios.
+Fixed bug in JS_Window_GetRelated.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.94/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.94/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.94/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.94/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.94/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.94/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.95" author="juliansader" time="2018-10-17T21:51:48Z">
+        <changelog><![CDATA[* New function: JS_Window_SetOpacity.
+* New function: JS_Window_GetClassName.
+* Extension loads properly in Linux.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.95/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.95/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.95/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.95/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.95/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.95/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.951" author="juliansader" time="2018-10-25T06:09:04Z">
+        <changelog><![CDATA[* Safety check for JS_Window_SetOpacity (only apply to framed parent windows).]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.951/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.951/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.951/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.951/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.951/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.951/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.962" author="juliansader" time="2018-12-21T13:08:53Z">
+        <changelog><![CDATA[* New functions: Browse for files and folders.
+* New functions: Various ListView.
+* New function: FindChildByID.
+* Changed functions: Functions that previously stored strings in ExtStates, now return the strings directly. 
+* Requirements: On Windows OS, C++ redistributable not required anymore.
+* Requirements: REAPER v5.965 or later.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.962/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.962/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.962/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.962/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.962/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.962/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.963" author="juliansader" time="2019-01-20T17:08:00Z">
+        <changelog><![CDATA[* Find window functions: Fix bug for macOS.
+* LoadCursorFromFile: new optional parameter to re-use cursors.
+* Window_FindEx.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.963/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.963/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.963/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.963/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.963/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.963/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.964" author="juliansader" time="2019-02-17T02:44:53Z">
+        <changelog><![CDATA[* JS_Window_IsWindow implemented on macOS and Linux.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.964/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.964/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.964/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.964/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.964/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.964/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.970" author="juliansader" time="2019-02-26T05:53:18Z">
+        <changelog><![CDATA[* BrowseForOpenFiles: On Windows, returns folder with terminal backslash.
+* All file dialogs: On Windows, accept forward slashes in initial folder.
+* IsWindow function: Improved on Linux and macOS.
+* New functions: Memory allocation and access.
+* Deprecated function: StrToPtr.
+* WindowMessage functions: Recognize ComboBox message names such as "CB_GETCURSEL".]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.970/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.970/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.970/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.970/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.970/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.970/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.971" author="juliansader" time="2019-02-26T09:07:20Z">
+        <changelog><![CDATA[* Fix possible memory access error in file dialogs.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.971/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.971/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.971/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.971/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.971/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.971/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.972" author="juliansader" time="2019-03-08T23:12:15Z">
+        <changelog><![CDATA[* WindowsOS: Enable confirmation dialogs for file functions.
+* macOS: Fix GetClientRect.
+* GDI: macOS and Linux use same color format as WindowsOS.
+* New: Window_GetLong, MonitorFromRect, GetClientSize.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.972/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.972/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.972/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.972/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.972/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.972/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.980" author="juliansader" time="2019-04-04T18:37:22Z">
+        <changelog><![CDATA[* New JS_Composite functions for compositing LICE bitmaps into REAPER windows.
+* New JS_VKeys functions for intercepting virtual keys / keyboard input.
+* GDI blitting: Enable per-pixel alpha blending (except on Linux).]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.980a" author="juliansader" time="2019-04-04T22:34:13Z">
+        <changelog><![CDATA[* New JS_Composite functions for compositing LICE bitmaps into REAPER windows.
+* New JS_VKeys functions for intercepting virtual keys / keyboard input.
+* GDI blitting: Enable per-pixel alpha blending (except on Linux).]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.980/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.981" author="juliansader" time="2019-04-08T08:27:46Z">
+        <changelog><![CDATA[* JS_GDI: Improved handling of GDI HDCs.
+* JS_Composite: Composited bitmaps can automatically stretch to fill destination windows.
+* JS_WindowMessage: Large pointer values can be Sent and Posted.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.981/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.981/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.981/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.981/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.981/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.981/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.982" author="juliansader" time="2019-04-12T21:45:58Z">
+        <changelog><![CDATA[* New Xen_ functions for audio preview.
+* JS_Composite: Some improvements, including src and dest RECTs can be changed without first unlinking.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.982/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.982/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.982/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.982/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.982/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.982/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.984" author="juliansader" time="2019-04-13T10:14:55Z">
+        <changelog><![CDATA[* Hotfix for keyboard intercepts on macOS. [p=2121089]]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.984/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.984/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.984/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.984/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.984/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.984/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.985" author="juliansader" time="2019-04-30T20:43:59Z">
+        <changelog><![CDATA[* VKeys: Keyboard intercepts are first in queue, so work in MIDI editor too.
+* VKeys: Cutoff time, new functions for KeyUp and KeyDown.
+* LICE: MeasureText.
+* BrowseForOpenFiles: On WindowsOS, prevent creation of new files.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.985/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.985/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.985/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.985/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.985/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.985/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.986" author="juliansader" time="2019-05-03T13:22:45Z">
+        <changelog><![CDATA[* New function: JS_LICE_WritePNG]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.986/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.986/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.986/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.986/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.986/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.986/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.987" author="juliansader" time="2019-05-18T11:00:49Z">
+        <changelog><![CDATA[* New functions and options for color processing LICE bitmaps:
+* LICE_Blit options "BLUR", "ALPHAMUL" and "CHANCOPY_XTOY"
+* LICE_ProcessRect
+* LICE_AlterRect/BitmapHSV]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.987/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.987/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.987/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.987/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.987/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.987/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.988" author="juliansader" time="2019-06-12T20:34:53Z">
+        <changelog><![CDATA[* New: JS_Mouse_GetCursor]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.988/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.988/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.988/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.988/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.988/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.988/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.989" author="juliansader" time="2019-06-14T09:51:45Z">
+        <changelog><![CDATA[* Fix: Help text for Window_Find.
+* New: Window_FindTop.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.989/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.989/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.989/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.989/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.989/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.989/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.990" author="juliansader" time="2019-08-09T16:22:27Z">
+        <changelog><![CDATA[* Fix: Window_SetOpacity works on macOS.
+* New: JS_Window_Create.
+* New: JS_ListView_EnsureVisible.
+* New: More options for Window_Show.
+* New: JS_Window_SetZOrder options work on macOS.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.990/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.991" author="juliansader" time="2019-09-07T02:05:22Z">
+        <changelog><![CDATA[* New: JS_Window_SetStyle: Change frame styles of gfx and other windows. 
+* Improved: JS_Window_SetPosition: Full functionality of SetWindowPos.
+* Improved: Xen_StartSourcePreview: Add support for setting hardware output channels for PCM_source previews.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.991/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.992" author="juliansader" time="2019-09-27T11:55:52Z">
+        <changelog><![CDATA[* Support Unicode characters for file dialog functions, SetTitle, GetClassName, and GDI_DrawText. GetTitle does not yet work for all Unicode.
+* VKeys functions ignore repeated KEYDOWNs.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.992/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.993" author="juliansader" time="2019-09-30T22:09:31Z">
+        <changelog><![CDATA[* VKeys functions: Improved disregard auto-repeated KEYDOWN messages.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.993/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.994" author="juliansader" time="2019-10-31T10:14:49Z">
+        <changelog><![CDATA[* Fixed: Script-created windows crashing when subclassing.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.994/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.994/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.994/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.994/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.994/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.994/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.995" author="juliansader" time="2019-10-31T13:10:22Z">
+        <changelog><![CDATA[* Fixed: Script-created windows crashing when subclassing.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.995/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.996" author="juliansader" time="2019-12-26T21:37:31Z">
+        <changelog><![CDATA[* JS_Window_SetParent]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.996/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.997" author="juliansader" time="2019-12-28T20:11:53Z">
+        <changelog><![CDATA[* JS_WindowMessage_Send and _Post behave similarly when message is being intercepted by scripts.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.997/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.997/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.997/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.997/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.997/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.997/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.998" author="juliansader" time="2020-01-06T22:34:29Z">
+        <changelog><![CDATA[* Linux: Proper linking against GDK.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.998/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.998/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.998/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.998/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.998/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.998/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="0.999" author="juliansader" time="2020-02-08T21:59:30Z">
+        <changelog><![CDATA[* JS_Window functions: On Linux and macOS, don't crash if handle is invalid.
+* JS_Mouse_LoadCursorFromFile: On Windows, accept Unicode paths.
+* JS_GDI_ReleaseDC: Can release screen HDCs.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.999/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.999/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.999/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.999/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.999/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v0.999/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.000" author="juliansader" time="2020-04-06T23:43:14Z">
+        <changelog><![CDATA[* Composite, Composite_Unlink and DestroyBitmap automatically update and re-draw window.
+* Composite_Unlink can optionally unlink all bitmaps from window.
+* JS_LICE_List/ArrayAllBitmaps.
+* JS_Window_EnableMetal to check Metal mode on macOS.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.000/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.000/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.000/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.000/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.000/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.000/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.001" author="juliansader" time="2020-04-08T01:59:09Z">
+        <changelog><![CDATA[* Safely delete resources if REAPER is closed while script is running.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.001/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.001/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.001/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.001/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux32" file="reaper_js_ReaScriptAPI32.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.001/reaper_js_ReaScriptAPI32.so</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.001/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.002" author="juliansader" time="2020-04-18T23:31:07Z">
+        <changelog><![CDATA[* Linux and macOS: JS_Window_GetForeground returns top-level window.
+* Linux and macOS: Various tweaks in JS_Composite to reduce glitching.
+* WindowsOS: New JS_Composite_Delay function to reduce flickering.
+* JS_Composite: Auto-update now optional parameter.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.002/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.002/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.002/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.002/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.002/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.010" author="juliansader" time="2020-05-12T11:17:15Z">
+        <changelog><![CDATA[* Better handling of partially invalidated composited windows.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.01/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.01/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.01/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.01/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.01/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.210" author="juliansader" time="2020-05-14T14:19:13Z">
+        <changelog><![CDATA[* macOS: JS_Window_EnableMetal returns correct modes.
+* macOS: Compositing still doesn't work if Metal graphics is enabled.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.210/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.210/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.210/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.210/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.210/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.215" author="juliansader" time="2020-05-21T16:46:48Z">
+        <changelog><![CDATA[* Fixed: LICE_WritePNG when image has transparency.
+* New: LICE_LoadJPG, LICE_WriteJPG.
+* Updated: If Metal graphics, JS_Composite clips to client area.]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.215/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.215/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.215/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.215/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.215/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.217" author="juliansader" time="2020-10-07T15:36:24Z">
+        <changelog><![CDATA[* New: Various ListView functions
+* New: JS_File_Stat]]></changelog>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.217/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.217/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.217/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.217/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.217/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.220" author="juliansader" time="2020-12-24T00:06:07Z">
+        <changelog><![CDATA[* New: Functions for editing action shortcuts.
+* Changed: SetParent accepts null parent on WindowsOS.
+* Fixed: Re-built for Linux x64.]]></changelog>
+        <source platform="darwin-arm64" file="reaper_js_ReaScriptAPI64ARM.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.220/reaper_js_ReaScriptAPI64ARM.dylib</source>
+        <source platform="darwin32" file="reaper_js_ReaScriptAPI32.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.220/reaper_js_ReaScriptAPI32.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.220/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.220/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.220/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.220/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.301" author="juliansader" time="2022-02-03T21:05:11Z">
+        <changelog><![CDATA[* New: Zip/Unzip functions.
+* New: JS_LICE_SetFontFXColor, so that SHADOW can be properly black.
+* New: LoadPNG/JPGFromMemory functions.
+* Fixed: JS_ListView_SetItemState documentation.]]></changelog>
+        <source platform="darwin-arm64" file="reaper_js_ReaScriptAPI64ARM.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.301/reaper_js_ReaScriptAPI64ARM.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.301/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.301/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.301/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.301/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+      <version name="1.310" author="juliansader" time="2022-05-01T22:10:43Z">
+        <changelog><![CDATA[* New: ListView_GetHeader, Header_GetItemCount.
+* Fixed: On macOS, ListView_HitTest and ListView_GetItemRect uses client coordinates.
+* New: dll (on Windows) and dylib (on macOS) have embedded version info.]]></changelog>
+        <source platform="darwin-arm64" file="reaper_js_ReaScriptAPI64ARM.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.310/reaper_js_ReaScriptAPI64ARM.dylib</source>
+        <source platform="darwin64" file="reaper_js_ReaScriptAPI64.dylib">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.310/reaper_js_ReaScriptAPI64.dylib</source>
+        <source platform="win32" file="reaper_js_ReaScriptAPI32.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.310/reaper_js_ReaScriptAPI32.dll</source>
+        <source platform="win64" file="reaper_js_ReaScriptAPI64.dll">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.310/reaper_js_ReaScriptAPI64.dll</source>
+        <source platform="linux64" file="reaper_js_ReaScriptAPI64.so">https://github.com/juliansader/ReaExtensions/raw/master/js_ReaScriptAPI/v1.310/reaper_js_ReaScriptAPI64.so</source>
+      </version>
+    </reapack>
+    <reapack name="reaper_imgui.ext" type="extension" desc="ReaImGui: ReaScript binding for Dear ImGui">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaImGui: ReaScript binding for Dear ImGui\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaImGui is a ReaScript binding for the {\field{\*\fldinst{HYPERLINK "https://www.dearimgui.org/"}}{\fldrslt{\ul
+Dear ImGui
+}}}
+ toolkit. It adds over 300 ReaScript API functions (over 600 including constants!) for creating GPU-rendered GUI interfaces.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 See Dear ImGui's {\field{\*\fldinst{HYPERLINK "https://www.dearimgui.org/faq/"}}{\fldrslt{\ul
+FAQ
+}}}
+.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Contributing\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Send bug reports on the {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reaimgui/issues"}}{\fldrslt{\ul
+issue tracker
+}}}
+. The source code is provided under LGPLv3 on {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reaimgui"}}{\fldrslt{\ul
+GitHub
+}}}
+. Patches can be submitted as pull requests.\par}
+}
+]]></description>
+        <link rel="website" href="https://cfillion.ca">cfillion.ca</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=250419">Forum thread</link>
+        <link rel="website" href="https://github.com/cfillion/reaimgui">GitHub repository</link>
+        <link rel="website" href="https://github.com/cfillion/reaimgui/issues">Issue tracker</link>
+        <link rel="website" href="https://www.dearimgui.org/">dearimgui.org</link>
+        <link rel="website" href="https://www.dearimgui.org/faq">Dear ImGui FAQ</link>
+        <link rel="screenshot" href="https://i.imgur.com/lSUh8Yz.png">Simple Layout / Custom Rendering</link>
+        <link rel="screenshot" href="https://i.imgur.com/SQpGdWi.png">Tables</link>
+        <link rel="donation" href="https://paypal.me/cfillion">Donate via PayPal</link>
+        <link rel="donation" href="https://github.com/sponsors/cfillion">Sponsor on GitHub</link>
+        <link rel="donation" href="https://reapack.com/donate">Support ReaPack</link>
+      </metadata>
+      <version name="0.1" author="cfillion" time="2021-03-06T14:57:36Z">
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.1/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="reaper_imgui/ReaImGui_Demo.lua">https://github.com/ReaTeam/Extensions/raw/9fdb8559739314176b68418820eb31ebd32f1675/API/reaper_imgui/ReaImGui_Demo.lua</source>
+        <source main="main" type="script" file="reaper_imgui/ReaImGui_Hello World.eel">https://github.com/ReaTeam/Extensions/raw/9fdb8559739314176b68418820eb31ebd32f1675/API/reaper_imgui/ReaImGui_Hello%20World.eel</source>
+      </version>
+      <version name="0.1.1" author="cfillion" time="2021-03-08T10:10:31Z">
+        <changelog><![CDATA[• Add EEL2 example using the legacy < 6.24 syntax [#1]
+• Fix first frame having twice the contents in the example scripts
+• macOS: process the first click over an unfocused window
+• Remove focus from ImGui input controls when the context window itself loses focus
+
+Docking bugfixes:
+• Fix keyboard input going to REAPER when docked
+• Skip rendering when docked and another docker tab is active
+• Linux & Windows: fix mousewheel events leaking to REAPER
+• Linux: fix crashes, flickering and incomplete rendering
+• macOS: update viewport size if it changed while another docker tab was active
+• Windows: don't lose focus when Tab is pressed]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.1.1/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="reaper_imgui/ReaImGui_Demo.lua">https://github.com/ReaTeam/Extensions/raw/b3030d0b1c0059357313ba53dbca3bff6e78c4f9/API/reaper_imgui/ReaImGui_Demo.lua</source>
+        <source main="main" type="script" file="reaper_imgui/ReaImGui_Hello World.eel">https://github.com/ReaTeam/Extensions/raw/b3030d0b1c0059357313ba53dbca3bff6e78c4f9/API/reaper_imgui/ReaImGui_Hello%20World.eel</source>
+        <source main="main" type="script" file="reaper_imgui/ReaImGui_Hello World (legacy syntax).eel">https://github.com/ReaTeam/Extensions/raw/b3030d0b1c0059357313ba53dbca3bff6e78c4f9/API/reaper_imgui/ReaImGui_Hello%20World%20(legacy%20syntax).eel</source>
+      </version>
+      <version name="0.2" author="cfillion" time="2021-03-22T23:31:47Z">
+        <changelog><![CDATA[• Add a C++ header for using ReaImGui in third-party extensions on GitHub/releases
+• Fix a crash when an ImGui assertion occurs during DestroyContext [p=2421480]
+• Fix InputTextMultiline, {Drag,Slider}Double{2..4} incorrectly sanitizing the flags
+• Fix screen bound clamping when calculating the default window position
+• Input*, Color{Edit,Picker}*: avoid copying data to the output buffers at every frame
+• Linux: Fix undocked windows being invisible on GNOME [p=2421074]
+• Lua demo: fix single selection when Ctrl is not held in Selectables > Multiple selection [p=2416937]
+• Suspend garbage collection (and rendering) when a modal dialog is shown [p=2416033]
+• Windows: fix the topmost "thumbstack" button not being displayed
+• Windows: remove borders around the window when docked
+
+API changes:
+• Add ColorConvertRGBtoHSV
+• Change ColorConvertHSVtoRGB to also output separate RGB channels values
+• Remove redundant GetMouseWheelH function
+• Update to Dear ImGui 1.82 (https://github.com/ocornut/imgui/releases/tag/v1.82)
+  - DrawList_AddPolyline, _PathStroke: replace the `bool closed` argument with `int flags` (ImGui_DrawFlags_*)
+  - DrawList_AddRect, _AddRectFilled and _PathRect: rename the `rounding_corners` argument to `flags`
+  - DrawList_PathArcTo: changed default value of `num_segments` to 0 (adaptively tessellate)
+  - Rename ImGui_InputTextFlags_AlwaysInsertMode to _AlwaysInsertMode
+  - Replace ImGui_DrawCornerFlags_* with new DrawFlags]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.2/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.2/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.2/examples/hello_world_legacy.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.2/examples/hello_world.eel</source>
+      </version>
+      <version name="0.3" author="cfillion" time="2021-05-01T01:11:51Z">
+        <changelog><![CDATA[• Add binding for Python ReaScripts (imgui_python.py)
+• Correct initial context position if offscreen
+• Demo: port most of the apps in the Examples menu from C++ to Lua
+• Don't immediately destroy contexts created within a defer callback [p=2435994]
+• Fix contexts potentially using the wrong font texture
+• Fix crashes when passing nil to AcceptDragDropPayloadRGB/RGBA, Color{Edit,Picker}{3,4} and SliderAngle
+• Fix invalid DrawList and Viewport pointers from EEL in 64-bit builds
+• Fix using GetConfigFlags and SetConfigFlags across different contexts
+• Improve clamping of default position to screen boundary
+• Linux: fix initial window position on GNOME [p=2431010]
+• Linux: implement HiDPI scaling
+• macOS: emit key press/release events for modifier keys
+• macOS: match Windows virtual key codes and obey keyboard layout [t=252727]
+• macOS: output using the monitor's current color space
+• Revert "Suspend garbage collection (and rendering) when a modal dialog is shown"
+• Windows: enable scaling in other HiDPI modes (not only Multimonitor aware v2)
+• Windows: fix broken HiDPI scaling [p=2437850]
+• Windows: support HiDPI scaling on Vista to 10 pre-anniversary
+
+API changes:
+• Add a 'dock' parameter to CreateContext [p=2431708]
+• Add BeginChildFrame/EndChildFrame, ColorConvertNative and ValidatePtr
+• Add Freeze function for pausing context rendering and garbage collection [p=2433580]
+• Add GetDock/SetDock (using DockWindowAdd mid-frame is no longer supported!)
+• Add ImGui's clipboard, capture/logging and viewport APIs
+• Input{Double,Int}*: report an error when receiving nil values
+• Kill the context when any function fails an ImGui assertion
+• Replace ListClipper_GetDisplay{Start,End} with _GetDisplayRange]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.3/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.3/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.3/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.3/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.3/imgui_python.py</source>
+      </version>
+      <version name="0.3.1" author="cfillion" time="2021-05-04T11:18:28Z">
+        <changelog><![CDATA[• Don't run during project load or while the ReaScript defer loop is blocked
+• Linux: fix Gdk-CRITICAL warning when creating an undocked context with stored docker ID
+
+API changes:
+• Remove the Freeze function that was added in v0.3]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.3.1/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.3.1/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.3.1/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.3.1/imgui_python.py</source>
+      </version>
+      <version name="0.3.2" author="cfillion" time="2021-05-13T19:09:03Z">
+        <changelog><![CDATA[• Fix incorrect vertical position in some versions of macOS [p=2443450]
+• Only pause during project load in REAPER 6.11 and newer]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.3.2/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.3.2/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.3.2/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.3.2/imgui_python.py</source>
+      </version>
+      <version name="0.4" author="cfillion" time="2021-05-19T19:30:31Z">
+        <changelog><![CDATA[• Add drag and drop of files from the system (demo in Widgets->Drag and Drop)
+• Add font loading from the system or from a file
+• Automatically save and restore context size, position and dock state
+• Clear pressed keyboard keys when losing focus
+• Demo: add a docking example in Configuration->Configuration
+• Don't include software mouse cursors in the font texture
+• Don't show data following '##' in the context window title
+• Enable window and table settings persistence
+• Ensure contexts are created with a size of at least 10x10
+• Examples: wait until the next defer cycle before creating the context
+• InputText: Don't corrupt text using Unicode planes 1-16 (codepoints beyond 0xffff)
+• Keep ListClipper objects alive for more than one frame (as long as they're used)
+• macOS: detect focus loss when the docker's parent window becomes inactive
+• macOS: notify the Input Method Editor of the active text input field position
+• Rasterize fonts scaled to the window DPI (fixes blurry fonts)
+• Receive keyboard input from shortcut in the global scope (REAPER v6.29+ on Windows, all versions on macOS and Linux)
+• Stop the calling Lua script on error in REAPER 6.29+
+• Throw an error if the context name is empty
+
+API changes:
+• Add a 'config_flags' parameter to CreateContext
+• Add a rudimentary font API (basic latin + latin supplement glyphs only)
+• Add CaptureKeyboardFromApp
+• Add ConfigFlags_NoSavedSettings, WindowFlags_NoSavedSettings and TableFlags_NoSavedSettings
+• Add DrawList_AddTextEx
+• Add NumericLimits_Float for exact FLT_MIN/FLT_MAX values on all platforms
+• Let EEL scripts create centered contexts using 0x80000000 as x/y
+• macOS: y=0 is now the top of the window in CreateContext]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.4/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.4/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.4/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.4/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.4/imgui_python.py</source>
+      </version>
+      <version name="0.4.1" author="cfillion" time="2021-06-04T22:02:55Z">
+        <changelog><![CDATA[• Add a C++ extension example [p=2447754]
+• C++ binding: add missing ImGui_Font declaration
+• Demo: fix 'Scroll Offset' and 'Scroll To Pos' buttons in Layout & Scrolling->Scrolling
+• Document CreateFont's supported generic font families
+• macOS: improve keycode compatibility across various keyboard layouts [p=2450237]
+• Update Dear ImGui to v1.83 (release notes at https://github.com/ocornut/imgui/releases/tag/v1.83)
+• Workaround a possible race condition when detecting the splash screen [p=2450259]
+• Windows: fix a crash when dragging files from some sources [p=2445786]
+
+API changes:
+• Add ConfigFlags_NoRestoreSize [p=2450209]
+• Add TableSetColumnEnabled]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.4.1/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.4.1/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.4.1/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.4.1/imgui_python.py</source>
+      </version>
+      <version name="0.5-beta" author="cfillion" time="2021-06-18T09:04:14Z">
+        <changelog><![CDATA[• Create a dedicated platform window for each ImGui virtual window
+• Demo: fix the size preset buttons in Examples->Constrained-resizing window
+• Demo: move docking example to 'Window options'
+• Fix removing focus using SetWindowFocusEx
+• macOS: count vertical coordinates from the top of the primary monitor
+• Switch to Dear ImGui v1.83's 'docking' branch
+• Re-implement docking into REAPER using ImGui's docking branch's beta API
+• Update the Lua, EEL2, Python and C++ examples
+• Windows: detect HiDPI scaling changes when docked in REAPER (Per-Monitor v2 mode)
+• Windows: fix positioning of the system's Input Method Editor (IME) on HiDPI monitors
+
+API changes:
+• Add Col_DockingPreview, Col_DockingEmptyBg
+• Add ConfigFlags_DockingEnable, WindowFlags_NoDocking
+• Add IsWindowDocked, GetWindowDockID, SetNextWindowDockID
+• Add SetWindow* functions without a window name argument (renamed existing functions to SetWindow*Ex)
+• C++ binding: allow omitting optional arguments
+• CollapsingHeader: treat p_visible=false the same as p_visible=nil (= disable the close button)
+• Make Begin/End consistent with the rest of the API (call End only if Begin returned true)
+• Mark 'p_*' arguments as output values in the documentation
+• Remove BeginPopupContextVoid, BeginMainMenuBar and EndMainMenuBar
+• Remove ConfigFlags_NoRestoreSize, GetDisplaySize
+• Remove GetNativeHwnd, IsCloseRequested, GetDock, SetDock
+• Remove size/position/dock arguments of CreateContext
+• Treat 'p_open=false' as input the same as 'p_open=nil' for compatibility with EEL2]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5-beta/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5-beta/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5-beta/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5-beta/imgui_python.py</source>
+      </version>
+      <version name="0.5.1" author="cfillion" time="2021-06-29T05:13:49Z">
+        <changelog><![CDATA[• Add a HTML documentation page (accessible from the demo: Tools->Documentation)
+• Cleanup the documentation of many functions (proofread, add hyperlinks...)
+• Demo: fix even/odd detection in Tabs->Advanced & Close Button
+
+API changes:
+• Add PointConvertNative [p=2456542]
+• Remove redundant return values in the Python binding
+• Rename wrongly named function PathFillConvex to DrawList_PathFillConvex]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.1/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.1/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.1/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.1/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.2" author="cfillion" time="2021-07-02T21:00:59Z">
+        <changelog><![CDATA[• Documentation: group all functions and constants by category
+• Documentation: hide write-only arguments from the Lua and Python signatures
+• Documentation: omit printing "double" type for arguments in EEL signatures
+• macOS: fix REAPER's defer timer stopping on Big Sur [p=2458897]]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.2/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.2/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.2/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.2/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.3" author="cfillion" time="2021-07-14T01:24:23Z">
+        <changelog><![CDATA[• Demo: improve ImGui docker handling in the docking example
+• Docking: don't recreate the platform window when switching active ImGui window in the same dock
+• Docking: keep docker open if there are other windows sharing it when undocking a window by dragging
+• Documentation: mark p_* arguments as both read and write [p=2459747]
+• Documentation: use Consolas font to improve readability on Windows
+• Font: enable loading color data from fonts
+• Font: report font loading errors in the first function call of the frame
+• macOS: give focus to the platform window under mouse on right/middle click [p=2460594]
+• Save settings of active contexts when unloading the extension [p=2461792]
+
+API changes:
+• Remove WindowFlags_NoBringToFrontOnFocus (no-op since v0.5) [p=2462354]]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.3/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.3/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.3/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.3/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.4" author="cfillion" time="2021-07-25T01:05:24Z">
+        <changelog><![CDATA[• Docking: wait until after the left mouse button is released before closing the REAPER docker
+• Documentation: fix parsing of links at the very end of the help text
+• Python binding: Fix a syntax error in imgui_python.py [#4]
+• Windows: fix a possible crash during (un)docking of a window
+
+API changes:
+• Add ShowAboutWindow]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.4/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.4/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.4/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.4/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.5" author="cfillion" time="2021-08-30T21:04:38Z">
+        <changelog><![CDATA[• Demo: disable docking combo box when docking is unavailable
+• macOS: fix topmost state being reset when REAPER regains focus
+• Update Dear ImGui to v1.84.1 (release notes at https://github.com/ocornut/imgui/releases/tag/v1.84)
+
+API changes:
+• Add BeginDisabled/EndDisabled and StyleVar_DisabledAlpha
+• Add DetachFont
+• Add TableColumnFlags_Disabled and TableColumnFlags_NoHeaderLabel
+• Add WindowFlags_TopMost [p=2468716][p=2471188][p=2476740]
+• Remove ColorEditFlags__OptionsDefault]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.5/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.5/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.5/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.5/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.6" author="cfillion" time="2021-09-01T17:39:13Z">
+        <changelog><![CDATA[• Demo: rename the 'Top most' checkbox to 'Always on top'
+• Documentation: add ImGui_Font* to the list of ValidatePtr's supported types
+• Documentation: fix the main content area not filling the browser window's full width
+• Documentation: revert marking p_open arguments as non-optional
+• Windows: disable topmost when the REAPER app is inactive
+• Windows: fix topmost being reset when REAPER is unminimized [p=2476936]
+
+API changes:
+• Add the text filter API [p=2476922]]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.6/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.6/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.6/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.6/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.7" author="cfillion" time="2021-10-05T03:47:23Z">
+        <changelog><![CDATA[• Demo: fix crash in the Querying Status section [p=2480715]
+• Fix visibility of popups and menus opened directly over REAPER's main window
+• Support WindowFlags_TopMost in BeginPopup and BeginPopupModal]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.7/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.7/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.7/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.7/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.8" author="cfillion" time="2021-10-05T22:11:25Z">
+        <changelog><![CDATA[• Font: downgrade FreeType to 2.10.4 as workaround for a crash in 2.11.0 on Windows [p=2486019][p=2486079]
+• Linux: fix window visibility when dragging them over REAPER's main window [p=2486034]]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.8/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.8/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.8/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.8/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.9" author="cfillion" time="2022-01-04T04:39:26Z">
+        <changelog><![CDATA[• Docker: fix no rendering on macOS if opened within the first 3 frames of the context
+• Docker: obey WindowFlags_NoFocusOnAppearing if set on any hosted windows
+• Fix the main viewport having a zero position and size [p=2498028]
+• Fix WindowFlags_NoFocusOnAppearing not having an effect within the first 3 frames
+• Update to Dear ImGui v1.85 <https://github.com/ocornut/imgui/releases/tag/v1.85>
+
+API changes:
+• Add DockHierarchy and NoPopupHierarchy in both FocusedFlags and HoveredFlags
+• Add ShowStackToolWindow (also Demo->Tools->Stack Tool)
+• Remove GetWindowContentRegionWidth]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.9/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.9/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.9/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.9/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.5.10" author="cfillion" time="2022-02-11T21:27:12Z">
+        <changelog><![CDATA[• Update to Dear ImGui v1.86 <https://github.com/ocornut/imgui/releases/tag/v1.86>
+
+API changes:
+• Add GetMouseClickedCount
+• Add ListClipper_ForceDisplayRangeByIndices]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.5.10/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.5.10/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.5.10/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.5.10/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.6.0" author="cfillion" time="2022-03-18T20:30:14Z">
+        <changelog><![CDATA[• Add support for mouse buttons 4 and 5 (3 and 4 in the API)
+• Distinguish between Left/Right modifier keys and Enter/KeypadEnter keys
+• Fix a crash when failing to initialize the OpenGL renderer for docked windows
+• Migrate mouse and keyboard input to v1.87's new event-based API
+• Reduce the minimum required version of OpenGL to 3.1
+• Suspend keyboard and mouse input when the defer timer is blocked (eg. modal dialog)
+• Update to Dear ImGui v1.87 (https://github.com/ocornut/imgui/releases/tag/v1.87)
+• Linux: connect Dear ImGui's clipboard to the system clipboard
+• Linux: fix crashes when recovering from OpenGL initialization errors
+• Linux: fix inverted NWSE/NESW cursors
+• Linux: implement IME and proper Unicode character input support
+• Linux: workaround black/flashing windows when docked with Intel or AMD GPUs [#6]
+• macOS: change Hand cursor to a pointing hand (instead of open hand)
+• macOS: hide the IME when focusing out of text fields
+• Windows: enable the IME only when a text field is active
+• Windows: set position of the IME's candidate window to the active text input field
+
+Demo script:
+• Add Help->Programmer Guide section
+• Add text filtering in the Log app example
+• Add the CaptureKeyboardFromApp() example
+• Fix the last item not being reorderable in the 'simple drag' example
+• Move the 'Documentation' button out of the Tools menu
+• Partial port of the Style Editor window (Tools->Style Editor)
+
+API changes:
+• Add v1.87's new named key constants (virtual key codes are now deprecated)
+• Fix DrawList_AddTextEx not using the default bitmap font when font == nil
+• Remove GetStyleColorName (enumerate the reaper table instead)
+• Remove the unused num_points argument of DrawList_AddConvexPolyFilled]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.6.0/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.6.0/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.6.0/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.6.0/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.6.1" author="cfillion" time="2022-03-31T00:59:54Z">
+        <changelog><![CDATA[• Export main demo functions to scripts including the demo file
+• Fix broken anti-aliasing after attaching a font
+• Fix the first frame of every window being rendered blank
+• Linux: fix a crash when quitting REAPER while docked ReaImGui windows are open
+• Linux: repair file drag and drop
+• Windows: prevent incorrect focus when closing windows out of order]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.6.1/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.6.1/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.6.1/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.6.1/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.6.2" author="cfillion" time="2022-05-10T17:14:34Z">
+        <changelog><![CDATA[• Fix a crash when destroying list clippers while a different context is active
+• Fix empty points array crashing DrawList_Add{Polyline,ConvexPolyFilled}
+• Linux: restore broken key up/down events when an IME is active
+• macOS: allow OpenGL software renderering for wider compatibility
+• macOS: fix keyboard input when holding down a mouse button and the "Allow keyboard commands when mouse-editing" setting is disabled [p=2552296]
+• Windows: receive Alt key events when "Prevent ALT key from focusing main menu" is enabled
+
+API changes:
+• DrawList_PathArcTo: fix incorrect default value for 'num_segments' when omitted
+• Revert "Fix DrawList_AddTextEx not using the default bitmap font when font == nil" from v0.6]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.6.2/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.6.2/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.6.2/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.6.2/reaper_imgui_doc.html</source>
+      </version>
+      <version name="0.7" author="cfillion" time="2022-06-22T02:14:23Z">
+        <changelog><![CDATA[• Add backward-compatibility script imgui.lua
+• Fix broken mouse inputs after destroying a window while a mouse button is down
+• Implement window transparency (requires REAPER v6.55+ on Linux)
+• Increase maximum object allocation limit to 1000
+• Linux: harden v0.6's improved mouse and keyboard input (now requires REAPER v6.57+)
+• Optimize object pointer validation (about 2x faster)
+• Patch dear imgui to enable background alpha and corner rounding for top-level windows
+• Update dear imgui to v1.88 <https://github.com/ocornut/imgui/releases/tag/v1.88>
+
+API changes:
+• Add ColorConvert{Double4ToU32,U32ToDouble4}
+• Add DebugTextEncoding
+• Add GetWindowViewport
+• Add HoveredFlags_NoNavOverride
+• Add ShowDebugLogWindow
+• Combo and ListBox: use null bytes for delimiting items as in vanilla dear imgui (now requires REAPER 6.44+ in Lua and EEL, t=261079)
+• Distinguish between empty and nil optional strings in Lua on REAPER 6.58+ [t=266405]
+• Expose additional context settings via {Get,Set}ConfigVar
+• Nerf ColorConvert{RGBtoHSV,HSVtoRGB}'s packed integer return value and optional alpha argument [t=266396]
+• Python: unexpose output-only values from the argument list
+• Python: unexpose unsafe buffer size arguments
+• Rename CaptureKeyboardFromApp to SetNextFrameWantCaptureKeyboard
+• Rename KeyModFlags_* constants to ModFlags_*
+• Reorder GetVersion's return values and add IMGUI_VERSION_NUM
+• Replace {Get,Set}ConfigFlags with {Get,Set}ConfigVar(ConfigVar_Flags)]]></changelog>
+        <source platform="darwin32" file="reaper_imgui-i386.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-i386.dylib</source>
+        <source platform="darwin64" file="reaper_imgui-x86_64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-x86_64.dylib</source>
+        <source platform="darwin-arm64" file="reaper_imgui-arm64.dylib">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-arm64.dylib</source>
+        <source platform="linux32" file="reaper_imgui-i686.so">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-i686.so</source>
+        <source platform="linux64" file="reaper_imgui-x86_64.so">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-x86_64.so</source>
+        <source platform="linux-armv7l" file="reaper_imgui-armv7l.so">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-armv7l.so</source>
+        <source platform="linux-aarch64" file="reaper_imgui-aarch64.so">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-aarch64.so</source>
+        <source platform="win32" file="reaper_imgui-x86.dll">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-x86.dll</source>
+        <source platform="win64" file="reaper_imgui-x64.dll">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui-x64.dll</source>
+        <source main="main" type="script" file="ReaImGui_Demo.lua">https://github.com/cfillion/reaimgui/raw/v0.7/examples/demo.lua</source>
+        <source main="main" type="script" file="ReaImGui_Hello World.eel">https://github.com/cfillion/reaimgui/raw/v0.7/examples/hello_world.eel</source>
+        <source main="main" type="script" file="ReaImGui_Hello World (legacy syntax).eel">https://github.com/cfillion/reaimgui/raw/v0.7/examples/hello_world_legacy.eel</source>
+        <source type="script" file="imgui_python.py">https://github.com/cfillion/reaimgui/releases/download/v0.7/imgui_python.py</source>
+        <source type="data" file="reaper_imgui_doc.html">https://github.com/cfillion/reaimgui/releases/download/v0.7/reaper_imgui_doc.html</source>
+        <source type="script" file="imgui.lua">https://github.com/cfillion/reaimgui/releases/download/v0.7/imgui.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Control Surfaces">
+    <reapack name="brumbear_ReaKontrol.ext" type="extension" desc="ReaKontrol">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 https://github.com/brummbrum/reaKontrol/blob/Releases/ReaKontrol_v110_Manual.pdf\par}
+}
+]]></description>
+        <link rel="website">https://github.com/brummbrum/reaKontrol/releases</link>
+        <link rel="screenshot">https://raw.githubusercontent.com/brummbrum/reaKontrol/Releases/ReaKontrol_v100.png</link>
+      </metadata>
+      <version name="1.00" author="brumbear" time="2020-07-02T01:57:54Z">
+        <changelog><![CDATA[- added CUSTOM ACTIONS functionality
+- user editable configuration file]]></changelog>
+        <source platform="win64" file="reaper_kontrol.dll">https://github.com/brummbrum/reaKontrol/releases/download/v1.00/reaper_kontrol.dll</source>
+        <source file="ReaKontrolConfig/reakontrol.ini">https://github.com/brummbrum/reaKontrol/releases/download/v1.00/reakontrol_EXAMPLE.ini</source>
+        <source platform="darwin64" file="reaper_kontrol.dylib">https://stash.reaper.fm/38633/reaper_kontrol.dylib</source>
+      </version>
+      <version name="1.10" author="brumbear" time="2022-05-01T20:53:17Z">
+        <changelog><![CDATA[- Support both VST2 and VST3
+- Configuration file reakontrol.ini is auto generated on first startup]]></changelog>
+        <source file="ReaKontrolConfig/reakontrol_EXAMPLE.ini">https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reakontrol_EXAMPLE.ini</source>
+        <source platform="win64" file="reaper_kontrol.dll">https://github.com/brummbrum/reaKontrol/releases/download/v1.10/reaper_kontrol.dll</source>
+      </version>
+    </reapack>
+    <reapack name="ruxton_TascamUS2400.ext" type="extension" desc="Tascam US-2400 Control Surface Native Mode">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Tascam US-2400 Control Surface Native Mode\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Requires:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab SWS Extensions\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Windows x64\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Python\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Please {\field{\*\fldinst{HYPERLINK "https://github.com/Ruxton/reaper-csurf-us2400/blob/master/readme.md"}}{\fldrslt{\ul
+view the README on github
+}}}
+ for how to use the scripts tightly tied to this plugin.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=132165">Forum thread</link>
+        <link rel="website" href="https://github.com/Ruxton/reaper-csurf-us2400">Github</link>
+        <link rel="screenshot" href="https://camo.githubusercontent.com/eec0385f0387f210d3f79e1daeac2f2a8dab384b022e19c3c4c938b32375de43/68747470733a2f2f7075752e73682f444e4d4f412f376364646435626437382e706e67">Configuration window</link>
+        <link rel="screenshot" href="https://github.com/Ruxton/reaper-csurf-us2400/raw/master/Tascam%20US-2400%20Reaper%20Keymap.gif">Keymap</link>
+        <link rel="screenshot" href="https://github.com/Ruxton/reaper-csurf-us2400/raw/master/Tascam-US-2400-Reaper-OnScreenHelpChan.png">On-screen help</link>
+      </metadata>
+      <version name="1.2.1" author="Greg Tangey (Ruxton)" time="2022-03-24T20:02:17Z">
+        <changelog><![CDATA[Fixes overlay crash]]></changelog>
+        <source platform="win64" file="reaper_csurf_us2400.dll">https://github.com/Ruxton/reaper-csurf-us2400/releases/download/1.2.1/reaper_csurf_us2400.dll</source>
+        <source main="main" platform="win64" type="script" file="Automation/Remove envelopes from selected tracks (US-2400 - FKey - 6).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Automation/Remove%20envelopes%20from%20selected%20tracks%20(US-2400%20-%20FKey%20-%206).py</source>
+        <source main="main" platform="win64" type="script" file="Automation/Show or hide envelopes (US-2400 - FKey - 5).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Automation/Show%20or%20hide%20envelopes%20(US-2400%20-%20FKey%20-%205).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - FKey - 1).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20FKey%20-%201).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - FKey - 2).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20FKey%20-%202).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - FKey - 3).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20FKey%20-%203).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - FKey - 4).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20FKey%20-%204).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - FKey - 5).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20FKey%20-%205).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - FKey - 6).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20FKey%20-%206).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - MKey - 1).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20MKey%20-%201).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - MKey - 2).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20MKey%20-%202).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - MKey - 3).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20MKey%20-%203).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - MKey - 4).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20MKey%20-%204).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - MKey - 5).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20MKey%20-%205).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - MKey - 6).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20MKey%20-%206).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - Shift - 1).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20Shift%20-%201).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - Shift - 2).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20Shift%20-%202).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - Shift - 3).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20Shift%20-%203).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - Shift - 4).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20Shift%20-%204).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - Shift - 5).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20Shift%20-%205).py</source>
+        <source main="main" platform="win64" type="script" file="FX Favorites/Insert Plug-in - XXX (US-2400 - Chan - Shift - 6).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/FX%20Favorites/Insert%20Plug-in%20-%20XXX%20(US-2400%20-%20Chan%20-%20Shift%20-%206).py</source>
+        <source main="main" platform="win64" type="script" file="General/Redo (US-2400 - FKey - FFwd).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/General/Redo%20(US-2400%20-%20FKey%20-%20FFwd).py</source>
+        <source main="main" platform="win64" type="script" file="General/Render (US-2400 - FKey - Rec).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/General/Render%20(US-2400%20-%20FKey%20-%20Rec).py</source>
+        <source main="main" platform="win64" type="script" file="General/Save (US-2400 - FKey - Play).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/General/Save%20(US-2400%20-%20FKey%20-%20Play).py</source>
+        <source main="main" platform="win64" type="script" file="General/Undo (US-2400 - FKey - Rew).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/General/Undo%20(US-2400%20-%20FKey%20-%20Rew).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(Auto Vol - Add Receive)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(Auto%20Vol%20-%20Add%20Receive)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(Auto Vol - Send)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(Auto%20Vol%20-%20Send)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(Auto Vol - Split Receive)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(Auto%20Vol%20-%20Split%20Receive)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(LH-Split)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(LH-Split)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(LMH-Split)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(LMH-Split)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(LMMH-Split)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(LMMH-Split)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(LR-Split)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(LR-Split)</source>
+        <source main="main" platform="win64" type="script" file="Splits/JS/(MS-Split)">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/JS/(MS-Split)</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Add parallel processor to first selected track (US-2400 - MKey - 6).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Add%20parallel%20processor%20to%20first%20selected%20track%20(US-2400%20-%20MKey%20-%206).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Split first selected track LFHF (US-2400 - MKey - 3).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Split%20first%20selected%20track%20LFHF%20(US-2400%20-%20MKey%20-%203).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Split first selected track LMH (US-2400 - MKey - 4).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Split%20first%20selected%20track%20LMH%20(US-2400%20-%20MKey%20-%204).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Split first selected track LMMH (US-2400 - MKey - 5).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Split%20first%20selected%20track%20LMMH%20(US-2400%20-%20MKey%20-%205).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Split first selected track LR (US-2400 - MKey - 1).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Split%20first%20selected%20track%20LR%20(US-2400%20-%20MKey%20-%201).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Split first selected track MS (US-2400 - MKey - 2).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Split%20first%20selected%20track%20MS%20(US-2400%20-%20MKey%20-%202).py</source>
+        <source main="main" platform="win64" type="script" file="Splits/ReaScript/Unsplit first selected split (US-2400 - MKey - Null).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Splits/ReaScript/Unsplit%20first%20selected%20split%20(US-2400%20-%20MKey%20-%20Null).py</source>
+        <source main="main" platform="win64" type="script" file="Time Zoom Scroll/Next POI (US-2400 - NoKey - FFwd).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Time%20Zoom%20Scroll/Next%20POI%20(US-2400%20-%20NoKey%20-%20FFwd).py</source>
+        <source main="main" platform="win64" type="script" file="Time Zoom Scroll/Previous POI (US-2400 - NoKey - Rew).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Time%20Zoom%20Scroll/Previous%20POI%20(US-2400%20-%20NoKey%20-%20Rew).py</source>
+        <source main="main" platform="win64" type="script" file="Time Zoom Scroll/Show playpos (US-2400 - FKey - Null).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Time%20Zoom%20Scroll/Show%20playpos%20(US-2400%20-%20FKey%20-%20Null).py</source>
+        <source main="main" platform="win64" type="script" file="Time Zoom Scroll/Toggle scroll playpos (US-2400 - FKey - Stop).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Time%20Zoom%20Scroll/Toggle%20scroll%20playpos%20(US-2400%20-%20FKey%20-%20Stop).py</source>
+        <source main="main" platform="win64" type="script" file="Time Zoom Scroll/Zoom time selection (US-2400 - NoKey - Null).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Time%20Zoom%20Scroll/Zoom%20time%20selection%20(US-2400%20-%20NoKey%20-%20Null).py</source>
+        <source main="main" platform="win64" type="script" file="Time Zoom Scroll/Zoom track selection (US-2400 - Shift - Null).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Time%20Zoom%20Scroll/Zoom%20track%20selection%20(US-2400%20-%20Shift%20-%20Null).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Delete selected tracks (US-2400 - Shift - 5).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Delete%20selected%20tracks%20(US-2400%20-%20Shift%20-%205).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Duplicate selected tracks (US-2400 - FKey - 3).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Duplicate%20selected%20tracks%20(US-2400%20-%20FKey%20-%203).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Fold or unfold selected folders (US-2400 - Shift - 2).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Fold%20or%20unfold%20selected%20folders%20(US-2400%20-%20Shift%20-%202).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Group selected tracks (US-2400 - Shift - 3).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Group%20selected%20tracks%20(US-2400%20-%20Shift%20-%203).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Insert track before first selected (US-2400 - Shift - 4).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Insert%20track%20before%20first%20selected%20(US-2400%20-%20Shift%20-%204).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Move selected tracks left (US-2400 - FKey - 1).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Move%20selected%20tracks%20left%20(US-2400%20-%20FKey%20-%201).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Move selected tracks right (US-2400 - FKey - 2).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Move%20selected%20tracks%20right%20(US-2400%20-%20FKey%20-%202).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Rename selected tracks (US-2400 - FKey - 4).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Rename%20selected%20tracks%20(US-2400%20-%20FKey%20-%204).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Ungroup selected tracks (US-2400 - Shift - 6).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Ungroup%20selected%20tracks%20(US-2400%20-%20Shift%20-%206).py</source>
+        <source main="main" platform="win64" type="script" file="Track Actions/Wrap or unwrap selected tracks (US-2400 - Shift - 1).py">https://github.com/Ruxton/reaper-csurf-us2400/raw/1.2.1/Install/Custom%20Actions/Track%20Actions/Wrap%20or%20unwrap%20selected%20tracks%20(US-2400%20-%20Shift%20-%201).py</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="FX">
+    <reapack name="ak5k_ReaFab Fabulous REAPER plug-in controller extension.ext" type="extension" desc="ReaFab: Fabulous REAPER plug-in controller extension">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 A REAPER extension to emulate digital console type of workflow for setting channelstrip plugin parameters in the context of currently selected track/channel. Registers 32 custom actions which function as kind of API based virtual control surface, or 'dynamic' macro controls similar to Quick Controls in Cubase. 8 endless rotary encoders in MIDI Relative mode and 24 buttons are supported, and in practice required for any reasonable use. 8 buttons are reserved for navigating the 'virtual channelstrip'. Built-in support for some FabFilters, the ReEQ and some stock REAPER plugins. {\field{\*\fldinst{HYPERLINK "https://github.com/ak5k/reafab"}}{\fldrslt{\ul
+More information on GitHub
+}}}
+\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=245445">Forum thread</link>
+        <link rel="website" href="https://github.com/ak5k/reafab">GitHub</link>
+        <link rel="screenshot">https://i.imgur.com/bAVdj05.gif</link>
+      </metadata>
+      <version name="0.3.10" author="ak5k" time="2022-03-16T17:50:45Z">
+        <source platform="win64" file="reaper_reafab-x64.dll">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x64.dll</source>
+        <source platform="win32" file="reaper_reafab-x86.dll">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86.dll</source>
+        <source platform="linux-aarch64" file="reaper_reafab-aarch64.so">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-aarch64.so</source>
+        <source platform="darwin-arm64" file="reaper_reafab-arm64.dylib">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-arm64.dylib</source>
+        <source platform="darwin32" file="reaper_reafab-i386.dylib">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-i386.dylib</source>
+        <source platform="darwin64" file="reaper_reafab-x86_64.dylib">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86_64.dylib</source>
+        <source platform="linux-armv7l" file="reaper_reafab-armv7l.so">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-armv7l.so</source>
+        <source platform="linux32" file="reaper_reafab-i686.so">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-i686.so</source>
+        <source platform="linux64" file="reaper_reafab-x86_64.so">https://github.com/ak5k/reafab/releases/download/v0.3.10/reaper_reafab-x86_64.so</source>
+      </version>
+    </reapack>
+    <reapack name="ak5k_ReaLlm REAPER Low latency monitoring plug-in extension.ext" type="extension" desc="ReaLlm: REAPER Low latency monitoring plug-in extension">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaLlm: REAPER Low latency monitoring plug-in extension\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Cubase/Logic style low latency monitoring mode for REAPER. While enabled, restricts PDC latency ('plugin delay') to one block/buffer size by bypassing plugins from input monitored signalchains. Re-enables plugins once signalchain is no longer input monitored, or ReaLlm is disabled. While ReaLlm is enabled, disabled plugins can be re-enabled manually, and ReaLlm will consider them 'safed' and leave them untouched, unless they're again manually re-disabled. Remembers 'safed' plugins per REAPER project. Leaves already disabled plugins untouched.\par}
+}
+]]></description>
+        <link rel="website">https://github.com/ak5k/reallm/</link>
+        <link rel="screenshot">https://i.imgur.com/iKHyQXb.gif</link>
+      </metadata>
+      <version name="0.3.0" author="ak5k" time="2022-04-16T11:49:53Z">
+        <source platform="linux-aarch64" file="reaper_reallm-aarch64.so">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-aarch64.so</source>
+        <source platform="darwin-arm64" file="reaper_reallm-arm64.dylib">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-arm64.dylib</source>
+        <source platform="linux-armv7l" file="reaper_reallm-armv7l.so">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-armv7l.so</source>
+        <source platform="darwin32" file="reaper_reallm-i386.dylib">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-i386.dylib</source>
+        <source platform="linux32" file="reaper_reallm-i686.so">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-i686.so</source>
+        <source platform="win64" file="reaper_reallm-x64.dll">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x64.dll</source>
+        <source platform="win32" file="reaper_reallm-x86.dll">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86.dll</source>
+        <source platform="darwin64" file="reaper_reallm-x86_64.dylib">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86_64.dylib</source>
+        <source platform="linux64" file="reaper_reallm-x86_64.so">https://github.com/ak5k/reallm/releases/download/v0.3.0/reaper_reallm-x86_64.so</source>
+      </version>
+      <version name="0.3.1" author="ak5k" time="2022-04-21T00:10:08Z">
+        <changelog><![CDATA[Fixed 'ReaLlm: REAPER Low latency monitoring' actions list toggle]]></changelog>
+        <source platform="linux-aarch64" file="reaper_reallm-aarch64.so">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-aarch64.so</source>
+        <source platform="darwin-arm64" file="reaper_reallm-arm64.dylib">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-arm64.dylib</source>
+        <source platform="linux-armv7l" file="reaper_reallm-armv7l.so">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-armv7l.so</source>
+        <source platform="darwin32" file="reaper_reallm-i386.dylib">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-i386.dylib</source>
+        <source platform="linux32" file="reaper_reallm-i686.so">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-i686.so</source>
+        <source platform="win64" file="reaper_reallm-x64.dll">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x64.dll</source>
+        <source platform="win32" file="reaper_reallm-x86.dll">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86.dll</source>
+        <source platform="darwin64" file="reaper_reallm-x86_64.dylib">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86_64.dylib</source>
+        <source platform="linux64" file="reaper_reallm-x86_64.so">https://github.com/ak5k/reallm/releases/download/v0.3.1/reaper_reallm-x86_64.so</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaTeam Extension Repository\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\cf1 [image: https://github.com/ReaTeam/Extensions/workflows/check/badge.svg]\cf0}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Community-maintained collection of extension plugins for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Copy and paste this URL in Extensions > ReaPack > Import a repository:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/ReaTeam/Extensions/raw/master/index.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Contributing\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Use {\field{\*\fldinst{HYPERLINK "https://reapack.com/upload/extension"}}{\fldrslt{\ul
+https://reapack.com/upload/extension
+}}}
+ to publish your extension plugin on this repository.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Have a question? Come discuss in the {\field{\*\fldinst{HYPERLINK "https://forum.cockos.com/showthread.php?t=169127"}}{\fldrslt{\ul
+development thread
+}}}
+.\par}
+}
+]]></description>
+  </metadata>
+</index>

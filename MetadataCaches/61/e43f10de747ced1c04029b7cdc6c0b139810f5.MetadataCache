@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - North American B-25 Mitchell"
+F B-25_t1_ext_startup_idle_below_plane.wav 45938490 0 1583869033 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "exterior startup idle below plane wav Sound Devices 788 Crown PZM"
+D d "exterior startup idle below plane wav Sound Devices 788 Crown PZM" s 96000 n 1 l 2:39.200
+D i 24 m 0
+F B-25_t4_int_startup_taxiing_cockpit_front.wav 96820074 0 1583869094 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "interior startup taxiing cockpit front wav Zaxcom Nomad DPA4025"
+D d "interior startup taxiing cockpit front wav Zaxcom Nomad DPA4025" s 96000 n 2 l 2:47.936
+D i 24 m 0
+F B-25_t9_int_foley_bomb_door_open_close_flaps_rear_door_front_door_window_horn_breaks_switches_cockpit_rear.wav 14519154 0 1583868913 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "interior foley bomb door open close flaps rear door front door window horn breaks switches cockpit rear wav Nomad DPA4011"
+D d "interior foley bomb door open close flaps rear door front door window horn breaks switches cockpit rear wav Nomad DPA4011" s 96000 n 2 l 0:25.050
+D i 24 m 0

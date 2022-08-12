@@ -1,0 +1,127 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Pads/Single Samples"
+F "60s Synth FX 07 C1.wav" 1389264 0 1436227745 0
+D s 44100 n 1 l 0:15.703 i 16
+F "Analog Fat Drone C1.wav" 1307966 0 1436227745 0
+D s 44100 n 1 l 0:14.782 i 16
+F "Awaken C2.wav" 2523672 0 1436227745 0
+D s 44100 n 2 l 0:14.282 i 16
+F "Big Dipper F2.wav" 3214954 0 1436227745 0
+D t "Big dipper F2" s 44100 n 2 l 0:18.224
+D i 16
+F "Blowfish 1.wav" 2957772 0 1436227745 0
+D s 44100 n 2 l 0:16.744 i 16
+F "Bottled Breath C3.wav" 574486 0 1436227745 0
+D s 44100 n 1 l 0:06.466 i 16
+F "Civitas Solis G#4.wav" 5280240 0 1436227745 0
+D s 44100 n 2 l 0:29.932 i 16
+F "Delayed Monks Chant C2.wav" 958952 0 1438702695 0
+D s 44100 n 2 l 0:05.412 i 16
+F "Digipad 01.wav" 2120896 0 1436227745 0
+D t Synthprogramming y 2010-07-22 d "AME 2010" s 44100
+D n 2 r 0:32.000 l 0:12.000 i 16
+F "Digipad 02.wav" 2120896 0 1436227745 0
+D t Synthprogramming y 2010-07-22 d "AME 2010" s 44100
+D n 2 r 0:32.000 l 0:12.000 i 16
+F "Digipad 03.wav" 2120896 0 1436227745 0
+D t Synthprogramming y 2010-07-22 d "AME 2010" s 44100
+D n 2 r 0:32.000 l 0:12.000 i 16
+F "Digipad 04.wav" 2120896 0 1436227745 0
+D t Synthprogramming y 2010-07-22 d "AME 2010" s 44100
+D n 2 r 0:32.000 l 0:12.000 i 16
+F "Digipad 06.wav" 2543420 0 1436227745 0
+D t Severe y 2010-07-22 d "AME 2010" s 44100
+D n 2 r 0:29.854 l 0:14.395 i 16
+F "Digipad 12.wav" 1598436 0 1436227745 0
+D s 44100 n 2 l 0:09.038 i 16
+F "Digipad 14.wav" 2021144 0 1655744507 0
+D s 44100 n 2 l 0:11.434 i 16
+F "Dirty Flange C3.wav" 1860423 0 1436227745 0
+D s 44100 n 1 l 0:21.045 i 16
+F "Diyar Planitia A2.wav" 4875956 0 1436227745 0
+D t "Diyar Planitia A2" c "(c) yuroun.nl" s 44100 n 2
+D l 0:27.640 i 16
+F "Enceladus C2.wav" 3919760 0 1436227745 0
+D t "Enceladus C2" c "(c) yuroun.nl" s 44100 n 2
+D l 0:22.219 i 16
+F "Fast Bandpass.wav" 6224591 0 1436227745 0
+D s 44100 n 2 l 0:35.263 i 16
+F "Formant Atmo C3.wav" 7078644 0 1436227745 0
+D s 48000 n 2 l 0:36.867 i 16
+F "Gas Giants C#4.wav" 2853752 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:16.172
+D i 16
+F "Glissing Resonance 01 C3.wav" 5744342 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:32.535
+D i 16
+F "Glissing Resonance 02 C3.wav" 6309626 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:35.740
+D i 16
+F "Granular 1.wav" 2957772 0 1436227745 0
+D s 44100 n 2 l 0:16.744 i 16
+F "Granular 2.wav" 2957772 0 1655744507 0
+D s 44100 n 2 l 0:16.744 i 16
+F "Granular 3.wav" 2957772 0 1436227745 0
+D s 44100 n 2 l 0:16.744 i 16
+F "Granular 4.wav" 3531238 0 1436227745 0
+D t Untitled1 y 2010-07-05 d "AME 2010" s 44100
+D n 2 r 0:32.000 l 0:20.000 i 16
+F "Guitar Glister.wav" 2649904 0 1436227745 0
+D s 44100 n 2 l 0:14.998 i 16
+F "Intro City C3.wav" 1768356 0 1436227745 0
+D s 44100 n 1 l 0:20.001 i 16
+F "Loose And Floppy 01 C3.wav" 3177884 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:35.973
+D i 16
+F "Loose And Floppy 02 C3.wav" 3017812 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:34.158
+D i 16
+F "Lovely Stone C4.wav" 1587872 0 1436227745 0
+D c "Recorded on 2-6-2010 in Edison." s 44100 n 2 l 0:09.000
+D i 16
+F "Massive Pad C2.wav" 1032192 0 1436227745 0
+D s 44100 n 2 l 0:05.819 i 16
+F "Massive Pad C6.wav" 737280 0 1436227745 0
+D s 44100 n 2 l 0:04.142 i 16
+F "Metal Drone A3.wav" 2376616 0 1436227745 0
+D s 44100 n 2 l 0:13.449 i 16
+F "Mindchamber C1.wav" 1319070 0 1436227745 0
+D s 44100 n 1 l 0:14.908 i 16
+F "Phased Beauty 01 C3.wav" 2585018 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:29.297
+D i 16
+F "Phased Beauty 02 C3.wav" 3300842 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:37.367
+D i 16
+F "Sighpad C3.wav" 665680 0 1436227745 0
+D s 44100 n 1 l 0:07.500 i 16
+F "Slow Bandpass.wav" 6115010 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:34.637
+D i 16
+F "Smooth FM Pad.wav" 709696 0 1436227745 0
+D s 44100 n 2 l 0:04.000 i 16
+F "Smooth Synth Pad.wav" 2116844 0 1436227745 0
+D s 44100 n 2 l 0:06.000 i 32
+F "Soft Fifth Blend C3.wav" 8035282 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:45.523
+D i 16
+F "Soft Flange C3.wav" 3431340 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:38.847
+D i 16
+F "Strings C5.wav" 1671180 0 1436227745 0
+D s 44100 n 2 l 0:09.450 i 16
+F "Trance Saw Pad C2.wav" 882678 0 1436227745 0
+D t "Trance Saw Pad C2" s 44100 n 2 l 0:05.002
+D i 16
+F "Vocal Pad.wav" 1769600 0 1436227745 0
+D s 44100 n 2 l 0:10.008 i 16
+F "Vocalite D#1.wav" 1875984 0 1436227745 0
+D s 44100 n 2 l 0:10.611 i 16
+F "Wanderer 01 C3.wav" 6171510 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:34.957
+D i 16
+F "Wanderer 02 C3.wav" 6611070 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:37.449
+D i 16
+F "Wingtip Vortex D3.wav" 1750114 0 1436227745 0
+D t "Wingtip vortex D3" s 44100 n 2 l 0:09.920
+D i 16

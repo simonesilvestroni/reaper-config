@@ -1,0 +1,21 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] PMSFX SAMPLER Q1 2020/PM Phone Foley"
+F "PM Phone Foley 11 Phone, Pick up, Hang up, Han.wav" 1505594 0 1571828968 0
+D a "Phil Michalski PMSFX" y 2019-10-23 g Foley c "Phone, Pick up, Hang up, Handset set down, Slow, Gently"
+D d "Phone, Foley, Household" s 192000 n 1 l 0:02.460
+D i 24 m 0
+F "PM Phone Foley 37 Phone, Pick up, Hang up, Han.wav" 1310544 0 1571828968 0
+D a "Phil Michalski PMSFX" y 2019-10-23 g Foley c "Phone, Pick up, Hang up, Handset set down, hard"
+D d "Phone, Foley, Household" s 192000 n 1 l 0:02.122
+D i 24 m 0
+F "PM Phone Foley 59 Phone, Pick up entire unit,.wav" 750156 0 1571828969 0
+D a "Phil Michalski PMSFX" y 2019-10-23 g Foley c "Phone, Pick up entire unit, Handling"
+D d "Phone, Foley, Household" s 192000 n 1 l 0:01.149
+D i 24 m 0
+F "PM Phone Foley 67 Phone, Pick up entire unit,.wav" 2509322 0 1571828969 0
+D a "Phil Michalski PMSFX" y 2019-10-23 g Foley c "Phone, Pick up entire unit, Set down on wooden desk"
+D d "Phone, Foley, Household" s 192000 n 1 l 0:04.203
+D i 24 m 0
+F "PM Phone Foley 76 Phone, Set down on wooden de.wav" 1000372 0 1571828969 0
+D a "Phil Michalski PMSFX" y 2019-10-23 g Foley c "Phone, Set down on wooden desk, low drop"
+D d "Phone, Foley, Household" s 192000 n 1 l 0:01.583
+D i 24 m 0

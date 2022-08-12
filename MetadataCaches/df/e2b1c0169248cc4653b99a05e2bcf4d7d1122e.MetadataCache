@@ -1,0 +1,118 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Ambience Nature"
+F "Big Ocean.wav" 7761644 0 1436227745 0
+D s 44100 n 2 l 0:44.000 i 16
+F "Bumble Bee Buzz.wav" 4939244 0 1655744538 0
+D s 44100 n 2 l 0:28.000 i 16
+F "Cabin Rain Rumbling.wav" 5840038 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:32.322
+D i 16
+F "Cabin Rain Thunder.wav" 9051188 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:50.108
+D i 16
+F "Camp Rain Distant Thunder.wav" 7181506 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:39.752
+D i 16
+F "Crystal Clear Waves.wav" 5468488 0 1430418082 0
+D s 44100 n 2 l 0:31.000 i 16
+F "Eerie Wind 03 Pdown.wav" 8253652 0 1436227745 0
+D y 2011-11-21 d Deru s 44100 n 2
+D r 4:41:14.024 l 0:31.166 i 24
+F "Eerie Wind 12 Pdown.wav" 7619758 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 4:55:32.586 l 0:28.770 i 24
+F "Forest Surroundings.wav" 8555444 0 1436227745 0
+D s 44100 n 2 l 0:48.500 i 16
+F "Garden Atmosphere.wav" 10231244 0 1436227745 0
+D s 44100 n 2 l 0:58.000 i 16
+F "Garden Birds.wav" 5384460 0 1436227745 0
+D s 44100 n 2 l 0:30.523 i 16
+F "Garden Drone.wav" 3880844 0 1655744538 0
+D s 44100 n 2 l 0:22.000 i 16
+F "Gentle Stream.wav" 4899276 0 1436227745 0
+D s 44100 n 2 l 0:27.743 i 16
+F "Gentle Waves.wav" 9084644 0 1436227745 0
+D s 44100 n 2 l 0:51.500 i 16
+F "Heavy Rain.wav" 3616248 0 1436227745 0
+D s 44100 n 2 l 0:20.500 i 16
+F "Heavy Scottish Rain.wav" 3024868 0 1436227745 0
+D s 44100 n 2 l 0:17.124 i 16
+F "Horse Breathing.wav" 6967844 0 1436227745 0
+D s 44100 n 2 l 0:39.500 i 16
+F "Hydrophone Surface Depth.wav" 5821930 0 1436227745 0
+D y 2013-06-13 s 44100 n 2 r 1:00:00.000
+D l 0:22.000 i 24
+F "Iceland Glacier Climb.wav" 437804 0 1436227745 0
+D s 44100 n 1 l 0:04.844 i 16
+F "Iceland Glacier Drips 2.wav" 857910 0 1436227745 0
+D s 44100 n 1 l 0:09.498 i 16
+F "Iceland Glacier Meltwater.wav" 1004248 0 1436227745 0
+D s 44100 n 1 l 0:11.120 i 16
+F "Iceland Vik Waves 2.wav" 3896406 0 1436227745 0
+D s 44100 n 1 l 0:43.160 i 16
+F "Light Forest Rain.wav" 3173926 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:17.554
+D i 16
+F "Light Splash 2.wav" 397630 0 1436227745 0
+D y 2013-06-13 s 44100 n 2 r 1:00:00.000
+D l 0:01.500 i 24
+F "Meditation Fountain.wav" 1687544 0 1436227745 0
+D s 44100 n 2 l 0:09.542 i 16
+F "Moderate Rain.wav" 4321844 0 1436227745 0
+D s 44100 n 2 l 0:24.500 i 16
+F "Mud Flats 01.wav" 8738054 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 4:14:45.703 l 0:33.000 i 24
+F "Mud Flats 06.wav" 6436340 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 4:27:59.559 l 0:24.301 i 24
+F "Outliers Mud Flats Mud 91.wav" 24192736 0 1436227745 0
+D y 2011-12-06 d Deru s 48000 n 2
+D r 4:31:39.703 l 2:05.999 i 16
+F "Outliers Mud Flats Steam 81.wav" 5568864 0 1436227745 0
+D y 2011-12-06 d Deru s 48000 n 2
+D r 4:13:47.703 l 0:29.000 i 16
+F "Owl Calls.wav" 2315148 0 1655744539 0
+D s 44100 n 2 l 0:13.094 i 16
+F "Parabolic Stream Bird.wav" 3794370 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:20.990
+D i 16
+F "Quiet Rainy Street.wav" 2224516 0 1436227745 0
+D s 44100 n 2 l 0:12.586 i 16
+F "Quiet Stream.wav" 10080992 0 1436227745 0
+D s 44100 n 2 l 0:57.118 i 16
+F "Rain Forest 1.wav" 2266048 0 1436227745 0
+D s 44100 n 2 l 0:12.822 i 16
+F "Rain Forest 2.wav" 1577036 0 1436227745 0
+D s 44100 n 2 l 0:08.916 i 16
+F "Rain Yard Light 01.wav" 3308132 0 1436227745 0
+D s 44100 n 2 l 0:18.750 i 16
+F "Rain Yard Light 03.wav" 3308132 0 1436227745 0
+D s 44100 n 2 l 0:18.750 i 16
+F "River Heavy Splash 03.wav" 1501972 0 1436227745 0
+D s 44100 n 2 l 0:08.510 i 16
+F "River Heavy Splash 07.wav" 1918076 0 1436227745 0
+D s 44100 n 2 l 0:10.869 i 16
+F "River Light Splashes Bird 01.wav" 3378736 0 1436227745 0
+D s 44100 n 2 l 0:19.150 i 16
+F Shorelap.wav 11763692 0 1436227745 0
+D y 1998-01-17 s 44100 n 2 l 1:06.664
+D i 16
+F "Sinister Crows.wav" 6952444 0 1436227745 0
+D s 44100 n 2 l 0:39.382 i 16
+F "Snow Steam 01.wav" 5641628 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 4:13:52.602 l 0:21.297 i 24
+F "Thunder And Rain 01.wav" 3542916 0 1436227745 0
+D s 44100 n 2 l 0:20.080 i 16
+F "Tulum Dawn Chorus.wav" 1786915 0 1436748066 0
+D s 44100 n 1 l 0:13.475 i 24
+F "Valley Storm.wav" 12843012 0 1436227745 0
+D s 44100 n 2 l 1:12.776 i 16
+F "Water Filtered 1.wav" 2662580 0 1436227745 0
+D s 44100 n 2 l 0:10.062 i 24
+F "Waves At Portobello 01.wav" 3896902 0 1436227745 0
+D s 44100 n 2 l 0:14.712 i 24
+F "Waves At Portobello 04.wav" 4879726 0 1436227745 0
+D s 44100 n 2 l 0:18.426 i 24
+F "Wind In The Leaves.wav" 4101344 0 1436227745 0
+D s 44100 n 2 l 0:23.250 i 16

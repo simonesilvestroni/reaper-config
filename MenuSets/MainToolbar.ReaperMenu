@@ -1,0 +1,13 @@
+[Main toolbar]
+icon_1=toolbar_record_on.png
+icon_8=toolbar_save.png
+item_0=40364 Enable metronome
+item_1=40604 Track recording settings
+item_2=40041 Enable auto-crossfade
+item_3=1156 Enable grouping
+item_4=1155 Enable ripple editing
+item_5=40070 Move envelope points with media items
+item_6=40145 Show arrange view grid
+item_7=1135 Enable locking
+item_8=40015 File: Render project to disk...
+

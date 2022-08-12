@@ -1,0 +1,25 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Eiravaein Works - Start Select"
+F StartSelect,UI,set1,strings,ethnic,tonal,plucked,aura,hold_release.wav 1236588 0 1583867466 0
+D y 2014-07-21 d StartSelect,UI,set1,strings,ethnic,tonal,plucked,aura,hold_release s 96000 n 2
+D r 12:25:39.242 l 0:02.122 i 24
+F StartSelect,UI,set100,lady,vocalizations,crunchy,multipitched,multitimbral,back.wav 591036 0 1583867823 0
+D y 2014-11-15 d StartSelect,UI,set100,lady,vocalizations,crunchy,multipitched,multitimbral,back s 96000 n 2
+D r 11:05:29.852 l 0:01.002 i 24
+F "StartSelect,UI,set16,frequency shaping,zippy,robotic,evolving,dense,deaction.wav" 409468 0 1583868002 0
+D y 2014-09-10 d "StartSelect,UI,set16,frequency shaping,zippy,robotic,evolving,dense,deaction" s 96000 n 2
+D r 12:25:39.242 l 0:00.688 i 24
+F StartSelect,UI,set17,schick,mechanical,percussive,ding,shudder,holdrelease.wav 876956 0 1583867748 0
+D y 2014-09-14 d StartSelect,UI,set17,schick,mechanical,percussive,ding,shudder,holdrelease s 96000 n 2
+D r 11:49:20.766 l 0:01.498 i 24
+F StartSelect,UI,set3,pure,warm,simple,quick,tonal,deaction.wav 1768460 0 1583867372 0
+D y 2014-08-10 d StartSelect,UI,set3,pure,warm,simple,quick,tonal,deaction s 96000 n 2
+D r 12:25:39.242 l 0:03.045 i 24
+F StartSelect,UI,set34,mechanical,subtle,percussive,thick,bright,holdrelease.wav 283276 0 1583867263 0
+D y 2014-09-24 d StartSelect,UI,set34,mechanical,subtle,percussive,thick,bright,holdrelease s 96000 n 2
+D r 12:25:39.242 l 0:00.469 i 24
+F "StartSelect,UI,set57,camera mechanics,servo,clicks clacks,meaty,operative,forward.wav" 446540 0 1583866784 0
+D y 2014-10-08 d "StartSelect,UI,set57,camera mechanics,servo,clicks clacks,meaty,operative,forward" s 96000 n 2
+D r 12:25:39.242 l 0:00.752 i 24
+F "StartSelect,UI,set93,talking tones,bright percussion,playful,toonish,light ambience,select.wav" 1071260 0 1583867251 0
+D y 2014-11-05 d "StartSelect,UI,set93,talking tones,bright percussion,playful,toonish,light ambience,select" s 96000 n 2
+D r 12:25:39.242 l 0:01.834 i 24

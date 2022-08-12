@@ -1,0 +1,231 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/MECHANICAL"
+F "Angle Grinder Designed.wav" 6251708 0 1621846456 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: grinder, angle, mechanical, buzz, sci-fi, phasing"
+D d "Krotos: grinder, angle, mechanical, buzz, sci-fi, phasing" s 96000 n 2 r 0:15.500
+D l 0:10.826 i 24
+F "Angle Grinder.wav" 8690670 0 1621846462 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: grinder, angle, mechanical, buzz"
+D d "Krotos: grinder, angle, mechanical, buzz" s 96000 n 2 l 0:15.061
+D i 24
+F "Bench Grinder.wav" 8260598 0 1621846366 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: grinder, bench, mechanical, buzz"
+D d "Krotos: grinder, bench, mechanical, buzz" s 96000 n 2 r 0:27.000
+D l 0:14.314 i 24
+F "Blowtorch Blast Whoosh-001.wav" 964630 0 1621846368 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-28 c "Krotos: blowtorch, blast, whoosh, hiss, pop"
+D d "Krotos: blowtorch, blast, whoosh, hiss, pop" s 192000 n 2 l 0:00.823
+D i 24
+F "Blowtorch Blast Whoosh-002.wav" 1058844 0 1621846370 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-28 c "Krotos: blowtorch, blast, whoosh, hiss, pop"
+D d "Krotos: blowtorch, blast, whoosh, hiss, pop" s 192000 n 2 r 0:00.971
+D l 0:00.905 i 24
+F "Blowtorch OnOff Whoosh Short-001.wav" 1305294 0 1621846372 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: blowtorch, on, off, whoosh, short"
+D d "Krotos: blowtorch, on, off, whoosh, short" s 192000 n 2 r 1:23:10.204
+D l 0:01.119 i 24
+F "Blowtorch OnOff Whoosh Short-002.wav" 945028 0 1621846374 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: blowtorch, on, off, whoosh, short"
+D d "Krotos: blowtorch, on, off, whoosh, short" s 192000 n 2 r 1:23:13.610
+D l 0:00.806 i 24
+F "Blowtorch OnOff Whoosh Short-003.wav" 1580772 0 1621846378 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: blowtorch, on, off, whoosh, short"
+D d "Krotos: blowtorch, on, off, whoosh, short" s 192000 n 2 r 1:23:06.701
+D l 0:01.358 i 24
+F "Chain Door Mechanism-001.wav" 7285382 0 1621846388 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: chain, door, mechanism, clicks, gear"
+D d "Krotos: chain, door, mechanism, clicks, gear" s 192000 n 2 r 43:35.665
+D l 0:06.310 i 24
+F "Chain Door Mechanism-002.wav" 3743426 0 1621846392 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: chain, door, mechanism, clicks, gear"
+D d "Krotos: chain, door, mechanism, clicks, gear" s 192000 n 2 r 43:42.475
+D l 0:03.236 i 24
+F "Chain Door.wav" 11412444 0 1621846400 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: chain, door, mechanism, rattling"
+D d "Krotos: chain, door, mechanism, rattling" s 96000 n 2 r 0:59.000
+D l 0:19.786 i 24
+F "Dewalt Drill Tampered.wav" 2744216 0 1621846404 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: dewalt drill, power tool, tampered, clicks"
+D d "Krotos: dewalt drill, power tool, tampered, clicks" s 192000 n 2 r 1:10:27.831
+D l 0:02.368 i 24
+F "Glitched Hydraulics.wav" 11584668 0 1621846410 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: hydraulics, glitch, pneumatic, sci-fi, crunching"
+D d "Krotos: hydraulics, glitch, pneumatic, sci-fi, crunching" s 96000 n 2 r 1:19.554
+D l 0:20.085 i 24
+F MECHANICAL_Bomb_tick_01.wav 74372 0 1299534632 0
+D y 2010-07-12 s 44100 n 1 l 0:00.797
+D i 16
+F MECHANICAL_clock_tick_01.wav 533806 0 1299534632 0
+D y 2010-07-12 s 44100 n 1 l 0:06.006
+D i 16
+F MECHANICAL_clock_tick_02.wav 229346 0 1299534632 0
+D y 2010-07-12 s 32000 n 1 l 0:03.520
+D i 16
+F MECHANICAL_clock_tick_03.wav 145214 0 1299534632 0
+D y 2010-07-12 s 44100 n 1 l 0:01.600
+D i 16
+F MECHANICAL_machine_aircon_01.wav 221032 0 1299534632 0
+D y 2010-06-10 s 22050 n 1 l 0:04.921
+D i 16
+F MECHANICAL_machine_aircon_02.wav 206498 0 1299534632 0
+D y 2010-08-15 s 44100 n 1 l 0:02.295
+D i 16
+F MECHANICAL_machine_aircon_03.wav 637684 0 1299534632 0
+D s 44100 n 1 l 0:07.228 i 16
+F MECHANICAL_machine_aircon_04.wav 1725476 0 1299534632 0
+D s 44100 n 2 l 0:09.780 i 16
+F MECHANICAL_machine_aircon_05.wav 630402 0 1299534632 0
+D s 44100 n 1 l 0:07.145 i 16
+F MECHANICAL_machine_clunky_01.wav 180426 0 1299534632 0
+D y 2010-07-04 s 44100 n 1 l 0:01.899
+D i 16
+F MECHANICAL_machine_computerfan_01.wav 288914 0 1299534632 0
+D y 2010-06-21 s 32000 n 1 l 0:04.236
+D i 16
+F MECHANICAL_machine_dieselgen_01.wav 245102 0 1299534632 0
+D y 2010-07-07 s 44100 n 1 l 0:02.599
+D i 16
+F MECHANICAL_machine_dieselgen_02.wav 907912 0 1299534632 0
+D y 2010-07-07 s 44100 n 1 l 0:09.776
+D i 16
+F MECHANICAL_machine_dieselgen_03.wav 586646 0 1299534632 0
+D y 2010-07-07 s 44100 n 1 l 0:06.298
+D i 16
+F MECHANICAL_machine_dieselgen_04.wav 469508 0 1299534632 0
+D y 2010-08-15 s 44100 n 1 l 0:05.277
+D i 16
+F MECHANICAL_machine_drill_01.wav 130168 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:01.355
+D i 16
+F MECHANICAL_machine_extractorfan_01.wav 498214 0 1299534632 0
+D y 2010-06-10 s 44100 n 1 l 0:05.340
+D i 16
+F "MECHANICAL_machine_extractorfan_low _01.wav" 537038 0 1299534632 0
+D y 2010-06-10 s 20000 n 1 l 0:12.702
+D i 16
+F MECHANICAL_machine_highfrequency_01.wav 531002 0 1299534632 0
+D y 2010-06-30 s 20000 n 1 l 0:13.174
+D i 16
+F MECHANICAL_machine_kitchen_aircon_fan_01.wav 434798 0 1299534632 0
+D y 2010-06-24 s 30000 n 1 l 0:07.179
+D i 16
+F MECHANICAL_machine_kitchen_aircon_fan_02.wav 354592 0 1299534632 0
+D y 2010-06-24 s 30000 n 1 l 0:05.842
+D i 16
+F MECHANICAL_machine_kitchen_aircon_fan_03.wav 177366 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:01.965
+D i 16
+F MECHANICAL_machine_lowfrequency_01.wav 105710 0 1299534632 0
+D y 2010-06-30 p 109.1 k C s 6000
+D n 1 l 0:08.247 i 16
+F MECHANICAL_machine_lowfrequency_02.wav 260066 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.903
+D i 16
+F MECHANICAL_machine_lowfrequency_03.wav 491450 0 1299534632 0
+D s 44100 n 1 l 0:05.570 i 16
+F MECHANICAL_machine_oscillating_01.wav 558946 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:06.291
+D i 16
+F MECHANICAL_machine_oscillating_02.wav 788808 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:08.897
+D i 16
+F MECHANICAL_machine_oscillating_03.wav 528216 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:05.943
+D i 16
+F MECHANICAL_machine_oscillating_04.wav 409912 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:04.602
+D i 16
+F MECHANICAL_machine_oscillating_05.wav 176658 0 1299534632 0
+D y 2010-07-04 s 44100 n 1 l 0:01.957
+D i 16
+F MECHANICAL_machine_oscillating_06.wav 616544 0 1299534632 0
+D y 2010-07-04 s 44100 n 1 l 0:06.944
+D i 16
+F MECHANICAL_machine_oscillating_07.wav 62492 0 1299534632 0
+D p 96.6 k C s 16000 n 1
+D l 0:01.863 i 16
+F MECHANICAL_machine_oscillating_08.wav 173260 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.918
+D i 16
+F MECHANICAL_machine_pulsating_01.wav 134606 0 1299534632 0
+D s 20000 n 1 l 0:03.361 i 16
+F MECHANICAL_machine_pulsating_02.wav 29858 0 1299534632 0
+D s 11025 n 1 l 0:01.348 i 16
+F MECHANICAL_machine_pulsating_03.wav 315202 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:03.528
+D i 16
+F MECHANICAL_machine_rythmic_01.wav 287946 0 1299534632 0
+D y 2010-08-15 s 44100 n 1 l 0:03.219
+D i 16
+F MECHANICAL_machine_rythmic_02.wav 377794 0 1299534632 0
+D y 2010-09-01 s 44100 n 1 l 0:03.444
+D i 16
+F MECHANICAL_machine_scifi_01.wav 190600 0 1299534632 0
+D s 44100 n 1 l 0:02.159 i 16
+F MECHANICAL_machine_waterpump_01.wav 531358 0 1299534632 0
+D y 2010-07-26 s 44100 n 1 l 0:05.979
+D i 16
+F MECHANICAL_switch_plastic_01.wav 9884 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.066
+D i 16
+F MECHANICAL_switch_plastic_02.wav 16890 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.146
+D i 16
+F MECHANICAL_switch_plastic_03.wav 18234 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.161
+D i 16
+F MECHANICAL_switch_plastic_04.wav 21648 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.200
+D i 16
+F MECHANICAL_switch_plastic_05.wav 23622 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.222
+D i 16
+F MECHANICAL_switch_plastic_06.wav 33382 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.333
+D i 16
+F MECHANICAL_switch_plastic_07.wav 17872 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.157
+D i 16
+F MECHANICAL_switch_plastic_08.wav 16156 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.137
+D i 16
+F MECHANICAL_switch_plastic_09.wav 35968 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.362
+D i 16
+F MECHANICAL_switch_plastic_10.wav 15974 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.135
+D i 16
+F MECHANICAL_switch_plastic_11.wav 13604 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.108
+D i 16
+F MECHANICAL_switch_plastic_12.wav 12984 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.101
+D i 16
+F MECHANICAL_switch_plastic_13.wav 13574 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.108
+D i 16
+F MECHANICAL_switch_plastic_14.wav 30468 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.300
+D i 16
+F MECHANICAL_switch_plastic_15.wav 18568 0 1299534632 0
+D y 2010-07-03 s 44100 n 1 l 0:00.165
+D i 16
+F "Pillar Drill.wav" 11283494 0 1621846418 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: pillar, drill, machine, buzz, mechanical"
+D d "Krotos: pillar, drill, machine, buzz, mechanical" s 96000 n 2 r 1:40.812
+D l 0:19.562 i 24
+F "Tire Changer Blast-001.wav" 4461488 0 1621846432 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-18 c "Krotos: pneumatic, blast, tire changer, hiss"
+D d "Krotos: pneumatic, blast, tire changer, hiss" s 192000 n 2 r 19:04.397
+D l 0:03.859 i 24
+F "Tire Changer Blast-002.wav" 4497698 0 1621846436 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-18 c "Krotos: pneumatic, blast, tire changer, hiss"
+D d "Krotos: pneumatic, blast, tire changer, hiss" s 192000 n 2 r 19:09.427
+D l 0:03.890 i 24
+F "Tire Changer Rotate-001.wav" 3178210 0 1621846440 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-18 c "Krotos: pneumatic, mechanical, tire changer, hum"
+D d "Krotos: pneumatic, mechanical, tire changer, hum" s 192000 n 2 r 18:52.580
+D l 0:02.745 i 24
+F "Welding Torch.wav" 10220602 0 1621846446 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: welding torch, sparks, electrical, static"
+D d "Krotos: welding torch, sparks, electrical, static" s 96000 n 2 r 2:01.500
+D l 0:17.717 i 24

@@ -1,0 +1,37 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Loopmasters Chilled Trap & Future"
+F CPCT_Kit_1_Clap_01.wav 196186 0 1548713903 0
+D g "Dry, Drums, Hits, Trap, Clap, RnB" s 44100 n 2 l 0:00.735
+D i 24
+F CPCT_Kit_1_Cymbal_01.wav 921148 0 1548713903 0
+D g "Drums, Dry, Hits, RnB, Trap, Cymbals" s 44100 n 2 l 0:03.428
+D i 24
+F CPCT_Kit_1_Hi_Hat_01.wav 46042 0 1548713903 0
+D g "Dry, Drums, Hi-Hat, Hits, Trap, Closed, RnB" s 44100 n 2 l 0:00.121
+D i 24
+F CPCT_Kit_1_Hi_Hat_02.wav 62800 0 1548713903 0
+D g "Dry, Drums, Hi-Hat, Hits, Trap, Closed, RnB" s 44100 n 2 l 0:00.184
+D i 24
+F CPCT_Kit_1_Kick_01.wav 52216 0 1548713903 0
+D g "Drums, Kick, Electronic, Hits, Trap, RnB" s 44100 n 2 l 0:00.190
+D i 24
+F CPCT_Kit_1_Kick_02.wav 119582 0 1548713903 0
+D g "Drums, Kick, Synthesizer, Electronic, Hits, Trap, RnB" s 44100 n 2 l 0:00.399
+D i 24
+F CPCT_Kit_1_Perc_01.wav 176912 0 1548713903 0
+D g "Drums, Percussion, Hits, Trap, Voices, RnB" s 44100 n 2 l 0:00.615
+D i 24
+F CPCT_Kit_1_Shaker_01.wav 155370 0 1548713903 0
+D g "Processed, Drums, Percussion, Shaker, Hits, Trap, RnB" s 44100 n 2 l 0:00.580
+D i 24
+F CPCT_Kit_1_Snare_01.wav 81244 0 1548713903 0
+D g "Processed, Drums, Snare, Hits, Trap, RnB" s 44100 n 2 l 0:00.254
+D i 24
+F CPCT_Kit_1_Tambourine_01.wav 136622 0 1548713903 0
+D g "Processed, Drums, Tambourine, Hits, Trap, RnB" s 44100 n 2 l 0:00.463
+D i 24
+F CPCT_Kit_1_Thump_01.wav 921148 0 1548713903 0
+D g "Processed, Drums, Clave, Stick, Hits, Trap, Woodblock, RnB" s 44100 n 2 l 0:03.428
+D i 24
+F CPCT_Kit_1_Wood_Slap_01.wav 91754 0 1548713903 0
+D g "Dry, Drums, Tom, Electronic, Stick, Hits, Trap, Wood, RnB" s 44100 n 2 l 0:00.294
+D i 24

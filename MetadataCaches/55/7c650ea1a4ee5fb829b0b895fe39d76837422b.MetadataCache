@@ -1,0 +1,43 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Bomb Factory/Raw Materials"
+F "Gas Burn Loop 01.wav" 632534 0 1537370361 0
+D s 44100 n 2 l 0:02.390 i 24
+F "Gas Burn Loop 02.wav" 735632 0 1537370365 0
+D s 44100 n 2 l 0:02.780 i 24
+F "Gas Burn Loop 03.wav" 325736 0 1537370366 0
+D s 44100 n 2 l 0:01.230 i 24
+F "Gas Burn Loop 04.wav" 483284 0 1537370367 0
+D s 44100 n 2 l 0:01.826 i 24
+F "Gas Hob 01.wav" 865658 0 1537370367 0
+D s 44100 n 2 l 0:03.271 i 24
+F "Gas Hob 02.wav" 1554446 0 1537370368 0
+D s 44100 n 2 l 0:05.874 i 24
+F "Gas Hob 03.wav" 899636 0 1537370368 0
+D s 44100 n 2 l 0:03.399 i 24
+F "Gas Hob Ignition 01.wav" 274838 0 1537370369 0
+D s 44100 n 2 l 0:01.038 i 24
+F "Gas Hob Ignition 02.wav" 274820 0 1537370370 0
+D s 44100 n 2 l 0:01.038 i 24
+F "Matches 01.wav" 939608 0 1537370371 0
+D s 44100 n 1 l 0:07.101 i 24
+F "Matches 02.wav" 92270 0 1537370372 0
+D s 44100 n 1 l 0:00.697 i 24
+F "Matches 03.wav" 85416 0 1537370372 0
+D s 44100 n 1 l 0:00.645 i 24
+F "Matches 04.wav" 703692 0 1537370373 0
+D s 44100 n 1 l 0:05.318 i 24
+F "Metronome Fast.wav" 429552 0 1537371487 0
+D s 44100 n 1 l 0:02.434 i 32
+F "Metronome Medium.wav" 722788 0 1537371460 0
+D s 44100 n 1 l 0:04.097 i 32
+F "Metronome Slow.wav" 1389088 0 1537371447 0
+D s 44100 n 1 l 0:07.874 i 32
+F "TickTock 01.wav" 1060018 0 1537370374 0
+D s 44100 n 2 l 0:04.005 i 24
+F "TickTock 02.wav" 528256 0 1537370375 0
+D s 44100 n 2 l 0:01.995 i 24
+F "TickTock 03.wav" 423586 0 1537370376 0
+D s 44100 n 2 l 0:01.600 i 24
+F "TickTock 04.wav" 423488 0 1537370389 0
+D s 44100 n 2 l 0:01.600 i 24
+F "TickTock 05.wav" 423854 0 1537370396 0
+D s 44100 n 2 l 0:01.601 i 24

@@ -1,0 +1,49 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/EXS Factory Samples/03 Drums & Percussion/02 Electronic Drum Kits/Infinity Kit"
+F Clap_Infinity.aif 1061528 0 1655744576 0
+D s 44100 n 2 l 0:04.000 i 24
+F Crash_Infinity.aif 1061528 0 1512169034 0
+D s 44100 n 2 l 0:04.000 i 24
+F Foley_1_Infinity.aif 133912 0 1512169034 0
+D s 44100 n 2 l 0:00.500 i 24
+F Foley_2_Infinity.aif 134112 0 1512169034 0
+D s 44100 n 2 l 0:00.500 i 24
+F Foley_3_Infinity.aif 199020 0 1512169034 0
+D s 44100 n 2 l 0:00.750 i 24
+F Hi-Hat_1_Infinity.aif 132870 0 1655744576 0
+D s 44100 n 2 l 0:00.500 i 24
+F Hi-Hat_2_Infinity.aif 66720 0 1512169034 0
+D s 44100 n 2 l 0:00.250 i 24
+F Hi-Hat_3_Infinity.aif 66720 0 1512169034 0
+D s 44100 n 2 l 0:00.250 i 24
+F Kick_1_Infinity.aif 86430 0 1512169034 0
+D s 44100 n 2 l 0:00.323 i 24
+F Kick_2_Infinity.aif 87092 0 1512169034 0
+D s 44100 n 2 l 0:00.326 i 24
+F Perc_1_Infinity.aif 134116 0 1512169034 0
+D s 44100 n 2 l 0:00.500 i 24
+F Perc_2_Infinity.aif 134116 0 1512169034 0
+D s 44100 n 2 l 0:00.500 i 24
+F Ride_Infinity.aif 1591478 0 1655744576 0
+D s 44100 n 2 l 0:06.000 i 24
+F Rim_Infinity.aif 133396 0 1512169034 0
+D s 44100 n 2 l 0:00.500 i 24
+F Shaker_1_Infinity.aif 78940 0 1512169034 0
+D s 44100 n 2 l 0:00.294 i 24
+F Shaker_2_Infinity.aif 78034 0 1512169034 0
+D s 44100 n 2 l 0:00.290 i 24
+F Snare_1_Infinity.aif 63112 0 1512169034 0
+D s 44100 n 2 l 0:00.234 i 24
+F Snare_2_Infinity.aif 44212 0 1512169034 0
+D s 44100 n 2 l 0:00.162 i 24
+F Snare_3_Infinity.aif 58978 0 1512169034 0
+D s 44100 n 2 l 0:00.218 i 24
+F Snare_4_Infinity.aif 133396 0 1655744576 0
+D s 44100 n 2 l 0:00.500 i 24
+F Snare_5_Infinity.aif 56224 0 1512169034 0
+D s 44100 n 2 l 0:00.208 i 24
+F Tom_High_Infinity.aif 167242 0 1655744576 0
+D s 44100 n 2 l 0:00.625 i 24
+F Tom_Low_Infinity.aif 167242 0 1512169034 0
+D s 44100 n 2 l 0:00.625 i 24
+F Tom_Mid_Infinity.aif 167242 0 1512169034 0
+D s 44100 n 2 l 0:00.625 i 24

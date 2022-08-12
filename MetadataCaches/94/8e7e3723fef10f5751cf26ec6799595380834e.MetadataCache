@@ -1,0 +1,148 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Presets/FogConvolver/M2M/Lexicon PCM90 Rooms"
+F "Cust Beebee Slapz.WAV" 198698 0 1046727370 0
+D y 2003-02-27 d "beebee slapz" s 44100 n 2
+D l 0:01.104 i 16
+F "Cust Gen Ambi.WAV" 120846 0 1046727370 0
+D y 2003-02-27 d "gen ambi" s 44100 n 2
+D l 0:00.662 i 16
+F "Cust Hole Room.WAV" 464822 0 1046727370 0
+D y 2003-02-27 d "hole room" s 44100 n 2
+D l 0:02.612 i 16
+F "Cust Inverse Room2.WAV" 360558 0 1046727370 0
+D y 2003-02-27 d "inverse room2" s 44100 n 2
+D l 0:02.021 i 16
+F "Cust Pcm60 Room.WAV" 355686 0 1046727370 0
+D y 2003-02-27 d "pcm60 room" s 44100 n 2
+D l 0:01.994 i 16
+F "Cust Spatial Room.WAV" 243682 0 1046727370 0
+D y 2003-02-27 d "spatial room" s 44100 n 2
+D l 0:01.358 i 16
+F "Cust Storage Tank.WAV" 242010 0 1046727370 0
+D y 2003-02-27 d "storage tank" s 44100 n 2
+D l 0:01.349 i 16
+F "Cust Store Room.WAV" 329058 0 1046727370 0
+D y 2003-02-27 d "store room" s 44100 n 2
+D l 0:01.843 i 16
+F "Cust Strange Place.WAV" 53166 0 1046727370 0
+D y 2003-02-27 d "strange place" s 44100 n 2
+D l 0:00.279 i 16
+F "Drums Drum Room.WAV" 101358 0 1046727044 0
+D y 2003-02-27 d "drum room" s 44100 n 2
+D l 0:00.552 i 16
+F "Drums Inverse Drums.WAV" 165670 0 1046727044 0
+D y 2003-02-27 d "inverse drums" s 44100 n 2
+D l 0:00.916 i 16
+F "Drums Metallic Room.WAV" 150382 0 1046727044 0
+D y 2003-02-27 d "metallic room" s 44100 n 2
+D l 0:00.830 i 16
+F "Drums Percuss Place.WAV" 261166 0 1046727044 0
+D y 2003-02-27 d "percuss place" s 44100 n 2
+D l 0:01.458 i 16
+F "Drums Percussion Room.WAV" 132538 0 1046727044 0
+D y 2003-02-27 d "percussion room" s 44100 n 2
+D l 0:00.729 i 16
+F "Drums Room 4 Drums.WAV" 168118 0 1046727044 0
+D y 2003-02-27 d "room 4 drums" s 44100 n 2
+D l 0:00.930 i 16
+F "Drums Slap Place.WAV" 194858 0 1046727044 0
+D y 2003-02-27 d "slap place" s 44100 n 2
+D l 0:01.082 i 16
+F "Drums Sloppy Place.WAV" 181818 0 1046727044 0
+D y 2003-02-27 d "sloppy place" s 44100 n 2
+D l 0:01.008 i 16
+F "Drums Snare Trash.WAV" 110602 0 1046727044 0
+D y 2003-02-27 d "snare trash" s 44100 n 2
+D l 0:00.604 i 16
+F "Drums Wide Slap Drum.WAV" 144626 0 1046727044 0
+D y 2003-02-27 d "wide slap drum" s 44100 n 2
+D l 0:00.797 i 16
+F "Instr Guitar Room.WAV" 56530 0 1046573366 0
+D y 2003-02-27 d "guitar room" s 44100 n 2
+D l 0:00.298 i 16
+F "Instr Large Chamber.WAV" 472618 0 1046573366 0
+D y 2003-02-27 d "large chamber" s 44100 n 2
+D l 0:02.657 i 16
+F "Instr Large Room.WAV" 354710 0 1046573366 0
+D y 2003-02-27 d "large room" s 44100 n 2
+D l 0:01.988 i 16
+F "Instr Medium Room.WAV" 177846 0 1046573366 0
+D y 2003-02-27 d "medium room" s 44100 n 2
+D l 0:00.986 i 16
+F "Instr Organ Room.WAV" 273834 0 1046573366 0
+D y 2003-02-27 d "organ room" s 44100 n 2
+D l 0:01.530 i 16
+F "Instr Small Chamber.WAV" 170690 0 1046573366 0
+D y 2003-02-27 d "small chamber" s 44100 n 2
+D l 0:00.945 i 16
+F "Instr Small Room.WAV" 134762 0 1046573366 0
+D y 2003-02-27 d "small room" s 44100 n 2
+D l 0:00.741 i 16
+F "Instr Spinning Room.WAV" 349838 0 1046573366 0
+D y 2003-02-27 d "spinning room" s 44100 n 2
+D l 0:01.961 i 16
+F "Instr Tiled Room.WAV" 99106 0 1046573366 0
+D y 2003-02-27 d "tiled room" s 44100 n 2
+D l 0:00.539 i 16
+F "Instr Wide Chamber.WAV" 322066 0 1046573366 0
+D y 2003-02-27 d "wide chamber" s 44100 n 2
+D l 0:01.803 i 16
+F "Live Big Boom Room.WAV" 143218 0 1046726818 0
+D y 2003-02-27 d "big boom room" s 44100 n 2
+D l 0:00.789 i 16
+F "Live Delay Space.WAV" 267734 0 1046726818 0
+D y 2003-02-27 d "delay space 375bpm" s 44100 n 2
+D l 0:01.495 i 16
+F "Live Great Room.WAV" 250446 0 1046726818 0
+D y 2003-02-27 d "great room" s 44100 n 2
+D l 0:01.397 i 16
+F "Live Large Space Room.WAV" 266038 0 1046726818 0
+D y 2003-02-27 d "large space room" s 44100 n 2
+D l 0:01.485 i 16
+F "Live Medium Space Room.WAV" 89082 0 1046726820 0
+D y 2003-02-27 d "medium space room" s 44100 n 2
+D l 0:00.482 i 16
+F "Live Real Room.WAV" 132126 0 1046726820 0
+D y 2003-02-27 d "real room" s 44100 n 2
+D l 0:00.726 i 16
+F "Live Reflect Room.WAV" 164694 0 1046726820 0
+D y 2003-02-27 d "reflect room" s 44100 n 2
+D l 0:00.911 i 16
+F "Live Rock Room.WAV" 364454 0 1046726820 0
+D y 2003-02-27 d "rock room" s 44100 n 2
+D l 0:02.043 i 16
+F "Live Spatial Bass.WAV" 98974 0 1046726820 0
+D y 2003-02-27 d "spatial bass" s 44100 n 2
+D l 0:00.538 i 16
+F "Live Tight Space.WAV" 141366 0 1046726820 0
+D y 2003-02-27 d "tight space" s 44100 n 2
+D l 0:00.778 i 16
+F "Voc Ambient Sus.WAV" 193826 0 1046726572 0
+D y 2003-02-27 d "ambient sus" s 44100 n 2
+D l 0:01.076 i 16
+F "Voc Brite Vocal.WAV" 125718 0 1046726572 0
+D y 2003-02-27 d "brite vocal" s 44100 n 2
+D l 0:00.690 i 16
+F "Voc Large Voc Space.WAV" 356662 0 1046726572 0
+D y 2003-02-27 d "large voc space" s 44100 n 2
+D l 0:01.999 i 16
+F "Voc Large Vocal Amb.WAV" 129614 0 1046726572 0
+D y 2003-02-27 d "large vocal amb" s 44100 n 2
+D l 0:00.712 i 16
+F "Voc Short Voc Space.WAV" 234854 0 1046726572 0
+D y 2003-02-27 d "short voc space" s 44100 n 2
+D l 0:01.309 i 16
+F "Voc Short Vocal Amb.WAV" 50806 0 1046726572 0
+D y 2003-02-27 d "short vocal amb" s 44100 n 2
+D l 0:00.265 i 16
+F "Voc Very Small Amb.WAV" 100070 0 1046726572 0
+D y 2003-02-27 d "very small amb" s 44100 n 2
+D l 0:00.545 i 16
+F "Voc Vocal Amb.WAV" 95490 0 1046726572 0
+D y 2003-02-27 d "vocal amb" s 44100 n 2
+D l 0:00.519 i 16
+F "Voc Vocal Booth.WAV" 87714 0 1046726572 0
+D y 2003-02-27 d "vocal booth" s 44100 n 2
+D l 0:00.475 i 16
+F "Voc Vocal Space.WAV" 195834 0 1046726572 0
+D y 2003-02-27 d "vocal space" s 44100 n 2
+D l 0:01.087 i 16

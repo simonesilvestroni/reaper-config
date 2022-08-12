@@ -1,0 +1,28 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Soundscapes/Custom"
+F Ah1.wav 1332 0 1515616614 0
+D s 44100 n 2 l 0:00.007 i 16
+F "Array Alpha.wav" 483464 0 1515616614 0
+D s 44100 n 1 l 0:02.739 i 32
+F "Array Epsilon.wav" 368776 0 1515616614 0
+D s 44100 n 1 l 0:02.089 i 32
+F "Array Gamma.wav" 360584 0 1515616614 0
+D s 44100 n 1 l 0:02.043 i 32
+F "Array Lambda.wav" 368776 0 1515616614 0
+D s 44100 n 1 l 0:02.089 i 32
+F ArtOfDrone.wav 2007836 0 1515616614 0
+D s 44100 n 2 l 0:11.358 i 16
+F "Chueca Metro Atmos.wav" 14910962 0 1515616614 0
+D s 96000 n 2 l 0:25.882 i 24
+F ColdBeauty.wav 2826576 0 1515616614 0
+D s 44100 n 2 l 0:15.999 i 16
+F MicroOrganism.wav 1745146 0 1515616614 0
+D s 44100 n 2 l 0:09.850 i 16
+F "Toilet Flush Alt.wav" 2269044 0 1515617478 0
+D s 44100 n 2 l 0:06.431 i 32
+F "Toy Spring Shaker E7.wav" 292682 0 1515616614 0
+D s 44100 n 2 l 0:01.105 i 24
+F ToyNoise1.wav 1083662 0 1515616614 0
+D y 2010-12-26 s 44100 n 2 r 3:25.242
+D l 0:06.102 i 16
+F "Water Stream 01.wav" 696218 0 1515617478 0
+D s 44100 n 2 l 0:02.631 i 24

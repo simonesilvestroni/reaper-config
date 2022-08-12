@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - MatiasMacSD - THE MACHINES - ROBOTIC SOUNDS"
+F Robot_Big_Footstep_Servo_003.wav 1229320 0 1583868683 0
+D d "Robot, Mech, Big, Footstep, Servo, Motor, Movement" s 96000 n 2 l 0:02.132
+D i 24
+F Robot_Morph_Movement_005.wav 1761268 0 1583868686 0
+D d "Robot, Morph, Transformation, Movement" s 96000 n 2 l 0:03.056
+D i 24
+F Robot_Scan_Data_017.wav 3523084 0 1583867817 0
+D d "Robot, Scan, Data, Calculation" s 96000 n 2 l 0:06.114
+D i 24
+F Robot_Servo_006.wav 730126 0 1583868560 0
+D d "Robot, Servo, Motor, Movement" s 96000 n 2 l 0:01.266
+D i 24

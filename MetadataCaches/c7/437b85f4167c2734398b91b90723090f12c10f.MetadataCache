@@ -1,0 +1,16 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - M8 Greyhound Armored Car_"
+F M8_t2_onbrd_startup_blips_steady_rpms_in_neutral_shutdown_engine_PZM.1.wav 33849940 0 1583868903 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Armored Car" c "onboard startup blips steady rpm in neutral shutdown engine Zaxcom PZM wav"
+D d "onboard startup blips steady rpm in neutral shutdown engine Zaxcom PZM wav" s 96000 n 1 l 1:57.120
+D i 24 m 0
+F M8_t2_onbrd_startup_blips_steady_rpms_in_neutral_shutdown_engine_PZM.wav 33849940 0 1583869092 0
+F M8_t3_ext_passby_stop_turnaround_away_var_speeds_Schoeps.1.wav 69101080 0 1583869092 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Armored Car" c "exterior passby stop turnaround away various speeds Fostex FR2 Schoeps CMC6 wav"
+D d "exterior passby stop turnaround away various speeds Fostex FR2 Schoeps CMC6 wav" s 96000 n 2 l 1:59.760
+D i 24 m 0
+F M8_t3_ext_passby_stop_turnaround_away_var_speeds_Schoeps.wav 69101080 0 1583869039 0
+F M8_t8_onbrd_var_driving_engine_DPA4061.1.wav 55622136 0 1583868992 0
+F M8_t8_onbrd_var_driving_engine_DPA4061.wav 55622136 0 1583869064 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Armored Car" c "onboard various driving engine Zaxcom DPA4061 wav"
+D d "onboard various driving engine Zaxcom DPA4061 wav" s 96000 n 1 l 3:12.720
+D i 24 m 0

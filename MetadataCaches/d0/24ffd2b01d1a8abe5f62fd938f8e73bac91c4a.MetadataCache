@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Mindful Audio -  Elements - Zippers"
+F "MAFX002 Backpack large coil zipper - short fast zips.wav" 9830724 0 1583868295 0
+D g Foley c "Backpack, large coil zipper, short fast zips, rip, tear, unzip, fasten, slide, luggage" d "Backpack, large coil zipper, short fast zips, rip, tear, unzip, fasten, slide, luggage" s 96000
+D n 1 l 0:33.693 i 24 m 1
+F "MAFX002 Jeans metal zipper - fast zips.wav" 11085024 0 1583868483 0
+D g Foley c "Jeans, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" d "Jeans, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" s 96000
+D n 1 l 0:38.066 i 24 m 1
+F "MAFX002 Small Backpack plastic zipper - slow zips.wav" 17671004 0 1583868599 0
+D d "Small Backpack, plastic zipper, slow zips, rip, tear, unzip, fasten, slide, luggage" s 96000 n 1 l 1:00.916
+D i 24
+F "MAFX002 Wool Coat metal zipper - fast zips.wav" 12752436 0 1583868455 0
+D g Foley c "Wool Coat, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" d "Wool Coat, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" s 96000
+D n 1 l 0:43.855 i 24 m 1

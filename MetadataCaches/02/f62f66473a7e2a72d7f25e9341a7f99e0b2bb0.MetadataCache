@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - MatiasMacSD - THE WEAPONS - SCI-FI WEAPONS"
+F "Weapon Bomb Explosion Sci-Fi Plasma-04.wav" 1251226 0 1583867358 0
+D d "Weapon, Bomb, Explosion, Sci-Fi, Plasma" s 96000 n 2 l 0:02.170
+D i 24
+F "Weapon Reload-16.wav" 705214 0 1583868679 0
+D d "Weapon, Reload, Mechanical Movements, Sci-Fi" s 96000 n 1 l 0:02.445
+D i 24
+F "Weapon Shot Blaster-06.wav" 902704 0 1583868298 0
+D d "Weapon, Shot, Blaster, Laser, Plasma, Sci-Fi" s 96000 n 2 l 0:01.565
+D i 24
+F "Weapon Shot Spaceship Super Blaster-04.wav" 5056876 0 1583868980 0
+D d "Weapon, Shot, Spaceship, Super, Blaster, Laser, Plasma, Sci-Fi" s 96000 n 2 l 0:08.777
+D i 24

@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - MatiasMacSD - CREATURES ZONE"
+F Creature_Alien_Death_01.wav 764890 0 1583868286 0
+D d "Creature, Monster, Alien, Death, Die, Suffering" s 96000 n 1 l 0:02.652
+D i 24
+F Creature_Dragon_Roar_01.wav 1020662 0 1583867170 0
+D d "Creature, Monster, Dragon, Angry, Aggressive, Roar" s 96000 n 1 l 0:03.540
+D i 24
+F Creature_Monster_Attack_09.wav 534952 0 1583867446 0
+D d "Creature, Monster, Angry, Aggressive, Attack" s 96000 n 1 l 0:01.854
+D i 24
+F Creature_Monster_Pain_01.wav 367478 0 1583867219 0
+D d "Creature, Monster, Pain, Hurt, Suffering" s 96000 n 1 l 0:01.272
+D i 24

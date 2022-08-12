@@ -1,0 +1,103 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Radiosonics/Classic Simple OSC FX"
+F "Classic FX 01.wav" 1428886 0 1532083076 0
+D s 44100 n 2 l 0:05.400 i 24
+F "Classic FX 02.wav" 1485706 0 1532603429 0
+D s 44100 n 2 l 0:05.614 i 24
+F "Classic FX 03.wav" 915286 0 1532604101 0
+D s 44100 n 2 l 0:03.458 i 24
+F "Classic FX 04.wav" 576568 0 1532604171 0
+D s 44100 n 2 l 0:02.178 i 24
+F "Classic FX 05.wav" 828370 0 1532604298 0
+D s 44100 n 2 l 0:03.130 i 24
+F "Classic FX 06.wav" 2045470 0 1532604647 0
+D s 44100 n 2 l 0:07.730 i 24
+F "Classic FX 07.wav" 923014 0 1532604699 0
+D s 44100 n 2 l 0:03.488 i 24
+F "Classic FX 08.wav" 980860 0 1532604757 0
+D s 44100 n 2 l 0:03.706 i 24
+F "Classic FX 09.wav" 1458562 0 1532703029 0
+D s 44100 n 2 l 0:05.512 i 24
+F "Classic FX 10.wav" 1864966 0 1532703094 0
+D s 44100 n 2 l 0:07.048 i 24
+F "Classic FX 11.wav" 1163596 0 1532764376 0
+D s 44100 n 2 l 0:04.397 i 24
+F "Classic FX 12.wav" 1497490 0 1532764419 0
+D s 44100 n 2 l 0:05.659 i 24
+F "Classic FX 13.wav" 1995160 0 1532764451 0
+D s 44100 n 2 l 0:07.540 i 24
+F "Classic FX 14.wav" 1532998 0 1532764497 0
+D s 44100 n 2 l 0:05.793 i 24
+F "Classic FX 15.wav" 1113220 0 1532764522 0
+D s 44100 n 2 l 0:04.207 i 24
+F "Classic FX 16.wav" 865270 0 1532764547 0
+D s 44100 n 2 l 0:03.269 i 24
+F "Classic FX 17.wav" 1413922 0 1532764606 0
+D s 44100 n 2 l 0:05.343 i 24
+F "Classic FX 18.wav" 1408390 0 1532764631 0
+D s 44100 n 2 l 0:05.322 i 24
+F "Classic FX 19.wav" 1601068 0 1532764682 0
+D s 44100 n 2 l 0:06.050 i 24
+F "Classic FX 20.wav" 1671652 0 1532764741 0
+D s 44100 n 2 l 0:06.317 i 24
+F "Classic FX 21.wav" 1455028 0 1532764799 0
+D s 44100 n 2 l 0:05.498 i 24
+F "Classic FX 22.wav" 949942 0 1532764832 0
+D s 44100 n 2 l 0:03.589 i 24
+F "Classic FX 23.wav" 398704 0 1532764891 0
+D s 44100 n 2 l 0:01.506 i 24
+F "Classic FX 24.wav" 764728 0 1532764922 0
+D s 44100 n 2 l 0:02.889 i 24
+F "Classic FX 25.wav" 1364614 0 1532764952 0
+D s 44100 n 2 l 0:05.157 i 24
+F "Classic FX 26.wav" 1752238 0 1532771521 0
+D s 44100 n 2 l 0:06.622 i 24
+F "Classic FX 27.wav" 428206 0 1532882450 0
+D s 44100 n 2 l 0:01.618 i 24
+F "Classic FX 28.wav" 1237378 0 1532882632 0
+D s 44100 n 2 l 0:04.676 i 24
+F "Classic FX 29.wav" 638170 0 1532882698 0
+D s 44100 n 2 l 0:02.411 i 24
+F "Classic FX 30.wav" 418474 0 1532882739 0
+D s 44100 n 2 l 0:01.581 i 24
+F "Classic FX 31.wav" 668980 0 1532882774 0
+D s 44100 n 2 l 0:02.528 i 24
+F "Classic FX 32.wav" 676594 0 1532882820 0
+D s 44100 n 2 l 0:02.556 i 24
+F "Simple OSC Spring Reverb 01.wav" 761170 0 1532766101 0
+D s 44100 n 2 l 0:02.876 i 24
+F "Simple OSC Spring Reverb 02.wav" 769330 0 1532766166 0
+D s 44100 n 2 l 0:02.907 i 24
+F "Simple OSC Spring Reverb 03.wav" 1037302 0 1532766193 0
+D s 44100 n 2 l 0:03.920 i 24
+F "Simple OSC Spring Reverb 04.wav" 582166 0 1532766320 0
+D s 44100 n 2 l 0:02.200 i 24
+F "Simple OSC Spring Reverb 05.wav" 386794 0 1532766345 0
+D s 44100 n 2 l 0:01.461 i 24
+F "Simple OSC Spring Reverb 06.wav" 656374 0 1532766369 0
+D s 44100 n 2 l 0:02.480 i 24
+F "Simple OSC Spring Reverb 07.wav" 1116274 0 1532766519 0
+D s 44100 n 2 l 0:04.218 i 24
+F "Simple OSC Spring Reverb 08.wav" 1037968 0 1532766547 0
+D s 44100 n 2 l 0:03.922 i 24
+F "Simple OSC Spring Reverb 09.wav" 791224 0 1532766571 0
+D s 44100 n 2 l 0:02.990 i 24
+F "Simple OSC Spring Reverb 10.wav" 957568 0 1532769137 0
+D s 44100 n 2 l 0:03.618 i 24
+F "Simple OSC Spring Reverb 11.wav" 855202 0 1532769180 0
+D s 44100 n 2 l 0:03.231 i 24
+F "Simple OSC Spring Reverb 12.wav" 588172 0 1532769211 0
+D s 44100 n 2 l 0:02.222 i 24
+F "Simple OSC Spring Reverb 13.wav" 675070 0 1532769386 0
+D s 44100 n 2 l 0:02.551 i 24
+F "Simple OSC Spring Reverb 14.wav" 879970 0 1532769414 0
+D s 44100 n 2 l 0:03.325 i 24
+F "Simple OSC Spring Reverb 15.wav" 777292 0 1532769445 0
+D s 44100 n 2 l 0:02.937 i 24
+F "Simple OSC Spring Reverb 16.wav" 991378 0 1532769470 0
+D s 44100 n 2 l 0:03.746 i 24
+F "Simple OSC Spring Reverb 17.wav" 907780 0 1532769490 0
+D s 44100 n 2 l 0:03.430 i 24
+F "Simple OSC Spring Reverb 18.wav" 1050286 0 1532769531 0
+D s 44100 n 2 l 0:03.969 i 24
+F "Simple OSC Spring Reverb 19.wav" 1004602 0 1532893943 0
+D s 44100 n 2 l 0:03.796 i 24

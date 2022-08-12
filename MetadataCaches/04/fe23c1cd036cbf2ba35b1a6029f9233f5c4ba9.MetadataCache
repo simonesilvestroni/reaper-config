@@ -1,0 +1,10 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Detunized - Computer Noises"
+F "Atari PC2 - Floppy Failure 3.wav" 5148588 0 1583868222 0
+D y 2015-03-06 d "5.25 floppy failures" s 96000 n 1
+D l 0:17.792 i 24
+F "external HD 1_mono.wav" 16292124 0 1583868185 0
+D y 2015-03-06 d "HD boot and and spin down" s 96000 n 1
+D l 0:56.384 i 24
+F "external HD 4_dual channel.wav" 37788028 0 1583868187 0
+D y 2015-03-06 d "Laptop HD boot, idle and and spin down" s 96000 n 2
+D l 1:05.498 i 24

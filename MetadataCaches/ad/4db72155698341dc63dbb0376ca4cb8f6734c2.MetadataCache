@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - 3maze - The Elevator"
+F 50s_elevator_ride_down_001.wav 17335154 0 1583868888 0
+D y 2016-02-17 d "sNOTE=elevator, floors, descend, down, mechanical, 1950s, 1950, 50s, retro, vintage,  " s 96000 n 2
+D r 1:00:00.000 l 0:30.037 i 24
+F elevator_mechanism_002_wide.wav 3322360 0 1583867478 0
+D y 2015-07-14 d "sNOTE=elevator, mechanical, mechanism, metal, gears, electric, electrical, wires, lift, moving, machine, machinery,  " s 96000 n 2
+D r 1:00:00.000 l 0:05.741 i 24
+F elevator_mechanism_005_wide.wav 7244562 0 1583868641 0
+D y 2015-08-09 d "sNOTE=elevator, mechanical, mechanism, metal, gears, electric, electrical, wires, lift, moving, machine, machinery,  " s 96000 n 2
+D r 1:00:00.000 l 0:12.541 i 24
+F soviet_elevator_door_close_001.wav 1586046 0 1583867694 0
+D y 2016-02-23 d "sNOTE=elevator, door, close, manual, mechanical, soviet, 1960s, 1960, 60s, retro, vintage,  " s 96000 n 2
+D r 1:00:00.753 l 0:02.730 i 24

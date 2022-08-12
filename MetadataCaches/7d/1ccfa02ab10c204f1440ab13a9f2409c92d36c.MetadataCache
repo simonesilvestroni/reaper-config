@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Loopmasters Dubwise/Rolls And Fills"
+F DWS_Bouncy_Roll.wav 799364 0 1548713926 0
+D g "Processed, Drums, Snare, Roll, Dub" s 44100 n 2 l 0:03.015
+D i 24
+F DWS_Drum_Fill.wav 1048166 0 1548713926 0
+D g "Drum Kit, Drums, Dub, Fill, Processed" s 44100 n 2 l 0:03.956
+D i 24
+F DWS_Fuzz_Drum_Roll.wav 1123904 0 1548713926 0
+D g "Processed, Drums, Snare, Distorted, Lo-Fi, Roll, Dub" s 44100 n 2 l 0:04.242
+D i 24
+F DWS_Rev_Tibal_Fill.wav 1048352 0 1548713926 0
+D g "Fill, Processed, Drums, Snare, Filter Sweep, Dub" s 44100 n 2 l 0:03.956
+D i 24

@@ -1,0 +1,840 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - DOOR"
+F 1.Thailand_AbandonedHouse_DoorKnockingWithHook_ZoomH6.WAV 21738240 0 1530016242 0
+D y 2018-06-17 s 96000 n 2 r 20:15:01.000
+D l 0:37.500 i 24
+F 10.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_ChurchReverb_01.WAV 22902130 0 1530016396 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 11.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_LargeHallway_01.WAV 22902130 0 1530016324 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 12.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_Reverb_DistanceEffect_01.wav 22902130 0 1530016112 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 13.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_SmallDryRoom_01.WAV 22902130 0 1530016212 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 2.Thailand_AbandonedHouse_DoorKnockingWithHook_ZoomH6_BackgroundNoiseRemoved.WAV 21738240 0 1530016150 0
+D y 2018-06-17 s 96000 n 2 r 20:15:01.000
+D l 0:37.500 i 24
+F 3.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoor_01.wav 22997916 0 1530016262 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.595
+D l 0:39.685 i 24
+F 4.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_01.WAV 22901232 0 1530016178 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 5.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_leftdoor_01.WAV 24630558 0 1530016084 0
+D y 2018-06-17 s 96000 n 2 r 20:18:47.405
+D l 0:42.520 i 24
+F 6.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_leftdoor_backgroundsoundremoved_01.WAV 24630558 0 1530016346 0
+D y 2018-06-17 s 96000 n 2 r 20:18:47.405
+D l 0:42.520 i 24
+F 7.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_HallwayReverb_01.WAV 22902130 0 1530016364 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 8.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_Thickener_01.WAV 22902118 0 1530016130 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F 9.Thailand_AbandonedHouse_DoorKnockingWithHook_DPA4060_rightdoorBackgroundSoundRemoved_Spooky_01.WAV 22902130 0 1530016290 0
+D y 2018-06-17 s 96000 n 2 r 20:21:25.763
+D l 0:39.517 i 24
+F "Car Door 01.wav" 52724 0 1248005588 0
+D y 2009-07-19 s 44100 n 2 l 0:00.198
+D i 24
+F "Car Door 02.wav" 70394 0 1248005652 0
+D y 2009-07-19 s 44100 n 2 l 0:00.265
+D i 24
+F "Car Door 03.wav" 159872 0 1248036842 0
+D y 2006-06-07 s 44100 n 2 l 0:00.603
+D i 24
+F "Car Door 04.wav" 146822 0 1248526560 0
+D y 2009-07-25 s 44100 n 2 l 0:00.554
+D i 24
+F "Creaking Door 1.wav" 979016 0 1488630185 0
+D s 48000 n 2 l 0:05.098 i 16
+F "Creaking Door 2.wav" 532552 0 1488630184 0
+D s 48000 n 2 l 0:02.773 i 16
+F "Creaking Door.mp3" 245759 0 1583930882 0
+D s 44100 n 2 l 0:07.628 i 258k
+F creaking-door-1.wav 979016 0 1583930885 0
+D s 48000 n 2 l 0:05.098 i 16
+F creaking-door-2.wav 532552 0 1583930845 0
+D s 48000 n 2 l 0:02.773 i 16
+F "Creaky Door 01.wav" 891008 0 1246438986 0
+D y 2009-07-01 s 44100 n 2 l 0:03.366
+D i 24
+F "Creaky Door 02.wav" 774272 0 1247650938 0
+D y 2009-07-15 s 44100 n 2 l 0:02.925
+D i 24
+F "Creaky Door 03.wav" 594560 0 1247650984 0
+D y 2009-07-15 s 44100 n 2 l 0:02.246
+D i 24
+F "Door 01.aif" 480752 0 1505997470 0
+D s 44100 n 1 l 0:05.328 i 16
+F "Door 01.wav" 295108 0 1439162470 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.672
+D i 16
+F "Door 02.aif" 178228 0 1505997470 0
+D s 44100 n 1 l 0:01.898 i 16
+F "Door 02.wav" 164512 0 1439161987 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.931
+D i 16
+F "Door 03.aif" 209972 0 1505997470 0
+D s 44100 n 1 l 0:02.258 i 16
+F "Door 03.wav" 209392 0 1439161516 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.186
+D i 16
+F "Door 04.aif" 257776 0 1505997470 0
+D s 44100 n 1 l 0:02.800 i 16
+F "Door 04.wav" 159476 0 1439161080 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.903
+D i 16
+F "Door 05.aif" 312628 0 1505997470 0
+D s 44100 n 1 l 0:03.422 i 16
+F "Door 05.wav" 382232 0 1439163324 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.165
+D i 16
+F "Door 06.wav" 373348 0 1439162740 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.115
+D i 16
+F "Door 07.wav" 261444 0 1439162239 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.481
+D i 16
+F "Door 08.wav" 217852 0 1439161807 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.234
+D i 16
+F "Door 09.wav" 491456 0 1439161300 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.785
+D i 16
+F "Door 1 Close.wav" 326772 0 1488630174 0
+D s 48000 n 2 l 0:01.701 i 16
+F "Door 1 Open.wav" 160208 0 1488630174 0
+D s 48000 n 2 l 0:00.834 i 16
+F "Door 1.aif" 38452 0 1505997470 0
+D s 44100 n 1 l 0:00.313 i 16
+F "Door 10 Close.wav" 172104 0 1488630174 0
+D s 48000 n 2 l 0:00.896 i 16
+F "Door 10 Open.wav" 200776 0 1488630166 0
+D s 48000 n 2 l 0:01.045 i 16
+F "Door 10.wav" 453224 0 1439161839 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.568
+D i 16
+F "Door 11 Close 1.wav" 522942 0 1488630166 0
+D y 2009-03-18 s 48000 n 2 l 0:01.812
+D i 24
+F "Door 11 Close 2.wav" 461868 0 1488630171 0
+D y 2009-03-18 s 48000 n 2 l 0:01.600
+D i 24
+F "Door 11 Open.wav" 671466 0 1488630171 0
+D y 2009-03-18 s 48000 n 2 l 0:02.327
+D i 24
+F "Door 11.wav" 845524 0 1439161350 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.792
+D i 16
+F "Door 12 Open.wav" 606360 0 1488630180 0
+D y 2009-03-18 s 48000 n 2 l 0:02.101
+D i 24
+F "Door 12.wav" 263852 0 1439163751 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.494
+D i 16
+F "Door 13 Open.wav" 349494 0 1488630180 0
+D y 2009-03-18 s 48000 n 2 l 0:01.209
+D i 24
+F "Door 13.wav" 204716 0 1439163084 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.159
+D i 16
+F "Door 14 Close.wav" 433068 0 1488630180 0
+D y 2009-03-18 s 48000 n 2 l 0:01.500
+D i 24
+F "Door 14 Open.wav" 289068 0 1488630149 0
+D y 2009-03-18 s 48000 n 2 l 0:01.000
+D i 24
+F "Door 14.wav" 535908 0 1439162540 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.037
+D i 16
+F "Door 15 Close.wav" 213174 0 1488630149 0
+D y 2009-03-18 s 48000 n 2 l 0:00.736
+D i 24
+F "Door 15.wav" 245424 0 1439162075 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.390
+D i 16
+F "Door 16 Close.wav" 531078 0 1488630163 0
+D y 2009-03-18 s 48000 n 2 l 0:01.840
+D i 24
+F "Door 16 Open.wav" 267600 0 1488630163 0
+D y 2009-03-18 s 48000 n 2 l 0:00.925
+D i 24
+F "Door 16.wav" 409356 0 1439161660 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.319
+D i 16
+F "Door 17 Close.wav" 577068 0 1488630163 0
+D y 2009-03-18 s 48000 n 2 l 0:02.000
+D i 24
+F "Door 17.wav" 732242 0 1439161141 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.150
+D i 16
+F "Door 18 Close.wav" 258444 0 1488630164 0
+D y 2009-03-18 s 48000 n 2 l 0:00.893
+D i 24
+F "Door 18 Open.wav" 308292 0 1488630154 0
+D y 2009-03-18 s 48000 n 2 l 0:01.066
+D i 24
+F "Door 19 Close.wav" 289068 0 1488630154 0
+D y 2009-03-18 s 48000 n 2 l 0:01.000
+D i 24
+F "Door 19 Open.wav" 246744 0 1488630154 0
+D y 2009-03-18 s 48000 n 2 l 0:00.853
+D i 24
+F "Door 2 Close.wav" 172104 0 1488630154 0
+D s 48000 n 2 l 0:00.896 i 16
+F "Door 2 Open.wav" 110664 0 1488630154 0
+D s 48000 n 2 l 0:00.576 i 16
+F "Door 2.aif" 32308 0 1505997470 0
+D s 44100 n 1 l 0:00.243 i 16
+F "Door 20 Open.wav" 289068 0 1488630154 0
+D y 2009-03-18 s 48000 n 2 l 0:01.000
+D i 24
+F "Door 3 Close.wav" 320368 0 1488630154 0
+D s 48000 n 2 l 0:01.668 i 16
+F "Door 3 Open.wav" 192240 0 1488630169 0
+D s 48000 n 2 l 0:01.001 i 16
+F "Door 3.aif" 34996 0 1505997470 0
+D s 44100 n 1 l 0:00.274 i 16
+F "Door 4 Close.wav" 278600 0 1488630169 0
+D s 48000 n 2 l 0:01.450 i 16
+F "Door 4.aif" 43316 0 1505997470 0
+D s 44100 n 1 l 0:00.368 i 16
+F "Door 5 Close.wav" 192268 0 1488630169 0
+D s 48000 n 2 l 0:01.001 i 16
+F "Door 5 Open.wav" 192584 0 1488630169 0
+D s 48000 n 2 l 0:01.002 i 16
+F "Door 5.aif" 54068 0 1505997470 0
+D s 44100 n 1 l 0:00.490 i 16
+F "Door 6 Close.wav" 172104 0 1488630169 0
+D s 48000 n 2 l 0:00.896 i 16
+F "Door 6.aif" 77620 0 1505997470 0
+D s 44100 n 1 l 0:00.757 i 16
+F "Door 7 Close.wav" 192584 0 1488630169 0
+D s 48000 n 2 l 0:01.002 i 16
+F "Door 7.aif" 58420 0 1505997470 0
+D s 44100 n 1 l 0:00.539 i 16
+F "Door 8 Close.wav" 217160 0 1488630159 0
+D s 48000 n 2 l 0:01.130 i 16
+F "Door 9 Close.wav" 166640 0 1488630159 0
+D s 48000 n 2 l 0:00.867 i 16
+F "Door 9 Open.wav" 155720 0 1488630159 0
+D s 48000 n 2 l 0:00.810 i 16
+F "Door Air Lock Closing.wav" 937650 0 1439161073 0
+D a "Apple Inc." s 44100 n 2 l 0:05.314
+D i 16
+F "Door Basement 04 02.wav" 2380574 0 1488536918 0
+D y 2016-11-04 d "Door, Basement, Metal, Open and Close" s 96000 n 2
+D r 11:15.000 l 0:04.129 i 24
+F "Door Cabinet 1.wav" 849860 0 1439162215 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.816
+D i 16
+F "Door Cabinet 2.wav" 713836 0 1439163171 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.045
+D i 16
+F "Door Cabinet.wav" 5503724 0 1502566055 0
+D s 44100 n 2 l 0:31.200 i 16
+F "Door Cage 1.wav" 1880406 0 1439161033 0
+D a "Sound Ideas" s 44100 n 2 l 0:10.659
+D i 16
+F "Door Cage 2.wav" 1240640 0 1439161808 0
+D a "Sound Ideas" s 44100 n 2 l 0:07.032
+D i 16
+F "Door Cell.wav" 3041180 0 1502566056 0
+D s 44100 n 2 l 0:17.240 i 16
+F "Door Close 003.wav" 385246 0 1481710240 0
+D y 2015-05-25 s 96000 n 2 r 1:00:00.000
+D l 0:00.666 i 24
+F "Door Close2.wav" 58450 0 1202138862 0
+D y 2008-02-04 s 44100 n 1 r 0:05.196
+D l 0:00.654 i 16
+F "Door Close3.wav" 69982 0 1202138862 0
+D y 2008-02-04 s 44100 n 1 r 0:05.353
+D l 0:00.785 i 16
+F "Door Closet Rattle Squeak Open Close.wav" 43544646 0 1488537517 0
+D a Antisample b "Shakes and rattles" y 2016-06-19 g "Sound effects"
+D c "Shakes and rattles sound effects. Various objects being shaken." d "closet, door, shake, rattle, squeak, open, close, close mic position, stereo  " s 96000 n 2
+D l 1:15.596 i 24
+F "Door Creak1.wav" 113348 0 1488630160 0
+D s 22050 n 1 l 0:02.569 i 16
+F "Door Creak2.wav" 104916 0 1488630166 0
+D s 22050 n 1 l 0:01.634 i 16
+F "Door Elevator.wav" 2297948 0 1502565480 0
+D s 44100 n 2 l 0:13.026 i 16
+F "Door Foley1.wav" 3897308 0 1502565512 0
+D s 44100 n 2 l 0:22.093 i 16
+F "Door Foley2.wav" 2497868 0 1502565513 0
+D s 44100 n 2 l 0:14.160 i 16
+F "Door Fx 01.aiff" 194806 0 1505995963 0
+D a PowerFX.com p 115.1636 s 44100 n 2
+D l 0:01.041 i 16
+F "Door Fx 03.aiff" 2224182 0 1505995963 0
+D a PowerFX.com p 76.5625 s 44100 n 2
+D l 0:12.538 i 16
+F "Door Garage 1.aiff" 1354932 0 1505995963 0
+D a "Sound Ideas" d www.sound-ideas.com p 137.2908 s 48000
+D n 2 l 0:06.992 i 16
+F "Door Garage 1.wav" 1233624 0 1439161166 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.992
+D i 16
+F "Door Garage 2.aiff" 1766956 0 1505995963 0
+D a "Sound Ideas" d www.sound-ideas.com p 105.0539 s 48000
+D n 2 l 0:09.138 i 16
+F "Door Garage 2.wav" 1612128 0 1439161958 0
+D a "Sound Ideas" s 44100 n 2 l 0:09.138
+D i 16
+F "Door Garage 3.wav" 1246126 0 1439162711 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.063
+D i 16
+F "Door Glass.wav" 1665260 0 1502565723 0
+D s 44100 n 2 l 0:09.440 i 16
+F "Door Industrial Open Close Large 03.wav" 16558758 0 1488537529 0
+D y 2016-06-2 d "industrial door open close large unlocking creaks squeaks" s 96000 n 2
+D r 6:44:58.709 l 0:28.739 i 24
+F "Door Industrial Open Close Office 03.wav" 9800824 0 1488537239 0
+D y 2016-06-2 d "industrial door open close office room" s 96000 n 2
+D r 6:44:13.909 l 0:17.006 i 24
+F "Door Knob 1.wav" 856164 0 1439162369 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.852
+D i 16
+F "Door Knob 2.wav" 184500 0 1439163254 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.045
+D i 16
+F "Door Knob 3.wav" 182696 0 1439161302 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.034
+D i 16
+F "Door Knob.wav" 6924332 0 1502565726 0
+D s 44100 n 2 l 0:39.253 i 16
+F "Door Knock 04.wav" 757822 0 1439162807 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.295
+D i 16
+F "Door Knock 1.wav" 241340 0 1439163382 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.367
+D i 16
+F "Door Knock 2.wav" 257120 0 1439161822 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.456
+D i 16
+F "Door Knock 3.wav" 362356 0 1439163030 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.053
+D i 16
+F "Door Lock 1.wav" 180296 0 1488630160 0
+D s 48000 n 2 l 0:00.938 i 16
+F "Door Lock 2.wav" 339584 0 1488630160 0
+D s 48000 n 2 l 0:01.768 i 16
+F "Door Lock.wav" 2255330 0 1481710486 0
+D y 2015-04-13 s 44100 n 2 r 0:01.500
+D l 0:08.500 i 24
+F "Door Locker.wav" 435908 0 1439161154 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.470
+D i 16
+F "Door Metal Squeak.wav" 563314 0 1439161729 0
+D a "Apple Inc." s 44100 n 2 l 0:03.192
+D i 16
+F "Door Open 004.wav" 433310 0 1481710240 0
+D y 2015-08-10 s 96000 n 2 r 1:00:02.000
+D l 0:00.750 i 24
+F "Door Shut 1.wav" 17692 0 1200106082 0
+D s 44100 n 1 l 0:00.199 i 16
+F "Door Shut 2.wav" 15000 0 1200106082 0
+D s 44100 n 1 l 0:00.168 i 16
+F "Door Slam 1.wav" 497330 0 1200106082 0
+D s 44100 n 1 l 0:05.637 i 16
+F "Door Slam 2.wav" 396590 0 1200106082 0
+D s 44100 n 1 l 0:04.495 i 16
+F "Door Slam Clipped 1.wav" 34382 0 1200106082 0
+D s 44100 n 1 l 0:00.388 i 16
+F "Door Slam Tunnel 1.wav" 175168 0 1200106082 0
+D s 44100 n 1 l 0:01.984 i 16
+F "Door Slam Tunnel 2.wav" 155672 0 1200106084 0
+D s 44100 n 1 l 0:01.763 i 16
+F "Door Slam1.wav" 101488 0 1199110264 0
+D s 44100 n 1 l 0:01.149 i 16
+F "Door Slam2.wav" 92784 0 1199110264 0
+D s 44100 n 1 l 0:01.050 i 16
+F "Door Slam3.wav" 169682 0 1202138866 0
+D y 2008-02-04 s 44100 n 1 r 0:30.470
+D l 0:01.915 i 16
+F "Door Squeak 1.wav" 583992 0 1439161894 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.309
+D i 16
+F "Door Squeak 2.wav" 540768 0 1439162611 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.064
+D i 16
+F "Door Vault Closing.wav" 780914 0 1439162849 0
+D a "Apple Inc." s 44100 n 2 l 0:04.426
+D i 16
+F "Door Wood Sliding.wav" 2810684 0 1502564026 0
+D s 44100 n 2 l 0:15.933 i 16
+F "Door Wood Squeak.wav" 353946 0 1439161350 0
+D a "Apple Inc." s 44100 n 2 l 0:02.005
+D i 16
+F "Door-Household Creaks Squeaks 06.wav" 8176460 0 1488537515 0
+D y 2016-06-2 d "household door creak squeak wood" s 96000 n 2
+D r 2:31:48.693 l 0:14.186 i 24
+F "Door-Household Open Close Sliding 02.wav" 17047162 0 1488537403 0
+D y 2016-06-2 d "household door open close sliding glass door" s 96000 n 2
+D r 1:35:14.901 l 0:29.587 i 24
+F Door01.wav 503936 0 1247650754 0
+D y 2009-07-15 s 44100 n 2 l 0:01.904
+D i 24
+F Door02.wav 291962 0 1248198434 0
+D y 2009-06-16 s 44100 n 2 l 0:01.102
+D i 24
+F Door03.wav 109844 0 1248198462 0
+D y 2009-06-16 s 44100 n 2 l 0:00.414
+D i 24
+F Door04.wav 324218 0 1248272858 0
+D y 2009-07-22 s 44100 n 2 l 0:01.224
+D i 24
+F Door05.wav 160250 0 1248348416 0
+D y 2009-07-23 s 44100 n 2 l 0:00.605
+D i 24
+F Door06.wav 316556 0 1248363726 0
+D y 2009-07-23 s 44100 n 2 l 0:01.195
+D i 24
+F Door07.wav 158534 0 1248363746 0
+D y 2009-07-23 s 44100 n 2 l 0:00.598
+D i 24
+F Door08.wav 233612 0 1248363826 0
+D y 2009-07-23 s 44100 n 2 l 0:00.882
+D i 24
+F Door09.wav 535418 0 1248378812 0
+D y 2009-07-23 s 44100 n 2 l 0:02.023
+D i 24
+F Door_Grab_Door_Body_Bump_Door_Impacts_Slappy_OCP-1025-020-01.wav 1451104 0 1566570833 0
+D t Door_Grab_Door_Body_Bump_Door_Impacts_Slappy_OCP-1025-020-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Door, Grab Door, Body Bump Door, Impacts, Slappy, Various Versions" d "Door, Grab Door, Body Bump Door, Impacts, Slappy, Various Versions" s 48000
+D n 1 r 0:18.640 l 0:07.072 i 24
+D m 0
+F Door_Grab_Wood_Door_Hand_Impacts_OCP-1025-044-01.wav 1694978 0 1566570833 0
+D t Door_Grab_Wood_Door_Hand_Impacts_OCP-1025-044-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Door Grab, Wood Door, Hand Impacts, Various Versions" d "Door Grab, Wood Door, Hand Impacts, Various Versions" s 48000
+D n 1 r 0:16.000 l 0:08.768 i 24
+D m 0
+F Door_Hand_Impacts_Hits_Various_Versions_OCP-1053-31.wav 1596580 0 1566570834 0
+D t Door_Hand_Impacts_Hits_Various_Versions_OCP-1053-31 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Door, Hand Impacts, Hits, Various Versions" d "Door, Hand Impacts, Hits, Various Versions" s 48000
+D n 1 l 0:12.128 i 16 m 0
+F "Doorclosehardwood S011Fo.193.wav" 855320 0 1372263244 0
+D y 2011-04-01 d '"FOLEY, DOOR, CLOSE, HARD, WOOD, BATHROOM"' s 96000 n 2
+D l 0:01.470 i 24
+F "Doorknockdoorrattle Sfxb.899.wav" 261378 0 1372263244 0
+D y 2010-11-29 d '"FOLEY, DOOR, KNOCK, DOOR, RATTLE"' s 44100 n 2
+D l 0:01.453 i 16
+F "Doors Misc Cupboard Open And Close Creak 2.wav" 1160262 0 1488537365 0
+D y  d "Cupboard door opens and closes, creaks. " s 48000 n 2
+D l 0:03.978 i 24
+F "Doors Wood Gate Open 2.wav" 1129746 0 1488537047 0
+D y  d "Wooden gate opening." s 96000 n 2
+D l 0:01.938 i 24
+F "FIRE DOOR (B)_5DEF8C47.wav" 18788868 0 1584373534 0
+D t "FIRE DOOR (B)" a - b - y 2019-05-18
+D g Machine c "FIRE DOOR (B) - Quick Press and Release - Reverberent Hallway, Compress Bar, Release" d "FIRE DOOR (B) - Quick Press and Release - Reverberent Hallway, Compress Bar, Release" p -
+D k - s 192000 n 2 r 3:25:43.437
+D l 0:15.629 i 24 m 0
+F "FOL - DOOR - CAGE - CLOSE - 01.wav" 1880296 0 1582742026 0
+D s 44100 n 2 l 0:10.659 i 16
+F "FOL - DOOR - CAGE - OPEN - 01.wav" 1240528 0 1582742026 0
+D s 44100 n 2 l 0:07.032 i 16
+F "FOL - DOOR - CASTLE - OPEN - 01.wav" 609304 0 1582742026 0
+D s 44100 n 2 l 0:03.453 i 16
+F "FOL - DOOR - CDROM - CLOSE - 01.wav" 973058 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Computer: CD ROM door open, tray slide out and close with light whirs,"
+D d "Computer,Computers,Electronic,Electronics, Office Equipment,Work," s 44100 n 2 l 0:05.513
+D i 16
+F "FOL - DOOR - CDROM - CLOSE - 02.wav" 1121794 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Computer: CD ROM door open, tray slide out and close with light whirs,"
+D d "Computer,Computers,Electronic,Electronics, Office Equipment,Work," s 44100 n 2 l 0:06.356
+D i 16
+F "FOL - DOOR - CDROM - CLOSE - 03.wav" 619010 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Computer: CD ROM door open, tray slide out and close with light whirs,"
+D d "Computer,Computers,Electronic,Electronics, Office Equipment,Work," s 44100 n 2 l 0:03.506
+D i 16
+F "FOL - DOOR - DOORKNOB - JIGGLE - 01.wav" 516024 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door knob heavy jiggle, close perspective."
+D d "impact, impacts, hit,hits, rattle," s 44100 n 2 l 0:02.922
+D i 16
+F "FOL - DOOR - DOORKNOB - JIGGLE - 02.wav" 87872 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door knob single up/down movement and jiggle. "
+D d rattle, s 44100 n 2 l 0:00.495
+D i 16
+F "FOL - DOOR - DOORKNOB - JIGGLE - 03.wav" 115680 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door knob single up/down movement and jiggle. "
+D d rattle, s 44100 n 2 l 0:00.653
+D i 16
+F "FOL - DOOR - DOORKNOB - JIGGLE - 04.wav" 116416 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door knob single up/down movement and jiggle. "
+D d rattle, s 44100 n 2 l 0:00.657
+D i 16
+F "FOL - DOOR - DOORKNOB - JIGGLE - 05.wav" 114944 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door knob single up/down movement and jiggle. "
+D d rattle, s 44100 n 2 l 0:00.649
+D i 16
+F "FOL - DOOR - DUNGEON - 01.wav" 372728 0 1582742026 0
+D d "Dungeon Door: Quick Close, Castle" s 48000 n 2 l 0:01.930
+D i 16
+F "FOL - DOOR - DUNGEON - 02.wav" 877526 0 1582742026 0
+D d "Dungeon Door: Very Large,  Close, Castle" s 48000 n 2 l 0:04.554
+D i 16
+F "FOL - DOOR - DUNGEON - 03.wav" 397364 0 1582742026 0
+D d "Dungeon Door: Very Large,  Quick Close, Castle" s 48000 n 2 l 0:02.058
+D i 16
+F "FOL - DOOR - DUNGEON - 04.wav" 362490 0 1582742026 0
+D d "Dungeon Door: Very Large,  Close Only,  No Swing, Castle" s 48000 n 2 l 0:01.877
+D i 16
+F "FOL - DOOR - FRIDGE - DOOR - CLOSE - 01.wav" 447144 0 1582742026 0
+D s 44100 n 2 l 0:02.534 i 16
+F "FOL - DOOR - FRIDGE - DOOR - OPEN - 01.wav" 435704 0 1582742026 0
+D s 44100 n 2 l 0:02.469 i 16
+F "FOL - DOOR - GARAGE - CLOSE - 01.wav" 90864 0 1582742026 0
+D y 2016-05-0 s 48000 n 1 r 47:09.545
+D l 0:00.922 i 16
+F "FOL - DOOR - GARAGE - CLOSE - 02.wav" 1067946 0 1582742026 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:12.101
+D i 16
+F "FOL - DOOR - GARAGE - OPEN - 01.wav" 90864 0 1582742026 0
+D y 2016-05-0 s 48000 n 1 r 47:07.854
+D l 0:00.922 i 16
+F "FOL - DOOR - GARAGE - OPEN - 02.wav" 1096226 0 1582742026 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:12.421
+D i 16
+F "FOL - DOOR - HATCH - CLOSE - 01.wav" 691244 0 1582742026 0
+D s 96000 n 2 l 0:01.200 i 24
+F "FOL - DOOR - HATCH - CLOSE - 02.wav" 547244 0 1582742026 0
+D s 96000 n 2 l 0:00.950 i 24
+F "FOL - DOOR - hollowwood - close - soft - 01.wav" 122180 0 1299534632 0
+D y 2010-06-10 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.338 i 16
+F "FOL - DOOR - hollowwood - handle - close - 01.wav" 70282 0 1299534632 0
+D y 2010-06-10 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.750 i 16
+F "FOL - DOOR - hollowwood - handle - open - 01.wav" 105292 0 1299534632 0
+D y 2010-06-10 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.146 i 16
+F "FOL - DOOR - hollowwood - handle - open - soft - 01.wav" 397768 0 1299534632 0
+D y 2010-06-10 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:04.462 i 16
+F "FOL - DOOR - hollowwood - open - 01.wav" 65872 0 1299534632 0
+D y 2010-06-10 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.700 i 16
+F "FOL - DOOR - largewood - close - 01.wav" 396882 0 1299534632 0
+D y 2010-06-06 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:04.452 i 16
+F "FOL - DOOR - largewood - close - soft - 01.wav" 392212 0 1299534632 0
+D y 2010-06-06 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:04.400 i 16
+F "FOL - DOOR - largewood - creak - 01.wav" 511070 0 1299534632 0
+D s 44100 n 1 l 0:05.790 i 16
+F "FOL - DOOR - largewood - creak - 02.wav" 329494 0 1299534632 0
+D s 44100 n 1 l 0:03.731 i 16
+F "FOL - DOOR - largewood - knock - 01.wav" 163822 0 1299534632 0
+D y 2010-06-06 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.810 i 16
+F "FOL - DOOR - largewood - open - 01.wav" 215812 0 1299534632 0
+D y 2010-06-06 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:02.400 i 16
+F "FOL - DOOR - largewood - open - soft - 01.wav" 193264 0 1299534632 0
+D y 2010-06-06 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:02.144 i 16
+F "FOL - DOOR - MAILBOX - OPEN - 01.wav" 199136 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Metal mailbox door open with creaks."
+D d "creak, squeak, squeaks, squeaky, creaky," s 44100 n 2 l 0:01.126
+D i 16
+F "FOL - DOOR - METAL - CABINET - OPEN - CLOSE - 01.wav" 593620 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Metal file cabinet door rolling open and close."
+D d "impact, impacts, hit,hits," s 44100 n 2 l 0:03.362
+D i 16
+F "FOL - DOOR - METAL - CABINET - OPEN - CLOSE - 02.wav" 369108 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Metal file cabinet door rolling open and close."
+D d "impact, impacts, hit,hits," s 44100 n 2 l 0:02.089
+D i 16
+F "FOL - DOOR - metal - close - 01.wav" 227668 0 1299534632 0
+D y 2010-06-23 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:02.534 i 16
+F "FOL - DOOR - metal - close - soft - 01.wav" 281648 0 1299534632 0
+D y 2010-06-23 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:03.146 i 16
+F "FOL - DOOR - METAL - IMPACT - CREEPY - 01.wav" 2494346 0 1582742026 0
+D y 2016-07-2 d Metal,Door,Medium,Impact s 48000 n 2
+D r 50:47.210 l 0:08.608 i 24
+F "FOL - DOOR - metal - lock - 01.wav" 103270 0 1299534632 0
+D y 2010-06-23 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.124 i 16
+F "FOL - DOOR - metal - move - rythmic - loop.wav" 158934 0 1299534632 0
+D s 44100 n 1 l 0:01.800 i 16
+F "FOL - DOOR - metal - move - start.wav" 45944 0 1299534632 0
+D s 44100 n 1 l 0:00.517 i 16
+F "FOL - DOOR - metal - move - stop.wav" 138208 0 1299534632 0
+D s 44100 n 1 l 0:01.562 i 16
+F "FOL - DOOR - metal - open - 01.wav" 39946 0 1299534632 0
+D y 2010-06-23 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.406 i 16
+F "FOL - DOOR - metal - open - soft - 01.wav" 109972 0 1299534632 0
+D y 2010-06-23 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.200 i 16
+F "FOL - DOOR - METAL - ROLLING - 01.wav" 344202 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door: Metal rolling door rolls back and forth in track."
+D d Rumble, s 44100 n 2 l 0:01.948
+D i 16
+F "FOL - DOOR - METAL - ROLLING - 02.wav" 521670 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Door: Metal rolling door rolls back and forth in track."
+D d Rumble, s 44100 n 2 l 0:02.954
+D i 16
+F "FOL - DOOR - metal - unlock - 01.wav" 86044 0 1299534632 0
+D y 2010-06-23 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.928 i 16
+F "FOL - DOOR - MICROWAVE - CLOSE - 01.wav" 67438 0 1582742026 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.757
+D i 16
+F "FOL - DOOR - MICROWAVE - OPEN - 01.wav" 54004 0 1582742026 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.605
+D i 16
+F "FOL - DOOR - OVEN - CLOSE - 01.wav" 613284 0 1582742026 0
+D y 2000-12-19 s 44100 n 2 l 0:03.387
+D i 16
+F "FOL - DOOR - OVEN - OPEN - 01.wav" 476372 0 1582742026 0
+D y 2000-12-19 s 44100 n 2 l 0:02.629
+D i 16
+F "FOL - DOOR - pvc - close - 01.wav" 64702 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.686 i 16
+F "FOL - DOOR - pvc - close - soft - 01.wav" 80946 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.870 i 16
+F "FOL - DOOR - pvc - doorbell - 01.wav" 246444 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:02.747 i 16
+F "FOL - DOOR - pvc - handle - close - 01.wav" 49498 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.514 i 16
+F "FOL - DOOR - pvc - handle - open - 01.wav" 74692 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.800 i 16
+F "FOL - DOOR - pvc - knock - 01.wav" 49536 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.514 i 16
+F "FOL - DOOR - pvc - lock - 01.wav" 51416 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.536 i 16
+F "FOL - DOOR - pvc - open - 01.wav" 84750 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.914 i 16
+F "FOL - DOOR - pvc - open - soft - 01.wav" 285928 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:03.194 i 16
+F "FOL - DOOR - pvc - unlock - 01.wav" 79102 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.850 i 16
+F "FOL - DOOR - ROCK - SLIDE - SCRAPE - 01.wav" 664048 0 1582742026 0
+D y 2017-05-07 s 96000 n 2 r 1:09:16.248
+D l 0:01.150 i 24
+F "FOL - DOOR - ROCK - SLIDE - SCRAPE - 02.wav" 846058 0 1582742026 0
+D y 2017-05-07 s 96000 n 2 r 1:09:16.248
+D l 0:01.466 i 24
+F "FOL - DOOR - ROCK - SLIDE - SCRAPE - 03.wav" 680710 0 1582742026 0
+D y 2017-05-07 s 96000 n 2 r 1:09:16.248
+D l 0:01.179 i 24
+F "FOL - DOOR - ROCK - STONE - SCRAPE - 01.wav" 3223372 0 1582742026 0
+D d "soundmorph, mechanism, door, stone, open, close, portal, designed, medieval" s 96000 n 2 r 1:00:42.068
+D l 0:05.327 i 24
+F "FOL - DOOR - SCIFI - SPACESHIP - 01.wav" 2765526 0 1582742026 0
+D d "soundmorph, mechanism, door, sci fi, open, close, portal, designed, science fiction, solar sky, space, ship" s 96000 n 2 l 0:04.529
+D i 24
+F "FOL - DOOR - SCIFI - SPACESHIP - 02.wav" 2713524 0 1582742026 0
+D t "Electric Starship Door 02" a "The Sound Pack Tree" b "Futuristic Doors" y 2016-07-11
+D g "Sound Effects" d "5302 access admission aliens current doorway electricity electronic entrance entry fiction flash frizzle future futuristic gate knob passage rocket room sci-fi shock sizzle space spacecraft spaceship sparkle starship tense unlock voltage" s 96000 n 2
+D l 0:04.659 i 24 m 5302
+F "FOL - DOOR - softwood - close - 01.wav" 74138 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.793 i 16
+F "FOL - DOOR - softwood - close - soft - 01.wav" 94342 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.022 i 16
+F "FOL - DOOR - softwood - handle - close - 01.wav" 30090 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.294 i 16
+F "FOL - DOOR - softwood - handle - open - 01.wav" 26182 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.250 i 16
+F "FOL - DOOR - softwood - knock - 01.wav" 81992 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.882 i 16
+F "FOL - DOOR - softwood - open - 01.wav" 209132 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:02.324 i 16
+F "FOL - DOOR - softwood - open - soft - 01.wav" 544036 0 1299534632 0
+D y 2010-06-14 d "Andrew Quinn recorded in Kirkby Lonsdale, Lake District, UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:06.121 i 16
+F "FOL - DOOR - solidwood - close - 01.wav" 57052 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.600 i 16
+F "FOL - DOOR - solidwood - close - soft - 01.wav" 111996 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.222 i 16
+F "FOL - DOOR - solidwood - handle - close - 01.wav" 54520 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.571 i 16
+F "FOL - DOOR - solidwood - handle - open - 01.wav" 49980 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.519 i 16
+F "FOL - DOOR - solidwood - knock - 01.wav" 42204 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:00.431 i 16
+F "FOL - DOOR - solidwood - open - 01.wav" 276674 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:03.090 i 16
+F "FOL - DOOR - solidwood - open - soft - 01.wav" 126642 0 1299534632 0
+D y 2010-06-18 d "Andrew Quinn recorded in Leeds UK with a Rode NTG-3 and a Fostex FR-2" s 44100 n 1
+D l 0:01.389 i 16
+F "FOL - DOOR - SQUEAKS - METAL - 01.wav" 870850 0 1582742026 0
+D y 2016-08-0 d Metal,Door,Creak s 48000 n 1
+D r 51:01.858 l 0:06.039 i 24
+F "FOL - DOOR - SQUEAKS - OPEN - CLOSE - 01.wav" 142972014 0 1582742026 0
+D a "Soundholder Dawid Moroz" y 2017-09-06 c "Rusty hinges squeaking long and short modulated sounds." d "Rusty hinges squeaking long and short modulated sounds."
+D s 96000 n 1 l 8:13.812 i 24
+F "FOL - DOOR - SQUEAKS - WOODEN - 01.wav" 1038848 0 1582742026 0
+D s 96000 n 2 l 0:01.800 i 24
+F "FOL - DOOR - stone - movement.wav" 239888 0 1299534632 0
+D s 44100 n 1 l 0:02.716 i 16
+F "FOL - DOOR - stone - start.wav" 115802 0 1299534632 0
+D s 44100 n 1 l 0:01.308 i 16
+F "FOL - DOOR - stone - stop.wav" 67712 0 1299534632 0
+D s 44100 n 1 l 0:00.764 i 16
+F "FOL - DOOR - TRUCK - CLOSE - 01.wav" 205766 0 1582742026 0
+D s 44100 n 2 l 0:01.131 i 16
+F "FOL - DOOR - TRUCK - OPEN - CLOSE - 01.wav" 313858 0 1582742026 0
+D y 2005-10-07 s 44100 n 1 r 1:05:44.045
+D l 0:03.419 i 16
+F "FOL - DOOR - VAN - SLIDE - 01.wav" 289134 0 1582742026 0
+D s 44100 n 2 l 0:01.592 i 16
+F "FOL - DOOR - WOOD - BURST - OPEN - 01.wav" 222232 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Heavy wood door impact with some debris fall."
+D d "impacts, hit,hits, rattle," s 44100 n 2 l 0:01.219
+D i 16
+F "FOL - DOOR - WOOD - CABINET - 01.wav" 216748 0 1582742026 0
+D d Close s 48000 n 2 l 0:01.120
+D i 16
+F "FOL - DOOR - WOOD - CABINET - 02.wav" 319348 0 1582742026 0
+D d Close s 48000 n 2 l 0:01.653
+D i 16
+F "FOL - DOOR - WOOD - CABINET - 03.wav" 822092 0 1582742026 0
+D d "Close,  Fast" s 48000 n 2 l 0:04.266
+D i 16
+F "FOL - DOOR - WOOD - CABINET - 04.wav" 1642886 0 1582742026 0
+D d Close s 48000 n 2 l 0:08.533
+D i 16
+F "FOL - DOOR - WOOD - CLOSE - 01.wav" 137564 0 1582742026 0
+D s 48000 n 2 l 0:00.477 i 24
+F "FOL - DOOR - WOOD - CLOSE - 02.wav" 493314 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" d "closet, impact, impacts, hit,hits,"
+D s 44100 n 2 l 0:02.721 i 16
+F "FOL - DOOR - WOOD - CLOSE - 03.wav" 527746 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" d "closet, impact, impacts, hit,hits,"
+D s 44100 n 2 l 0:02.912 i 16
+F "FOL - DOOR - WOOD - CLOSE - SLAM - 01.wav" 120166 0 1582742026 0
+D y 2004-08-26 d DOOR_CLO-GAIN_03-01 s 44100 n 1
+D r 8:35.037 l 0:01.328 i 16
+F "FOL - DOOR - WOOD - CLOSE - THUD - 01.wav" 654866 0 1582742026 0
+D s 96000 n 2 l 0:01.133 i 24
+F "FOL - DOOR - WOOD - CUPBOARD - 01.wav" 3349820 0 1582742026 0
+D t "Opens And Closes Extension" a SoundBits y 2017-09-20 g "CUPBOARD DOOR"
+D c "Cupboard, Door Liquor, Wooden, Open, Close, Rattle " d "Cupboard, Door Liquor, Wooden, Open, Close, Rattle " s 96000 n 2
+D r 2:24.168 l 0:05.794 i 24 m 0
+F "FOL - DOOR - WOOD - CUPBOARD - OPEN - 01.wav" 710176 0 1582742026 0
+D y 2017-03-10 d "Door, Cupboard, Large, Open" s 96000 n 1
+D r 1:31:01.196 l 0:01.877 i 24
+F "FOL - DOOR - WOOD - HEAVY - OPEN - CLOSE - 01.wav" 252734 0 1582742026 0
+D y 2004-08-26 d DOOR_HEA-GAIN_02-01 s 44100 n 1
+D r 8:46.599 l 0:02.840 i 16
+F "FOL - DOOR - WOOD - KNOCK - 01.wav" 61658 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c " knocking on wooden door"
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.347
+D i 16
+F "FOL - DOOR - WOOD - KNOCK - 02.wav" 63194 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c " knocking on wooden door"
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.355
+D i 16
+F "FOL - DOOR - WOOD - KNOCK - 03.wav" 65718 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c " knocking on wooden door"
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.370
+D i 16
+F "FOL - DOOR - WOOD - KNOCK - 04.wav" 83766 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c " knocking on wooden door"
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.472
+D i 16
+F "FOL - DOOR - WOOD - KNOCK - 05.wav" 86462 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c " knocking on wooden door"
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.487
+D i 16
+F "FOL - DOOR - WOOD - MEDIEVAL - OPEN - 01.wav" 3393480 0 1582742026 0
+D d "soundmorph, mechanism, door, medieval, open, close, portal, designed" s 96000 n 2 r 1:00:00.072
+D l 0:05.622 i 24
+F "FOL - DOOR - WOOD - OPEN - 01.wav" 305926 0 1582742026 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" d closet,
+D s 44100 n 2 l 0:01.683 i 16
+F "FOL - DOOR - WOOD - OPEN - CLOSE - 01.wav" 420150 0 1582742026 0
+D y 2004-08-26 d DOOR_ANT-GAIN_01-04 s 44100 n 1
+D r 8:27.164 l 0:04.598 i 16
+F "FOL - DOOR - WOOD - POUNDING - 01.wav" 1250286 0 1582742026 0
+D t "Wooden bathroom door hitting and pounding x5 impatiently" a "Paul Virostek" b "Airborne Sound: Household" y 2013-12-07
+D g "Door, Window, Drawer" c "Door,Wood,Bathroom,Exterior POV,Hit,Pound,x5,Impatient" d "Door,Wood,Bathroom,Exterior POV,Hit,Pound,x5,Impatient" s 96000
+D n 2 l 0:01.770 i 24 m 0
+F folding-door-close-1.wav 749640 0 1583930881 0
+D s 48000 n 2 l 0:03.904 i 16
+F folding-door-open-1.wav 815176 0 1583930935 0
+D s 48000 n 2 l 0:04.245 i 16
+F "Garage Door Close 01.wav" 1067946 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:12.101
+D i 16
+F "Garage Door Open 01.wav" 1096226 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:12.421
+D i 16
+F "Garage Doors.wav" 477818 0 1248355330 0
+D y 2009-07-23 s 44100 n 2 l 0:01.805
+D i 24
+F "Glass Door 2 Close.wav" 245220 0 1488630176 0
+D y 2009-03-18 s 48000 n 2 l 0:00.847
+D i 24
+F "Glass Door 2 Open.wav" 229962 0 1488630176 0
+D y 2009-03-18 s 48000 n 2 l 0:00.794
+D i 24
+F "Glass Door Close 1.wav" 172104 0 1488630176 0
+D s 48000 n 2 l 0:00.896 i 16
+F "Glass Door Open 1.wav" 135240 0 1488630176 0
+D s 48000 n 2 l 0:00.704 i 16
+F "Knocking On Door And In A Hurry.wav" 76036 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.854
+D i 16
+F "Knocking On Door With Knuckles 3 Times.wav" 77912 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.876
+D i 16
+F "Knocking On Door With Knuckles 4 Times.wav" 98164 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.105
+D i 16
+F "Knocking On Door With Knuckles 5 Times.wav" 125212 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.412
+D i 16
+F "Knocking On Door With Open Hand.wav" 72034 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.809
+D i 16
+F "Metal Door Slam.mp3" 115355 0 1583931167 0
+D s 44100 n 2 l 0:03.553 i 260k
+F shower-door-1.wav 729450 0 1583930945 0
+D y 2009-03-18 s 48000 n 2 l 0:02.529
+D i 24
+F shower-door-2.wav 641964 0 1583930915 0
+D y 2009-03-18 s 48000 n 2 l 0:02.225
+D i 24
+F "Sliding Door 01.wav" 691328 0 1247654152 0
+D y 2009-07-15 s 44100 n 2 l 0:02.612
+D i 24
+F "Sliding Door 02.wav" 709760 0 1247654188 0
+D y 2009-07-15 s 44100 n 2 l 0:02.681
+D i 24
+F "Sliding Door 03.wav" 697478 0 1248367398 0
+D y 2009-07-23 s 44100 n 2 l 0:02.635
+D i 24

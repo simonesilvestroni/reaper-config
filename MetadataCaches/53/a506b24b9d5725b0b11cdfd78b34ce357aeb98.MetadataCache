@@ -1,0 +1,16 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Judd Madden acoustic kit/Crash A"
+F "Crash A 1.wav" 1146644 0 1417772850 0
+D s 44100 n 2 l 0:06.500 i 16
+F "Crash A 2.wav" 1753356 0 1417772878 0
+D s 44100 n 2 l 0:09.939 i 16
+F "Crash A 3.wav" 1764044 0 1417772898 0
+D s 44100 n 2 l 0:10.000 i 16
+F "Crash A 4.wav" 2187404 0 1417771124 0
+D s 44100 n 2 l 0:06.200 i 32
+F "Crash A 5.wav" 2681324 0 1417771148 0
+D s 44100 n 2 l 0:07.600 i 32
+F "Crash A Bell.wav" 1340684 0 1417772974 0
+D s 44100 n 2 l 0:07.600 i 16
+F "Crash A Mute.wav" 636788 0 1417769512 0
+D s 44100 n 2 r 10:43.044 l 0:01.800
+D i 32

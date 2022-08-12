@@ -1,0 +1,195 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/COMMUNICATIONS/RADIO"
+F COMMRadio_1.wav 148314 0 830639206 0
+D s 11025 n 1 l 0:26.153 i 16
+F COMMRadio_2.wav 140142 0 821543082 0
+D s 11025 n 1 l 0:12.707 i 8
+F COMMRadio_4o'clockradioUSA.wav 208986 0 829746024 0
+D s 44100 n 1 l 0:09.409 i 16
+F COMMRadio_AircraftGarble.aiff 6833008 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 108.281 s 48000
+D n 2 l 0:35.463 i 16
+F COMMRadio_AircraftGarble.wav 6268120 0 1439161837 0
+D a "Sound  Ideas" s 44100 n 2 l 0:35.463
+D i 16
+F COMMRadio_Am.wav 2360076 0 1439162991 0
+D a "Sound Ideas" s 44100 n 2 l 0:13.352
+D i 16
+F COMMRadio_AmRadioBuzz01.wav 317026 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.573
+D i 16
+F COMMRadio_AmRadioBuzzLoop01.wav 134954 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.516
+D i 16
+F COMMRadio_CastrateradioUSA.WAV 304218 0 829740216 0
+D s 44100 n 1 l 0:13.698 i 16
+F COMMRadio_FirstSatellite.wav 911454 0 1506944922 0
+D s 44100 n 1 l 0:10.292 i 16
+F COMMRadio_Fm.wav 2893488 0 1439161165 0
+D a "Sound Ideas" s 44100 n 2 l 0:16.370
+D i 16
+F COMMRadio_FMRadioTuning1.mp3 1879143 0 1583931305 0
+D s 44100 n 2 l 0:58.672 i 256k
+F COMMRadio_FMRadioTuning2.mp3 2249455 0 1583931270 0
+D s 44100 n 2 l 1:10.244 i 256k
+F COMMRadio_GermanTuning.wav 15071956 0 1530203346 0
+D s 44100 n 2 l 1:25.272 i 16
+F COMMRadio_Interrupt.wav 4456208 0 1506938833 0
+D c eng s 44100 n 1 l 0:27.665
+D i 16
+F COMMRadio_PoliceDispatch.wav 11028270 0 1439161727 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F COMMRadio_PoliceRadio.wav 2856508 0 1506941949 0
+D s 44100 n 1 l 0:32.260 i 16
+F COMMRadio_PoliceRadioChatter01.wav 391950 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.419
+D i 16
+F COMMRadio_PoliceRadioChatter02.wav 417550 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.708
+D i 16
+F COMMRadio_PoliceRadioChatter03.wav 355528 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.007
+D i 16
+F COMMRadio_PoliceRadioChatter05.wav 254736 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.869
+D i 16
+F COMMRadio_PoliceRadioChatter06.wav 185024 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.082
+D i 16
+F COMMRadio_PoliceRadioChatter07.wav 346668 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.907
+D i 16
+F COMMRadio_PoliceRadioChatter08.wav 380050 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.284
+D i 16
+F COMMRadio_PoliceRadioChatter09.wav 216566 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.438
+D i 16
+F COMMRadio_PoliceScannerRadioChatter.mp3 2206823 0 1583931183 0
+D s 44100 n 2 l 0:09.535 i 1851k
+F COMMRadio_radiosound.wav 594292 0 1129393640 0
+D y 2005-10-15 s 44100 n 2 l 0:03.361
+D i 16
+F COMMRadio_ShortWave.wav 3513194 0 1439161754 0
+D a "Sound Ideas" s 44100 n 2 l 0:19.876
+D i 16
+F COMMRadio_Speech20s.wav 193626 0 829746198 0
+D s 44100 n 1 l 0:08.717 i 16
+F COMMRadio_Speech30s.wav 165978 0 832598298 0
+D s 44100 n 1 l 0:07.471 i 16
+F COMMRadio_SpeechCivilianaircontrol.wav 1034396 0 1091032598 0
+D s 8000 n 1 l 1:04.640 i 16
+F COMMRadio_SpeechDenveraircontrol.wav 2351096 0 1091032599 0
+D s 11025 n 1 l 1:46.208 i 16
+F COMMRadio_SpeechFrenchspeech1.wav 141790 0 831228426 0
+D s 22254 n 1 l 0:06.315 i 8
+F COMMRadio_SpeechFrenchspeech2.wav 207486 0 831228518 0
+D s 22050 n 1 l 0:09.404 i 8
+F COMMRadio_SpeechFrenchwomannews.wav 155624 0 793580700 0
+D s 11025 n 1 l 0:07.027 i 16
+F COMMRadio_SpeechGeneralAviationUnicom.wav 606724 0 1052221181 0
+D p 74.509483 s 8000 n 1 l 0:37.760
+D i 16
+F COMMRadio_SpeechRoger.wav 10644 0 833904384 0
+D s 22050 n 1 l 0:00.240 i 16
+F COMMRadio_SpeechTuningStatic.wav 3164200 0 1506941949 0
+D s 44100 n 1 l 0:35.735 i 16
+F COMMRadio_SpokenPhrase_BombHasBeenPlanted_MilitaryRadio.mp3 365295 0 1583930999 0
+D s 44100 n 2 l 0:11.364 i 257k
+F COMMRadio_TuneAmRadio01.wav 271136 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.054
+D i 16
+F COMMRadio_TuneAmRadio02.wav 343740 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.874
+D i 16
+F COMMRadio_TuneAmRadio03.wav 239532 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.708
+D i 16
+F COMMRadio_TuneAmRadio04.wav 334256 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.782
+D i 16
+F COMMRadio_TuneAmRadio05.wav 334244 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.782
+D i 16
+F COMMRadio_TuneFmRadio01.wav 319090 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.610
+D i 16
+F COMMRadio_TuneFmRadio02.wav 227332 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.560
+D i 16
+F COMMRadio_TuneFmRadio03.wav 226468 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.560
+D i 16
+F COMMRadio_TuneFmRadio04.wav 275460 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.115
+D i 16
+F COMMRadio_TuneFmRadio05.wav 298016 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.371
+D i 16
+F COMMRadio_TuneFmRadio06.wav 301628 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.412
+D i 16
+F COMMRadio_Tuning.aiff 5628456 0 1505997471 0
+D s 44100 n 2 l 0:31.825 i 16
+F COMMRadio_Tuning.wav 1170324 0 1506941949 0
+D s 44100 n 1 l 0:13.216 i 16
+F COMMRadio_Tuning01.wav 822990 0 1439161283 0
+D a "Apple Inc." s 44100 n 2 l 0:04.655
+D i 16
+F COMMRadio_TuningFx02.wav 473256 0 1439161224 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:02.676
+D i 16
+F COMMRadio_USA.wav 7246230 0 1506941737 0
+D s 44100 n 1 l 1:21.835 i 16
+F COMMRadio_VintageRadioButton006.wav 170168 0 1481710544 0
+D y 2015-05-04 s 96000 n 2 r 1:00:00.000
+D l 0:00.293 i 24
+F COMMRadio_WalkieTalkie,AegVoxtel,PowerOn,PowerOff,Beeps,Series.wav 7298948 0 1481710136 0
+D s 96000 n 1 l 0:25.343 i 24
+F COMMRadio_WalkieTalkie,CobraMicrotalk,RadioCommunication,End,NoiseSquelch,Beep,Series.wav 5365698 0 1481710516 0
+D s 96000 n 1 l 0:18.630 i 24
+F COMMRadio_WalkieTalkie,CobraMicrotalk,RadioCommunication,Static,NoSpeech,03.wav 7707920 0 1481710516 0
+D s 96000 n 1 l 0:26.763 i 24
+F COMMRadio_WalkieTalkie,KenwoodTk3107Fm,RadioCommunication,NoSpeech,Static,FeedbackSquelch,Manipulations.wav 2476844 0 1481710442 0
+D s 96000 n 1 l 0:08.600 i 24
+F COMMRadio_WalkieTalkieBeep.mp3 308453 0 1583931005 0
+D s 44100 n 2 l 0:09.587 i 257k
+F COMMRadio_WalkieTalkieChatter01.wav 225096 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.544
+D i 16
+F COMMRadio_WalkieTalkieChatter02.wav 324106 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.667
+D i 16
+F COMMRadio_WalkieTalkieChatter03.wav 129154 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.457
+D i 16
+F COMMRadio_WalkieTalkieChatter04.wav 285434 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.216
+D i 16
+F COMMRadio_WalkieTalkieChatter05.wav 157714 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.780
+D i 16
+F COMMRadio_WalkieTalkieChatter06.wav 392870 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:04.447
+D i 16
+F COMMRadio_WalkieTalkieFemaleChatter01.wav 279804 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.152
+D i 16
+F COMMRadio_WalkieTalkieFemaleChatter02.wav 231290 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.615
+D i 16
+F COMMRadio_WalkieTalkieFemaleChatter03.wav 213908 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.418
+D i 16
+F COMMRadio_WalkieTalkieFemaleChatter04.wav 124012 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.398
+D i 16
+F COMMRadio_WalkieTalkieFemaleChatter05.wav 142748 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.611
+D i 16
+F COMMRadio_WalkieTalkieFemaleChatter06.wav 198556 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.244
+D i 16
+F COMMRadio_WalkieTalkieGarble.wav 1668842 0 1439162377 0
+D a "Apple Inc." s 44100 n 2 l 0:09.459
+D i 16

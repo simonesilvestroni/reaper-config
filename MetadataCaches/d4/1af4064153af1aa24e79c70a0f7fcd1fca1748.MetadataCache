@@ -1,0 +1,157 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/FX/Robot Voice FX"
+F "SFX_RobotFXAffirmative 01.wav" 352226 0 1249058160 0
+D s 44100 n 2 l 0:01.330 i 24
+F "SFX_RobotFXAffirmative 02.wav" 288188 0 1249058168 0
+D s 44100 n 2 l 0:01.088 i 24
+F "SFX_RobotFXAffirmative 03.wav" 416258 0 1249058178 0
+D s 44100 n 2 l 0:01.572 i 24
+F "SFX_RobotFXAt Your Command 01.wav" 454094 0 1249058160 0
+D s 44100 n 2 l 0:01.715 i 24
+F "SFX_RobotFXAt Your Command 02.wav" 395354 0 1249058168 0
+D s 44100 n 2 l 0:01.493 i 24
+F "SFX_RobotFXAt Your Command 03.wav" 464414 0 1249058178 0
+D s 44100 n 2 l 0:01.754 i 24
+F "SFX_RobotFXCannot Compute 01.wav" 526064 0 1249058160 0
+D s 44100 n 2 l 0:01.987 i 24
+F "SFX_RobotFXCannot Compute 02.wav" 338198 0 1249058168 0
+D s 44100 n 2 l 0:01.277 i 24
+F "SFX_RobotFXCannot Compute 03.wav" 488492 0 1249058178 0
+D s 44100 n 2 l 0:01.845 i 24
+F "SFX_RobotFXComputing 01.wav" 344552 0 1249058160 0
+D s 44100 n 2 l 0:01.301 i 24
+F "SFX_RobotFXComputing 02.wav" 246122 0 1249058168 0
+D s 44100 n 2 l 0:00.930 i 24
+F "SFX_RobotFXComputing 03.wav" 319940 0 1249058178 0
+D s 44100 n 2 l 0:01.208 i 24
+F "SFX_RobotFXFive 01.wav" 185258 0 1249058160 0
+D s 44100 n 2 l 0:00.699 i 24
+F "SFX_RobotFXFive 02.wav" 119114 0 1249058168 0
+D s 44100 n 2 l 0:00.450 i 24
+F "SFX_RobotFXFive 03.wav" 172034 0 1249058178 0
+D s 44100 n 2 l 0:00.650 i 24
+F "SFX_RobotFXFour 01.wav" 177854 0 1249058160 0
+D s 44100 n 2 l 0:00.671 i 24
+F "SFX_RobotFXFour 02.wav" 114350 0 1249058168 0
+D s 44100 n 2 l 0:00.431 i 24
+F "SFX_RobotFXFour 03.wav" 165152 0 1249058178 0
+D s 44100 n 2 l 0:00.623 i 24
+F "SFX_RobotFXFunnky robot 01.wav" 1059500 0 1249058160 0
+D s 44100 n 2 l 0:04.003 i 24
+F "SFX_RobotFXFunnky robot 02.wav" 681122 0 1249058168 0
+D s 44100 n 2 l 0:02.573 i 24
+F "SFX_RobotFXFunnky robot 03.wav" 983822 0 1249058178 0
+D s 44100 n 2 l 0:03.717 i 24
+F "SFX_RobotFXHow Are You 02.wav" 228656 0 1249058168 0
+D s 44100 n 2 l 0:00.863 i 24
+F "SFX_RobotFXHow Are You 03.wav" 330260 0 1249058178 0
+D s 44100 n 2 l 0:01.247 i 24
+F "SFX_RobotFXHow Are You.wav" 377888 0 1249058160 0
+D s 44100 n 2 l 0:01.427 i 24
+F "SFX_RobotFXI am robot 01.wav" 414932 0 1249058160 0
+D s 44100 n 2 l 0:01.567 i 24
+F "SFX_RobotFXI am robot 02.wav" 266756 0 1249058168 0
+D s 44100 n 2 l 0:01.007 i 24
+F "SFX_RobotFXI am robot 03.wav" 385298 0 1249058178 0
+D s 44100 n 2 l 0:01.455 i 24
+F "SFX_RobotFXLifeforms located 01.wav" 729806 0 1249058160 0
+D s 44100 n 2 l 0:02.757 i 24
+F "SFX_RobotFXLifeforms located 02.wav" 469178 0 1249058168 0
+D s 44100 n 2 l 0:01.772 i 24
+F "SFX_RobotFXLifeforms located 03.wav" 705200 0 1249058178 0
+D s 44100 n 2 l 0:02.664 i 24
+F "SFX_RobotFXLosing Power 01.wav" 396410 0 1249058160 0
+D s 44100 n 2 l 0:01.497 i 24
+F "SFX_RobotFXLosing Power 02.wav" 254852 0 1249058168 0
+D s 44100 n 2 l 0:00.962 i 24
+F "SFX_RobotFXLosing Power 03.wav" 368102 0 1249058178 0
+D s 44100 n 2 l 0:01.390 i 24
+F "SFX_RobotFXNegative 01.wav" 221246 0 1249058160 0
+D s 44100 n 2 l 0:00.835 i 24
+F "SFX_RobotFXNegative 02.wav" 181028 0 1249058168 0
+D s 44100 n 2 l 0:00.683 i 24
+F "SFX_RobotFXNegative 03.wav" 261464 0 1249058178 0
+D s 44100 n 2 l 0:00.987 i 24
+F "SFX_RobotFXNo 01.wav" 206960 0 1249058160 0
+D s 44100 n 2 l 0:00.781 i 24
+F "SFX_RobotFXNo 02.wav" 81008 0 1249058168 0
+D s 44100 n 2 l 0:00.305 i 24
+F "SFX_RobotFXNo 03.wav" 116996 0 1249058178 0
+D s 44100 n 2 l 0:00.441 i 24
+F "SFX_RobotFXOne 01.wav" 129698 0 1249058160 0
+D s 44100 n 2 l 0:00.490 i 24
+F "SFX_RobotFXOne 02.wav" 83390 0 1249058170 0
+D s 44100 n 2 l 0:00.314 i 24
+F "SFX_RobotFXOne 03.wav" 120434 0 1249058178 0
+D s 44100 n 2 l 0:00.454 i 24
+F "SFX_RobotFXPlanet destroyed 01.wav" 563108 0 1249058160 0
+D s 44100 n 2 l 0:02.127 i 24
+F "SFX_RobotFXPlanet destroyed 02.wav" 362012 0 1249058170 0
+D s 44100 n 2 l 0:01.367 i 24
+F "SFX_RobotFXPlanet destroyed 03.wav" 522890 0 1249058178 0
+D s 44100 n 2 l 0:01.975 i 24
+F "SFX_RobotFXPower low 01.wav" 322322 0 1249058160 0
+D s 44100 n 2 l 0:01.217 i 24
+F "SFX_RobotFXPower low 02.wav" 207224 0 1249058170 0
+D s 44100 n 2 l 0:00.782 i 24
+F "SFX_RobotFXPower low 03.wav" 299306 0 1249058178 0
+D s 44100 n 2 l 0:01.130 i 24
+F "SFX_RobotFXReactor failure 01.wav" 347726 0 1249058160 0
+D s 44100 n 2 l 0:01.313 i 24
+F "SFX_RobotFXReactor failure 02.wav" 424988 0 1249058170 0
+D s 44100 n 2 l 0:01.605 i 24
+F "SFX_RobotFXReactor failure 03.wav" 502250 0 1249058178 0
+D s 44100 n 2 l 0:01.897 i 24
+F "SFX_RobotFXRecharging 01.wav" 322322 0 1249058160 0
+D s 44100 n 2 l 0:01.217 i 24
+F "SFX_RobotFXRecharging 02.wav" 207224 0 1249058170 0
+D s 44100 n 2 l 0:00.782 i 24
+F "SFX_RobotFXRecharging 03.wav" 299306 0 1249058178 0
+D s 44100 n 2 l 0:01.130 i 24
+F "SFX_RobotFXShutting down 01.wav" 257234 0 1249058160 0
+D s 44100 n 2 l 0:00.971 i 24
+F "SFX_RobotFXShutting down 02.wav" 314384 0 1249058170 0
+D s 44100 n 2 l 0:01.187 i 24
+F "SFX_RobotFXShutting down 03.wav" 371540 0 1249058178 0
+D s 44100 n 2 l 0:01.403 i 24
+F "SFX_RobotFXStop 01.wav" 188966 0 1249058162 0
+D s 44100 n 2 l 0:00.713 i 24
+F "SFX_RobotFXStop 02.wav" 121490 0 1249058170 0
+D s 44100 n 2 l 0:00.458 i 24
+F "SFX_RobotFXStop 03.wav" 175472 0 1249058178 0
+D s 44100 n 2 l 0:00.662 i 24
+F "SFX_RobotFXTarget locked 01.wav" 437162 0 1249058162 0
+D s 44100 n 2 l 0:01.651 i 24
+F "SFX_RobotFXTarget locked 02.wav" 281048 0 1249058170 0
+D s 44100 n 2 l 0:01.061 i 24
+F "SFX_RobotFXTarget locked 03.wav" 405938 0 1249058178 0
+D s 44100 n 2 l 0:01.533 i 24
+F "SFX_RobotFXThree 01.wav" 174146 0 1249058162 0
+D s 44100 n 2 l 0:00.657 i 24
+F "SFX_RobotFXThree 02.wav" 111968 0 1249058170 0
+D s 44100 n 2 l 0:00.422 i 24
+F "SFX_RobotFXThree 03.wav" 161714 0 1249058178 0
+D s 44100 n 2 l 0:00.610 i 24
+F "SFX_RobotFXTwo 01.wav" 118580 0 1249058162 0
+D s 44100 n 2 l 0:00.447 i 24
+F "SFX_RobotFXTwo 02.wav" 76244 0 1249058170 0
+D s 44100 n 2 l 0:00.287 i 24
+F "SFX_RobotFXTwo 03.wav" 110114 0 1249058178 0
+D s 44100 n 2 l 0:00.415 i 24
+F "SFX_RobotFXWill not carry out order 01.wav" 811304 0 1249058162 0
+D s 44100 n 2 l 0:03.065 i 24
+F "SFX_RobotFXWill not carry out order 02.wav" 521570 0 1249058170 0
+D s 44100 n 2 l 0:01.970 i 24
+F "SFX_RobotFXWill not carry out order 03.wav" 753356 0 1249058180 0
+D s 44100 n 2 l 0:02.846 i 24
+F "SFX_RobotFXYes 01.wav" 142658 0 1249058162 0
+D s 44100 n 2 l 0:00.538 i 24
+F "SFX_RobotFXYes 02.wav" 116732 0 1249058170 0
+D s 44100 n 2 l 0:00.440 i 24
+F "SFX_RobotFXYes 03.wav" 168590 0 1249058180 0
+D s 44100 n 2 l 0:00.636 i 24
+F "SFX_RobotFXZero 01.wav" 200078 0 1249058162 0
+D s 44100 n 2 l 0:00.755 i 24
+F "SFX_RobotFXZero 02.wav" 128636 0 1249058170 0
+D s 44100 n 2 l 0:00.485 i 24
+F "SFX_RobotFXZero 03.wav" 185792 0 1249058180 0
+D s 44100 n 2 l 0:00.701 i 24

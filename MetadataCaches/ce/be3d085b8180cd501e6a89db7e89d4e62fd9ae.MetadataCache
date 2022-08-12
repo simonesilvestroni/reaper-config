@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Ford Ltd Crown Victoria 1990"
+F Ford_LTD_t11_foley_gear_shifter_ext_RSM191_XY.wav 5908130 0 1583868810 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "foley gear shifter exterior main position Neumann RSM191 XY wav"
+D d "foley gear shifter exterior main position Neumann RSM191 XY wav" s 96000 n 2 l 0:09.909
+D i 24 m 0
+F Ford_LTD_t2_ext_medium_passbys_forward_stop_reverse_CSS5.wav 20294550 0 1583868975 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior medium passbys forward stop reverse Sanken CSS5 wav"
+D d "exterior medium passbys forward stop reverse Sanken CSS5 wav" s 96000 n 2 l 0:34.885
+D i 24 m 0
+F Ford_LTD_t2_onbrd_medium_startup_driving_forward_reverse_shutdown_MKH8020_interior.wav 46686570 0 1583868999 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard medium startup driving forward reverse shutdown Sennheiser MKH8020 interior wav"
+D d "onboard medium startup driving forward reverse shutdown Sennheiser MKH8020 interior wav" s 96000 n 2 l 1:20.704
+D i 24 m 0

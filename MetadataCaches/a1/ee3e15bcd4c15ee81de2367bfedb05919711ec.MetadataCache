@@ -1,0 +1,17 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Articulated Sounds - 100 Fountains"
+F "FOUNTAIN Large, Splasher Spray at Playground, 3m Far.wav" 18885394 0 1583868825 0
+D t "100 Fountains SFX" a "Articulated Sounds" b "100 Fountains SFX" y 2016-08-02
+D g sfx c http://www.articulatedsounds.com d "Large Size, 3m Far Perspective, Water Spray, Rubber Floor, Playground, Stereo M/S Decoded, LOOP" s 96000
+D n 2 l 0:30.947 i 24
+F "FOUNTAIN Medium, Invigorating Network of Dribbles, Close.wav" 43750800 0 1583869078 0
+D t "100 Fountains SFX" a "Articulated Sounds" b "100 Fountains SFX" y 2016-08-02
+D g sfx c http://www.articulatedsounds.com d "Medium Size, Close Perspective, Water Pour, Sand/Gravel/Concrete, Garden, Stereo M/S Decoded, LOOP" s 96000
+D n 2 l 1:14.116 i 24
+F "FOUNTAIN Small, Splashes of Multiple Squirts on the Ground, Close.wav" 31288782 0 1583869042 0
+D t "100 Fountains SFX" a "Articulated Sounds" b "100 Fountains SFX" y 2016-08-02
+D g sfx c http://www.articulatedsounds.com d "Small Size, Close Perspective, Water Jets, Concrete Ground, City Plaza, Stereo M/S Decoded, LOOP" s 96000
+D n 2 l 0:52.480 i 24
+F "FOUNTAIN Underwater, Generous Gushing Flow.wav" 49216176 0 1583869044 0
+D t "100 Fountains SFX" a "Articulated Sounds" b "100 Fountains SFX" y 2016-08-02
+D g sfx c http://www.articulatedsounds.com d "Underwater, Flow, Pool Jet, Stereo Hydrophone, LOOP" s 96000
+D n 2 l 1:23.605 i 24

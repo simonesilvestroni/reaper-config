@@ -1,0 +1,129 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - GLASS"
+F "Glass Break2.wav" 176162 0 1202004100 0
+D y 2008-01-31 s 44100 n 1 r 0:15.254
+D l 0:01.989 i 16
+F "Glass Crack.wav" 3951404 0 1502565887 0
+D s 44100 n 2 l 0:22.400 i 16
+F "Glass Drop.wav" 3128204 0 1502565824 0
+D s 44100 n 2 l 0:17.733 i 16
+F "Glass hit1.Wav" 260984 0 1201632568 0
+D s 44100 n 1 l 0:02.957 i 16
+F "Glass hit2.Wav" 258238 0 1201632568 0
+D s 44100 n 1 l 0:02.926 i 16
+F "Glass hit3.Wav" 184236 0 1201632568 0
+D s 44100 n 1 l 0:02.087 i 16
+F "Glass Jingle.wav" 12707900 0 1502565824 0
+D s 44100 n 2 l 1:12.040 i 16
+F "Glass Put Down And Slide.wav" 116350 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.311
+D i 16
+F "Glass Rattle Slide.wav" 3057644 0 1502565718 0
+D s 44100 n 2 l 0:17.333 i 16
+F "Glass Smash 1.wav" 8168540 0 1502565714 0
+D s 44100 n 2 l 0:46.306 i 16
+F "Glass Smash 2.wav" 3643292 0 1502565795 0
+D s 44100 n 2 l 0:20.653 i 16
+F "Glass Smash.wav" 8431964 0 1502565718 0
+D s 44100 n 2 l 0:47.800 i 16
+F "Glass Squeak.wav" 3116444 0 1502566018 0
+D s 44100 n 2 l 0:17.666 i 16
+F "Glass Tone1.Wav" 279250 0 1202133344 0
+D y 2008-02-03 s 44100 n 1 r 0:09.195
+D l 0:03.157 i 16
+F "Glass Tone2.Wav" 410322 0 1202133344 0
+D y 2008-02-03 s 44100 n 1 r 0:24.148
+D l 0:04.643 i 16
+F "Glass Tone3.Wav" 516818 0 1202133346 0
+D y 2008-02-03 s 44100 n 1 r 0:37.244
+D l 0:05.851 i 16
+F "Glass Tone4.Wav" 533202 0 1202133346 0
+D y 2008-02-03 s 44100 n 1 r 0:53.684
+D l 0:06.037 i 16
+F "Glass With Ice.wav" 1719416 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 2 l 0:09.743
+D i 16
+F Glass01.wav 190892 0 1248013358 0
+D s 44100 n 2 l 0:00.721 i 24
+F Glass02.wav 166010 0 1248523476 0
+D y 2009-07-25 s 44100 n 2 l 0:00.626
+D i 24
+F Glass_Table_Fist_Hits_on_Surface_OCM-0032-333.wav 3236822 0 1566570834 0
+D t Glass_Table_Fist_Hits_on_Surface_OCM-0032-333 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Glass Table, Fist Hits on Surface" d "Glass Table, Fist Hits on Surface" s 48000
+D n 2 l 0:09.738 i 24 m 1
+F Glass_Vial_Drop_on_Concrete_Small_Bounces_Clink_OCP-1544-23.wav 611708 0 1566570834 0
+D t Glass_Vial_Drop_on_Concrete_Small_Bounces_Clink_OCP-1544-23 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Glass Vial, Drop on Concrete, Small Bounces, Clink" d "Glass Vial, Drop on Concrete, Small Bounces, Clink" s 48000
+D n 1 r 0:02.304 l 0:01.866 i 16
+D m 0
+F "Glasses Being Stacked.wav" 47070 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.526
+D i 16
+F "Glasses Put Away In Cupboard.wav" 172812 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.952
+D i 16
+F "Glassmove 1.wav" 141656 0 1395177076 0
+D s 48000 n 2 l 0:00.491 i 24
+F "Glassmove 2.wav" 162044 0 1395177080 0
+D s 48000 n 2 l 0:00.562 i 24
+F "Glassware Ice 1.aiff" 245432 0 1505995965 0
+D a "Sound Ideas" d www.sound-ideas.com p 98.3556 s 48000
+D n 2 l 0:01.220 i 16
+F "Glassware Ice 1.wav" 215372 0 1439162809 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.220
+D i 16
+F "Glassware Ice 2.aiff" 1632008 0 1505995965 0
+D a "Sound Ideas" d www.sound-ideas.com p 113.8545 s 48000
+D n 2 l 0:08.431 i 16
+F "Glassware Ice 2.wav" 1487524 0 1439161399 0
+D a "Sound Ideas" s 44100 n 2 l 0:08.431
+D i 16
+F "Glassware Toast.aiff" 426320 0 1505995965 0
+D a "Sound Ideas" d www.sound-ideas.com p 111.0115 s 48000
+D n 2 l 0:02.161 i 16
+F "Glassware Toast.wav" 381520 0 1439162506 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.161
+D i 16
+F Glassware.aiff 273848 0 1505995965 0
+D a "Sound Ideas" d www.sound-ideas.com p 87.6752 s 48000
+D n 2 l 0:01.368 i 16
+F Glassware.wav 241592 0 1439162897 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.368
+D i 16
+F Object_into_Glass_Inserting_and_Removing_OCP-1643-39.wav 926190 0 1566570830 0
+D t Object_into_Glass_Inserting_and_Removing_OCP-1643-39 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Object into Glass, Inserting and Removing, Hollow Clinking, Rattling" d "Object into Glass, Inserting and Removing, Hollow Clinking, Rattling" s 48000
+D n 1 l 0:05.141 i 16 m 0
+F "Smash Glass 1.wav" 419160 0 1439162331 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.375
+D i 16
+F "Smash Glass 2.wav" 574088 0 1439162429 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.253
+D i 16
+F "Smash Glass 3.wav" 386072 0 1439162540 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.187
+D i 16
+F "Smash Glass 4.wav" 414312 0 1439162687 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.347
+D i 16
+F Wind_Glass_Put_Down_on_Wood_Table_Clunk_Handle_OCP-1504-089-02.wav 3974828 0 1566570838 0
+D t Wind_Glass_Put_Down_on_Wood_Table_Clunk_Handle_OCP-1504-089-02 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Wind Glass Put Down, On Wood Table, Clunk, Handle, Ring, Many Versions" d "Wind Glass Put Down, On Wood Table, Clunk, Handle, Ring, Many Versions" s 48000
+D n 2 r 0:10.833 l 0:12.298 i 24
+D m 0
+F "Window Break.mp3" 100309 0 1583930832 0
+D s 44100 n 2 l 0:03.083 i 260k
+F "Wine Bottle1.wav" 126648 0 1201632624 0
+D s 44100 n 1 l 0:01.434 i 16
+F "Wine Bottle2.wav" 88876 0 1201632624 0
+D s 44100 n 1 l 0:01.006 i 16
+F "Wine Glass 2.Wav" 77442 0 1201972954 0
+D s 44100 n 1 l 0:00.876 i 16
+F Wine_Glass_Empty_Clink_Together_OCP-1504-087-01.wav 5950330 0 1566570838 0
+D t Wine_Glass_Empty_Clink_Together_OCP-1504-087-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Wine Glass, Empty, Clink Together, Put Down On Table, Clank, Cheers, Toast, Hits, Ring, Handle, Many Versions" d "Wine Glass, Empty, Clink Together, Put Down On Table, Clank, Cheers, Toast, Hits, Ring, Handle, Many Versions" s 48000
+D n 2 l 0:19.157 i 24 m 0
+F "Wiping Glass with Cloth.mp3" 1400162 0 1583931121 0
+D s 44100 n 2 l 0:43.703 i 256k
+F "Wiping Glass with Cloth_2.mp3" 1400162 0 1583931220 0
+D s 44100 n 2 l 0:43.703 i 256k

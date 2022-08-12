@@ -1,0 +1,381 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - B"
+F "Backgammon Piece 21.wav" 62780 0 1481710384 0
+D y 2015-02-06 s 44100 n 2 r 0:56.196
+D l 0:00.213 i 24
+F "Ball Ad Board Metal.wav" 236750 0 1481710544 0
+D y 2014-04-07 s 44100 n 2 l 0:01.341
+D i 16
+F "Ball Hit Net.wav" 1152044 0 1488537261 0
+D s 96000 n 2 l 0:02.000 i 24
+F "Ball Net 01.wav" 199724 0 1481710545 0
+D s 44100 n 2 l 0:01.131 i 16
+F "Ball Pass 03.wav" 79190 0 1481710519 0
+D y 2014-03-13 s 44100 n 2 l 0:00.448
+D i 16
+F "Bare Feet Carpet Footstep Stagger Tumble Trip Drunk.wav" 11000830 0 1481710474 0
+D y 2015-05-08 s 48000 n 1 r 1:42:43.915
+D l 1:15.194 i 24
+F "Bass And Steam C#3.wav" 33490906 0 1488537511 0
+D y 2016-07-2 s 96000 n 2 r 0:16.170
+D l 0:57.834 i 24
+F "Bb Drl  062.wav" 708660 0 1481710455 0
+D y "2015-Â -IP" d "sci-fi, futuristic, interface, ui, hud, button, slider, switch, bleep" s 48000 n 1
+D r 10:07.539 l 0:01.723 i 24
+F "Bb Drl  086.wav" 546158 0 1481710456 0
+D y 2015-D/- d "sci-fi, futuristic, interface, ui, hud, button, slider, switch, bleep" s 48000 n 1
+D r 12:04.606 l 0:00.594 i 24
+F "Bb Drl  112.wav" 695646 0 1481710458 0
+D y 2015-,- d "sci-fi, futuristic, interface, ui, hud, button, slider, switch, bleep" s 48000 n 1
+D l 0:01.634 i 24
+F "Bb Drl  129.wav" 533958 0 1481710485 0
+D y 2015-ÄI-‡÷ d "sci-fi, futuristic, interface, ui, hud, button, slider, switch, bleep" s 48000 n 1
+D l 0:00.512 i 24
+F "beep 1.wav" 63128 0 1488630184 0
+D s 44100 n 1 l 0:00.715 i 16
+F "beep 10.wav" 23416 0 1488630184 0
+D s 44100 n 1 l 0:00.264 i 16
+F "beep 11.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 12.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 13.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 14.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 15.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 16.wav" 221915 0 1488630183 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 17.wav" 221915 0 1488630183 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 18.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 19.wav" 221915 0 1488630190 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 2.wav" 26876 0 1488630190 0
+D s 44100 n 1 l 0:00.304 i 16
+F "beep 20.wav" 221915 0 1488630197 0
+D s 44100 n 1 l 0:05.031 i 8
+F "beep 21.wav" 40846 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.150
+D i 24
+F "beep 22.wav" 40846 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.150
+D i 24
+F "beep 23.wav" 40846 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.150
+D i 24
+F "beep 24.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "beep 25.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "beep 26.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "beep 27.wav" 74518 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.277
+D i 24
+F "beep 28.wav" 47104 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F "beep 29.wav" 47104 0 1488630198 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F "beep 3.wav" 20196 0 1488630198 0
+D s 44100 n 1 l 0:00.228 i 16
+F "beep 30.wav" 72124 0 1488630198 0
+D y 2010-03-30 s 44100 n 2 l 0:00.268
+D i 24
+F "beep 4.wav" 52634 0 1488630198 0
+D s 44100 n 1 l 0:00.596 i 16
+F "beep 5.wav" 63128 0 1488630198 0
+D s 44100 n 1 l 0:00.715 i 16
+F "beep 6.wav" 23416 0 1488630198 0
+D s 44100 n 1 l 0:00.264 i 16
+F "beep 7.wav" 9702 0 1488630198 0
+D s 44100 n 1 l 0:00.109 i 16
+F "beep 8.wav" 11968 0 1488630198 0
+D s 44100 n 1 l 0:00.135 i 16
+F "beep 9.wav" 63128 0 1488630198 0
+D s 44100 n 1 l 0:00.715 i 16
+F "Bitecreakbloodjuicy 002.wav" 2476708 0 1481710524 0
+D d "Zombie, Bite, Creak, Blood, Juicy" s 96000 n 1 l 0:08.596
+D i 24
+F "Blood-Squeeze Drip 045.wav" 1256270 0 1481710489 0
+D y 2016-01-04 d "Blood Dripping on Cloth, Carpet or Floor, Gore" s 192000 n 1
+D r 1:01.395 l 0:02.177 i 24
+F Blooddrips.wav 4931168 0 1481710228 0
+D d "Blood, Drips" s 96000 n 1 l 0:17.118
+D i 24
+F "Bluezone Bc0230 Ambience 009.wav" 12702940 0 1488537495 0
+D t "TEMPLATE - base mixage verticale" s 44100 n 2 l 0:48.000
+D i 24
+F "Bluezone Bc0230 Ambience Tonal Synth 014.wav" 9427138 0 1488537508 0
+D t "TEMPLATE - base mixage verticale" s 44100 n 2 l 0:35.619
+D i 24
+F "Bluezone Bc0230 Sound Effect 006.wav" 691904 0 1488536517 0
+D t "TEMPLATE - base mixage verticale" s 44100 n 2 l 0:02.606
+D i 24
+F "Bluezone Bc0230 Synth Texture 022.wav" 3377896 0 1488537263 0
+D t "TEMPLATE - base mixage verticale" s 44100 n 2 l 0:12.757
+D i 24
+F Bluezone-Bc0212-Ambience-053.wav 22484604 0 1481710478 0
+D t "template 2015 - galak" s 44100 n 2 l 1:24.969
+D i 24
+F Bluezone-Bc0212-Impact-007.wav 1059630 0 1481710478 0
+D t "template 2015 - galak" s 44100 n 2 l 0:03.998
+D i 24
+F Bluezone-Bc0212-Rise-001.wav 6616710 0 1481710523 0
+D t "template 2015 - galak" s 44100 n 2 l 0:25.000
+D i 24
+F Bluezone-Bc0212-Sound-Effect-004.wav 2197566 0 1481710524 0
+D t "template 2015 - galak" s 44100 n 2 l 0:08.298
+D i 24
+F Bluezone-Bc0214-Beep-Mine-Explosion-002.wav 1591172 0 1488536767 0
+D t "template 2015 (explosion)" s 44100 n 2 l 0:06.007
+D i 24
+F Bluezone-Bc0214-Beep-Mine-Explosion-007.wav 2267282 0 1488537289 0
+D t "template 2015 (explosion)" s 44100 n 2 l 0:08.562
+D i 24
+F Bluezone-Bc0214-Explosion-Whooshe-003.wav 2122220 0 1488536861 0
+D t "template 2015 (explosion)" s 44100 n 2 l 0:08.014
+D i 24
+F Bluezone-Bc0214-Explosion-Whooshe-020.wav 2370560 0 1488536630 0
+D t "template 2015 (explosion)" s 44100 n 2 r 0:00.024
+D l 0:08.952 i 24
+F Bluezone-Bc0217-Chime-Texture-011.wav 2251014 0 1481710533 0
+D t "template 2015 - galak" s 44100 n 2 l 0:08.500
+D i 24
+F Bluezone-Bc0217-Dark-Ambience-047.wav 9436590 0 1481710534 0
+D t "template 2015 - galak" s 44100 n 2 l 0:35.657
+D i 24
+F Bluezone-Bc0217-Impact-014.wav 1161918 0 1481710533 0
+D t "template 2015 - galak" s 44100 n 2 l 0:04.384
+D i 24
+F Bluezone-Bc0217-Sound-Effect-004.wav 2153728 0 1481710536 0
+D t "template 2015" s 44100 n 2 l 0:08.132
+D i 24
+F Bluezone-Bc0223-Modulation-Long-Signal-Tuning-016.wav 8621818 0 1488536797 0
+D t "template 2015 - galak" s 44100 n 2 l 0:32.577
+D i 24
+F Bluezone-Bc0223-Noise-Cracke-014.wav 865154 0 1488536904 0
+D t "template 2015 - galak" s 44100 n 2 l 0:03.263
+D i 24
+F Bluezone-Bc0223-Noise-Radio-Signal-025.wav 3957854 0 1488537478 0
+D t "template 2014 - galactica" s 44100 n 2 l 0:14.951
+D i 24
+F Bluezone-Bc0223-Noise-Radio-Signal-029.wav 16142234 0 1488537536 0
+D t "template 2015 - galak" s 44100 n 2 l 1:01.000
+D i 24
+F Bluezone-Bc0224-Impact-003.wav 820708 0 1488536998 0
+D t "BASE 2016 TEMPLATE" s 44100 n 2 l 0:03.095
+D i 24
+F Bluezone-Bc0224-Impact-016.wav 752542 0 1488536327 0
+D t "BASE 2016 TEMPLATE" s 44100 n 2 l 0:02.837
+D i 24
+F Bluezone-Bc0224-Rise-001.wav 4037308 0 1488536995 0
+D t "BASE 2016 TEMPLATE" s 44100 n 2 l 0:15.251
+D i 24
+F Bluezone-Bc0224-Sequence-001.wav 7619864 0 1488536992 0
+D t "BASE 2016 TEMPLATE" s 44100 n 2 l 0:28.790
+D i 24
+F Bluezone-Bc0226-Hit-Impact-004.wav 743310 0 1488536822 0
+D t "template 2015 - galak" s 44100 n 2 l 0:02.802
+D i 24
+F Bluezone-Bc0226-Sound-Effect-009.wav 8700268 0 1488537499 0
+D t "BASE 2016 TEMPLATE" s 44100 n 2 l 0:32.874
+D i 24
+F Bluezone-Bc0226-Whoosh-Impact-005.wav 756126 0 1488535917 0
+D t "template 2015 - galak" s 44100 n 2 l 0:02.851
+D i 24
+F Bluezone-Bc0226-Whoosh-Impact-012.wav 791070 0 1488536533 0
+D t "template 2015 - galak" s 44100 n 2 l 0:02.983
+D i 24
+F Bluezone-Bc0227-Synthetic-Liquid-Long-Texture-016.wav 7458636 0 1488536732 0
+D t "template 2015 - galak" s 44100 n 2 l 0:28.181
+D i 24
+F Bluezone-Bc0227-Synthetic-Liquid-Short-Texture-047.wav 1009248 0 1488537239 0
+D t "template 2015 - galak" s 44100 n 2 l 0:03.807
+D i 24
+F Bluezone-Bc0227-Synthetic-Liquid-Short-Texture-057.wav 719148 0 1488537284 0
+D t "template 2015 - galak" s 44100 n 2 l 0:02.711
+D i 24
+F Bluezone-Bc0227-Synthetic-Liquid-Short-Texture-073.wav 2047974 0 1488537380 0
+D t "template 2015 - galak" s 44100 n 2 l 0:07.733
+D i 24
+F "Body Drag On Farmlane 02 06.wav" 6161734 0 1488536762 0
+D y 2016-11-09 d "Drag, Dragging Body or heavy object over farm lane, gritty road, Slide, Push, Pull, Move, Friction" s 96000 n 2
+D r 2:34.442 l 0:10.693 i 24
+F "Break Hit Celery 2.wav" 224738 0 1488537225 0
+D y 2015-10-2 d "sFILENAME=BREAK_HIT_Celery_2_1.wav  sTRK1=   " s 96000 n 1
+D r 11:55.266 l 0:00.749 i 24
+F "Break Spatula Cabbage 3.wav" 1330050 0 1488536640 0
+D y 2015-10-2 d "sFILENAME=BREAK_Spatula_Cabbage_3_1.wav  sTRK1=   " s 96000 n 1
+D r 6:07.658 l 0:04.586 i 24
+F "Brush 1Shots A Acoustic.wav" 4143138 0 1488537434 0
+D s 48000 n 2 l 0:14.385 i 24
+F "Brush 1Shots B Contact1.wav" 1763040 0 1488536640 0
+D s 48000 n 2 l 0:06.121 i 24
+F "Brushcutter Engine Cutting Metallic Hits Blade Stops Distant 2 Mono.wav" 22389892 0 1481710368 0
+D y 0000-00-0 d "brushcutter, engine, working, hits, blade, metallic, stop, stops, distant" s 96000 n 2
+D r 17:01.866 l 0:38.869 i 24
+F "Brushcutter Engine Off Close Mono.wav" 3343492 0 1481710384 0
+D y 0000-00-0 d "brushcutter, engine, working, off, turn, close" s 96000 n 2
+D r 24:33.472 l 0:05.802 i 24
+F "Brushcutters Ambient Engine Working Stereo.wav" 9315460 0 1481710384 0
+D y 0000-00-0 d "brushcutters, engine, working, stereo" s 96000 n 2
+D l 0:16.170 i 24
+F "Brushcutters Engine Different Machines Working Distant Mono.wav" 10145620 0 1481710244 0
+D y 0000-00-0 d "brushcutters, engine, working, distant, machines, different" s 96000 n 2
+D r 3:19.253 l 0:17.611 i 24
+F "Burn Ice 001.wav" 4173474 0 1481710530 0
+D y 2015-02-10 s 96000 n 2 r 1:00:00.005
+D l 0:07.234 i 24
+F Burst,Glass,Release,2Bottles,Pour,Fizz,Cistern,Low,Marble,Jostle,Gurgle,Wavering.wav 4119392 0 1488537435 0
+D y 2016-05-30 d Burst,glass,release,2bottles,pour,fizz,cistern,low,marble,jostle,gurgle,wavering s 96000 n 1
+D r 2:24:43.736 l 0:14.295 i 24
+F Burst,Glass,Release,Bottle,Pour,Fizz,Cistern,Empty,Marble,Slosh.wav 1581992 0 1488537280 0
+D y 2016-05-30 d Burst,glass,release,bottle,pour,fizz,cistern,empty,marble,slosh s 96000 n 1
+D r 1:41:48.713 l 0:05.484 i 24
+F Burst,Glass,Release,Bottle,Pour,Fizz,Cistern,Midlevel,Choppy,Marble,Rattle.wav 2870440 0 1488536862 0
+D y 2016-05-30 d Burst,glass,release,bottle,pour,fizz,cistern,midlevel,choppy,marble,rattle s 96000 n 1
+D r 4:44.431 l 0:09.959 i 24
+F Burst,Glass,Release,Bottle,Spray,Jet,Fizz,Cistern,Full,Stifle.wav 1899426 0 1488537412 0
+D y 2016-05-30 d Burst,glass,release,bottle,spray,jet,fizz,cistern,full,stiffle s 96000 n 1
+D r 1:43:32.898 l 0:06.587 i 24
+F "Busy Dining Room 002.1.wav" 36634728 0 1488537449 0
+D y 2015-01-12 d "sNOTE=roomtone, room, tone, atmosphere, ambience, food, dining, people, public  " s 96000 n 2
+D r 1:00:00.000 l 1:03.500 i 24
+F "Busy Dining Room 002.wav" 36634728 0 1488537408 0
+D s 96000 n 2 l 1:03.500 i 24
+F "Busy Road 003.wav" 44098282 0 1481710509 0
+D y 2014-10-10 s 96000 n 2 r 1:00:00.000
+D l 1:16.458 i 24
+F "Button 1.wav" 35324 0 1488630186 0
+D s 44100 n 1 l 0:00.400 i 16
+F "Button 10.wav" 14472 0 1488630186 0
+D s 44100 n 1 l 0:00.163 i 16
+F "Button 11.wav" 14472 0 1488630186 0
+D s 44100 n 1 l 0:00.163 i 16
+F "Button 12.wav" 38682 0 1488630186 0
+D s 44100 n 1 l 0:00.438 i 16
+F "Button 13.wav" 23416 0 1488630186 0
+D s 44100 n 1 l 0:00.264 i 16
+F "Button 14.wav" 30572 0 1488630186 0
+D s 44100 n 1 l 0:00.346 i 16
+F "Button 15.wav" 39696 0 1488630186 0
+D s 48000 n 2 l 0:00.206 i 16
+F "Button 16.wav" 31852 0 1488630186 0
+D s 48000 n 2 l 0:00.165 i 16
+F "Button 17.wav" 69252 0 1488630186 0
+D s 48000 n 2 l 0:00.360 i 16
+F "Button 18.wav" 70960 0 1488630186 0
+D s 48000 n 2 l 0:00.369 i 16
+F "Button 19.wav" 30308 0 1488630186 0
+D s 48000 n 2 l 0:00.157 i 16
+F "Button 2.wav" 230918 0 1488630186 0
+D s 44100 n 1 l 0:02.617 i 16
+F "Button 20.wav" 40364 0 1488630186 0
+D s 48000 n 2 l 0:00.210 i 16
+F "Button 21.wav" 57416 0 1488630186 0
+D s 48000 n 2 l 0:00.298 i 16
+F "Button 22.wav" 72696 0 1488630186 0
+D s 48000 n 2 l 0:00.378 i 16
+F "Button 23.wav" 54400 0 1488630186 0
+D s 48000 n 2 l 0:00.282 i 16
+F "Button 24.wav" 29252 0 1488630186 0
+D s 48000 n 2 l 0:00.151 i 16
+F "Button 25.wav" 65608 0 1488630186 0
+D s 48000 n 2 l 0:00.341 i 16
+F "Button 26.wav" 62260 0 1488630186 0
+D s 48000 n 2 l 0:00.323 i 16
+F "Button 27.wav" 62260 0 1488630186 0
+D s 48000 n 2 l 0:00.323 i 16
+F "Button 28 Gain +0.0dB [7b2f9baa].wav" 88604 0 1583256065 0
+D s 48000 n 2 l 0:00.307 i 24
+F "Button 28.wav" 59044 0 1488630186 0
+D s 48000 n 2 l 0:00.307 i 16
+F "Button 29.wav" 52792 0 1488630186 0
+D s 48000 n 2 l 0:00.274 i 16
+F "Button 3.wav" 11968 0 1488630186 0
+D s 44100 n 1 l 0:00.135 i 16
+F "Button 30.wav" 51928 0 1488630197 0
+D s 48000 n 2 l 0:00.270 i 16
+F "Button 31.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "Button 32.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "Button 33.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "Button 34.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "Button 35.wav" 57574 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F "Button 36.wav" 47104 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F "Button 37.wav" 104626 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.391
+D i 24
+F "Button 38.wav" 47104 0 1488630197 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F "Button 39.wav" 74518 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.277
+D i 24
+F "Button 4.wav" 34508 0 1488630200 0
+D s 44100 n 1 l 0:00.390 i 16
+F "Button 40.wav" 47104 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F "Button 41.wav" 47104 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F "Button 42.wav" 72124 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.268
+D i 24
+F "Button 43.wav" 104626 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.391
+D i 24
+F "Button 44.wav" 72124 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.268
+D i 24
+F "Button 45.wav" 25852 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.140
+D i 16
+F "Button 46.wav" 21296 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.114
+D i 16
+F "Button 47.wav" 32124 0 1488630200 0
+D y 2010-03-30 s 44100 n 2 l 0:00.175
+D i 16
+F "Button 48.wav" 39596 0 1488630144 0
+D y 2010-03-30 s 44100 n 2 l 0:00.217
+D i 16
+F "Button 49.wav" 51948 0 1488630144 0
+D y 2010-03-30 s 44100 n 2 l 0:00.287
+D i 16
+F "Button 5.wav" 43094 0 1488630144 0
+D s 44100 n 1 l 0:00.488 i 16
+F "Button 50.wav" 25988 0 1488630144 0
+D y 2010-03-30 s 44100 n 2 l 0:00.140
+D i 16
+F "Button 6.wav" 20196 0 1488630144 0
+D s 44100 n 1 l 0:00.228 i 16
+F "Button 7.wav" 17216 0 1488630144 0
+D s 44100 n 1 l 0:00.194 i 16
+F "Button 8.wav" 68734 0 1488630144 0
+D s 44100 n 1 l 0:00.778 i 16
+F "Button Hit Fx.wav" 79252 0 1439162214 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.448
+D i 16
+F "Button On Off 064.wav" 203210 0 1481710544 0
+D y 2015-06-02 s 96000 n 2 r 1:00:00.000
+D l 0:00.351 i 24

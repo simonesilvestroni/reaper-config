@@ -1,0 +1,151 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Avid Loopmasters 1.0/Classic Synthology"
+F CLS_100_A_Le_Cinema.wav 5092600 0 1548713904 0
+D g "Ensemble, Processed, Dark, Drums, Drum Kit, Timpani, Beats" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_A_Sonar.wav 5084424 0 1548713909 0
+D g "Processed, FX, Sonar" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_A_Timps.wav 5083464 0 1548713905 0
+D g "Processed, Drums, Timpani" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_Be_Careful.wav 2543602 0 1548713909 0
+D g "Processed, Sci-Fi, Electronic, FX, Feedback, Pitch Shift" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_Beat_Bots_03.wav 1275094 0 1548713905 0
+D g "Drums, Tom, Synthesizer, Electronic, Lasers" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_C_Come_Go.wav 2548412 0 1548713907 0
+D g "Dark, Intense, Electronic, Distorted, Sequencer" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_C_GhostInTheMachine.wav 2548424 0 1548713907 0
+D g "Dark, Intense, Electronic, Distorted, Sequencer" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_C_Hands_Up.wav 5093828 0 1548713908 0
+D g "Ensemble, Electronic, Sequencer" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_C_Heebe_Teebe.wav 5092216 0 1548713908 0
+D g "Electronic, Sequencer" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_C_Implant_Scanner.wav 2550374 0 1548713908 0
+D g "Dark, Intense, Electronic, Distorted, Sequencer" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_C_MS_Seq_01.wav 2565116 0 1548713908 0
+D g "Ensemble, Electronic, Sequencer" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_C_MS_Seq_05.wav 1275200 0 1548713908 0
+D g "Ensemble, Melodic, Electronic, Sequencer" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_C_Open_Up.wav 2548430 0 1548713904 0
+D g "Processed, Melodic, Bass, Synthetic Bass, Electronic, Distorted" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_C_Open_Wide.wav 1274910 0 1548713904 0
+D g "Processed, Melodic, Bass, Synthetic Bass, Electronic, Distorted" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_C_Robotix_Bass.wav 1274562 0 1548713904 0
+D g "Processed, Melodic, Bass, Synthetic Bass, Hi-Hat, Electronic, Distorted, Digital" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_C_Sickly.wav 5084744 0 1548713906 0
+D g "Dark, Synthetic Bass, Synthesizer, Electronic, Distorted" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_C_Soft_N_Low.wav 1276452 0 1548713904 0
+D g "Dark, Melodic, Bass, Synthetic Bass, Electronic" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_Fly_Away.wav 2543146 0 1548713909 0
+D g "Processed, Sci-Fi, FX, Pitch Shift, Time-Stretched, Time-Compressed" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_It_Broke.wav 2543386 0 1548713909 0
+D g "Processed, Sci-Fi, FX, Pitch Shift, Time-Stretched" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_Its_A_Trap.wav 1273894 0 1548713909 0
+D g "Ensemble, Processed, Sci-Fi, FX, Distorted, Time-Compressed" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_Kick_Hat_Echoes.wav 5091862 0 1548713905 0
+D g "Processed, Drums, Drum Kit, Beats" p 100 s 44100 n 2
+D l 0:19.200 i 24
+F CLS_100_Robo_Runs.wav 2543362 0 1548713909 0
+D g "Processed, Sci-Fi, FX, Lo-Fi" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_Robotix_Glitched.wav 2547078 0 1548713905 0
+D g "Drums, Drum Kit, Beats" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_100_Scare_My_Bot.wav 1281582 0 1548713909 0
+D g "Processed, Sci-Fi, FX" p 100 s 44100 n 2
+D l 0:04.800 i 24
+F CLS_100_TransporterMalfunction.wav 2543506 0 1548713909 0
+D g "Processed, Intense, Sci-Fi, Electronic, FX, Sirens" p 100 s 44100 n 2
+D l 0:09.600 i 24
+F CLS_105_C_F_Arping_On.wav 4854570 0 1548713906 0
+D g "Processed, Relaxed, Melodic, Arpeggiator" p 105 s 44100 n 2
+D l 0:18.285 i 24
+F CLS_105_C_MiniMoogBass.wav 4845496 0 1548713904 0
+D g "Dry, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Moog" p 105 s 44100 n 2
+D l 0:18.285 i 24
+F CLS_105_C_Purity.wav 4845656 0 1548713906 0
+D g "Processed, Relaxed, Melodic, Sci-Fi" p 105 s 44100 n 2
+D l 0:18.285 i 24
+F CLS_105_C_Seriously_Deep.wav 4841568 0 1548713906 0
+D g "Deep, Pad, Sub-Bass" p 105 s 44100 n 2
+D l 0:18.285 i 24
+F CLS_105_Relax_A_Little_Less.wav 4847552 0 1548713905 0
+D g "Processed, Dark, Relaxed, Drums, Beats" p 105 s 44100 n 2
+D l 0:18.285 i 24
+F CLS_130_Blip_Hats.wav 1960596 0 1548713905 0
+D g "Drums, Hi-Hat, Percussion, Electronic" p 130.000215 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_C_6_Into_8.wav 1960250 0 1548713905 0
+D g "Processed, Drums, Drum Kit, Tom, Electronic, Beats" p 130.000215 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_C_Grizzly_High.wav 1960930 0 1548713904 0
+D g "Melodic, Bass, Synthetic Bass, Electronic" p 129.999816 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_C_Grizzly_Low.wav 1960014 0 1548713904 0
+D g "Melodic, Bass, Synthetic Bass, Electronic" p 129.999816 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_C_IceBoxPads.wav 3912778 0 1548713907 0
+D g "Processed, Melodic, Synthesizer, Pad" p 130.000015 s 44100 n 2
+D l 0:14.769 i 24
+F CLS_130_C_Lady.wav 1957536 0 1548713907 0
+D g "Processed, Vocals, Female, World" p 129.999816 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_C_Mournful_Melody.wav 3912286 0 1548713907 0
+D g "Processed, Melodic, Sci-Fi, Distorted" p 130.000015 s 44100 n 2
+D l 0:14.769 i 24
+F CLS_130_C_MS20_Run.wav 1957080 0 1548713908 0
+D g "Melodic, Electronic, Sequencer" p 129.999816 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_C_Nasal_Arp.wav 1958040 0 1548713908 0
+D g "Melodic, Electronic, Sequencer, Arpeggiator" p 129.999816 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_130_Vintage_Classic.wav 1970248 0 1548713905 0
+D g "Processed, Drums, Drum Kit, Lo-Fi, Beats, Vintage" p 129.999816 s 44100 n 2
+D l 0:07.384 i 24
+F CLS_90_Angry_Turbine.wav 5653690 0 1548713905 0
+D g "Processed, Drums, Synthesizer, Percussion, Electronic" p 90 s 44100 n 2
+D l 0:21.333 i 24
+F CLS_90_Deus_Ex_Machina.wav 5654382 0 1548713906 0
+D g "Processed, Drums, Drum Kit, Beats, Heavy" p 90 s 44100 n 2
+D l 0:21.333 i 24
+F CLS_90_G_Acid_Line.wav 2829318 0 1548713904 0
+D g "Processed, Intense, Melodic, Bass, Synthetic Bass, Electronic, Distorted, Acid" p 90 s 44100 n 2
+D l 0:10.666 i 24
+F "CLS_90_G_AMS Bells_02.wav" 2826886 0 1548713907 0
+D g "Dissonant, Sci-Fi, Bells" p 90 s 44100 n 2
+D l 0:10.666 i 24
+F CLS_90_G_Bass_Attack.wav 2825730 0 1548713904 0
+D g "Processed, Dark, Intense, Melodic, Bass, Synthetic Bass, Percussion, Electronic, Distorted, Growl" p 90 s 44100 n 2
+D l 0:10.666 i 24
+F CLS_90_G_Drone_Army.wav 5649162 0 1548713907 0
+D g "Processed, Dark, Dissonant, Percussion, Mechanical" p 90 s 44100 n 2
+D l 0:21.333 i 24
+F CLS_90_G_Moog_Chunks.wav 5659308 0 1548713908 0
+D g "Melodic, Electronic, Sequencer, Moog, Staccato" p 90 s 44100 n 2
+D l 0:21.333 i 24
+F CLS_90_G_Pyramids.wav 2827906 0 1548713907 0
+D g "Ensemble, Synthetic Bass, Synthesizer, World" p 90 s 44100 n 2
+D l 0:10.666 i 24
+F CLS_90_G_Suspense_Arp.wav 5659652 0 1548713908 0
+D g "Melodic, Electronic, Sequencer, Arpeggiator" p 90 s 44100 n 2
+D l 0:21.333 i 24
+F CLS_90_Steam_Loop_Layer.wav 2830626 0 1548713906 0
+D g "Drums, Drum Kit, Clave, Beats, Stick" p 90 s 44100 n 2
+D l 0:10.666 i 24

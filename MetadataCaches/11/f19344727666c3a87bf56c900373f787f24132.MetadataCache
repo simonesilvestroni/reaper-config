@@ -1,0 +1,49 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Kpow Sounds - UI SOUNDPACKS"
+F "ui_SoundPack04 - Back Version4.wav" 1168780 0 1583867445 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 04, Tech, Cold, a bit Light, back button, version 4  " s 96000 n 2
+D r 1:07:12.500 l 0:02.005 i 24
+F "ui_SoundPack04 - Error V14.wav" 3186716 0 1583867526 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 04, Tech, Cold, a bit Light, Error, Gank, Incorrect, Version 14  " s 96000 n 2
+D r 1:08:00.500 l 0:05.504 i 24
+F "ui_SoundPack04 - Scroll Version04.wav" 2322524 0 1583867490 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 04, Tech, Cold, a bit Light, scroll, mouseover, flip, version 04  " s 96000 n 2
+D r 1:08:20.500 l 0:04.005 i 24
+F "ui_SoundPack04 - Select Version03.wav" 2608716 0 1583867075 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 04, Tech, Cold, a bit Light, Select, choose, click, minor enter, version 03  " s 96000 n 2
+D r 1:08:44.500 l 0:04.501 i 24
+F UI_SoundPack11_Back_v1.wav 3761884 0 1583867533 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 11, Metallic, Light, Smooth, a bit Magic, back button, version 1  " s 96000 n 2
+D r 1:27:33.500 l 0:06.501 i 24
+F UI_SoundPack11_Error_v3.wav 2033340 0 1583867463 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 11, Metallic, Light, Smooth, a bit Magic, Error, Gank, Incorrect, version 3  " s 96000 n 2
+D r 1:28:06.500 l 0:03.504 i 24
+F UI_SoundPack11_Scroll_v09.wav 6936524 0 1583867471 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 11, Metallic, Light, Smooth, a bit Magic, scroll, mouseover, flip, version 9  " s 96000 n 2
+D r 1:29:23.500 l 0:12.005 i 24
+F UI_SoundPack11_Select_v14.wav 3187020 0 1583867192 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 11, Metallic, Light, Smooth, a bit Magic, Select, choose, click, minor enter, version 14  " s 96000 n 2
+D r 1:33:02.500 l 0:05.504 i 24
+F UI_SoundPack13_Back_version01.wav 2898028 0 1583867567 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 13, Light, Cold, Magic, a bit Tech, back button, version 1  " s 96000 n 2
+D r 1:40:33.500 l 0:05.002 i 24
+F UI_SoundPack13_Error_version01.wav 2033404 0 1583867118 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 13, Light, Cold, Magic, a bit Tech, Error, Gank, Incorrect, version 1  " s 96000 n 2
+D r 1:40:40.500 l 0:03.504 i 24
+F UI_SoundPack13_Scroll_version05.wav 12414924 0 1583867595 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 13, Light, Cold, Magic, a bit Tech, scroll, mouseover, flip, version 5  " s 96000 n 2
+D r 1:42:04.500 l 0:21.504 i 24
+F UI_SoundPack13_Select_version10.wav 13279964 0 1583867584 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 13, Light, Cold, Magic, a bit Tech, Select, choose, click, minor enter, version 10  " s 96000 n 2
+D r 1:45:21.000 l 0:23.002 i 24
+F UI_SoundPack8_Back_v3.wav 4629484 0 1583867349 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 08, Metallic, Tech, a bit Light, a bit Cold, a bit Magic, back button, version 3  " s 96000 n 2
+D r 1:17:32.500 l 0:08.005 i 24
+F UI_SoundPack8_Error_v1.wav 2608700 0 1583866950 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 08, Metallic, Tech, a bit Light, a bit Cold, a bit Magic, Error, Gank, Incorrect, version 1  " s 96000 n 2
+D r 1:17:44.500 l 0:04.501 i 24
+F UI_SoundPack8_Scroll_v2.wav 4051388 0 1583867591 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 08, Metallic, Tech, a bit Light, a bit Cold, a bit Magic, scroll, mouseover, flip, version 2  " s 96000 n 2
+D r 1:18:02.500 l 0:07.002 i 24
+F UI_SoundPack8_Select_v2.wav 3187148 0 1583867097 0
+D y 2014-02-10 d "sNOTE=User Interface Sounds, Soundpack 08, Metallic, Tech, a bit Light, a bit Cold, a bit Magic, Select, choose, click, minor enter, version 2  " s 96000 n 2
+D r 1:18:37.500 l 0:05.504 i 24

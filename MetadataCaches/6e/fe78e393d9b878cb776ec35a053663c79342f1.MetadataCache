@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Hzandbits - Wind In Trees"
+F Wind,Ext,Breeze,Grass,Tall,Rustle,Buffeting.wav 63833686 0 1583869056 0
+D y 2017-01-05 s 96000 n 2 l 1:50.821
+D i 24
+F Wind,Ext,Breeze,Reeds,Rustle,Howl,Whip,Whistle.wav 120755266 0 1583869086 0
+D y 2017-01-30 s 96000 n 2 r 1:36.230
+D l 3:29.643 i 24
+F Wind,Ext,Breeze,Treeline,Whoosh,Noise,Constant.wav 86447434 0 1583868995 0
+D y 2017-01-02 s 96000 n 2 l 2:30.081
+D i 24
+F Wind,Ext,Gust,Grasslands,Rustle,Buffeting.wav 126493792 0 1583869091 0
+D y 2017-01-02 s 96000 n 2 r 0:11.850
+D l 3:39.606 i 24

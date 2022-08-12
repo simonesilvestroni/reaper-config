@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Game Audio Factory - GAFSFX07 - Yellowstone Geysers"
+F "G4F SFX07-YNP-DESIGNED-Geyser Errupt Breathy.wav" 30565506 0 1583868672 0
+D t "Geysers Designed" y  d "Large and breathy erruption, water falling" s 96000
+D n 2 l 0:16.223 i 24
+F "G4F SFX07-YNP-MUDPOT-Norris 2.wav" 82789242 0 1583868667 0
+D t "Derush Wyoming-01" y  d "Medium muddy bubbles, wet" s 96000
+D n 2 l 1:30.805 i 24
+F "G4F SFX07-YNP-WATER SPLASH-Red Spouter Geyser.wav" 63535950 0 1583868679 0
+D t "Derush Wyoming-01" y  d "Large water splashes" s 96000
+D n 2 l 1:04.934 i 24
+F "G4F SFX07-YNP-WATER SPLASH-Sawmill Geyser Errupt.wav" 109828922 0 1583868718 0
+D t "Derush Wyoming-01" y  d "Light water splashes and pumps, airy" s 96000
+D n 2 l 2:37.676 i 24

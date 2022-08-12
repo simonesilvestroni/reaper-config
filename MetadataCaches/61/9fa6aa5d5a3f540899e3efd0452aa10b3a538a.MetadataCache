@@ -1,0 +1,7 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - ShapingWaves -  ALARMS"
+F SW011_Alarms_construction-kit-element_081.wav 212726 0 1583868178 0
+D d "Construction kit: Loopable alarm sound element" s 96000 n 2 l 0:00.324
+D i 24
+F SW011_Alarms_Siren_High-Pitch_Constant-Tone_High-Rate_8.wav 38601582 0 1583868697 0
+D d "Siren, Simple, High pitch, Constant tone, High rate, Pitch modulation upwards" s 96000 n 2 l 1:06.970
+D i 24

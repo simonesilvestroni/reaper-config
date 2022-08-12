@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Game Audio Factory - G4FSFX08 - Harley Davidson"
+F "G4F SFX08 - HARLEY_Foot Gear Shift Lever, Slow hit, x4.wav" 6879772 0 1583868698 0
+D y 2015-72-& d "Foot gear shift lever, Slow punch" s 96000 n 2
+D r 38:40.459 l 0:11.462 i 24
+F "G4F SFX08 - HARLEY_Slow down, Arrive, Idle, Stop.wav" 12460376 0 1583868485 0
+D y 2015-72- d "Slow approach from left, Idle and stop on front position" s 96000 n 2
+D r 0:33.408 l 0:20.999 i 24
+F "G4F SFX08 - HARLEY_Start and long Idle, Back-firing.wav" 34898292 0 1583868650 0
+D y 2015-72- d "Start and long Idle, Back-firing" s 96000 n 2
+D r 27:00.949 l 0:59.349 i 24
+F "G4F SFX08 - HARLEY_Start, Accelerate, Slow Speed pull away, Pass By Medium Speed, Arrive, Idle, Stop-Exhaust Pipe Mic.wav" 29116496 0 1583868697 0
+D y 2015-11-05 d "Start, Accelerate, Slow Speed pull away, Pass By Medium Speed, Arrive, Idle, Stop, SM58 on Exhaust Pipe" s 96000 n 1
+D r 19:13.397 l 1:38.933 i 24

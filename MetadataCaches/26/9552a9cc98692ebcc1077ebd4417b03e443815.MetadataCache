@@ -1,0 +1,2854 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/VEHICLES"
+F "bulb horn 01.wav" 346756 0 1488630186 0
+D y 2010-09-16 s 48000 n 2 l 0:01.200
+D i 24
+F "bulb horn 02.wav" 461992 0 1488630186 0
+D y 2010-09-16 s 48000 n 2 l 0:01.600
+D i 24
+F "Car Ramp Motor.wav" 9544742 0 1621846384 0
+D a "Andrew Dodds" b "Krotos Free Mechanical" y 2021-05-24 c "Krotos: car, ramp. motor, whirring, mechanical"
+D d "Krotos: car, ramp. motor, whirring, mechanical" s 96000 n 2 r 0:42.000
+D l 0:16.544 i 24
+F "CAR WIND_455EC0F9.wav" 77736144 0 1584373534 0
+D t "CAR WIND" a - b - y 2020-02-25
+D g Wind c "CAR WIND - 30mph Wind, Whispy Fluttering Gusts, Car Window Cracked" d "CAR WIND - 30mph Wind, Whispy Fluttering Gusts, Car Window Cracked" p -
+D k - s 96000 n 2 r 1:00:55.777
+D l 2:14.926 i 24 m 0
+F "Distant Space Shuttle Launch.mp3" 1107590 0 1583931255 0
+D s 44100 n 2 l 0:34.561 i 256k
+F "Emergency Vehicles Driving By with Sirens.mp3" 827558 0 1583930912 0
+D s 44100 n 2 l 0:25.810 i 257k
+F "Gasoline Engine Fx 01.wav" 3072134 0 1439161752 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:17.414
+D i 16
+F "Gasoline Engine Fx 02.wav" 3809414 0 1439161834 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:21.594
+D i 16
+F "Germany Stuttgart MainTrainstation Walking People Walla Binaural.wav" 293799932 0 1555952097 0
+D y 2017-06-08 s 96000 n 2 r 17:03:21.713
+D l 8:30.000 i 24
+F "Grass Strimmer.wav" 2374694 0 1248167274 0
+D s 44100 n 2 l 0:08.974 i 24
+F "Grass Trimmer 1.wav" 6726772 0 1488630177 0
+D s 48000 n 2 l 0:35.035 i 16
+F "Horn 1.aif" 70964 0 1505997470 0
+D s 44100 n 1 l 0:00.682 i 16
+F "Horn 2.aif" 84020 0 1505997470 0
+D s 44100 n 1 l 0:00.830 i 16
+F "Horn 3.aif" 94004 0 1505997470 0
+D s 44100 n 1 l 0:00.943 i 16
+F "Horn 4.aif" 50740 0 1505997470 0
+D s 44100 n 1 l 0:00.452 i 16
+F "Horn 5.aif" 106036 0 1505997470 0
+D s 44100 n 1 l 0:01.079 i 16
+F "Horn 6.aif" 123956 0 1505997470 0
+D s 44100 n 1 l 0:01.282 i 16
+F "Horn 7.aif" 86836 0 1505997470 0
+D s 44100 n 1 l 0:00.862 i 16
+F "Horn 8.aif" 94516 0 1505997470 0
+D s 44100 n 1 l 0:00.949 i 16
+F "Horn Fire Engine.wav" 117122 0 1439162513 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.663
+D i 16
+F "Hurricane Balls Spin 1.0In Glass Surface Top M.wav" 108215140 0 1488537517 0
+D t Rotation_Master_HQ y 2016-02-24 d "Hurricane balls - Spin - 1.0 in - Glass surface - Top | Buzz, Chatter, Fast to slow to stop" s 192000
+D n 1 l 3:06.627 i 24
+F "In Car.aif" 1338196 0 1505997470 0
+D s 44100 n 1 l 0:15.049 i 16
+F "In Deprt.aif" 2729886 0 1505997470 0
+D s 44100 n 1 l 0:30.828 i 16
+F "In Train.aif" 1660262 0 1505997470 0
+D s 44100 n 1 l 0:18.701 i 16
+F Inarrive.aif 2415080 0 1505997470 0
+D s 44100 n 1 l 0:27.259 i 16
+F "Internal Pitstop Hockenheim Engine Testt.wav" 23788706 0 1481710523 0
+D y 2015-11-06 c "Hockenheim, Germany. Internal Day. Mechanic testing engine" d "sFILENAME=006_AMB_Internal_PitStop_Hockenheim_Engine TestT.wav  sNOTE=Hockenheim, Germany. Internal Day. Mechanic testing engine  sSCENE=006_AMB_Internal_PitStop_Hockenheim_Engine Test  sTAKE=  " s 48000
+D n 2 r 9:59:00.000 l 1:21.272 i 24
+F Junior.AIF 1591860 0 1505997470 0
+D s 44100 n 1 l 0:17.925 i 16
+F "Khaen Honk 1.Wav" 40368 0 1201974382 0
+D s 44100 n 1 l 0:00.456 i 16
+F "Khaen Honk 2.Wav" 23442 0 1201974382 0
+D s 44100 n 1 l 0:00.264 i 16
+F "Khaen Lo 1.Wav" 257944 0 1201974382 0
+D s 44100 n 1 l 0:02.923 i 16
+F "Khaen Lo 2.Wav" 256854 0 1201974382 0
+D s 44100 n 1 l 0:02.910 i 16
+F "Moped 1.aif" 969886 0 1505997470 0
+D s 44100 n 1 l 0:10.873 i 16
+F "Moped 2.aif" 843482 0 1505997470 0
+D s 44100 n 1 l 0:09.440 i 16
+F "Moped 3.aif" 885136 0 1505997470 0
+D s 44100 n 1 l 0:09.913 i 16
+F "Moped 4.aif" 1114352 0 1505997470 0
+D s 44100 n 1 l 0:12.511 i 16
+F "Moped 5.aif" 1854392 0 1505997470 0
+D s 44100 n 1 l 0:20.902 i 16
+F "Motor 1.wav" 15819046 0 1439163334 0
+D a "Sound Ideas" s 44100 n 2 l 1:29.676
+D i 16
+F "Motor 2.wav" 10710702 0 1439162708 0
+D a "Sound Ideas" s 44100 n 2 l 1:00.717
+D i 16
+F "Motor 3.wav" 6431202 0 1439162209 0
+D a "Sound Ideas" s 44100 n 2 l 0:36.457
+D i 16
+F "Motor 4.wav" 1526684 0 1439161781 0
+D a "Sound Ideas" s 44100 n 2 l 0:08.653
+D i 16
+F "Motor, Turbine Fast Wind Down Whine.wav" 5821244 0 1502566091 0
+D s 44100 n 2 l 0:33.000 i 16
+F "Motor, Turbine Low Motor  Screechy Stutter Down Whine.wav" 7081916 0 1502566091 0
+D s 44100 n 2 l 0:40.146 i 16
+F "Motor, Turbine Small Motor  Wind Down Whine.wav" 6811436 0 1502563025 0
+D s 44100 n 2 l 0:38.613 i 16
+F "Motor, Turbine Small, High Pitched Turbine Whine  Up And Down.wav" 38826860 0 1502565938 0
+D s 44100 n 2 l 3:40.106 i 16
+F "Muscle Car Exhaust Revving.mp3" 1980289 0 1583931157 0
+D s 44100 n 2 l 1:01.832 i 256k
+F "Muscle Car Exhaust Revving_2.mp3" 1980289 0 1583931157 0
+D s 44100 n 2 l 1:01.832 i 256k
+F "Oil Pump Engine.wav" 11006756 0 1439162329 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "On Bus01.wav" 5763194 0 1248775476 0
+D y 2009-07-28 s 44100 n 2 l 0:21.780
+D i 24
+F "On Bus02.wav" 5044346 0 1248167204 0
+D y 2009-07-21 s 44100 n 2 l 0:19.063
+D i 24
+F Outboard.aif 1529428 0 1505997471 0
+D s 44100 n 1 l 0:17.217 i 16
+F "Passenger train ride, East Anglia, England.wav" 108388970 0 1513871984 0
+D d "One station ride on an empty electric passenger train, East Anglia, England" s 96000 n 2 l 3:07.315
+D i 24
+F "Petrol Lawnmower.wav" 8282234 0 1248355420 0
+D y 2009-07-23 s 44100 n 2 l 0:31.300
+D i 24
+F "Petrol S.AIF" 1091380 0 1505997471 0
+D s 44100 n 1 l 0:12.251 i 16
+F "Pneumatic Blast Designed Short-001.wav" 572320 0 1621846420 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-28 c "Krotos: pneumatics, blast, short, designed"
+D d "Krotos: pneumatics, blast, short, designed" s 192000 n 2 r 0:45.278
+D l 0:00.483 i 24
+F "Pneumatic Blast Designed Short-002.wav" 666012 0 1621846422 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-28 c "Krotos: pneumatics, blast, short, designed"
+D d "Krotos: pneumatics, blast, short, designed" s 192000 n 2 r 0:48.293
+D l 0:00.564 i 24
+F "Pneumatic Tool Detach Blast-001.wav" 605060 0 1621846426 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: air tools, pneumatic, air, burst, detach, hiss"
+D d "Krotos: air tools, pneumatic, air, burst, detach, hiss" s 192000 n 2 r 57:35.391
+D l 0:00.511 i 24
+F "Pneumatic Tool Detach Blast-002.wav" 578042 0 1621846428 0
+D a "  Micha Pukaa, Andrew Dodds" b "Krotos Free Mechanical" y 2021-01-20 c "Krotos: air tools, pneumatic, air, burst, detach, hiss"
+D d "Krotos: air tools, pneumatic, air, burst, detach, hiss" s 192000 n 2 r 57:36.902
+D l 0:00.488 i 24
+F "Shuttle - Engine Start.wav" 122730018 0 1522131517 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Engine running noise. Changing in time. Designed, stylized."
+D s 96000 n 2 r 1:21:18.666 l 3:33.071
+D i 24
+F "Shuttle - Noise.wav" 108410634 0 1522131518 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-01-16 d "Engine running noise. Changing in time. Designed, stylized."
+D s 96000 n 2 r 18:17.621 l 3:07.157
+D i 24
+F "SingleSound Freight Train Honk Sounds.WAV" 6362378 0 1555952468 0
+D y 2017-08-24 s 96000 n 1 r 12:25:09.813
+D l 0:21.950 i 24
+F "Skidoo 1.AIF" 597628 0 1505997471 0
+D s 44100 n 1 l 0:06.653 i 16
+F "Skidoo 2.AIF" 257690 0 1505997471 0
+D s 44100 n 1 l 0:02.799 i 16
+F "Suzi Bye.aif" 630508 0 1505997471 0
+D s 44100 n 1 l 0:07.026 i 16
+F Suzi650.aif 416052 0 1505997471 0
+D s 44100 n 1 l 0:04.594 i 16
+F Suzipass.aif 850916 0 1505997471 0
+D s 44100 n 1 l 0:09.525 i 16
+F "Tire Screech.wav" 73628 0 986672966 0
+D s 44100 n 1 l 0:00.833 i 16
+F "Traffic Pass By R, Bridge Above Pass By LR, Industrial Park, Freight Train Background, Plastic Bag In Wind. North Platte, USA, Zoom F8n, Wildtronics SAAM.WAV" 199255234 0 1576620829 0
+D t 191024 y 2019-10-24 c "Good Take" d "zSPEED=29.970D  zTAKE=002  zUBITS=00000000  zSCENE=191024  zTAPE=191024  zCIRCLED=FALSE  zTRK3=Tr1  zTRK4=Tr2  zNOTE=Good Take  "
+D s 192000 n 2 r 0:19.146 l 2:52.845
+D i 24
+F Trike.aif 919024 0 1505997471 0
+D s 44100 n 1 l 0:10.297 i 16
+F "Trolley horn beep S08Tt.34.wav" 745790 0 1372263294 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"TRANSPORTATION, TROLLEY, HORN, BEEP, DOUBLE"'
+D d '"TRANSPORTATION, TROLLEY, HORN, BEEP, DOUBLE"' s 96000 n 2 l 0:01.271
+D i 24
+F "VEHICLE - AIRPLANE - 1.Airbus350-900_Tokyo_Detroit_Inflight_DrivingToStartRamp.wav" 54809272 0 1528028138 0
+D y 2018-03-25 s 96000 n 2 r 23:54:29.246
+D l 1:35.083 i 24
+F "VEHICLE - AIRPLANE - 1.Airplane_Boeing747_RoomTone.wav" 11737944 0 1528201458 0
+D y 2018-04-24 s 96000 n 2 r 11:58:34.673
+D l 0:20.309 i 24
+F "VEHICLE - AIRPLANE - 10.Airbus350-900_Tokyo_Detroit_Landed_Announcement_Japanese.wav" 26625532 0 1528026208 0
+D y 2018-03-26 s 96000 n 2 r 11:03:15.740
+D l 0:46.153 i 24
+F "VEHICLE - AIRPLANE - 10.Airplane_Boeing747_DrivingOnRunway.wav" 41761458 0 1528201196 0
+D y 2018-04-24 s 96000 n 2 r 8:55:57.275
+D l 1:12.433 i 24
+F "VEHICLE - AIRPLANE - 11.Airplane_Boeing747_GeorgeBushAirport_Landed_CrewAnnouncement_WelcomeToHouston_Immigration.wav" 16603756 0 1528201156 0
+D y 2018-04-24 s 96000 n 2 r 12:10:35.478
+D l 0:28.755 i 24
+F "VEHICLE - AIRPLANE - 12.Airplane_Boeing747_GeorgeBushAirport_Landed_Hangingup_Speakerphone.wav" 282652 0 1528201134 0
+D y 2018-04-24 s 96000 n 2 r 12:11:36.276
+D l 0:00.420 i 24
+F "VEHICLE - AIRPLANE - 13.Airplane_Boeing747_GeorgeBushAirport_Landing&EngineBreak.wav" 15862918 0 1528201126 0
+D y 2018-04-24 s 96000 n 2 r 12:10:09.118
+D l 0:27.469 i 24
+F "VEHICLE - AIRPLANE - 14.Airplane_Boeing747_GeorgeBushAirport_Landing&MedicalIssueAnnouncement.wav" 19510870 0 1528201106 0
+D y 2018-04-24 s 96000 n 2 r 12:11:06.184
+D l 0:33.802 i 24
+F "VEHICLE - AIRPLANE - 2.Airbus350-900_Tokyo_Detroit_TakeOff_EngineBoost.wav" 77916160 0 1528027818 0
+D y 2018-03-25 s 96000 n 2 r 23:56:14.642
+D l 2:15.199 i 24
+F "VEHICLE - AIRPLANE - 2.Airplane_Boeing747_Roomtone_DroneSFX.wav" 49999680 0 1528201436 0
+D y 2018-04-24 s 96000 n 2 r 8:20:59.550
+D l 1:26.734 i 24
+F "VEHICLE - AIRPLANE - 3.Airbus350-900_Tokyo_Detroit_ToiletFlush_Open&Closed.wav" 15696882 0 1528027642 0
+D y 2018-03-26 s 96000 n 2 r 5:30:10.000
+D l 0:27.182 i 24
+F "VEHICLE - AIRPLANE - 3.Airplane_Boeing747_Inflight_Beep_Chimes_Noiseremoved.wav" 852406 0 1528201382 0
+D y 2018-04-24 s 96000 n 2 r 8:07:54.297
+D l 0:01.408 i 24
+F "VEHICLE - AIRPLANE - 4.Airbus350-900_Tokyo_Detroit_ToiletFlush.wav" 3571038 0 1528027622 0
+D y 2018-03-26 s 96000 n 2 r 5:32:25.928
+D l 0:06.130 i 24
+F "VEHICLE - AIRPLANE - 4.Airplane_Boeing747_Announcement_FlightCrewBeSeatedFor Departure_Noiseremoved.WAV" 1219030 0 1528201378 0
+D y 2018-04-24 s 96000 n 2 r 8:58:36.164
+D l 0:02.045 i 24
+F "VEHICLE - AIRPLANE - 5.Airbus350-900_Tokyo_Detroit_Landing_WingsComingOut.wav" 4623952 0 1528027616 0
+D y 2018-03-26 s 96000 n 2 r 10:59:12.123
+D l 0:07.956 i 24
+F "VEHICLE - AIRPLANE - 5.Airplane_Boeing747_Announcement_InFlight.NoiseRemovedwav.wav" 33428998 0 1528201374 0
+D y 2018-04-24 s 96000 n 2 r 5:43:35.694
+D l 0:57.965 i 24
+F "VEHICLE - AIRPLANE - 6.Airbus350-900_Tokyo_Detroit_Landing_Roomtone.wav" 5678020 0 1528027610 0
+D y 2018-03-26 s 96000 n 2 r 11:04:13.483
+D l 0:09.786 i 24
+F "VEHICLE - AIRPLANE - 6.Airplane_Boeing747_Announcement_LeavingThePlane_TurbineIssue.wav" 4878508 0 1528201330 0
+D y 2018-04-24 s 96000 n 2 r 6:20:16.158
+D l 0:08.399 i 24
+F "VEHICLE - AIRPLANE - 7.Airbus350-900_Tokyo_Detroit_Landing_Touchdown_Enginebreak.wav" 25945210 0 1528027602 0
+D y 2018-03-26 s 96000 n 2 r 11:01:39.854
+D l 0:44.972 i 24
+F "VEHICLE - AIRPLANE - 7.Airplane_Boeing747_BackOnBoard_FirstProblemSolvedBeforeTheSecondProblem_noiseremoved.wav" 90663158 0 1528201322 0
+D y 2018-04-24 s 96000 n 2 r 7:46:24.319
+D l 2:37.329 i 24
+F "VEHICLE - AIRPLANE - 8.Airbus350-900_Tokyo_Detroit_LandingModus_WingscomingOut_Wheelscomingout_rumble.wav" 46120654 0 1528027118 0
+D y 2018-03-26 s 96000 n 2 r 10:59:09.124
+D l 1:20.000 i 24
+F "VEHICLE - AIRPLANE - 8.Airplane_Boeing747_CaptainAnnouncement_FuelPumpProblem_noiseremoved.wav" 3573868 0 1528201226 0
+D y 2018-04-24 s 96000 n 2 r 8:38:31.921
+D l 0:06.133 i 24
+F "VEHICLE - AIRPLANE - 9.Airbus350-900_Tokyo_Detroit_Landed_CrewAnnouncement_English.wav" 24734660 0 1528026276 0
+D y 2018-06-03 s 96000 n 2 r 0:43.724
+D l 0:42.924 i 24
+F "VEHICLE - AIRPLANE - 9.Airplane_Boeing747_CaptainAnnouncement_FuelPumpProblemSolved_Noiseremoved.wav" 18691924 0 1528201220 0
+D y 2018-04-24 s 96000 n 2 r 8:44:58.014
+D l 0:32.379 i 24
+F "VEHICLE - AIRPLANE - A10 Attack Jet 01.wav" 3228144 0 986672964 0
+D c "check out www.acidplanet.com!" s 44100 n 2 l 0:18.296
+D i 16
+F "VEHICLE - AIRPLANE - A10 Attack Jet 02.wav" 2681854 0 986672964 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:30.399
+D i 16
+F "VEHICLE - AIRPLANE - A10 Attack Jet 03.wav" 1784602 0 986672964 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:20.226
+D i 16
+F "VEHICLE - AIRPLANE - Air Jet.wav" 5022424 0 1577736163 0
+D s 44100 n 2 l 0:28.471 i 16
+F "VEHICLE - AIRPLANE - Aircraft Alarm.mp3" 380342 0 1583931059 0
+D s 44100 n 2 l 0:11.834 i 257k
+F "VEHICLE - AIRPLANE - Aircraft, Interior, People Boarding, Fan, Air Condition, Seatbelt Clicks, Luggage Open, Closing, Before Take Off, Boeing, Omaha, Airport.wav" 60165478 0 1576619534 0
+D y 2019-12-10 d "Sitting in the aircraft before take off. People coming in, taking seats, small chatter and moving sounds. " s 96000 n 2
+D l 1:44.436 i 24
+F "VEHICLE - AIRPLANE - Airplane Biplane Pass By.wav" 6639332 0 1439161684 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:37.637
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Biplane Start.aiff" 12070256 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 122.2736 s 48000
+D n 2 l 1:02.809 i 16
+F "VEHICLE - AIRPLANE - Airplane Biplane Start.wav" 11079838 0 1439161952 0
+D a "Sound  Ideas" s 44100 n 2 l 1:02.810
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Biplane Take Off.aiff" 12077536 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 122.1998 s 48000
+D n 2 l 1:02.847 i 16
+F "VEHICLE - AIRPLANE - Airplane Biplane Take Off.wav" 11086528 0 1439162497 0
+D a "Sound  Ideas" s 44100 n 2 l 1:02.847
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Cabin.wav" 5332222 0 1439160972 0
+D a "Apple Inc." s 44100 n 2 l 0:30.227
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Fasten Seatbelt Alert.mp3" 568423 0 1583931093 0
+D s 44100 n 2 l 0:17.712 i 257k
+F "VEHICLE - AIRPLANE - Airplane Fx 01.aiff" 3388986 0 1505997468 0
+D a PowerFX.com p 100.3489 s 44100 n 2
+D l 0:19.133 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Engine Revs.aiff" 14018864 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 105.2646 s 48000
+D n 2 l 1:12.958 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Engine Revs.wav" 12870120 0 1439162168 0
+D a "Sound  Ideas" s 44100 n 2 l 1:12.958
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter In Flight 1.aiff" 6098252 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 121.1135 s 48000
+D n 2 l 0:31.705 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter In Flight 1.wav" 5593060 0 1439161600 0
+D a "Sound  Ideas" s 44100 n 2 l 0:31.705
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter In Flight 2.aiff" 6088132 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 121.3152 s 48000
+D n 2 l 0:31.653 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter In Flight 2.wav" 5583760 0 1439163382 0
+D a "Sound  Ideas" s 44100 n 2 l 0:31.653
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 1.aiff" 1486472 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 125.04 s 48000
+D n 2 l 0:07.677 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 1.wav" 1354474 0 1439163073 0
+D a "Sound  Ideas" s 44100 n 2 l 0:07.677
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 2.aiff" 6276284 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 117.6721 s 48000
+D n 2 l 0:32.633 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 2.wav" 5756628 0 1439162498 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.633
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 3.aiff" 6432732 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 114.8055 s 48000
+D n 2 l 0:33.447 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 3.wav" 5900364 0 1439162821 0
+D a "Sound  Ideas" s 44100 n 2 l 0:33.447
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 4.aiff" 2843556 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 130.2782 s 48000
+D n 2 l 0:14.737 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Fighter Pass 4.wav" 2599888 0 1439162259 0
+D a "Sound  Ideas" s 44100 n 2 l 0:14.737
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Idle Interior.aiff" 11671536 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 126.4545 s 48000
+D n 2 l 1:00.733 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Idle Interior.wav" 10713516 0 1439162739 0
+D a "Sound  Ideas" s 44100 n 2 l 1:00.733
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Landing.aiff" 14072284 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 104.8647 s 48000
+D n 2 l 1:13.237 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Landing.wav" 12919200 0 1439161499 0
+D a "Sound  Ideas" s 44100 n 2 l 1:13.237
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Start Interior.aiff" 15781812 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 93.4978 s 48000
+D n 2 l 1:22.141 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Start Interior.wav" 14489832 0 1439162810 0
+D a "Sound  Ideas" s 44100 n 2 l 1:22.141
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Take Off 01.wav" 4392420 0 1439162846 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:24.899
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Take Off.aiff" 9300252 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 79.3669 s 48000
+D n 2 l 0:48.382 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Take Off.wav" 8534896 0 1439163100 0
+D a "Sound  Ideas" s 44100 n 2 l 0:48.382
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Taxi.aiff" 10413700 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 141.7443 s 48000
+D n 2 l 0:54.182 i 16
+F "VEHICLE - AIRPLANE - Airplane Jet Taxi.wav" 9557876 0 1439163487 0
+D a "Sound  Ideas" s 44100 n 2 l 0:54.182
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Landing Skid 1.aiff" 69800 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 195.0559 s 48000
+D n 2 l 0:00.307 i 16
+F "VEHICLE - AIRPLANE - Airplane Landing Skid 1.wav" 54418 0 1439162407 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.307
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Landing Skid 2.aiff" 98160 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 131.7776 s 48000
+D n 2 l 0:00.455 i 16
+F "VEHICLE - AIRPLANE - Airplane Landing Skid 2.wav" 80474 0 1439162074 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.455
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Landing.wav" 4562710 0 1439162633 0
+D a "Apple Inc." s 44100 n 2 l 0:25.865
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Approach Shut Off 01.wav" 11379964 0 1439161050 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:04.511
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Big Pass.aiff" 2338424 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 79.242 s 48000
+D n 2 l 0:12.114 i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Big Pass.wav" 2137208 0 1439161516 0
+D a "Sound  Ideas" s 44100 n 2 l 0:12.114
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Land.aiff" 5318384 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 139.0798 s 48000
+D n 2 l 0:27.610 i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Land.wav" 4870566 0 1439162171 0
+D a "Sound  Ideas" s 44100 n 2 l 0:27.610
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Pass By.wav" 3416504 0 1439161517 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:19.367
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Pass.aiff" 3216108 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 115.1636 s 48000
+D n 2 l 0:16.671 i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Pass.wav" 2941088 0 1439162483 0
+D a "Sound  Ideas" s 44100 n 2 l 0:16.671
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Start And Stop.aiff" 11973704 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 123.2604 s 48000
+D n 2 l 1:02.307 i 16
+F "VEHICLE - AIRPLANE - Airplane Prop Start And Stop.wav" 10991132 0 1439162630 0
+D a "Sound  Ideas" s 44100 n 2 l 1:02.307
+D i 16
+F "VEHICLE - AIRPLANE - Airplane Take Off.wav" 4723006 0 1439163192 0
+D a "Apple Inc." s 44100 n 2 l 0:26.773
+D i 16
+F "VEHICLE - AIRPLANE - B-25 T1 Ext Startup Idle Below Plane.wav" 45938490 0 1488537528 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "exterior startup idle below plane wav Sound Devices 788 Crown PZM"
+D d "exterior startup idle below plane wav Sound Devices 788 Crown PZM" s 96000 n 1 l 2:39.200
+D i 24 m 0
+F "VEHICLE - AIRPLANE - B-25 T4 Int Startup Taxiing Cockpit Front.wav" 96820074 0 1488537514 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "interior startup taxiing cockpit front wav Zaxcom Nomad DPA4025"
+D d "interior startup taxiing cockpit front wav Zaxcom Nomad DPA4025" s 96000 n 2 l 2:47.936
+D i 24 m 0
+F "VEHICLE - AIRPLANE - B-25 T9 Int Foley Bomb Door Open Close Flaps Rear Door Front Door Window Horn Breaks Switches Cockpit Rear.wav" 14519154 0 1488537522 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "interior foley bomb door open close flaps rear door front door window horn breaks switches cockpit rear wav Nomad DPA4011"
+D d "interior foley bomb door open close flaps rear door front door window horn breaks switches cockpit rear wav Nomad DPA4011" s 96000 n 2 l 0:25.050
+D i 24 m 0
+F "VEHICLE - AIRPLANE - Bearcat T5 Onbrd Flybys Cockpit.wav" 226522926 0 1488537503 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "onboard flying cockpit wav"
+D d "onboard flying cockpit wav" s 96000 n 2 l 6:33.018
+D i 24 m 0
+F "VEHICLE - AIRPLANE - COCKPIT 747 - INT - PILOT PRE-FLIGHT CHECK, ENGINE IDLE, AIRPORT, CONTROL TOWER.mp3" 1859584 0 1177094932 0
+D t "Track 63" a artist b 1001 g genre
+D s 44100 n 2 l 1:56.324 i 128k
+D m 63
+F "VEHICLE - AIRPLANE - F18Flyby Bwu.463.wav" 8268324 0 1372263244 0
+D y 2011-11-28 d "Transportation, Aircraft, F18, Fly, By, Military, Jet" s 96000 n 2
+D l 0:14.346 i 24
+F "VEHICLE - AIRPLANE - flyby.wav" 340190 0 1129394214 0
+D y 2005-10-15 s 44100 n 2 l 0:01.927
+D i 16
+F "VEHICLE - AIRPLANE - flyby2.wav" 344286 0 1129394234 0
+D y 2005-10-15 s 44100 n 2 l 0:01.950
+D i 16
+F "VEHICLE - AIRPLANE - flyby3.wav" 372958 0 1129394268 0
+D y 2005-10-15 s 44100 n 2 l 0:02.113
+D i 16
+F "VEHICLE - AIRPLANE - flyby4.wav" 704734 0 1129394296 0
+D y 2005-10-15 s 44100 n 2 l 0:03.993
+D i 16
+F "VEHICLE - AIRPLANE - Grumman F6F Hellcat T2 Onboard Startup Idle Steady Rpms Ramps Throttle Movements Shutdown In Cockpit L.wav" 150755034 0 1481710506 0
+D g Aircraft d "Hellcat WWII American Aircraft  onboard startup idle steady rpms ramps throttle movements shutdown in cockpit Zaxcom DPA4021 wav" s 96000 n 1
+D r 2:16:31.751 l 8:43.212 i 24
+F "VEHICLE - AIRPLANE - Grumman F6F Hellcat T2 Onboard Startup Idle Steady Rpms Ramps Throttle Movements Shutdown In Cockpit R.wav" 150755034 0 1481710543 0
+D g Aircraft d "Hellcat WWII American Aircraft  onboard startup idle steady rpms ramps throttle movements shutdown in cockpit Zaxcom DPA4021 wav" s 96000 n 1
+D r 2:16:31.751 l 8:43.212 i 24
+F "VEHICLE - AIRPLANE - Grumman F6F Hellcat T4 Onboard Wild Foley On Dashboard R.wav" 16266754 0 1488537534 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Aircraft c "Grumman F6F Hellcat Pratt & Whitney R-2800 World War II Vintage American Aircraft  onboard wild foley on dashboard wav"
+D d "Grumman F6F Hellcat Pratt & Whitney R-2800 World War II Vintage American Aircraft  onboard wild foley on dashboard wav" s 96000 n 1 l 0:56.149
+D i 24 m 0
+F "VEHICLE - AIRPLANE - In Jet.aif" 892420 0 1505997470 0
+D s 44100 n 1 l 0:09.995 i 16
+F "VEHICLE - AIRPLANE - In Plane.aif" 898288 0 1505997470 0
+D s 44100 n 1 l 0:10.062 i 16
+F "VEHICLE - AIRPLANE - JET 727 - INT - LANDING, VOICES, STEWARDESS, P.A..mp3" 1044480 0 1177094930 0
+D t "Track 61" a artist b 1001 g genre
+D s 44100 n 2 l 1:05.307 i 128k
+D m 61
+F "VEHICLE - AIRPLANE - JET 727 - INT - TAKE OFF, IN FLIGHT.mp3" 1660928 0 1177094928 0
+D t "Track 60" a artist b 1001 g genre
+D s 44100 n 2 l 1:43.994 i 128k
+D m 60
+F "VEHICLE - AIRPLANE - JET 727 - INT - TAXIING, VOICE OVER P.A. IN BG.mp3" 1413120 0 1177094926 0
+D t "Track 53" a artist b 1001 g genre
+D s 44100 n 2 l 1:28.451 i 128k
+D m 53
+F "VEHICLE - AIRPLANE - JET 727 - INT - TAXIING.mp3" 731136 0 1177094924 0
+D t "Track 52" a artist b 1001 g genre
+D s 44100 n 2 l 0:45.636 i 128k
+D m 52
+F "VEHICLE - AIRPLANE - JET 737 - EXT - TAKE OFF.mp3" 1021952 0 1177094932 0
+D t "Track 68" a artist b 1001 g genre
+D s 44100 n 2 l 1:03.948 i 128k
+D m 68
+F "VEHICLE - AIRPLANE - JET 737 - EXT - TAXIING.mp3" 589824 0 1177094926 0
+D t "Track 54" a artist b 1001 g genre
+D s 44100 n 2 l 0:36.833 i 128k
+D m 54
+F "VEHICLE - AIRPLANE - JET 747 - INT - ENGINE IDLE BEFORE TAKE OFF.mp3" 1015808 0 1177094932 0
+D t "Track 64" a artist b 1001 g genre
+D s 44100 n 2 l 1:03.530 i 128k
+D m 64
+F "VEHICLE - AIRPLANE - JET 747 - INT - IN FLIGHT.mp3" 999424 0 1177094932 0
+D t "Track 65" a artist b 1001 g genre
+D s 44100 n 2 l 1:02.485 i 128k
+D m 65
+F "VEHICLE - AIRPLANE - JET 747 - INT - LANDING, ENGINES REVERSING.mp3" 673792 0 1177094932 0
+D t "Track 67" a artist b 1001 g genre
+D s 44100 n 2 l 0:42.110 i 128k
+D m 67
+F "VEHICLE - AIRPLANE - JET 747 - INT - WARNING BELL, ANNOUNCEMENT BEFORE LANDING.mp3" 628736 0 1177094932 0
+D t "Track 66" a artist b 1001 g genre
+D s 44100 n 2 l 0:39.315 i 128k
+D m 66
+F "VEHICLE - AIRPLANE - JET APPROACH, FLY BY, FADE INTO DISTANCE.mp3" 727040 0 1177094924 0
+D t "Track 51" a artist b 1001 g genre
+D s 44100 n 2 l 0:45.454 i 128k
+D m 51
+F "VEHICLE - AIRPLANE - JET DC-8 - EXT - TAXIING.mp3" 770048 0 1177094926 0
+D t "Track 55" a artist b 1001 g genre
+D s 44100 n 2 l 0:48.066 i 128k
+D m 55
+F "VEHICLE - AIRPLANE - JET DC-9 - EXT - IDLING.mp3" 813056 0 1177094928 0
+D t "Track 59" a artist b 1001 g genre
+D s 44100 n 2 l 0:50.809 i 128k
+D m 59
+F "VEHICLE - AIRPLANE - JET DC-9 - INT - IN FLIGHT, VOICES IN BG.mp3" 800768 0 1177094928 0
+D t "Track 57" a artist b 1001 g genre
+D s 44100 n 2 l 0:50.103 i 128k
+D m 57
+F "VEHICLE - AIRPLANE - JET DC-9 - INT - LANDING.mp3" 532480 0 1177094928 0
+D t "Track 58" a artist b 1001 g genre
+D s 44100 n 2 l 0:33.254 i 128k
+D m 58
+F "VEHICLE - AIRPLANE - JET DC-9 - INT - TAKE OFF.mp3" 1345536 0 1177094926 0
+D t "Track 56" a artist b 1001 g genre
+D s 44100 n 2 l 1:24.141 i 128k
+D m 56
+F "VEHICLE - AIRPLANE - JET FIGHTER - EXT - PASS OVERHEAD 1.mp3" 266240 0 1177094936 0
+D t "Track 76" a artist b 1001 g genre
+D s 44100 n 2 l 0:16.588 i 128k
+D m 76
+F "VEHICLE - AIRPLANE - JET FIGHTER - EXT - PASS OVERHEAD 2.mp3" 331776 0 1177094936 0
+D t "Track 77" a artist b 1001 g genre
+D s 44100 n 2 l 0:20.742 i 128k
+D m 77
+F "VEHICLE - AIRPLANE - Jet Flying.wav" 3323998 0 1439161316 0
+D a "Apple Inc." s 44100 n 2 l 0:18.842
+D i 16
+F "VEHICLE - AIRPLANE - Jet Land.aif" 2311408 0 1505997470 0
+D s 44100 n 1 l 0:26.083 i 16
+F "VEHICLE - AIRPLANE - JET LANDING 1.mp3" 608256 0 1177094922 0
+D t "Track 43" a artist b 1001 g genre
+D s 44100 n 2 l 0:38.009 i 128k
+D m 43
+F "VEHICLE - AIRPLANE - JET LANDING 2.mp3" 583680 0 1177094922 0
+D t "Track 44" a artist b 1001 g genre
+D s 44100 n 2 l 0:36.467 i 128k
+D m 44
+F "VEHICLE - AIRPLANE - JET LANDING 3.mp3" 477184 0 1177094922 0
+D t "Track 45" a artist b 1001 g genre
+D s 44100 n 2 l 0:29.806 i 128k
+D m 45
+F "VEHICLE - AIRPLANE - JET LANDING 4.mp3" 489472 0 1177094922 0
+D t "Track 46" a artist b 1001 g genre
+D s 44100 n 2 l 0:30.590 i 128k
+D m 46
+F "VEHICLE - AIRPLANE - JET LANDING 5.mp3" 520192 0 1177094922 0
+D t "Track 47" a artist b 1001 g genre
+D s 44100 n 2 l 0:32.445 i 128k
+D m 47
+F "VEHICLE - AIRPLANE - JET LANDING 6.mp3" 522240 0 1177094924 0
+D t "Track 48" a artist b 1001 g genre
+D s 44100 n 2 l 0:32.654 i 128k
+D m 48
+F "VEHICLE - AIRPLANE - Jet Pass.aif" 2204808 0 1505997470 0
+D s 44100 n 1 l 0:24.875 i 16
+F "VEHICLE - AIRPLANE - JET PASSES BY LOW OVERHEAD 1.mp3" 231424 0 1177094924 0
+D t "Track 49" a artist b 1001 g genre
+D s 44100 n 2 l 0:14.342 i 128k
+D m 49
+F "VEHICLE - AIRPLANE - JET PASSES BY LOW OVERHEAD 2.mp3" 212992 0 1177094924 0
+D t "Track 50" a artist b 1001 g genre
+D s 44100 n 2 l 0:13.245 i 128k
+D m 50
+F "VEHICLE - AIRPLANE - JET PASSES OVERHEAD 1.mp3" 389120 0 1177094934 0
+D t "Track 70" a artist b 1001 g genre
+D s 44100 n 2 l 0:24.242 i 128k
+D m 70
+F "VEHICLE - AIRPLANE - JET PASSES OVERHEAD 2.mp3" 573440 0 1177094934 0
+D t "Track 71" a artist b 1001 g genre
+D s 44100 n 2 l 0:35.788 i 128k
+D m 71
+F "VEHICLE - AIRPLANE - JET PASSES OVERHEAD 3.mp3" 598016 0 1177094934 0
+D t "Track 72" a artist b 1001 g genre
+D s 44100 n 2 l 0:37.408 i 128k
+D m 72
+F "VEHICLE - AIRPLANE - JET PASSES OVERHEAD 4.mp3" 499712 0 1177094934 0
+D t "Track 73" a artist b 1001 g genre
+D s 44100 n 2 l 0:31.269 i 128k
+D m 73
+F "VEHICLE - AIRPLANE - JET PASSES OVERHEAD, CLOSE 1.mp3" 270336 0 1177094934 0
+D t "Track 74" a artist b 1001 g genre
+D s 44100 n 2 l 0:16.771 i 128k
+D m 74
+F "VEHICLE - AIRPLANE - JET PASSES OVERHEAD, CLOSE 2.mp3" 477184 0 1177094936 0
+D t "Track 75" a artist b 1001 g genre
+D s 44100 n 2 l 0:29.832 i 128k
+D m 75
+F "VEHICLE - AIRPLANE - JET ROCKET - EXT - PASS OVERHEAD, ROCKET, AIRPLANE.mp3" 350208 0 1177094936 0
+D t "Track 80" a artist b 1001 g genre
+D s 44100 n 2 l 0:21.813 i 128k
+D m 80
+F "VEHICLE - AIRPLANE - JET SUPERSONIC - EXT - PASS OVERHEAD 1.mp3" 415744 0 1177094936 0
+D t "Track 78" a artist b 1001 g genre
+D s 44100 n 2 l 0:25.914 i 128k
+D m 78
+F "VEHICLE - AIRPLANE - JET SUPERSONIC - EXT - PASS OVERHEAD 2.mp3" 380928 0 1177094936 0
+D t "Track 79" a artist b 1001 g genre
+D s 44100 n 2 l 0:23.772 i 128k
+D m 79
+F "VEHICLE - AIRPLANE - JET TAKE OFF 1.mp3" 428032 0 1177094920 0
+D t "Track 38" a artist b 1001 g genre
+D s 44100 n 2 l 0:26.672 i 128k
+D m 38
+F "VEHICLE - AIRPLANE - JET TAKE OFF 2.mp3" 614400 0 1177094922 0
+D t "Track 39" a artist b 1001 g genre
+D s 44100 n 2 l 0:38.401 i 128k
+D m 39
+F "VEHICLE - AIRPLANE - JET TAKE OFF 3.mp3" 380928 0 1177094922 0
+D t "Track 40" a artist b 1001 g genre
+D s 44100 n 2 l 0:23.798 i 128k
+D m 40
+F "VEHICLE - AIRPLANE - JET TAKE OFF 4.mp3" 362496 0 1177094922 0
+D t "Track 41" a artist b 1001 g genre
+D s 44100 n 2 l 0:22.544 i 128k
+D m 41
+F "VEHICLE - AIRPLANE - JET TAKE OFF 5.mp3" 346112 0 1177094922 0
+D t "Track 42" a artist b 1001 g genre
+D s 44100 n 2 l 0:21.604 i 128k
+D m 42
+F "VEHICLE - AIRPLANE - JET TAXIING.mp3" 2230272 0 1177094934 0
+D t "Track 69" a artist b 1001 g genre
+D s 44100 n 2 l 2:19.573 i 128k
+D m 69
+F "VEHICLE - AIRPLANE - Jet.aif" 450406 0 1505997470 0
+D s 44100 n 1 l 0:04.984 i 16
+F "VEHICLE - AIRPLANE - Jetstart.aif" 2333990 0 1505997470 0
+D s 44100 n 1 l 0:26.339 i 16
+F "VEHICLE - AIRPLANE - Plane.mp3" 7347667 0 1513083417 0
+D b Ambience c "Plane sound approaching, bir" s 44100 n 2
+D l 3:03.380 i 320k
+F "VEHICLE - AIRPLANE - Plane1.aif" 1037984 0 1505997471 0
+D s 44100 n 1 l 0:11.646 i 16
+F "VEHICLE - AIRPLANE - Plane2.aif" 811816 0 1505997471 0
+D s 44100 n 1 l 0:09.081 i 16
+F "VEHICLE - AIRPLANE - Propeller Plane Pass By.wav" 2343762 0 986672964 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:26.566
+D i 16
+F "VEHICLE - AIRPLANE - SINGLE PROP BEAVER - EXT - IN FLIGHT, LANDING.mp3" 598016 0 1177094910 0
+D t "Track 02" a artist b 1001 g genre
+D s 44100 n 2 l 0:37.303 i 128k
+D m 2
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - HIGH REV, IDLE, STOP.mp3" 362496 0 1177094910 0
+D t "Track 10" a artist b 1001 g genre
+D s 44100 n 2 l 0:22.570 i 128k
+D m 10
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD 1.mp3" 456704 0 1177094910 0
+D t "Track 03" a artist b 1001 g genre
+D s 44100 n 2 l 0:28.526 i 128k
+D m 3
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD 2.mp3" 176128 0 1177094910 0
+D t "Track 04" a artist b 1001 g genre
+D s 44100 n 2 l 0:10.946 i 128k
+D m 4
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD 3.mp3" 204800 0 1177094910 0
+D t "Track 05" a artist b 1001 g genre
+D s 44100 n 2 l 0:12.670 i 128k
+D m 5
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD 4.mp3" 204800 0 1177094910 0
+D t "Track 06" a artist b 1001 g genre
+D s 44100 n 2 l 0:12.722 i 128k
+D m 6
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD QUICKLY 1.mp3" 110592 0 1177094910 0
+D t "Track 07" a artist b 1001 g genre
+D s 44100 n 2 l 0:06.819 i 128k
+D m 7
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD QUICKLY 2.mp3" 141312 0 1177094910 0
+D t "Track 08" a artist b 1001 g genre
+D s 44100 n 2 l 0:08.725 i 128k
+D m 8
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - PASS BY OVERHEAD QUICKLY 3.mp3" 178176 0 1177094910 0
+D t "Track 09" a artist b 1001 g genre
+D s 44100 n 2 l 0:11.103 i 128k
+D m 9
+F "VEHICLE - AIRPLANE - SINGLE PROP EXT - START ENGINE, TAXI.mp3" 1380352 0 1177094910 0
+D t "Track 01" a artist b 1001 g genre
+D s 44100 n 2 l 1:26.387 i 128k
+D m 1
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - APPROACH AND LAND, RADIO, AIRPORT, CONTROL TOWER.mp3" 1570816 0 1177094916 0
+D t "Track 19" a artist b 1001 g genre
+D s 44100 n 2 l 1:38.299 i 128k
+D m 19
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - FAST IDLE, SHUT OFF ENGINE, PLANES IN BG.mp3" 620544 0 1177094916 0
+D t "Track 20" a artist b 1001 g genre
+D s 44100 n 2 l 0:38.766 i 128k
+D m 20
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - IDLE, 2-WAY RADIO CHATTER, RADIO, CONTROL TOWER, AIRPORT, CONTROL TOWER.mp3" 972800 0 1177094910 0
+D t "Track 12" a artist b 1001 g genre
+D s 44100 n 2 l 1:00.840 i 128k
+D m 12
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - IN FLIGHT RADIO, AIRPORT, CONTROL TOWER.mp3" 997376 0 1177094916 0
+D t "Track 17" a artist b 1001 g genre
+D s 44100 n 2 l 1:02.303 i 128k
+D m 17
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - IN FLIGHT, 'STALL' WARNING SIGNAL, AIRPORT, CONTROL TOWER.mp3" 579584 0 1177094916 0
+D t "Track 18" a artist b 1001 g genre
+D s 44100 n 2 l 0:36.154 i 128k
+D m 18
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - START UP, IDLE.mp3" 360448 0 1177094910 0
+D t "Track 11" a artist b 1001 g genre
+D s 44100 n 2 l 0:22.414 i 128k
+D m 11
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - START, TAXI, TAKE OFF, IN FLIGHT, RADIO, AIRPORT, CONTROL TOWER.mp3" 2332672 0 1177094914 0
+D t "Track 16" a artist b 1001 g genre
+D s 44100 n 2 l 2:25.999 i 128k
+D m 16
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - TAKE OFF, IN FLIGHT; RADIO TO TOWER, AIRPORT, CONTROL TOWER 1.mp3" 1017856 0 1177094912 0
+D t "Track 14" a artist b 1001 g genre
+D s 44100 n 2 l 1:03.583 i 128k
+D m 14
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - TAKE OFF, IN FLIGHT; RADIO TO TOWER, AIRPORT, CONTROL TOWER 2.mp3" 946176 0 1177094914 0
+D t "Track 15" a artist b 1001 g genre
+D s 44100 n 2 l 0:59.142 i 128k
+D m 15
+F "VEHICLE - AIRPLANE - SINGLE PROP INT - TAXIING.mp3" 811008 0 1177094912 0
+D t "Track 13" a artist b 1001 g genre
+D s 44100 n 2 l 0:50.626 i 128k
+D m 13
+F "VEHICLE - AIRPLANE - SQUADRON BOMBER SQUADRON - EXT - PASS OVERHEAD.mp3" 305152 0 1177094920 0
+D t "Track 36" a artist b 1001 g genre
+D s 44100 n 2 l 0:19.018 i 128k
+D m 36
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - APPROACH FROM DISTANCE AND LAND.mp3" 897024 0 1177094920 0
+D t "Track 30" a artist b 1001 g genre
+D s 44100 n 2 l 0:56.059 i 128k
+D m 30
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - IN FLIGHT 1.mp3" 892928 0 1177094918 0
+D t "Track 24" a artist b 1001 g genre
+D s 44100 n 2 l 0:55.876 i 128k
+D m 24
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - IN FLIGHT 2.mp3" 962560 0 1177094918 0
+D t "Track 25" a artist b 1001 g genre
+D s 44100 n 2 l 1:00.187 i 128k
+D m 25
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - LANDING 1.mp3" 329728 0 1177094920 0
+D t "Track 33" a artist b 1001 g genre
+D s 44100 n 2 l 0:20.611 i 128k
+D m 33
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - LANDING 2.mp3" 346112 0 1177094920 0
+D t "Track 34" a artist b 1001 g genre
+D s 44100 n 2 l 0:21.630 i 128k
+D m 34
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - LANDING 3.mp3" 319488 0 1177094920 0
+D t "Track 35" a artist b 1001 g genre
+D s 44100 n 2 l 0:19.932 i 128k
+D m 35
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - PASS BY DIRECTLY OVERHEAD 1.mp3" 258048 0 1177094920 0
+D t "Track 31" a artist b 1001 g genre
+D s 44100 n 2 l 0:16.066 i 128k
+D m 31
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - PASS BY DIRECTLY OVERHEAD 2.mp3" 421888 0 1177094920 0
+D t "Track 32" a artist b 1001 g genre
+D s 44100 n 2 l 0:26.254 i 128k
+D m 32
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - PASS BY OVERHEAD 1.mp3" 299008 0 1177094920 0
+D t "Track 28" a artist b 1001 g genre
+D s 44100 n 2 l 0:18.626 i 128k
+D m 28
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - PASS BY OVERHEAD 2.mp3" 249856 0 1177094920 0
+D t "Track 29" a artist b 1001 g genre
+D s 44100 n 2 l 0:15.517 i 128k
+D m 29
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - TAKE OFF 1.mp3" 325632 0 1177094918 0
+D t "Track 22" a artist b 1001 g genre
+D s 44100 n 2 l 0:20.298 i 128k
+D m 22
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - TAKE OFF 2.mp3" 307200 0 1177094918 0
+D t "Track 23" a artist b 1001 g genre
+D s 44100 n 2 l 0:19.122 i 128k
+D m 23
+F "VEHICLE - AIRPLANE - TWIN PROP EXT - TAXI UP, ROUGH IDLE.mp3" 1134592 0 1177094918 0
+D t "Track 21" a artist b 1001 g genre
+D s 44100 n 2 l 1:10.949 i 128k
+D m 21
+F "VEHICLE - AIRPLANE - TWIN PROP INT - IN FLIGHT 3.mp3" 1370112 0 1177094918 0
+D t "Track 26" a artist b 1001 g genre
+D s 44100 n 2 l 1:25.682 i 128k
+D m 26
+F "VEHICLE - AIRPLANE - TWIN PROP INT - IN FLIGHT 4.mp3" 1361920 0 1177094920 0
+D t "Track 27" a artist b 1001 g genre
+D s 44100 n 2 l 1:25.238 i 128k
+D m 27
+F "VEHICLE - BUS - Off The Bus.wav" 3686540 0 1248775704 0
+D y 2009-07-28 s 44100 n 2 l 0:13.932
+D i 24
+F "VEHICLE - CAR - 2010 Skoda Yeti, 2 liter Diesel engine. ride, on board, engine compartment.wav" 461497444 0 1513872110 0
+D d "2010 Skoda Yeti, 2 liter Diesel engine. ride, on-board, engine compartment, idling, going through gears, revving" s 96000 n 1 l 26:40.700
+D i 24
+F "VEHICLE - CAR - Ambulance Siren Approach and Pass By.mp3" 1794715 0 1583931273 0
+D s 44100 n 2 l 0:33.699 i 426k
+F "VEHICLE - CAR - Car Arriving on Gravel.mp3" 1188675 0 1583931042 0
+D s 44100 n 2 l 0:37.094 i 256k
+F "VEHICLE - CAR - Car Burnout.mp3" 565079 0 1583931042 0
+D s 44100 n 2 l 0:17.607 i 257k
+F "VEHICLE - CAR - Car Door Open And Slam.mp3" 227368 0 1583931042 0
+D s 44100 n 2 l 0:07.054 i 258k
+F "VEHICLE - CAR - Car Start, Run and Crash.mp3" 858487 0 1583931212 0
+D s 44100 n 2 l 0:26.776 i 256k
+F "VEHICLE - CAR - Hd Sportster Iron 883, False Start 2 And 3, L-Exhaust, R-Motor.wav" 3895352 0 1488536502 0
+D y 2016-05-1 c "Sound Devices 744t" d "Motorcycle, Harley Davidson, False Starts, Exhaust Oktava Mk012 To L, Motor Sm57 To R" s 96000
+D n 2 r 1:24:08.316 l 0:06.397 i 24
+F "VEHICLE - CAR - Hd Sportster Iron 883, Passby 100Kmph, Asphalt Surface, 2 Variations.wav" 19541148 0 1488537519 0
+D a "Harley Davidson Sportster Iron 883 SFX library" y 2016-05-1 g "Vehicles, Motorcycle" d "Motorcycle, Harley Davidson, Passby 100Kmph, Asphalt Surface, 2 Variations, Close And Medium Distance"
+D s 96000 n 2 r 2:47:40.928 l 0:33.416
+D i 24
+F "VEHICLE - CAR - Hd Sportster Iron 883, Start, Accelerate On The Spot, Shut Down, Beside Vehicle.wav" 59952926 0 1488537495 0
+D y 2016-05-1 c "Sound Devices 633" d "Motorcycle, Harley Davidson, Start, Accelerate On The Spot, Shut Down, Beside Vehicle, Neumann km185 ORTF" s 96000
+D n 2 r 2:34:52.483 l 1:43.206 i 24
+F "VEHICLE - CAR - Hd Sportster Iron 883, Start, Long Idle, Shut Down, Beside Vehicle.wav" 24752214 0 1488537503 0
+D a "Harley Davidson Sportster Iron 883 SFX library" y 2016-05-0 g "Vehicles, Motorcycle" c "Sound Devices 633"
+D d "Motorcycle, Harley Davidson, Start, Long Idle, Shut Down, Beside Vehicle, Close Distance, Neumann Km185 Ortf Pair" s 96000 n 2 r 1:09:20.523
+D l 0:42.416 i 24
+F "VEHICLE - CAR - Police Car Interior 01.wav" 11095044 0 1439163279 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.896
+D i 16
+F "VEHICLE - car_engine_high.wav" 763768 0 1299534650 0
+D y 2010-01-18 s 44100 n 1 l 0:08.613
+D i 16
+F "VEHICLE - car_engine_idle.wav" 647244 0 1299534650 0
+D s 44100 n 1 l 0:07.336 i 16
+F "VEHICLE - car_engine_low.wav" 281898 0 1299534650 0
+D s 44100 n 1 l 0:03.194 i 16
+F "VEHICLE - car_engine_med.wav" 259742 0 1299534650 0
+D s 44100 n 1 l 0:02.943 i 16
+F "VEHICLE - HELICOPTER - 01.aif" 2639126 0 1505997470 0
+D s 44100 n 1 l 0:29.799 i 16
+F "VEHICLE - HELICOPTER - 02.aif" 363636 0 1505997470 0
+D s 44100 n 1 l 0:04.000 i 16
+F "VEHICLE - HELICOPTER - Apache Helicoptor Fly Over.mp3" 1748740 0 1583931282 0
+D s 44100 n 2 l 0:54.596 i 256k
+F "VEHICLE - HELICOPTER - Bell JetRanger, on board, flight.wav" 235887146 0 1513871896 0
+D d "Bell JetRanger Helicopter flight, on-board perspective, rotors, propellers, aircraft, rotary wing" s 96000 n 2 l 6:48.665
+D i 24
+F "VEHICLE - HELICOPTER - Bell JetRanger, stationary, rotors spinning, takeoff.wav" 40066514 0 1513871940 0
+D d "Bell JetRanger Helicopter flight, exterior perspective, rotors, propellers, aircraft, rotary wing" s 96000 n 2 l 1:08.699
+D i 24
+F "VEHICLE - HELICOPTER - Engine Run.mp3" 297586 0 1583930932 0
+D s 44100 n 2 l 0:09.248 i 257k
+F "VEHICLE - HELICOPTER - Fly By.wav" 5944352 0 1439161599 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:33.697
+D i 16
+F "VEHICLE - HELICOPTER - Flyover.mp3" 508237 0 1583930933 0
+D s 44100 n 2 l 0:15.831 i 257k
+F "VEHICLE - HELICOPTER - Fx 01.aiff" 15362510 0 1505997470 0
+D a PowerFX.com p 88.2471 s 44100 n 2
+D l 1:27.028 i 16
+F "VEHICLE - HELICOPTER - Interior 01.wav" 21165788 0 1439161971 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:59.986
+D i 16
+F "VEHICLE - HELICOPTER - Overhead01 2.wav" 12017708 0 1247479136 0
+D s 44100 n 2 l 0:45.418 i 24
+F "VEHICLE - HELICOPTER - Overhead01.wav" 12017708 0 1247475536 0
+D s 44100 n 2 l 0:45.418 i 24
+F "VEHICLE - HELICOPTER - Overhead02 2.wav" 5185676 0 1248276806 0
+D y 2009-07-22 s 44100 n 2 l 0:19.597
+D i 24
+F "VEHICLE - HELICOPTER - Overhead02.wav" 5185676 0 1248273206 0
+D y 2009-07-22 s 44100 n 2 l 0:19.597
+D i 24
+F "VEHICLE - HELICOPTER - Pass by.wav" 16793356 0 1372263266 0
+D y 2010-11-29 d '"VEHICLE, HELICOPTER, PASS, BY"' s 96000 n 2
+D l 0:29.146 i 24
+F "VEHICLE - HELICOPTER - Rescue Helicopter.wav" 5517436 0 1439163538 0
+D a "Apple Inc." s 44100 n 2 l 0:31.277
+D i 16
+F "VEHICLE - HELICOPTER - Ride Internal Ambience.mp3" 7686268 0 1583931309 0
+D s 44100 n 2 l 4:00.144 i 256k
+F "VEHICLE - HELICOPTER - Take Off 01.wav" 4408684 0 1439162057 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:24.991
+D i 16
+F "VEHICLE - HELICOPTER - Traffic Helicopter.wav" 5472380 0 1439162213 0
+D a "Apple Inc." s 44100 n 2 l 0:31.021
+D i 16
+F "VEHICLE - motor - small - 01.wav" 332784 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:03.727
+D i 16
+F "VEHICLE - motor - small - 02.wav" 61386 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.650
+D i 16
+F "VEHICLE - motor - small - 03.wav" 179372 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.988
+D i 16
+F "VEHICLE - motor - small - 04.wav" 202892 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.254
+D i 16
+F "VEHICLE - motor - small - 05.wav" 144874 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.597
+D i 16
+F "VEHICLE - motor - small - 06.wav" 188894 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.096
+D i 16
+F "VEHICLE - motor - small - 07.wav" 123504 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.354
+D i 16
+F "VEHICLE - motor - small - 08.wav" 61160 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.647
+D i 16
+F "VEHICLE - motor - small - 09.wav" 58472 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.617
+D i 16
+F "VEHICLE - motor - small - 10.wav" 224510 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.500
+D i 16
+F "VEHICLE - motor - small - 11.wav" 131444 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.444
+D i 16
+F "VEHICLE - motor - small - 12.wav" 115916 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.268
+D i 16
+F "VEHICLE - motor - small - 13.wav" 199378 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.215
+D i 16
+F "VEHICLE - motor - small - 14.wav" 232086 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.585
+D i 16
+F "VEHICLE - motor - small - 15.wav" 266904 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.980
+D i 16
+F "VEHICLE - motor - small - 16.wav" 449178 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:05.047
+D i 16
+F "VEHICLE - motor - small - 17.wav" 223780 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.491
+D i 16
+F "VEHICLE - motor - small - 18.wav" 2824000 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:31.972
+D i 16
+F "VEHICLE - motor - small - 19.wav" 2702588 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:30.596
+D i 16
+F "VEHICLE - motor - small - 20.wav" 168586 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.865
+D i 16
+F "VEHICLE - motor - small - 21.wav" 215688 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.400
+D i 16
+F "VEHICLE - motor - small - 22.wav" 55194 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.580
+D i 16
+F "VEHICLE - motor - small - 23.wav" 219374 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.441
+D i 16
+F "VEHICLE - motor - small - 24.wav" 105432 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.149
+D i 16
+F "VEHICLE - motor - small - 25.wav" 158936 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.756
+D i 16
+F "VEHICLE - motor - small - 26.wav" 120070 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.315
+D i 16
+F "VEHICLE - motor - small - 27.wav" 144510 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.592
+D i 16
+F "VEHICLE - motor - small - 28.wav" 118286 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.295
+D i 16
+F "VEHICLE - motor - small - 29.wav" 61058 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.646
+D i 16
+F "VEHICLE - motor - small - 30.wav" 56930 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.600
+D i 16
+F "VEHICLE - motor - small - 31.wav" 93430 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.013
+D i 16
+F "VEHICLE - motor - small - 32.wav" 443554 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:04.983
+D i 16
+F "VEHICLE - motor - small - 33.wav" 327802 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:03.671
+D i 16
+F "VEHICLE - motor - small - 34.wav" 469210 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:05.274
+D i 16
+F "VEHICLE - motor - small - 35.wav" 87118 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.942
+D i 16
+F "VEHICLE - motor - small - 36.wav" 71344 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.763
+D i 16
+F "VEHICLE - motor - small - 37.wav" 98936 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.076
+D i 16
+F "VEHICLE - motor - small - 38.wav" 57296 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:00.604
+D i 16
+F "VEHICLE - motor - small - 39.wav" 115810 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.267
+D i 16
+F "VEHICLE - motor - small - 40.wav" 303890 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:03.400
+D i 16
+F "VEHICLE - motor - small - 41.wav" 106752 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.164
+D i 16
+F "VEHICLE - motor - small - 42.wav" 417150 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:04.684
+D i 16
+F "VEHICLE - motor - small - 43.wav" 489110 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:05.500
+D i 16
+F "VEHICLE - motor - small - 44.wav" 99414 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:01.081
+D i 16
+F "VEHICLE - motor - small - 45.wav" 206870 0 1299534632 0
+D y 2010-08-13 s 44100 n 1 l 0:02.300
+D i 16
+F "VEHICLE - Resonation A.wav" 16481902 0 1522131519 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 31:41.120 l 0:28.613
+D i 24
+F "VEHICLE - Resonation B.wav" 16481602 0 1522131520 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 32:17.566 l 0:28.612
+D i 24
+F "VEHICLE - Resonation C.wav" 16056802 0 1522131520 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 32:54.620 l 0:27.875
+D i 24
+F "VEHICLE - Resonation D.wav" 16986202 0 1522131520 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 34:25.411 l 0:29.488
+D i 24
+F "VEHICLE - Resonation E.wav" 17205202 0 1522131520 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 35:03.464 l 0:29.868
+D i 24
+F "VEHICLE - Resonation Metal A.wav" 6356002 0 1522131521 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 45:43.800 l 0:11.033
+D i 24
+F "VEHICLE - Resonation Metal B.wav" 6087202 0 1522131521 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 46:14.316 l 0:10.566
+D i 24
+F "VEHICLE - Resonation Metal C.wav" 6116002 0 1522131521 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 46:25.716 l 0:10.616
+D i 24
+F "VEHICLE - Resonation Slow.wav" 14235202 0 1522131521 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Metal or other material parts shake, vibrate, resonate, rustle. Engine run, earthquake."
+D s 96000 n 2 r 49:43.183 l 0:24.712
+D i 24
+F "VEHICLE - TRACTOR - Case Ii Cx90 Engine Rpm Ramps Engine Off Mono Raw Mic 2.wav" 25576732 0 1488537253 0
+D y 2016-08-2 d "vehicle, car, tractor, case, engine, diesel, engine, rpm, ramps, off, mono" s 96000 n 1
+D r 20:03.200 l 1:27.260 i 24
+F "VEHICLE - TRACTOR - Case Ii Cx90 Exterior Braking Idle And Slowly Drive Away Stereo M10.wav" 41967414 0 1488537498 0
+D y 2016-08-2 d "vehicle, car, tractor, case, engine, diesel, braking, idle, exterior, drive, away, stereo" s 96000 n 2
+D r 3:40.160 l 1:11.936 i 24
+F "VEHICLE - TRACTOR - Case Ii Cx90 Exterior Engine On Idle And Off Stereo M10.wav" 9849606 0 1488537238 0
+D y 2016-08-2 d "vehicle, car, tractor, case, engine, diesel, exterior, idle, off, stereo" s 96000 n 2
+D r 6:20.330 l 0:16.469 i 24
+F "VEHICLE - TRACTOR - Case Ii Cx90 Exterior Medium Speed Passby Stereo M10.wav" 21609672 0 1488537537 0
+D y 2016-08-2 d "vehicle, car, tractor, case, engine, diesel, exterior, medium, speed, passby, stereo" s 96000 n 2
+D r 0:30.208 l 0:36.778 i 24
+F "VEHICLE - TRACTOR - On The Fields Small Distance.wav" 37941808 0 1481710516 0
+D t "track on fields" s 96000 n 2 r 8:06.050
+D l 1:05.867 i 24
+F "VEHICLE - TRACTOR -1.AIF" 802244 0 1505997471 0
+D s 44100 n 1 l 0:08.973 i 16
+F "VEHICLE - TRACTOR -2.AIF" 588118 0 1505997471 0
+D s 44100 n 1 l 0:06.545 i 16
+F "VEHICLE - TRACTOR -3.AIF" 1159442 0 1505997471 0
+D s 44100 n 1 l 0:13.023 i 16
+F "VEHICLE - TRAIN - night train to berlin.wav" 18463958 0 1507054017 0
+D d "Train in Berlin" s 44100 n 2 l 1:44.665
+D i 16
+F "VEHICLE - TRAIN - Small train station People talking Train arrive depart Announcement.wav" 135840714 0 1488537533 0
+D d "Ambience, Trainstation, People Takling, Trains Arriving and Departing, Man Brooming, German Announcements" s 96000 n 2 l 3:55.831
+D i 24
+F "VEHICLE - TRUCK - Iveco Daily Van -12 T2 Onboard Driving Steady Rpms Engine 1.wav" 240943902 0 1481710531 0
+D d "Iveco Daily 2.3 liters diesel engine van -12 onboard driving steady rpms Engine 1 wav" s 96000 n 1 r 9:13:20.400
+D l 13:56.336 i 24
+F "VEHICLE - TRUCK - Iveco Daily Van -12 T4 Exterior 1 Approach Stop Away L.wav" 154837302 0 1481710506 0
+D d "Iveco Daily 2.3 liters diesel engine van -12 exterior approach stop away Zoom H4n L wav" s 96000 n 1 r 9:32:48.800
+D l 8:57.354 i 24
+F "VEHICLE - TRUCK - Iveco Daily Van -12 T4 Exterior 1 Approach Stop Away R.wav" 154837302 0 1481710521 0
+D d "Iveco Daily 2.3 liters diesel engine van -12 exterior approach stop away Zoom H4n R wav" s 96000 n 1 r 9:32:48.800
+D l 8:57.354 i 24
+F "VEHICLE - TRUCK - Semitruckpassby Bwu.101.wav" 8495458 0 1372263286 0
+D y 2011-12-05 d "Industry, Semi, Truck, Pass, By, Horn, Honk" s 96000 n 2
+D l 0:14.741 i 24
+F "VEHICLE - tyre_bush.wav" 1284330 0 1299534650 0
+D s 44100 n 1 l 0:14.560 i 16
+F "VEHICLE - tyre_dirt.wav" 1475716 0 1299534650 0
+D s 44100 n 1 l 0:16.729 i 16
+F "VEHICLE - tyre_grass.wav" 655604 0 1299534650 0
+D s 44100 n 1 l 0:07.431 i 16
+F "VEHICLE - tyre_gravel.wav" 746452 0 1299534650 0
+D s 44100 n 1 l 0:08.461 i 16
+F "VEHICLE - tyre_metal.wav" 1678406 0 1299534650 0
+D s 44100 n 1 l 0:19.028 i 16
+F "VEHICLE - tyre_road.wav" 861810 0 1299534650 0
+D s 44100 n 1 l 0:09.769 i 16
+F "VEHICLE - tyre_snow.wav" 1598324 0 1299534650 0
+D s 44100 n 1 l 0:18.120 i 16
+F "VEHICLE - tyre_water.wav" 1694122 0 1299534650 0
+D s 44100 n 1 l 0:19.206 i 16
+F "VEHICLES - AMBULANCE - Ambulan1.aif" 627410 0 1505997468 0
+D s 44100 n 1 l 0:06.990 i 16
+F "VEHICLES - AMBULANCE - Ambulan2.aif" 590302 0 1505997468 0
+D s 44100 n 1 l 0:06.570 i 16
+F "VEHICLES - BICYCLE - BikeStand - Open - Closing - Mechanic - Rattle - Handling - Packing - Unpacking - Clicks - Germany - InHouse - RoomTone - ZoomH6 - 9624.WAV" 43614618 0 1544325058 0
+D y 2017-07-12 s 96000 n 2 r 17:27:44.994
+D l 1:15.649 i 24
+F "VEHICLES - BICYCLE - cycle Coasting.wav" 2354146 0 1439161298 0
+D a "Apple Inc." s 44100 n 2 l 0:13.344
+D i 16
+F "VEHICLES - BICYCLE - cycle Horn 1.aiff" 272960 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 87.9658 s 48000
+D n 2 l 0:01.364 i 16
+F "VEHICLES - BICYCLE - cycle Horn 1.wav" 240794 0 1439162540 0
+D a "Sound  Ideas" s 44100 n 2 l 0:01.364
+D i 16
+F "VEHICLES - BICYCLE - cycle Horn 2.aiff" 263764 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 91.1666 s 48000
+D n 2 l 0:01.316 i 16
+F "VEHICLES - BICYCLE - cycle Horn 2.wav" 232346 0 1439161038 0
+D a "Sound  Ideas" s 44100 n 2 l 0:01.316
+D i 16
+F "VEHICLES - BICYCLE - cycle Pass.aiff" 1582348 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 117.4111 s 48000
+D n 2 l 0:08.176 i 16
+F "VEHICLES - BICYCLE - cycle Pass.wav" 1442474 0 1439162892 0
+D a "Sound  Ideas" s 44100 n 2 l 0:08.176
+D i 16
+F "VEHICLES - BICYCLE - cycle Ride.aiff" 3339252 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 110.8709 s 48000
+D n 2 l 0:17.317 i 16
+F "VEHICLES - BICYCLE - cycle Ride.wav" 3054952 0 1439161053 0
+D a "Sound  Ideas" s 44100 n 2 l 0:17.317
+D i 16
+F "VEHICLES - BICYCLE - Singapore - BicycleCrash - Men - Pain - Tunnel - ZoomF8n - DPA19224.wav" 37852490 0 1535852794 0
+D t 180830 y 2018-08-30 d "We fake with the same bike some crashes" s 192000
+D n 2 r 7:19.031 l 0:32.738 i 24
+F "VEHICLES - BICYCLE - Singapore - Pushing - Downstairs - Tunnel - TrafficInBackground - ZoomF8 - DPA4060 - 19224.WAV" 29421296 0 1535851374 0
+D t 180830 y 2018-08-30 d "We pushing a Bicycle down the stars under busy road in tunnel" s 192000
+D n 2 r 8:37.522 l 0:25.420 i 24
+F "VEHICLES - BICYCLE - Singapore - Ring - Rattle - ZoomF4 - LimpetMics - ContactMicrophone - 19224 - 01.wav" 21933818 0 1544326133 0
+D t 180827 y 2018-08-27 d "SPEED=29.970D  TAKE=032  UBITS=00000000  SCENE=180827  TAPE=180827  CIRCLED=FALSE  TR1=Tr1  NOTE=  " s 192000
+D n 2 r 2:10.158 l 0:18.921 i 24
+F "VEHICLES - BICYCLE - Singapore - SqeakingBike - Tunnel - BusyHighwayInBackground - ZoomF8n - DPA4060 - 19224.wav" 73063148 0 1535852662 0
+D t 180830 y 2018-08-30 d "We got one of the rental bicycles that you can rent anywhere in the city. This one had bad breaks and we recorded them in a tunnel underneith the highway." s 192000
+D n 2 r 5:56.242 l 1:03.303 i 24
+F "VEHICLES - BICYCLE - SpinningWheel - RattleSpokesWithPen - ShiftingGears - ReleasingAir - PumpIngTire - RoadBike - Germany - InHouse - FixingOnMechanicStand - ZoomH6 - 9624 - 01.WAV" 204753828 0 1544324023 0
+D y 2017-07-12 s 96000 n 2 r 16:56:07.085
+D l 5:55.404 i 24
+F "VEHICLES - BICYCLE - SpinningWheel - RattleSpokesWithPen - ShiftingGears - RoadBike - Germany - InHouse - FixingOnMechanicStand - HandlingNoise - ZoomH6 - 9624 - 04.wav" 191144376 0 1544324940 0
+D y 2017-07-12 s 96000 n 2 r 17:17:12.847
+D l 5:31.777 i 24
+F "VEHICLES - BICYCLE - SpinningWheel - RattleSpokesWithPen - ShiftingGears - RoadBike - Germany - InHouse - FixingOnMechanicStand - ZoomH6 - 9624 - 03.WAV" 163981428 0 1544324811 0
+D y 2017-07-12 s 96000 n 2 r 17:10:08.144
+D l 4:44.619 i 24
+F "VEHICLES - BICYCLE - SpinningWheel - RattleSpokesWithPen - ShiftingGears - RoadBike - RoomTone - Germany - InHouse - FixingOnMechanicStand - ZoomH6 - 9624 - 02.WAV" 154154346 0 1544324694 0
+D y 2017-07-12 s 96000 n 2 r 17:03:56.000
+D l 4:27.558 i 24
+F "VEHICLES - BIKE - FAST - BY.wav" 566284 0 1582748204 0
+D y 2004-08-27 d SPEED_BI-GAIN_02-01 s 44100 n 2
+D r 5:28.423 l 0:03.203 i 16
+F "VEHICLES - BIKE - REV - BY - 01.wav" 1033444 0 1582748204 0
+D y 2004-08-27 d SPEED_B2-GAIN_02-01 s 44100 n 2
+D r 5:07.432 l 0:05.851 i 16
+F "VEHICLES - BIKE - START - REV - OFF - 01.wav" 1581580 0 1582748204 0
+D y 2004-08-27 d SPEED_B4-GAIN_03-03 s 44100 n 2
+D r 5:18.577 l 0:08.959 i 16
+F "VEHICLES - BOAT - Canoe 1.aiff" 4097944 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 90.2708 s 48000
+D n 2 l 0:21.269 i 16
+F "VEHICLES - BOAT - Canoe 1.wav" 3752068 0 1439161456 0
+D a "Sound  Ideas" s 44100 n 2 l 0:21.269
+D i 16
+F "VEHICLES - BOAT - Canoe 2.aiff" 11130516 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 132.607 s 48000
+D n 2 l 0:57.915 i 16
+F "VEHICLES - BOAT - Canoe 2.wav" 10216452 0 1439162727 0
+D a "Sound  Ideas" s 44100 n 2 l 0:57.915
+D i 16
+F "VEHICLES - BOAT - Dock 01.wav" 16152708 0 1439161188 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.567
+D i 16
+F "VEHICLES - BOAT - Dock 02.wav" 16081500 0 1439161999 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.164
+D i 16
+F "VEHICLES - BOAT - Dock 03.wav" 16090552 0 1439162814 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.215
+D i 16
+F "VEHICLES - BOAT - Dock Fx 01.wav" 4915458 0 1439161507 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:27.864
+D i 16
+F "VEHICLES - BOAT - Dock Ship.wav" 16816772 0 1439161895 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:35.332
+D i 16
+F "VEHICLES - BOAT - Drive.aiff" 8996824 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 82.0469 s 48000
+D n 2 l 0:46.802 i 16
+F "VEHICLES - BOAT - Drive.wav" 8256124 0 1439161536 0
+D a "Sound  Ideas" s 44100 n 2 l 0:46.802
+D i 16
+F "VEHICLES - BOAT - Exterior.aiff" 12036848 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 122.6132 s 48000
+D n 2 l 1:02.635 i 16
+F "VEHICLES - BOAT - Exterior.wav" 11049144 0 1439161082 0
+D a "Sound  Ideas" s 44100 n 2 l 1:02.635
+D i 16
+F "VEHICLES - BOAT - Fog Horn.aiff" 1151096 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 80.879 s 48000
+D n 2 l 0:05.934 i 16
+F "VEHICLES - BOAT - Fog Horn.wav" 1047054 0 1439161412 0
+D a "Sound  Ideas" s 44100 n 2 l 0:05.934
+D i 16
+F "VEHICLES - BOAT - Interior.wav" 10147922 0 1439162113 0
+D a "Sound Ideas" s 44100 n 2 l 0:57.527
+D i 16
+F "VEHICLES - BOAT - Leak Water.wav" 16397828 0 1439162895 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.957
+D i 16
+F "VEHICLES - BOAT - MOTOR - IDLE - 01.wav" 44856608 0 1582748204 0
+D y 2004-08-27 d BOAT_MOT-GAIN_01-01 s 44100 n 2
+D r 1:15.232 l 4:01.033 i 16
+F "VEHICLES - BOAT - Mtrboat1.aif" 1232220 0 1505997471 0
+D s 44100 n 1 l 0:13.848 i 16
+F "VEHICLES - BOAT - Mtrboat2.aif" 1763460 0 1505997471 0
+D s 44100 n 1 l 0:19.871 i 16
+F "VEHICLES - BOAT - Mtrboat3.aif" 1009160 0 1505997471 0
+D s 44100 n 1 l 0:11.319 i 16
+F "VEHICLES - BOAT - Mtrboat4.aif" 1665124 0 1505997471 0
+D s 44100 n 1 l 0:18.756 i 16
+F "VEHICLES - BOAT - Mtrboat5.aif" 245204 0 1505997471 0
+D s 44100 n 1 l 0:02.657 i 16
+F "VEHICLES - BOAT - Mtrboat6.aif" 940334 0 1505997471 0
+D s 44100 n 1 l 0:10.538 i 16
+F "VEHICLES - BOAT - Oar.wav" 3372812 0 1502566330 0
+D s 44100 n 2 l 0:19.120 i 16
+F "VEHICLES - BOAT - Pass.aiff" 5069976 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 145.9126 s 48000
+D n 2 l 0:26.317 i 16
+F "VEHICLES - BOAT - Pass.wav" 4642500 0 1439161499 0
+D a "Sound  Ideas" s 44100 n 2 l 0:26.317
+D i 16
+F "VEHICLES - BOAT - Pull Away 1.aiff" 8654904 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 85.2922 s 48000
+D n 2 l 0:45.021 i 16
+F "VEHICLES - BOAT - Pull Away 1.wav" 7941984 0 1439163434 0
+D a "Sound  Ideas" s 44100 n 2 l 0:45.021
+D i 16
+F "VEHICLES - BOAT - Pull Away 2.aiff" 8727644 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 84.5805 s 48000
+D n 2 l 0:45.400 i 16
+F "VEHICLES - BOAT - Pull Away 2.wav" 8008812 0 1439163550 0
+D a "Sound  Ideas" s 44100 n 2 l 0:45.400
+D i 16
+F "VEHICLES - BOAT - Pull Up.aiff" 7300396 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 101.1406 s 48000
+D n 2 l 0:37.966 i 16
+F "VEHICLES - BOAT - Pull Up.wav" 6697528 0 1439162854 0
+D a "Sound  Ideas" s 44100 n 2 l 0:37.966
+D i 16
+F "VEHICLES - BOAT - Raising Sails.wav" 11006756 0 1439161786 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "VEHICLES - BOAT - Rowboat.aif" 480308 0 1505997471 0
+D s 44100 n 1 l 0:05.323 i 16
+F "VEHICLES - BOAT - Sail Boat.wav" 11650394 0 1439161505 0
+D a "Apple Inc." s 44100 n 2 l 1:06.044
+D i 16
+F "VEHICLES - BOAT - Sealiner.aif" 902706 0 1505997471 0
+D s 44100 n 1 l 0:10.112 i 16
+F "VEHICLES - BOAT - Ship In Heavy Sea.wav" 10944606 0 1439161821 0
+D a "Apple Inc." s 44100 n 2 l 1:02.043
+D i 16
+F "VEHICLES - BOAT - Start Stop.aiff" 5694240 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 129.8701 s 48000
+D n 2 l 0:29.568 i 16
+F "VEHICLES - BOAT - Start Stop.wav" 5215952 0 1439161070 0
+D a "Sound  Ideas" s 44100 n 2 l 0:29.568
+D i 16
+F "VEHICLES - BOAT - Storm.wav" 11049804 0 1439161689 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.639
+D i 16
+F "VEHICLES - BOAT - Wooden Ship.wav" 16725076 0 1439162044 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:34.812
+D i 16
+F "VEHICLES - BULLDOZER - Bulldozer Drive By.wav" 9889012 0 1439161046 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:56.059
+D i 16
+F "VEHICLES - BULLDOZER - Bulldozer Fx 01.aiff" 13576650 0 1505995960 0
+D a PowerFX.com p 99.8641 s 44100 n 2
+D l 1:16.904 i 16
+F "VEHICLES - BUS - Bus Close Door.aiff" 1072552 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 86.8726 s 48000
+D n 2 l 0:05.525 i 16
+F "VEHICLES - BUS - Bus Close Door.wav" 974826 0 1439162546 0
+D a "Sound  Ideas" s 44100 n 2 l 0:05.525
+D i 16
+F "VEHICLES - BUS - Bus Creak.wav" 5226188 0 1502563659 0
+D s 44100 n 2 l 0:29.626 i 16
+F "VEHICLES - BUS - Bus Door 1.wav" 2373212 0 1502563923 0
+D s 44100 n 2 l 0:13.453 i 16
+F "VEHICLES - BUS - Bus Door.wav" 8544860 0 1502566154 0
+D s 44100 n 2 l 0:48.440 i 16
+F "VEHICLES - BUS - Bus Doors.wav" 406148 0 1248775566 0
+D s 44100 n 2 l 0:01.534 i 24
+F "VEHICLES - BUS - Bus Drive.aiff" 12065796 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 122.3188 s 48000
+D n 2 l 1:02.786 i 16
+F "VEHICLES - BUS - Bus Drive.wav" 11075740 0 1439162019 0
+D a "Sound  Ideas" s 44100 n 2 l 1:02.786
+D i 16
+F "VEHICLES - BUS - Bus Open Door.aiff" 1043160 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 89.3501 s 48000
+D n 2 l 0:05.372 i 16
+F "VEHICLES - BUS - Bus Open Door.wav" 947798 0 1439163055 0
+D a "Sound  Ideas" s 44100 n 2 l 0:05.372
+D i 16
+F "VEHICLES - BUS - Bus Pass.aiff" 6359260 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 116.1342 s 48000
+D n 2 l 0:33.065 i 16
+F "VEHICLES - BUS - Bus Pass.wav" 5832860 0 1439161097 0
+D a "Sound  Ideas" s 44100 n 2 l 0:33.065
+D i 16
+F "VEHICLES - BUS - Bus Pull Away.aiff" 7754756 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 95.2064 s 48000
+D n 2 l 0:40.333 i 16
+F "VEHICLES - BUS - Bus Pull Away.wav" 7114972 0 1439162444 0
+D a "Sound  Ideas" s 44100 n 2 l 0:40.333
+D i 16
+F "VEHICLES - BUS - Bus Pull Up.aiff" 5931272 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 124.5293 s 48000
+D n 2 l 0:30.836 i 16
+F "VEHICLES - BUS - Bus Pull Up.wav" 5439648 0 1439162078 0
+D a "Sound  Ideas" s 44100 n 2 l 0:30.836
+D i 16
+F "VEHICLES - BUS - Bus Staion.wav" 5873804 0 1248166838 0
+D y 2009-07-21 s 44100 n 2 l 0:22.198
+D i 24
+F "VEHICLES - BUS - Bus Start Stop Interior.aiff" 10494860 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 140.647 s 48000
+D n 2 l 0:54.604 i 16
+F "VEHICLES - BUS - Bus Start Stop Interior.wav" 9632444 0 1439161089 0
+D a "Sound  Ideas" s 44100 n 2 l 0:54.604
+D i 16
+F "VEHICLES - BUS - Bus Start Stop.aiff" 7772468 0 1505997469 0
+D a "Sound  Ideas" d www.sound-ideas.com p 94.9892 s 48000
+D n 2 l 0:40.425 i 16
+F "VEHICLES - BUS - Bus Start Stop.wav" 7131244 0 1439162400 0
+D a "Sound  Ideas" s 44100 n 2 l 0:40.425
+D i 16
+F "VEHICLES - BUS - Bus Station 01.wav" 11095044 0 1439162238 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.896
+D i 16
+F "VEHICLES - BUS - Bus Station 02.wav" 16816772 0 1439163078 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:35.332
+D i 16
+F "VEHICLES - BUS - Bus Stop Fx 01.aiff" 8317390 0 1505997469 0
+D a PowerFX.com p 81.5459 s 44100 n 2
+D l 0:47.090 i 16
+F "VEHICLES - BUS - Bus.aif" 892612 0 1505997469 0
+D s 44100 n 1 l 0:09.997 i 16
+F "VEHICLES - BUS - School Bus Ride Interior Ambience.mp3" 5369938 0 1583931231 0
+D s 44100 n 2 l 2:47.759 i 256k
+F "VEHICLES - BUS - School Bus Ride Interior Ambience_2.mp3" 5369938 0 1583931237 0
+D s 44100 n 2 l 2:47.759 i 256k
+F "VEHICLES - CAR - Alfa 1.aif" 891782 0 1505997468 0
+D s 44100 n 1 l 0:09.988 i 16
+F "VEHICLES - CAR - Alfa 2.aif" 112052 0 1505997468 0
+D s 44100 n 1 l 0:01.147 i 16
+F "VEHICLES - CAR - Alfa 4C T11 Ext Passbys Gearchanges Approach Stop Rsm191.wav" 124036858 0 1488537533 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior passbys gearchanges approach stop Neumann RSM191 at car starting point wav"
+D d "exterior passbys gearchanges approach stop Neumann RSM191 at car starting point wav" s 96000 n 2 l 3:35.040
+D i 24 m 0
+F "VEHICLES - CAR - Alfa 4C T16 Onbrd Foley Horn Dpa4061 Interior.wav" 11217074 0 1488537060 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard foley horn DPA4061 interior wav"
+D d "onboard foley horn DPA4061 interior wav" s 96000 n 2 l 0:19.173
+D i 24 m 0
+F "VEHICLES - CAR - Alfa Romeo 159 Sw T1 Onboard Startup Idle Blip Steadies Shutdown Engine 1.wav" 68810058 0 1488537535 0
+D d "Alfa Romeo 159 Sportwagon -10 3.2 liters V6 260 hp onboard startup idle blip steadies shutdown Engine 1 wav" s 96000 n 1 l 3:58.539
+D i 24
+F "VEHICLES - CAR - Alfa Romeo 159 Sw T2 Onboard Driving Steady Rpms Engine Intake.wav" 193762886 0 1481710499 0
+D d "Alfa Romeo 159 Sportwagon -10 3.2 liters V6 260 hp onboard driving steady rpms Engine Intake wav" s 96000 n 1 r 5:04.053
+D l 11:12.403 i 24
+F "VEHICLES - CAR - Alfa Romeo 159 Sw T3 Exterior 1 Accelerations Passbys L.wav" 93625230 0 1481710542 0
+D d "Alfa Romeo 159 Sportwagon -10 3.2 liters V6 260 hp exterior accelerations passbys Schoeps CMC6 wav" s 96000 n 1 r 16:16.554
+D l 5:24.703 i 24
+F "VEHICLES - CAR - Alfa Romeo 159 Sw T3 Exterior 1 Accelerations Passbys R.wav" 93625230 0 1481710369 0
+D d "Alfa Romeo 159 Sportwagon -10 3.2 liters V6 260 hp exterior accelerations passbys Schoeps CMC6 wav" s 96000 n 1 r 16:16.554
+D l 5:24.703 i 24
+F "VEHICLES - CAR - Audi A4 Allroad 20Tfsi Engine Different Rpm Ramps Mono.wav" 32461320 0 1488537504 0
+D y 2017-01-18 d "vehicle, car, audi, a4, allroad, gas, engine, rpm, rpms, ramps, ramp" s 96000 n 1
+D r 59:40.074 l 1:50.421 i 24
+F "VEHICLES - CAR - Audi A4 Allroad 20Tfsi Engine Rpm Ramp Fast Interior Mono.wav" 10102384 0 1488537166 0
+D y 2017-01-18 d "vehicle, car, audi, a4, allroad, gas, engine, rpm, ramp, fast, interior" s 96000 n 1
+D r 59:04.106 l 0:33.194 i 24
+F "VEHICLES - CAR - Audi A4 Allroad 20Tfsi Exterior Reverse And Sudden Acceleration Following Mono Ntg3.wav" 9731456 0 1488537293 0
+D y 2017-01-29 d "vehicle, car, audi, a4, allroad, gas, engine, exterior, driving, passby, reverse, acceleration" s 96000 n 1
+D r 16:24.832 l 0:32.085 i 24
+F "VEHICLES - CAR - Audi A4 Allroad 20Tfsi Foley Window Interior Open Close Mono Ntg3.wav" 4935748 0 1488536592 0
+D y 2017-01-18 d "vehicles, car, audi, a4, allroad, foley, window, electric, open, close, interior" s 96000 n 1
+D r 3:34.400 l 0:15.349 i 24
+F "VEHICLES - CAR - Auto Belt 1.wav" 4621724 0 1502566193 0
+D s 44100 n 2 l 0:26.200 i 16
+F "VEHICLES - CAR - Auto Belt.wav" 5275580 0 1502566204 0
+D s 44100 n 2 l 0:29.906 i 16
+F "VEHICLES - CAR - Auto Brake.wav" 5240300 0 1502566193 0
+D s 44100 n 2 l 0:29.706 i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 1.aiff" 127640 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 98.7383 s 48000
+D n 2 l 0:00.607 i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 1.wav" 107350 0 1439162773 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.607
+D i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 2.aiff" 176976 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 138.8487 s 48000
+D n 2 l 0:00.864 i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 2.wav" 152610 0 1439163193 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.864
+D i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 3.aiff" 228128 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 106.1321 s 48000
+D n 2 l 0:01.130 i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 3.wav" 199606 0 1439162604 0
+D a "Sound  Ideas" s 44100 n 2 l 0:01.130
+D i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 4.aiff" 377748 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 125.7244 s 48000
+D n 2 l 0:01.908 i 16
+F "VEHICLES - CAR - Auto Close Door Exterior 4.wav" 336894 0 1439163043 0
+D a "Sound  Ideas" s 44100 n 2 l 0:01.908
+D i 16
+F "VEHICLES - CAR - Auto Close Door Interior 1.aiff" 284356 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 84.298 s 48000
+D n 2 l 0:01.423 i 16
+F "VEHICLES - CAR - Auto Close Door Interior 1.wav" 251266 0 1439161732 0
+D a "Sound  Ideas" s 44100 n 2 l 0:01.423
+D i 16
+F "VEHICLES - CAR - Auto Close Door Interior 2.aiff" 39964 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 394.1966 s 48000
+D n 2 l 0:00.152 i 16
+F "VEHICLES - CAR - Auto Close Door Interior 2.wav" 27006 0 1439162065 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.152
+D i 16
+F "VEHICLES - CAR - Auto Close Trunk.aiff" 140864 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 88.67 s 48000
+D n 2 l 0:00.676 i 16
+F "VEHICLES - CAR - Auto Close Trunk.wav" 119518 0 1439162665 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.676
+D i 16
+F "VEHICLES - CAR - Auto Compact Interior Drive.aiff" 5788500 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 127.6065 s 48000
+D n 2 l 0:30.092 i 16
+F "VEHICLES - CAR - Auto Compact Interior Drive.wav" 5308476 0 1439162101 0
+D a "Sound  Ideas" s 44100 n 2 l 0:30.092
+D i 16
+F "VEHICLES - CAR - Auto Compact Interior Start Drive.aiff" 12600788 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 117.1211 s 48000
+D n 2 l 1:05.573 i 16
+F "VEHICLES - CAR - Auto Compact Interior Start Drive.wav" 11567264 0 1439163263 0
+D a "Sound  Ideas" s 44100 n 2 l 1:05.573
+D i 16
+F "VEHICLES - CAR - Auto Compact Pass.aiff" 2870120 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 129.0677 s 48000
+D n 2 l 0:14.875 i 16
+F "VEHICLES - CAR - Auto Compact Pass.wav" 2624268 0 1439163130 0
+D a "Sound  Ideas" s 44100 n 2 l 0:14.875
+D i 16
+F "VEHICLES - CAR - Auto Compact Pull Away.aiff" 2130016 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 87.0406 s 48000
+D n 2 l 0:11.029 i 16
+F "VEHICLES - CAR - Auto Compact Pull Away.wav" 1945732 0 1439162765 0
+D a "Sound  Ideas" s 44100 n 2 l 0:11.029
+D i 16
+F "VEHICLES - CAR - Auto Compact Pull Up.aiff" 1835972 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 101.0755 s 48000
+D n 2 l 0:09.497 i 16
+F "VEHICLES - CAR - Auto Compact Pull Up.wav" 1675578 0 1439161674 0
+D a "Sound  Ideas" s 44100 n 2 l 0:09.497
+D i 16
+F "VEHICLES - CAR - Auto Compact Start Stop.aiff" 5613884 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 131.7303 s 48000
+D n 2 l 0:29.150 i 16
+F "VEHICLES - CAR - Auto Compact Start Stop.wav" 5142302 0 1439163355 0
+D a "Sound  Ideas" s 44100 n 2 l 0:29.150
+D i 16
+F "VEHICLES - CAR - Auto Crash 1.wav" 2704844 0 1502561937 0
+D s 44100 n 2 l 0:15.333 i 16
+F "VEHICLES - CAR - Auto Crash Concrete.wav" 569488 0 1439162257 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.227
+D i 16
+F "VEHICLES - CAR - Auto Crash Crush.wav" 579364 0 1439163335 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.283
+D i 16
+F "VEHICLES - CAR - Auto Crash Metal 1.wav" 322712 0 1439162957 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.828
+D i 16
+F "VEHICLES - CAR - Auto Crash Metal 2.wav" 260384 0 1439163043 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.475
+D i 16
+F "VEHICLES - CAR - Auto Crash Roll Down Hill.wav" 2386776 0 1439161106 0
+D a "Sound Ideas" s 44100 n 2 l 0:13.529
+D i 16
+F "VEHICLES - CAR - Auto Crash Telephone Pole.wav" 758670 0 1439163594 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.300
+D i 16
+F "VEHICLES - CAR - Auto Crash.wav" 9304556 0 1502564023 0
+D s 44100 n 2 l 0:52.746 i 16
+F "VEHICLES - CAR - Auto Creak 1.wav" 5675420 0 1502566334 0
+D s 44100 n 2 l 0:32.173 i 16
+F "VEHICLES - CAR - Auto Creak.wav" 12823148 0 1502564065 0
+D s 44100 n 2 l 1:12.693 i 16
+F "VEHICLES - CAR - Auto Door Close Parking Garage 01.wav" 865330 0 1439161532 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.904
+D i 16
+F "VEHICLES - CAR - Auto Door Open Parking Garage 01.wav" 865330 0 1439162128 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.904
+D i 16
+F "VEHICLES - CAR - Auto Door.wav" 5870636 0 1502566334 0
+D s 44100 n 2 l 0:33.280 i 16
+F "VEHICLES - CAR - Auto Drive By Dirt Road.wav" 3561120 0 1439163169 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:20.186
+D i 16
+F "VEHICLES - CAR - Auto Drive By Mid Size.wav" 2469188 0 1439162633 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:13.996
+D i 16
+F "VEHICLES - CAR - Auto Drive By Suv.wav" 2235504 0 1439161282 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.672
+D i 16
+F "VEHICLES - CAR - Auto Garage Shop.wav" 15910972 0 1439162736 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:30.197
+D i 16
+F "VEHICLES - CAR - Auto Gas Gear.wav" 5818892 0 1502566296 0
+D s 44100 n 2 l 0:32.986 i 16
+F "VEHICLES - CAR - Auto Glass.wav" 6950204 0 1502562842 0
+D s 44100 n 2 l 0:39.400 i 16
+F "VEHICLES - CAR - Auto Gravel 1.wav" 4014908 0 1502566188 0
+D s 44100 n 2 l 0:22.760 i 16
+F "VEHICLES - CAR - Auto Gravel.wav" 3619772 0 1502562842 0
+D s 44100 n 2 l 0:20.520 i 16
+F "VEHICLES - CAR - Auto Hit.wav" 2813036 0 1502566188 0
+D s 44100 n 2 l 0:15.946 i 16
+F "VEHICLES - CAR - Auto Interior Car Wash.wav" 16725076 0 1439161310 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:34.812
+D i 16
+F "VEHICLES - CAR - Auto Interior Dirt Drive.wav" 11006756 0 1439161325 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "VEHICLES - CAR - Auto Interior Highway Drive.wav" 11006756 0 1439161165 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "VEHICLES - CAR - Auto Interior Old Car Drive.wav" 16343574 0 1439161132 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.649
+D i 16
+F "VEHICLES - CAR - Auto Interior Rough Road.wav" 16343574 0 1439162384 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.649
+D i 16
+F "VEHICLES - CAR - Auto Mechanic.wav" 4497068 0 1502566342 0
+D s 44100 n 2 l 0:25.493 i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 1.aiff" 109128 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 117.3594 s 48000
+D n 2 l 0:00.511 i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 1.wav" 90340 0 1439163465 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.511
+D i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 2.aiff" 299224 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 79.9622 s 48000
+D n 2 l 0:01.500 i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 2.wav" 264880 0 1439162391 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.500
+D i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 3.aiff" 184016 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 133.2162 s 48000
+D n 2 l 0:00.900 i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 3.wav" 159052 0 1439161452 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.900
+D i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 4.aiff" 316860 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 75.3384 s 48000
+D n 2 l 0:01.592 i 16
+F "VEHICLES - CAR - Auto Open Door Exterior 4.wav" 281128 0 1439163267 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.592
+D i 16
+F "VEHICLES - CAR - Auto Open Door Interior 1.aiff" 127096 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 99.1804 s 48000
+D n 2 l 0:00.604 i 16
+F "VEHICLES - CAR - Auto Open Door Interior 1.wav" 106868 0 1439162128 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.604
+D i 16
+F "VEHICLES - CAR - Auto Open Door Interior 2.aiff" 99548 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 129.718 s 48000
+D n 2 l 0:00.462 i 16
+F "VEHICLES - CAR - Auto Open Door Interior 2.wav" 81748 0 1439161249 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.462
+D i 16
+F "VEHICLES - CAR - Auto Open Trunk.aiff" 155020 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 79.9711 s 48000
+D n 2 l 0:00.750 i 16
+F "VEHICLES - CAR - Auto Open Trunk.wav" 132500 0 1439162011 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.750
+D i 16
+F "VEHICLES - CAR - Auto Parking Brake On 1.aiff" 136076 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 92.0981 s 48000
+D n 2 l 0:00.651 i 16
+F "VEHICLES - CAR - Auto Parking Brake On 1.wav" 115076 0 1439161004 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.651
+D i 16
+F "VEHICLES - CAR - Auto Parking Brake On 2.aiff" 175532 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 140.1289 s 48000
+D n 2 l 0:00.856 i 16
+F "VEHICLES - CAR - Auto Parking Brake On 2.wav" 151216 0 1439161076 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.856
+D i 16
+F "VEHICLES - CAR - Auto Parking Break Off 1.aiff" 123604 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 102.2546 s 48000
+D n 2 l 0:00.586 i 16
+F "VEHICLES - CAR - Auto Parking Break Off 1.wav" 103660 0 1439161721 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.586
+D i 16
+F "VEHICLES - CAR - Auto Parking Break Off 2.aiff" 69600 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 195.7187 s 48000
+D n 2 l 0:00.306 i 16
+F "VEHICLES - CAR - Auto Parking Break Off 2.wav" 54232 0 1439162514 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.306
+D i 16
+F "VEHICLES - CAR - Auto Peel Out.wav" 1289078 0 1439162847 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.306
+D i 16
+F "VEHICLES - CAR - Auto Police Pass.aiff" 2082108 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 89.0554 s 48000
+D n 2 l 0:10.779 i 16
+F "VEHICLES - CAR - Auto Police Pass.wav" 1901712 0 1439163422 0
+D a "Sound Ideas" s 44100 n 2 l 0:10.779
+D i 16
+F "VEHICLES - CAR - Auto Police Pull Away.aiff" 2296996 0 1505997468 0
+D a "Sound Ideas" d www.sound-ideas.com p 80.6789 s 48000
+D n 2 l 0:11.899 i 16
+F "VEHICLES - CAR - Auto Police Pull Away.wav" 2099142 0 1439163455 0
+D a "Sound Ideas" s 44100 n 2 l 0:11.899
+D i 16
+F "VEHICLES - CAR - Auto Race 01.wav" 1560668 0 1439161663 0
+D a "Apple Inc." s 44100 n 2 l 0:08.846
+D i 16
+F "VEHICLES - CAR - Auto Race Cars 01.wav" 10058300 0 1439161751 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:57.018
+D i 16
+F "VEHICLES - CAR - Auto Race Cars 02.wav" 11075628 0 1439161374 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.786
+D i 16
+F "VEHICLES - CAR - Auto Race Multiple Pass.wav" 5414422 0 1439162886 0
+D a "Sound Ideas" s 44100 n 2 l 0:30.693
+D i 16
+F "VEHICLES - CAR - Auto Race Single Pass.wav" 756392 0 1439162508 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.287
+D i 16
+F "VEHICLES - CAR - Auto Seat.wav" 6237548 0 1502566342 0
+D s 44100 n 2 l 0:35.360 i 16
+F "VEHICLES - CAR - Auto Skid 1.aiff" 867080 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 107.731 s 48000
+D n 2 l 0:04.455 i 16
+F "VEHICLES - CAR - Auto Skid 1.wav" 786114 0 1439161103 0
+D a "Sound  Ideas" s 44100 n 2 l 0:04.455
+D i 16
+F "VEHICLES - CAR - Auto Skid 2.aiff" 3697604 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 100.0737 s 48000
+D n 2 l 0:19.185 i 16
+F "VEHICLES - CAR - Auto Skid 2.wav" 3384544 0 1439163366 0
+D a "Sound  Ideas" s 44100 n 2 l 0:19.185
+D i 16
+F "VEHICLES - CAR - Auto Skid 3.aiff" 669128 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 140.1647 s 48000
+D n 2 l 0:03.424 i 16
+F "VEHICLES - CAR - Auto Skid 3.wav" 604246 0 1439162775 0
+D a "Sound  Ideas" s 44100 n 2 l 0:03.424
+D i 16
+F "VEHICLES - CAR - Auto Snow 1.wav" 8636588 0 1502565230 0
+D s 44100 n 2 l 0:48.960 i 16
+F "VEHICLES - CAR - Auto Snow.wav" 6406892 0 1502566197 0
+D s 44100 n 2 l 0:36.320 i 16
+F "VEHICLES - CAR - Auto Sports Pass Tire Screech.wav" 2045512 0 1439162130 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.594
+D i 16
+F "VEHICLES - CAR - Auto Start And Fail 1.aiff" 962156 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 96.9554 s 48000
+D n 2 l 0:04.950 i 16
+F "VEHICLES - CAR - Auto Start And Fail 1.wav" 873466 0 1439163031 0
+D a "Sound  Ideas" s 44100 n 2 l 0:04.950
+D i 16
+F "VEHICLES - CAR - Auto Start And Fail 2.aiff" 1604364 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 115.7821 s 48000
+D n 2 l 0:08.291 i 16
+F "VEHICLES - CAR - Auto Start And Fail 2.wav" 1462766 0 1439162634 0
+D a "Sound  Ideas" s 44100 n 2 l 0:08.291
+D i 16
+F "VEHICLES - CAR - Auto Suv Interior Gravel Drive.aiff" 9306984 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 79.3095 s 48000
+D n 2 l 0:48.417 i 16
+F "VEHICLES - CAR - Auto Suv Interior Gravel Drive.wav" 8541084 0 1439162051 0
+D a "Sound  Ideas" s 44100 n 2 l 0:48.417
+D i 16
+F "VEHICLES - CAR - Auto Suv Interior Pull Up Gravel.aiff" 2051132 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 90.4106 s 48000
+D n 2 l 0:10.618 i 16
+F "VEHICLES - CAR - Auto Suv Interior Pull Up Gravel.wav" 1873212 0 1439161987 0
+D a "Sound  Ideas" s 44100 n 2 l 0:10.618
+D i 16
+F "VEHICLES - CAR - Auto Suv Pass Gravel.aiff" 2243096 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 82.6292 s 48000
+D n 2 l 0:11.618 i 16
+F "VEHICLES - CAR - Auto Suv Pass Gravel.wav" 2049604 0 1439163424 0
+D a "Sound  Ideas" s 44100 n 2 l 0:11.618
+D i 16
+F "VEHICLES - CAR - Auto Suv Pull Away Gravel.aiff" 1940300 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 95.6058 s 48000
+D n 2 l 0:10.041 i 16
+F "VEHICLES - CAR - Auto Suv Pull Away Gravel.wav" 1771432 0 1439162101 0
+D a "Sound  Ideas" s 44100 n 2 l 0:10.041
+D i 16
+F "VEHICLES - CAR - Auto Suv Start Idle Off.wav" 8508756 0 1439163496 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:48.234
+D i 16
+F "VEHICLES - CAR - Auto Tire Flat Squeal.wav" 7088972 0 1502563893 0
+D s 44100 n 2 l 0:40.186 i 16
+F "VEHICLES - CAR - Auto Tire Squeal.wav" 4177196 0 1502566312 0
+D s 44100 n 2 l 0:23.680 i 16
+F "VEHICLES - CAR - Auto Trunk.wav" 4224236 0 1502566312 0
+D s 44100 n 2 l 0:23.946 i 16
+F "VEHICLES - CAR - Auto Vintage Big Pass.aiff" 3249064 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 113.9486 s 48000
+D n 2 l 0:16.849 i 16
+F "VEHICLES - CAR - Auto Vintage Big Pass.wav" 2972446 0 1439161741 0
+D a "Sound  Ideas" s 44100 n 2 l 0:16.849
+D i 16
+F "VEHICLES - CAR - Auto Vintage Big Pull Away.aiff" 3315144 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 111.6677 s 48000
+D n 2 l 0:17.193 i 16
+F "VEHICLES - CAR - Auto Vintage Big Pull Away.wav" 3033156 0 1439161872 0
+D a "Sound  Ideas" s 44100 n 2 l 0:17.193
+D i 16
+F "VEHICLES - CAR - Auto Vintage Big Pull Up.aiff" 1727308 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 107.48 s 48000
+D n 2 l 0:08.931 i 16
+F "VEHICLES - CAR - Auto Vintage Big Pull Up.wav" 1575742 0 1439162521 0
+D a "Sound  Ideas" s 44100 n 2 l 0:08.931
+D i 16
+F "VEHICLES - CAR - Auto Vintage Big Start Stop.aiff" 6224372 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 118.6552 s 48000
+D n 2 l 0:32.362 i 16
+F "VEHICLES - CAR - Auto Vintage Big Start Stop.wav" 5708932 0 1439163057 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.362
+D i 16
+F "VEHICLES - CAR - Auto Vintage Sports Pass.aiff" 3652540 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 101.3138 s 48000
+D n 2 l 0:18.951 i 16
+F "VEHICLES - CAR - Auto Vintage Sports Pass.wav" 3343120 0 1439161724 0
+D a "Sound  Ideas" s 44100 n 2 l 0:18.951
+D i 16
+F "VEHICLES - CAR - Auto Vintage Sports Pull Away.aiff" 3427828 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 108.0069 s 48000
+D n 2 l 0:17.776 i 16
+F "VEHICLES - CAR - Auto Vintage Sports Pull Away.wav" 3135960 0 1439162940 0
+D a "Sound  Ideas" s 44100 n 2 l 0:17.776
+D i 16
+F "VEHICLES - CAR - Auto Vintage Sports Pull Up.aiff" 3250328 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 113.9074 s 48000
+D n 2 l 0:16.855 i 16
+F "VEHICLES - CAR - Auto Vintage Sports Pull Up.wav" 2973520 0 1439163645 0
+D a "Sound  Ideas" s 44100 n 2 l 0:16.855
+D i 16
+F "VEHICLES - CAR - Auto Vintage Sports Start Stop.aiff" 5979832 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 123.5163 s 48000
+D n 2 l 0:31.089 i 16
+F "VEHICLES - CAR - Auto Vintage Sports Start Stop.wav" 5484260 0 1439161299 0
+D a "Sound  Ideas" s 44100 n 2 l 0:31.089
+D i 16
+F "VEHICLES - CAR - Auto Wiper 1.wav" 3716204 0 1502566327 0
+D s 44100 n 2 l 0:21.066 i 16
+F "VEHICLES - CAR - Auto Wiper.wav" 7192460 0 1502565790 0
+D s 44100 n 2 l 0:40.773 i 16
+F "VEHICLES - CAR - Auto Wipers 1.aiff" 1878848 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 98.7536 s 48000
+D n 2 l 0:09.721 i 16
+F "VEHICLES - CAR - Auto Wipers 1.wav" 1714970 0 1439161592 0
+D a "Sound  Ideas" s 44100 n 2 l 0:09.721
+D i 16
+F "VEHICLES - CAR - Auto Wipers 2.aiff" 1820192 0 1505997468 0
+D a "Sound  Ideas" d www.sound-ideas.com p 101.9686 s 48000
+D n 2 l 0:09.414 i 16
+F "VEHICLES - CAR - Auto Wipers 2.wav" 1660902 0 1439161051 0
+D a "Sound  Ideas" s 44100 n 2 l 0:09.414
+D i 16
+F "VEHICLES - CAR - Autodriveawaytires Sfxb.4214.wav" 4180708 0 1372263210 0
+D y 2010-11-29 d '"VEHICLE, AUTO, DRIVE, AWAY, TIRE, SQUEAL, MERCURY, SABLE, 2002, AUTOMOBILE, CAR"' s 96000 n 2
+D l 0:07.248 i 24
+F "VEHICLES - CAR - Automobile Crash Fx 01.wav" 792708 0 1439160961 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:04.493
+D i 16
+F "VEHICLES - CAR - Automobile Door Fx 01.aiff" 145562 0 1505997468 0
+D a PowerFX.com p 78.6003 s 44100 n 2
+D l 0:00.763 i 16
+F "VEHICLES - CAR - Automobile Door Fx 02.aiff" 2068538 0 1505997468 0
+D a PowerFX.com p 82.3581 s 44100 n 2
+D l 0:11.656 i 16
+F "VEHICLES - CAR - Automobile Door Fx 03.aiff" 81358 0 1505997468 0
+D a PowerFX.com p 149.7962 s 44100 n 2
+D l 0:00.400 i 16
+F "VEHICLES - CAR - Automobile Drive Away Fx 01.aiff" 3782202 0 1505997468 0
+D a PowerFX.com p 89.8777 s 44100 n 2
+D l 0:21.362 i 16
+F "VEHICLES - CAR - Automobile Drive By Fx 01.aiff" 750906 0 1505997468 0
+D a PowerFX.com p 114.5256 s 44100 n 2
+D l 0:04.191 i 16
+F "VEHICLES - CAR - Automobile Engine Fx 02.aiff" 3642938 0 1505997468 0
+D a PowerFX.com p 93.3267 s 44100 n 2
+D l 0:20.572 i 16
+F "VEHICLES - CAR - Automobile Fueling Fx 01.aiff" 8268238 0 1505997468 0
+D a PowerFX.com p 82.0312 s 44100 n 2
+D l 0:46.811 i 16
+F "VEHICLES - CAR - Automobile Pull Up Fx 01.aiff" 3593786 0 1505997468 0
+D a PowerFX.com p 94.6081 s 44100 n 2
+D l 0:20.294 i 16
+F "VEHICLES - CAR - Automobile Pull Up Fx 02.aiff" 1029434 0 1505997468 0
+D a PowerFX.com p 83.1866 s 44100 n 2
+D l 0:05.770 i 16
+F "VEHICLES - CAR - Autostartdriveoff Sfxb.4247.wav" 8507702 0 1372263214 0
+D y 2010-11-29 d '"VEHICLE, AUTO, START, DRIVE, OFF, MERCURY, SABLE, 2002, AUTOMOBILE, CAR"' s 96000 n 2
+D l 0:14.761 i 24
+F "VEHICLES - CAR - Autotiressqueal Sfxb.4253.wav" 1203418 0 1372263214 0
+D y 2010-11-29 d '"VEHICLE, AUTO, TIRE, SQUEAL, BRAKES, AUTOMOBILE, CAR"' s 96000 n 2
+D l 0:02.080 i 24
+F "VEHICLES - CAR - Bmw 114I Engine Medium Speed Acceleration.wav" 89654404 0 1481710548 0
+D y 0000-00-0 d "bmw, 114, vehicle, car, engine, drive, driving, medium, acceleration, speed" s 96000 n 2
+D r 10:09.621 l 2:35.648 i 24
+F "VEHICLES - CAR - Bmw 114I Engine Start Idle Stop.wav" 19348612 0 1481710541 0
+D y 0000-00-0 d "bmw, 114, vehicle, car, engine, drive, driving, start, idle, stop, off, turn" s 96000 n 2
+D r 1:16:01.098 l 0:33.589 i 24
+F "VEHICLES - CAR - Bmw 114I Foley Doors Close Inside Mono.wav" 6341764 0 1481710383 0
+D y 0000-00-0 d "bmw, 114, vehicle, car, foley, door, doors, close, closing, interior, inside" s 96000 n 2
+D r 0:08.896 l 0:11.008 i 24
+F "VEHICLES - CAR - Bmw 114I Outside Passby Fast Mono.wav" 12682372 0 1481710384 0
+D y 0000-00-0 d "bmw, 114, vehicle, car, outside, exterior, passby, fast" s 96000 n 2
+D r 0:48.213 l 0:22.016 i 24
+F "VEHICLES - CAR - Bmw Z4 Gt3 T1 Onboard Startup Exit Pit Warmup Enter Pit Shutdown Engine 1.wav" 29766666 0 1488537501 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "BMW Z4 GT3 race car 4.4 litres V8 onboard startup exit pit warmup enter pit shutdown DPA4061 engine wav"
+D d "BMW Z4 GT3 race car 4.4 litres V8 onboard startup exit pit warmup enter pit shutdown DPA4061 engine wav" s 48000 n 1 l 3:25.568
+D i 24 m 0
+F "VEHICLES - CAR - Bmw Z4 Gt3 T1 Onboard Startup Exit Pit Warmup Enter Pit Shutdown Intake.wav" 29766650 0 1488537527 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "BMW Z4 GT3 race car 4.4 litres V8 onboard startup exit pit warmup enter pit shutdown DPA4061 intake wav"
+D d "BMW Z4 GT3 race car 4.4 litres V8 onboard startup exit pit warmup enter pit shutdown DPA4061 intake wav" s 48000 n 1 l 3:25.568
+D i 24 m 0
+F "VEHICLES - CAR - Bmw Z4 Gt3 T6 Wild Foley Wheel Machine Interior.wav" 3015154 0 1488537054 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "BMW Z4 GT3 race car 4.4 litres V8 wild foley wheel machine DPA4021 interior wav"
+D d "BMW Z4 GT3 race car 4.4 litres V8 wild foley wheel machine DPA4021 interior wav" s 48000 n 2 l 0:09.898
+D i 24 m 0
+F "VEHICLES - CAR - Break1.aif" 148532 0 1505997469 0
+D s 44100 n 1 l 0:01.561 i 16
+F "VEHICLES - CAR - Break2.aif" 190228 0 1505997469 0
+D s 44100 n 1 l 0:02.034 i 16
+F "VEHICLES - CAR - Cadillac 1960 30Mph Driveby Ltor 001.wav" 4932766 0 1481709611 0
+D y 2015-10-01 d "sNOTE=car, automobile, cadillac, deville, 1960, retro, vehicle, driveby, drive by, V8, drive, driving, road,  " s 96000 n 2
+D r 1:00:00.000 l 0:08.533 i 24
+F "VEHICLES - CAR - Cadillac 1960 Int Drive Gravel Road 001 Wide.wav" 35368946 0 1481710516 0
+D y 2015-10-01 d "sNOTE=car, automobile, cadillac, deville, 1960, retro, vehicle, interior, V8, drive, highway, driving, fast, road, gravel, rough,  " s 96000 n 2
+D r 1:00:00.000 l 1:01.385 i 24
+F "VEHICLES - CAR - Cadillac 1960 Start Fail 002.wav" 816214 0 1481710521 0
+D y 2015-05-04 d "sNOTE=car, automobile, cadillac, deville, 1960, retro, ignition, on, off,  mechanical, engine, vehicle, start, startup, fail,  " s 96000 n 2
+D r 1:00:00.000 l 0:01.395 i 24
+F "VEHICLES - CAR - Cadillac 1960 Wipers 001.wav" 5861242 0 1481710544 0
+D y 2015-09-07 d "sNOTE=car, automobile, cadillac, deville, 1960, retro, wipers, vehicle, mechanical, windscreen, wiper,  " s 96000 n 2
+D r 1:00:00.000 l 0:10.143 i 24
+F "VEHICLES - CAR - Camaro 1.aif" 459026 0 1505997469 0
+D s 44100 n 1 l 0:05.081 i 16
+F "VEHICLES - CAR - Camaro 2.aif" 196540 0 1505997469 0
+D s 44100 n 1 l 0:02.105 i 16
+F "VEHICLES - CAR - Camaro Z28 -71 Onboard Wild Foley Doors Floor Interior.wav" 1637758 0 1481710512 0
+D d "Camaro Z28 Gen 2 -71 race car 350 smallblock V8 straight exhaust pipes onboard wild foley doors Floor Interior wav" s 48000 n 1 r 59:47.160
+D l 0:10.576 i 24
+F "VEHICLES - CAR - Camaro Z28 -71 T8 Onboard Startup Driving Shutdown Rolling Intake.wav" 37261630 0 1481710545 0
+D d "Camaro Z28 Gen 2 -71 race car 350 smallblock V8 straight exhaust pipes onboard startup driving shutdown rolling Intake wav" s 48000 n 1 r 1:30:35.962
+D l 4:17.962 i 24
+F "VEHICLES - CAR - Camaro Z28 -71 T8 Onboard Startup Driving Shutdown Rolling Interior L.wav" 37261670 0 1481710431 0
+D d "Camaro Z28 Gen 2 -71 race car 350 smallblock V8 straight exhaust pipes onboard startup driving shutdown rolling Interior wav" s 48000 n 1 r 1:30:35.962
+D l 4:17.962 i 24
+F "VEHICLES - CAR - Camaro Z28 -71 T8 Onboard Startup Driving Shutdown Rolling Interior R.wav" 37261670 0 1481710530 0
+D d "Camaro Z28 Gen 2 -71 race car 350 smallblock V8 straight exhaust pipes onboard startup driving shutdown rolling Interior wav" s 48000 n 1 r 1:30:35.962
+D l 4:17.962 i 24
+F "VEHICLES - CAR - Car 1.aif" 187288 0 1505997469 0
+D s 44100 n 1 l 0:02.000 i 16
+F "VEHICLES - CAR - Car 2.aif" 814950 0 1505997469 0
+D s 44100 n 1 l 0:09.117 i 16
+F "VEHICLES - CAR - Car 3.aif" 617742 0 1505997469 0
+D s 44100 n 1 l 0:06.881 i 16
+F "VEHICLES - CAR - Car 4.aif" 1180174 0 1505997469 0
+D s 44100 n 1 l 0:13.258 i 16
+F "VEHICLES - CAR - Car Alarm In Parking Structure.wav" 231976 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.622
+D i 16
+F "VEHICLES - CAR - Car Alarm.wav" 471070 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:05.333
+D i 16
+F "VEHICLES - CAR - Car Alert, Alarm, Beeping, Siren, Loud, Behind Window, Apartment, USA, Zoom F8n, SAAM, 19224.WAV" 34137922 0 1576624054 0
+D t 191020 y 2019-10-20 c "Good Take" d "Car alert went off! Recorded behind closed windows. First floor apartment."
+D s 192000 n 2 r 11:10.829 l 0:29.514
+D i 24
+F "VEHICLES - CAR - Car Attempt To Start With Dead Battery.wav" 209068 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.363
+D i 16
+F "VEHICLES - CAR - Car Chirp Loop.wav" 343990 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.892
+D i 16
+F "VEHICLES - CAR - Car Door 2.wav" 138376 0 1200106064 0
+D s 44100 n 1 l 0:01.567 i 16
+F "VEHICLES - CAR - Car Door Closed 01.wav" 59062 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.662
+D i 16
+F "VEHICLES - CAR - Car Door Closed 02.wav" 36322 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.404
+D i 16
+F "VEHICLES - CAR - Car Door Closed 03.wav" 52230 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.585
+D i 16
+F "VEHICLES - CAR - Car Door Closed 04.wav" 34188 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.380
+D i 16
+F "VEHICLES - CAR - Car Door Closed 05.wav" 32916 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.366
+D i 16
+F "VEHICLES - CAR - Car Door Closed 06.wav" 52868 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.592
+D i 16
+F "VEHICLES - CAR - Car Door Hit 1.wav" 121734 0 1200106064 0
+D s 44100 n 1 l 0:01.378 i 16
+F "VEHICLES - CAR - Car Door Hit 2.wav" 109432 0 1200106066 0
+D s 44100 n 1 l 0:01.239 i 16
+F "VEHICLES - CAR - Car door.wav" 151432 0 1200235144 0
+D s 44100 n 1 l 0:01.715 i 16
+F "VEHICLES - CAR - Car Door01.wav" 52724 0 1248001988 0
+D y 2009-07-19 s 44100 n 2 l 0:00.198
+D i 24
+F "VEHICLES - CAR - Car Door02.wav" 70394 0 1248002052 0
+D y 2009-07-19 s 44100 n 2 l 0:00.265
+D i 24
+F "VEHICLES - CAR - Car Door03.wav" 159872 0 1248033242 0
+D y 2006-06-07 s 44100 n 2 l 0:00.603
+D i 24
+F "VEHICLES - CAR - Car Door04.wav" 146822 0 1248522960 0
+D y 2009-07-25 s 44100 n 2 l 0:00.554
+D i 24
+F "VEHICLES - CAR - Car Engine Run Loop 01.wav" 133070 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.501
+D i 16
+F "VEHICLES - CAR - Car Engine Run Loop 02.wav" 245256 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.773
+D i 16
+F "VEHICLES - CAR - Car Hooter.wav" 114398 0 1247819874 0
+D y 2009-05-19 s 44100 n 2 l 0:00.431
+D i 24
+F "VEHICLES - CAR - Car Horn 01.wav" 46382 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.518
+D i 16
+F "VEHICLES - CAR - Car Horn 02.wav" 61698 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.692
+D i 16
+F "VEHICLES - CAR - Car Horn In Parking Structure.wav" 99446 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.120
+D i 16
+F "VEHICLES - CAR - Car Rev.wav" 330362 0 1248002124 0
+D y 2009-07-19 s 44100 n 2 l 0:01.248
+D i 24
+F "VEHICLES - CAR - Car Start 01.wav" 467288 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:05.290
+D i 16
+F "VEHICLES - CAR - Car Start 02.wav" 288526 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.264
+D i 16
+F "VEHICLES - CAR - Car Window01.wav" 639110 0 1248522728 0
+D y 2009-07-25 s 44100 n 2 l 0:02.414
+D i 24
+F "VEHICLES - CAR - Car Window02.wav" 1265804 0 1248522790 0
+D y 2009-07-25 s 44100 n 2 l 0:04.783
+D i 24
+F "VEHICLES - CAR - Chrysler Tc T1 Onboard Startup Various Acceleration Deceleration Gearing Shutdown Interior.wav" 28380534 0 1488537469 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard startup various acceleration deceleration gearing shutdown interior Neumann RSM191 Sound Devices 788 wav"
+D d "onboard startup various acceleration deceleration gearing shutdown interior Neumann RSM191 Sound Devices 788 wav" s 96000 n 2 l 0:49.077
+D i 24 m 0
+F "VEHICLES - CAR - Chrysler Tc T3 Exterior Startup Aways Passbys Approaches Stops Shutdowns Various Speeds Shotgun.wav" 21766686 0 1488537531 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior startup aways passbys approaches stops shutdowns various speeds handheld shotgun Neumann RSM191 Sound Devices 744 wav"
+D d "exterior startup aways passbys approaches stops shutdowns various speeds handheld shotgun Neumann RSM191 Sound Devices 744 wav" s 96000 n 2 l 0:37.594
+D i 24 m 0
+F "VEHICLES - CAR - Chrysler Tc T4 Exterior Startup Away Approach Stop Shutdown Shotgun.1.wav" 6467582 0 1488537059 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior startup away approach stop shutdown handheld shotgun Neumann RSM191 Sound Devices 744 wav"
+D d "exterior startup away approach stop shutdown handheld shotgun Neumann RSM191 Sound Devices 744 wav" s 96000 n 2 l 0:11.034
+D i 24 m 0
+F "VEHICLES - CAR - CLASSIC - HORN - 01.wav" 507934 0 1582748204 0
+D y 2005-10-07 s 44100 n 1 r 1:19:56.669
+D l 0:05.649 i 16
+F "VEHICLES - CAR - Corvette 0-120-0.wav" 3626116 0 1481710483 0
+D y 2014-08-28 s 48000 n 2 r 4:51:01.189
+D l 0:12.373 i 24
+F "VEHICLES - CAR - Corvette Arrive.wav" 2787088 0 1481710489 0
+D y 2011-01-01 s 48000 n 1 r 3:01:49.264
+D l 0:19.014 i 24
+F "VEHICLES - CAR - Corvette Starts Stop Accel From Back.wav" 13230996 0 1481710489 0
+D y 2014-08-28 s 48000 n 1 r 1:03:44.768
+D l 1:30.413 i 24
+F "VEHICLES - CAR - Corvette Turn And Drift Ext.wav" 9030296 0 1481710467 0
+D y 2014-08-28 s 48000 n 1 r 1:15:00.522
+D l 1:01.696 i 24
+F "VEHICLES - CAR - Corvette,1967,Driving,Burnout,Forward,Squeal,6Ftheight,Ortf.wav" 4034204 0 1488536697 0
+D y 2016-10-02 d BigBlock,Corvette,1967,driving,burnout,forward,squeal,6ftheight,ORTF s 96000 n 2
+D r 3:58:51.096 l 0:07.000 i 24
+F "VEHICLES - CAR - Corvette,1967,Driving,Passby,Reverse,Whirring,Burst,Quick,6Ftheight,Ortf.wav" 4610204 0 1488537355 0
+D y 2016-10-02 d BigBlock,Corvette,1967,driving,passby,reverse,whirring,burst,quick,6ftheight,ORTF s 96000 n 2
+D r 3:58:25.596 l 0:08.000 i 24
+F "VEHICLES - CAR - Corvette,1967,Engine,Partialthrottling,Hold,Release,Cut,6Ftheight,Ortf.wav" 18549508 0 1488537506 0
+D y 2016-10-02 d BigBlock,Corvette,1967,engine,partialthrottling,hold,release,cut,6ftheight,ORTF s 96000 n 2
+D r 4:02:08.596 l 0:32.200 i 24
+F "VEHICLES - CAR - Corvette,1967,Exterior,Driverpipe,Engine,Crank,Idle,Cut,Windowsdown,Hooddown,Gutteral,Rumble,Soft,Alt.wav" 17712808 0 1488537535 0
+D y 2016-10-02 d BigBlock,Corvette,1967,exterior,driverpipe,engine,crank,idle,cut,windowsdown,hooddown,gutteral,rumble,soft,alt s 96000 n 1
+D r 12:31:28.787 l 1:01.500 i 24
+F "VEHICLES - CAR - Dodge Challenger Hemi -70 T3 Onboard Driving Steady Rpms Shutdown Interior L.wav" 25441582 0 1481710282 0
+D d "Dodge Challenger 426 Hemi -70 convertible V8 onboard driving steady rpms shutdown DPA4021 Interior wav" s 48000 n 1 r 1:08:16.258
+D l 2:56.096 i 24
+F "VEHICLES - CAR - Dodge Challenger Hemi -70 T3 Onboard Driving Steady Rpms Shutdown Interior R.wav" 25441582 0 1481710381 0
+D d "Dodge Challenger 426 Hemi -70 convertible V8 onboard driving steady rpms shutdown DPA4021 Interior wav" s 48000 n 1 r 1:08:16.258
+D l 2:56.096 i 24
+F "VEHICLES - CAR - Dodge Challenger Hemi -70 T5 Ext 3 Various Passbys L.wav" 32124590 0 1481710299 0
+D d "Dodge Challenger 426 Hemi -70 convertible V8 exterior various passbys wide stereo Sennheiser K6 wav" s 48000 n 1 r 1:16:58.498
+D l 3:42.506 i 24
+F "VEHICLES - CAR - Dodge Challenger Hemi -70 T5 Ext 3 Various Passbys R.wav" 32124590 0 1481710540 0
+D d "Dodge Challenger 426 Hemi -70 convertible V8 exterior various passbys wide stereo Sennheiser K6 wav" s 48000 n 1 r 1:16:58.498
+D l 3:42.506 i 24
+F "VEHICLES - CAR - Drag Race Fx 01.wav" 2531460 0 1439161973 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:14.349
+D i 16
+F "VEHICLES - CAR - Drag Race Fx 02.wav" 2852118 0 1439162880 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:16.167
+D i 16
+F "VEHICLES - CAR - Drag Race.wav" 4115602 0 1439161960 0
+D a "Apple Inc." s 44100 n 2 l 0:23.330
+D i 16
+F "VEHICLES - CAR - Drive In.aif" 2038416 0 1505997470 0
+D s 44100 n 1 l 0:22.988 i 16
+F "VEHICLES - CAR - F1 Williams 2007 T3 Onboard Driving At Steady Rpms Accelerations Shutdown Cockpit Dpa4061 L.wav" 81902566 0 1481710470 0
+D g Cars d "F1 Williams FW29 2007 Cosworth V8 onboard Zaxcom driving at steady rpms accelerations shutdown cockpit DPA4061 wav Nico Rosberg Formula 1" s 96000 n 1
+D r 14:48:58.968 l 4:44.138 i 24
+F "VEHICLES - CAR - F1 Williams 2007 T3 Onboard Driving At Steady Rpms Accelerations Shutdown Cockpit Dpa4061 R.wav" 81902566 0 1481710514 0
+D g Cars d "F1 Williams FW29 2007 Cosworth V8 onboard Zaxcom driving at steady rpms accelerations shutdown cockpit DPA4061 wav Nico Rosberg Formula 1" s 96000 n 1
+D r 14:48:58.968 l 4:44.138 i 24
+F "VEHICLES - CAR - F1 Williams 2007 T6 Exterior Cars On Race Track Mid Of Long Straight Schoeps Omni L.wav" 166434372 0 1481710535 0
+D g Cars d "F1 Williams FW29 2007 Cosworth V8 exterior Sound Devices 788 cars on race track mid of long straight Schoeps Omni wav Nico Rosberg Formula 1" s 96000 n 1
+D r 12:21:02.166 l 9:37.652 i 24
+F "VEHICLES - CAR - F1 Williams 2007 T6 Exterior Cars On Race Track Mid Of Long Straight Schoeps Omni R.wav" 166434372 0 1481710536 0
+D g Cars d "F1 Williams FW29 2007 Cosworth V8 exterior Sound Devices 788 cars on race track mid of long straight Schoeps Omni wav Nico Rosberg Formula 1" s 96000 n 1
+D r 12:21:02.166 l 9:37.652 i 24
+F "VEHICLES - CAR - Ferrari 275 Gtb -65 T3 Driving Ramps Various Accelerations Decelerations Interior C.wav" 34210038 0 1481710529 0
+D d "Ferrari 275 GTB 1965 driving ramps various accelerations decelerations interior Holophone C" s 48000 n 1 r 5:40:51.645
+D l 3:57.098 i 24
+F "VEHICLES - CAR - Ferrari 275 Gtb -65 T3 Driving Ramps Various Accelerations Decelerations Interior L.wav" 34210038 0 1481710405 0
+D d "Ferrari 275 GTB 1965 driving ramps various accelerations decelerations interior Holophone L" s 48000 n 1 r 5:40:51.645
+D l 3:57.098 i 24
+F "VEHICLES - CAR - Ferrari 275 Gtb -65 T3 Driving Ramps Various Accelerations Decelerations Interior R.wav" 34210038 0 1481710511 0
+D d "Ferrari 275 GTB 1965 driving ramps various accelerations decelerations interior Holophone R" s 48000 n 1 r 5:40:51.645
+D l 3:57.098 i 24
+F "VEHICLES - CAR - Ford Ltd T11 Foley Gear Shifter Ext Rsm191 Xy.wav" 5908130 0 1488537083 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "foley gear shifter exterior main position Neumann RSM191 XY wav"
+D d "foley gear shifter exterior main position Neumann RSM191 XY wav" s 96000 n 2 l 0:09.909
+D i 24 m 0
+F "VEHICLES - CAR - Ford Ltd T2 Ext Medium Passbys Forward Stop Reverse Css5.wav" 20294550 0 1488537498 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior medium passbys forward stop reverse Sanken CSS5 wav"
+D d "exterior medium passbys forward stop reverse Sanken CSS5 wav" s 96000 n 2 l 0:34.885
+D i 24 m 0
+F "VEHICLES - CAR - Ford Ltd T2 Onbrd Medium Startup Driving Forward Reverse Shutdown Mkh8020 Interior.wav" 46686570 0 1488537516 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard medium startup driving forward reverse shutdown Sennheiser MKH8020 interior wav"
+D d "onboard medium startup driving forward reverse shutdown Sennheiser MKH8020 interior wav" s 96000 n 2 l 1:20.704
+D i 24 m 0
+F "VEHICLES - CAR - HORN - MULTI - 01.wav" 6607814 0 1582748204 0
+D s 48000 n 2 l 0:22.943 i 24
+F "VEHICLES - CAR - OLD - HORN - 01.wav" 350176 0 1582748204 0
+D y 2005-10-07 s 44100 n 1 r 1:19:56.669
+D l 0:03.882 i 16
+F "VEHICLES - CAR - Pantera Bmw T4 Onbrd Startup Accels Decels Gearing Shutdown Exhaust Close.wav" 13584566 0 1488537529 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard startup accelerations decelerations gearing shutdown DPA4062 exhaust close wav"
+D d "onboard startup accelerations decelerations gearing shutdown DPA4062 exhaust close wav" s 48000 n 2 l 0:46.570
+D i 24 m 0
+F "VEHICLES - CAR - Pantera Bmw T5 Onbrd Startup Var Driving Shutdown Engine Back.wav" 7297394 0 1488536960 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard startup various driving shutdown Sennheiser MD421 engine back wav"
+D d "onboard startup various driving shutdown Sennheiser MD421 engine back wav" s 48000 n 1 l 0:49.482
+D i 24 m 0
+F "VEHICLES - CAR - Pantera Bmw T6 Onbrd Horn Interior.wav" 3021970 0 1488537121 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard horn DPA4021 interior wav"
+D d "onboard horn DPA4021 interior wav" s 48000 n 2 l 0:09.898
+D i 24 m 0
+F "VEHICLES - CAR - Plymouth Cuda Hemi -71 T2 Onboard Startup Idle Blips Steady Rpms No Gear Driving Constant Rpms Engine 1.wav" 38447742 0 1481710404 0
+D d "Plymouth Cuda 426 Hemi 1971 convertible 4-speed transmission V8 onboard startup idle blips steady rpms no gear driving constant rpms DPA4061 engine wav" s 48000 n 1 r 1:04:17.112
+D l 4:26.475 i 24
+F "VEHICLES - CAR - Plymouth Cuda Hemi -71 T3 Exterior 3 Slow Passbys Wide Stereo L.wav" 50043374 0 1481710445 0
+D d "Plymouth Cuda 426 Hemi 1971 convertible 4-speed transmission V8 exterior slow passbys wide stereo Sennheiser K6 wav" s 48000 n 1 r 1:09:04.898
+D l 5:47.003 i 24
+F "VEHICLES - CAR - Plymouth Cuda Hemi -71 T3 Exterior 3 Slow Passbys Wide Stereo R.wav" 50043278 0 1481710380 0
+D d "Plymouth Cuda 426 Hemi 1971 convertible 4-speed transmission V8 exterior slow passbys wide stereo Sennheiser K6 wav" s 48000 n 1 r 1:09:04.898
+D l 5:47.003 i 24
+F "VEHICLES - CAR - Porsche 911 Sc -81 T10 Exterior 5 Doors Hoods Mkh8060.wav" 71988962 0 1481710478 0
+D g Cars d "Porsche 911 SC 1981 exterior doors hoods Sennheiser MKH8060 wav 3.0 liter engine 5-speed 915 gearbox classic vintage" s 96000 n 1
+D r 1:52:51.114 l 4:09.536 i 24
+F "VEHICLES - CAR - Porsche 911 Sc -81 T5 Onboard Driving Constant Rpms Exhausts.wav" 137419608 0 1481710480 0
+D g Cars d "Porsche 911 SC 1981 onboard driving constant rpms DPA4062 exhausts wav 3.0 liter engine 5-speed 915 gearbox classic vintage" s 96000 n 1
+D r 57:41.792 l 7:56.725 i 24
+F "VEHICLES - CAR - Porsche 911 Sc -81 T8 Exterior 4 Bad Driving Passbys Ortf.L.wav" 83202436 0 1481710543 0
+D g Cars d "Porsche 911 SC 1981 exterior bad driving passbys Sennheiser MKH8040 ortf stereo 70m to the right of the Holophone .L wav 3.0 liter engine 5-speed 915 gearbox classic vintage" s 96000 n 1
+D r 1:22:18.112 l 4:48.469 i 24
+F "VEHICLES - CAR - Porsche 911 Sc -81 T8 Exterior 4 Bad Driving Passbys Ortf.R.wav" 83201948 0 1481710495 0
+D g Cars d "Porsche 911 SC 1981 exterior bad driving passbys Sennheiser MKH8040 ortf stereo 70m to the right of the Holophone .L wav 3.0 liter engine 5-speed 915 gearbox classic vintage" s 96000 n 1
+D r 1:22:18.112 l 4:48.469 i 24
+F "VEHICLES - CAR - Race 1.AIF" 540004 0 1505997471 0
+D s 44100 n 1 l 0:06.000 i 16
+F "VEHICLES - CAR - Race 2.AIF" 654300 0 1505997471 0
+D s 44100 n 1 l 0:07.295 i 16
+F "VEHICLES - CAR - Race 3.AIF" 804604 0 1505997471 0
+D s 44100 n 1 l 0:09.000 i 16
+F "VEHICLES - CAR - Race 4.AIF" 378102 0 1505997471 0
+D s 44100 n 1 l 0:04.164 i 16
+F "VEHICLES - CAR - Race Car Drive By.wav" 271044 0 1439161545 0
+D a "Apple Inc." s 44100 n 2 l 0:01.536
+D i 16
+F "VEHICLES - CAR - Renault Kangoo 1.6 16V Exterior Short Reverse And Slow Drive Away Stereo M10.1.wav" 17818286 0 1488537459 0
+D y 2016-09-30 d "car, vehicle, renault, kangoo, 16, 16v, gas, engine, exterior, reverse, slow, drive, away" s 96000 n 2
+D r 2:31.658 l 0:30.229 i 24
+F "VEHICLES - CAR - Renault Kangoo 1.6 16V Exterior Slow Passby While Slowly Accelerating Stereo M10.wav" 8737472 0 1488537499 0
+D y 2016-09-30 d "car, vehicle, renault, kangoo, 16, 16v, gas, engine, exterior, passby, slow, acceleration, slowly" s 96000 n 2
+D r 3:06.581 l 0:14.464 i 24
+F "VEHICLES - CAR - Renault Kangoo 1.6 16V Foley Rotation Switch Mono Ntg3.wav" 1809108 0 1488535851 0
+D y 2016-09-2 d "car, vehicle, renault, kangoo, 16, 16v, foley, switch, clicks, button, buttons" s 96000 n 1
+D r 2:26.922 l 0:04.842 i 24
+F "VEHICLES - CAR - Renault Kangoo 1.6 16V Onboard Engine Rpm Ramp Long Interior Stereo M10.wav" 27892844 0 1488537509 0
+D y 2016-09-3 d "car, vehicle, renault, kangoo, 16, 16v, gas, engine, onboard, rpm, ramp, long" s 96000 n 2
+D r 50:48.245 l 0:47.466 i 24
+F "VEHICLES - CAR - Renault Master 28Dti Engine 1 4 Acceleration High Speed Interior Stereom10.wav" 35778392 0 1488537487 0
+D y 2016-02-2 d "renault, master, diesel, engine, drive, driving, car, vehicle, acceleration, high, speed, interior" s 96000 n 2
+D r 6:02.325 l 1:01.781 i 24
+F "VEHICLES - CAR - Renault Master 28Dti Exterior Passby Medium Speed Stereom10.wav" 17298230 0 1488537195 0
+D y 2016-02-1 d "renault, master, diesel, passby, exterior, car, vehicle, medium" s 96000 n 2
+D r 5:10.400 l 0:29.866 i 24
+F "VEHICLES - CAR - Renault Master 28Dti Foley Passenger Doors Open Mono.wav" 5228988 0 1488537309 0
+D y 2016-02-2 d "renault, master, diesel, foley, car, vehicle, door, open" s 96000 n 1
+D l 0:18.048 i 24
+F "VEHICLES - CAR - Renault Master 28Dti Raw Engine 1 3 Accelerations Wind Mono Mic1.wav" 20509696 0 1488537421 0
+D a "Renault Master II 2.8dTi" y 2016-02-2 g Vehicle d "renault, master, diesel, engine, drive, driving, car, vehicle, acceleration, wind"
+D s 96000 n 1 r 4:51.498 l 1:10.826
+D i 24
+F "VEHICLES - CAR - Renault Master F3500 Dci135 Engine Acceleration Interior Stereom10.wav" 28811276 0 1488537411 0
+D y 2016-02-1 d "renault, master, f3500, diesel, engine, acceleration, accelerating, interior" s 96000 n 2
+D r 34:19.861 l 0:49.749 i 24
+F "VEHICLES - CAR - Renault Master F3500 Dci135 Engine Start Up Idle Gas Pressing And Shut Down Mono.1.wav" 26249048 0 1488537487 0
+D y 2016-02-1 d "renault, master, f3500, diesel, engine, diesel, start, up, idle, gas, pressing, shut, down" s 96000 n 1
+D r 40:03.370 l 1:30.650 i 24
+F "VEHICLES - CAR - Renault Master F3500 Dci135 Exterior Passby High Rpm High Speed Stereom10.wav" 9935864 0 1488537292 0
+D y 2016-02-1 d "renault, master, f3500, diesel, exterior, passby, high, rpm, speed" s 96000 n 2
+D r 15:26.464 l 0:17.152 i 24
+F "VEHICLES - CAR - Renault Master F3500 Dci135 Foley Squeaky Door Open Mono.wav" 2494392 0 1488537365 0
+D y 2016-02-1 d "renault, master, f3500, diesel, vehicle, foley, door, squaky, open, opening" s 96000 n 1
+D r 0:06.500 l 0:08.602 i 24
+F "VEHICLES - CAR - Saab 99 T15 Foley Door Open Close Interior Onbrd Engine Right.wav" 3806098 0 1488535644 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "foley door open close interior onboard DPA4061 engine right wav"
+D d "foley door open close interior onboard DPA4061 engine right wav" s 96000 n 1 l 0:12.597
+D i 24 m 0
+F "VEHICLES - CAR - Saab 99 T7 Ext Fast Approach Stop Reversing Away Passbys Ortf.wav" 17504614 0 1488537533 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior fast approach stop reversing away passbys second position Sennheiser MKH8040 ORTF wav"
+D d "exterior fast approach stop reversing away passbys second position Sennheiser MKH8040 ORTF wav" s 96000 n 2 l 0:30.080
+D i 24 m 0
+F "VEHICLES - CAR - Saab 99 T9 Ext Passbys Gearshifting Ortf.wav" 44175242 0 1488537530 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior passbys gearshifting second position Sennheiser MKH8040 ORTF wav"
+D d "exterior passbys gearshifting second position Sennheiser MKH8040 ORTF wav" s 96000 n 2 l 1:16.384
+D i 24 m 0
+F "VEHICLES - CAR - Skoda Octavia 1.6 T4 Ext 1 Approaches Stops Aways L.wav" 125176534 0 1481710472 0
+D d "Skoda Octavia 1.6 liters 2008 4 cylinder 102 hp exterior approaches stops aways SD702 Schoeps CMC6 wav" s 96000 n 1 r 24:05.046
+D l 7:14.282 i 24
+F "VEHICLES - CAR - Skoda Octavia 1.6 T4 Ext 1 Approaches Stops Aways R.wav" 125176534 0 1481710544 0
+D d "Skoda Octavia 1.6 liters 2008 4 cylinder 102 hp exterior approaches stops aways SD702 Schoeps CMC6 wav" s 96000 n 1 r 24:05.046
+D l 7:14.282 i 24
+F "VEHICLES - CAR - Sports Car Passing.wav" 1151504 0 1439163635 0
+D a "Apple Inc." s 44100 n 2 l 0:06.527
+D i 16
+F "VEHICLES - CAR - Sports Car Racing.wav" 1940022 0 1439162812 0
+D a "Apple Inc." s 44100 n 2 l 0:10.997
+D i 16
+F "VEHICLES - CHAINSAW - Chainsaw 1.wav" 11659704 0 1488630186 0
+D s 48000 n 2 l 1:00.727 i 16
+F "VEHICLES - CHAINSAW - Chainsaw Gas Big Engine Idle Mono.wav" 15508612 0 1481710524 0
+D y 0000-00-0 d "chainsaw, gas, engine, big, stihl, idle" s 96000 n 2
+D r 41:52.853 l 0:26.922 i 24
+F "VEHICLES - CHAINSAW - Chainsaw Gas Big Engine Turn On And Off Mono.wav" 2323588 0 1481709991 0
+D y 0000-00-0 d "chainsaw, gas, engine, big, stihl, sawing, on, off" s 96000 n 2
+D r 36:49.770 l 0:04.032 i 24
+F "VEHICLES - CHAINSAW - Chainsaw Gas Small Engine Gas Pressing And Sawing High Rpm Mono.wav" 20325508 0 1481710467 0
+D y 0000-00-0 d "chainsaw, gas, engine, small, stihl, sawing, pressing, sawing, high, rpm" s 96000 n 2
+D l 0:35.285 i 24
+F "VEHICLES - CHAINSAW - Chainsaw Gas Small Engine On And Off Mono.wav" 6802180 0 1481710539 0
+D y 0000-00-0 d "chainsaw, gas, engine, small, stihl, sawing, turn, on, off" s 96000 n 2
+D r 1:02.805 l 0:11.807 i 24
+F "VEHICLES - ELECTRIC - CART - 01.wav" 1483522 0 1582748204 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Golf cart: Electric golf cart click into gear and away, tire squeak."
+D d "squeaks, squeaky, creak,creaks,creaky," s 44100 n 2 l 0:08.204
+D i 16
+F "VEHICLES - ELECTRIC - CART - 02.wav" 4310970 0 1582748204 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Golf cart: Electric golf cart with a squeaky wheel in CU, by, and away."
+D d "squeak, squeaks, creak,creaks,creaky," s 44100 n 2 l 0:23.862
+D i 16
+F "VEHICLES - ELECTRIC - CART - 03.wav" 2061038 0 1582748204 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Golf cart: Electric golf cart with a squeaky wheel in and slide to stop CU."
+D d "squeak, squeaks, creak,creaks,creaky," s 44100 n 2 l 0:11.402
+D i 16
+F "VEHICLES - ENGINE - MALFUNCTION - 01.wav" 3039812 0 1582748204 0
+D s 48000 n 2 l 0:10.554 i 24
+F "VEHICLES - ENGINE - MALFUNCTION - 02.wav" 6214538 0 1582748204 0
+D s 48000 n 2 l 0:21.578 i 24
+F "VEHICLES - ENGINE - MALFUNCTION - 03.wav" 3241718 0 1582748204 0
+D s 48000 n 2 l 0:11.255 i 24
+F "VEHICLES - ENGINE - MALFUNCTION - 04.wav" 3039812 0 1582748204 0
+D s 48000 n 2 l 0:10.554 i 24
+F "VEHICLES - ENGINE - MALFUNCTION - 05.wav" 6214538 0 1582748204 0
+D s 48000 n 2 l 0:21.578 i 24
+F "VEHICLES - FIRE ENGINE - Fire Engine On Call Fx 01.aiff" 8301006 0 1505997470 0
+D a PowerFX.com p 81.707 s 44100 n 2
+D l 0:46.997 i 16
+F "VEHICLES - FIRE ENGINE - Fire Engine Pull Away.aiff" 7584016 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 97.3528 s 48000
+D n 2 l 0:39.444 i 16
+F "VEHICLES - FIRE ENGINE - Fire Engine Pull Away.wav" 6958104 0 1439161150 0
+D a "Sound  Ideas" s 44100 n 2 l 0:39.444
+D i 16
+F "VEHICLES - FIRE ENGINE - Fire Engine Siren Fx 01.aiff" 5285138 0 1505997470 0
+D a PowerFX.com p 128.5787 s 44100 n 2
+D l 0:29.864 i 16
+F "VEHICLES - FWRD Porsche Alarm.wav" 903656 0 1558782656 0
+D y 2019-05-19 s 48000 n 2 r 1:00:07.453
+D l 0:03.094 i 24
+F "VEHICLES - FWRD Porsche Belt Alarm [Oct].wav" 235328 0 1558782654 0
+D y 2019-05-19 s 48000 n 2 r 1:00:33.387
+D l 0:00.774 i 24
+F "VEHICLES - FWRD Porsche Belt Alarm.wav" 235334 0 1558782650 0
+D y 2019-05-19 s 48000 n 2 r 1:00:31.741
+D l 0:00.774 i 24
+F "VEHICLES - FWRD Porsche Crank.wav" 1099328 0 1558782646 0
+D y 2019-05-19 s 48000 n 2 r 1:00:18.870
+D l 0:03.774 i 24
+F "VEHICLES - FWRD Porsche Door 01.wav" 193058 0 1558782644 0
+D y 2019-05-19 s 48000 n 2 r 1:00:08.566
+D l 0:00.627 i 24
+F "VEHICLES - FWRD Porsche Door 02.wav" 174368 0 1558782640 0
+D y 2019-05-19 s 48000 n 2 r 1:00:07.405
+D l 0:00.562 i 24
+F "VEHICLES - FWRD Porsche Door 03.wav" 290498 0 1558782638 0
+D y 2019-05-19 s 48000 n 2 r 1:00:09.582
+D l 0:00.965 i 24
+F "VEHICLES - FWRD Porsche Door 04.wav" 332882 0 1558782636 0
+D y 2019-05-19 s 48000 n 2 r 1:00:01.258
+D l 0:01.112 i 24
+F "VEHICLES - FWRD Porsche Door 05.wav" 291188 0 1558782634 0
+D y 2019-05-19 s 48000 n 2 r 1:00:19.838
+D l 0:00.968 i 24
+F "VEHICLES - FWRD Porsche Door 06.wav" 224186 0 1558782626 0
+D y 2019-05-19 s 48000 n 2 r 1:00:32.995
+D l 0:00.735 i 24
+F "VEHICLES - FWRD Porsche Engine.wav" 1154492 0 1558782630 0
+D y 2019-05-19 s 48000 n 2 r 1:00:08.614
+D l 0:03.965 i 24
+F "VEHICLES - FWRD Porsche Exhaust Hit.wav" 904238 0 1558782628 0
+D y 2019-05-19 s 48000 n 2 r 1:00:19.838
+D l 0:03.096 i 24
+F "VEHICLES - FWRD Porsche Handle.wav" 531422 0 1558264836 0
+D y 2019-05-19 s 48000 n 2 r 1:00:35.322
+D l 0:01.838 i 24
+F "VEHICLES - FWRD Porsche Mechanism 01.wav" 876248 0 1558782624 0
+D y 2019-05-19 s 48000 n 2 r 1:00:01.548
+D l 0:02.999 i 24
+F "VEHICLES - FWRD Porsche Mechanism 02.wav" 820622 0 1558782620 0
+D y 2019-05-19 s 48000 n 2 r 1:00:01.741
+D l 0:02.806 i 24
+F "VEHICLES - FWRD Porsche Mechanism 03.wav" 495464 0 1558782616 0
+D y 2019-05-19 s 48000 n 2 r 1:00:03.096
+D l 0:01.677 i 24
+F "VEHICLES - FWRD Porsche Mechanism 04.wav" 458294 0 1558782614 0
+D y 2019-05-19 s 48000 n 2 r 1:00:15.193
+D l 0:01.548 i 24
+F "VEHICLES - FWRD Porsche Mechanism 05.wav" 318944 0 1558782612 0
+D y 2019-05-19 s 48000 n 2 r 1:00:29.903
+D l 0:01.064 i 24
+F "VEHICLES - FWRD Porsche Mechanism 06.wav" 133136 0 1558782608 0
+D y 2019-05-19 s 48000 n 2 r 1:00:31.612
+D l 0:00.419 i 24
+F "VEHICLES - FWRD Porsche Mechanism 07.wav" 1359344 0 1558782606 0
+D y 2019-05-19 s 48000 n 2 r 1:00:22.806
+D l 0:04.677 i 24
+F "VEHICLES - FWRD Porsche Mechanism 08.wav" 1868610 0 1558263596 0
+D y 2019-05-19 s 48000 n 2 r 1:00:16.741
+D l 0:06.483 i 24
+F "VEHICLES - FWRD Porsche Mechanism 09.wav" 272492 0 1558782564 0
+D y 2019-05-19 s 48000 n 2 r 1:00:45.480
+D l 0:00.903 i 24
+F "VEHICLES - FWRD Porsche Motor Reverse.wav" 680690 0 1558782600 0
+D y 2019-05-19 s 48000 n 2 r 1:00:14.711
+D l 0:02.320 i 24
+F "VEHICLES - FWRD Porsche Switch 01.wav" 318990 0 1558782596 0
+D y 2019-05-19 s 48000 n 2 r 1:00:05.806
+D l 0:01.064 i 24
+F "VEHICLES - FWRD Porsche Switch 02.wav" 159152 0 1558782582 0
+D y 2019-05-19 s 48000 n 2 r 1:00:04.511
+D l 0:00.509 i 24
+F "VEHICLES - FWRD Porsche Switch 03.wav" 85058 0 1558782580 0
+D y 2019-05-19 s 48000 n 2 r 1:00:04.737
+D l 0:00.252 i 24
+F "VEHICLES - FWRD Porsche Switch 04.wav" 63926 0 1558782578 0
+D y 2019-05-19 s 48000 n 2 r 1:00:05.514
+D l 0:00.179 i 24
+F "VEHICLES - FWRD Porsche Switch 05.wav" 123848 0 1558782574 0
+D y 2019-05-19 s 48000 n 2 r 1:00:05.314
+D l 0:00.387 i 24
+F "VEHICLES - FWRD Porsche Switch 06.wav" 123848 0 1558782572 0
+D y 2019-05-19 s 48000 n 2 r 1:00:05.709
+D l 0:00.387 i 24
+F "VEHICLES - FWRD Porsche Switch 07.wav" 206084 0 1558782570 0
+D y 2019-05-19 s 48000 n 2 r 1:00:06.289
+D l 0:00.672 i 24
+F "VEHICLES - FWRD Porsche Switch 08.wav" 72332 0 1558782568 0
+D y 2019-05-19 s 48000 n 2 r 1:00:05.882
+D l 0:00.208 i 24
+F "VEHICLES - FWRD Porsche Switch 09.wav" 92700 0 1558782566 0
+D y 2019-05-19 s 48000 n 2 r 1:00:06.076
+D l 0:00.278 i 24
+F "VEHICLES - FWRD Porsche Switch 10.wav" 204668 0 1558782594 0
+D y 2019-05-19 s 48000 n 2 r 1:00:06.289
+D l 0:00.667 i 24
+F "VEHICLES - FWRD Porsche Switch 11.wav" 174944 0 1558782592 0
+D y 2019-05-19 s 48000 n 2 r 1:00:33.570
+D l 0:00.564 i 24
+F "VEHICLES - FWRD Porsche Switch 12.wav" 235334 0 1558782588 0
+D y 2019-05-19 s 48000 n 2 r 1:00:58.838
+D l 0:00.774 i 24
+F "VEHICLES - FWRD Porsche Switch 13.wav" 383972 0 1558782586 0
+D y 2019-05-19 s 48000 n 2 r 1:01:09.290
+D l 0:01.290 i 24
+F "VEHICLES - FWRD Porsche Window.wav" 680690 0 1558782560 0
+D y 2019-05-19 s 48000 n 2 r 1:00:13.453
+D l 0:02.320 i 24
+F "VEHICLES - MILITARY - HELICOPTER - IDLE - 01.wav" 35389356 0 1582748204 0
+D y 2004-08-27 d MILITAR3-GAIN_02-05 s 44100 n 2
+D r 3:23.222 l 3:20.613 i 16
+F "VEHICLES - MOTORCYCLE - Anarchy,Motorcycle,Fatboy,100Year,Horn,Short,Random,Eight,5Ft,Distantreflections.wav" 843882 0 1488536998 0
+D y 2016-01-21 d Anarchy,motorcycle,FatBoy,100year,horn,short,random,eight,5ft,distantreflections s 96000 n 1
+D r 1:05:03.436 l 0:02.922 i 24
+F "VEHICLES - MOTORCYCLE - Anarchy,Motorcycle,Fatboy,100Year,Straightpipes,Tunedengine,Parked,Far,Revdown,Throttling,Sporadic,Cutengine.wav" 8116958 0 1488537516 0
+D y 2016-01-21 d Anarchy,motorcycle,FatBoy,100year,straightpipes,tunedengine,parked,far,revdown,throttling,sporadic,cutengine s 96000 n 1
+D r 1:16:42.015 l 0:28.176 i 24
+F "VEHICLES - MOTORCYCLE - Anarchy,Motorcycle,Fatboy,100Year,Straightpipes,Tunedengine,Passby,Midsideraw,Fast,Misshift.wav" 8336032 0 1488537283 0
+D y 2016-01-21 d Anarchy,motorcycle,FatBoy,100year,straightpipes,tunedengine,passby,MidSideRaw,fast,misshift s 96000 n 2
+D r 14:08:47.008 l 0:14.470 i 24
+F "VEHICLES - MOTORCYCLE - Anarchy,Motorcycle,Fatboy,100Year,Straightpipes,Tunedengine,Pipeside,Throttling,High.wav" 21962036 0 1488537527 0
+D y 2016-01-21 d Anarchy,motorcycle,FatBoy,100year,straightpipes,tunedengine,pipeside,throttling,high s 96000 n 1
+D r 53:25.161 l 1:16.249 i 24
+F "VEHICLES - MOTORCYCLE - Harley 1.aif" 1132570 0 1505997470 0
+D s 44100 n 1 l 0:12.718 i 16
+F "VEHICLES - MOTORCYCLE - Harley 2.aif" 715542 0 1505997470 0
+D s 44100 n 1 l 0:07.990 i 16
+F "VEHICLES - MOTORCYCLE - Harley 3.aif" 1729332 0 1505997470 0
+D s 44100 n 1 l 0:19.484 i 16
+F "VEHICLES - MOTORCYCLE - Harley Foot Gear Shift Lever, Slow Hit, X4.wav" 6879772 0 1481710530 0
+D y 2015-72-& d "Foot gear shift lever, Slow punch" s 96000 n 2
+D r 38:40.459 l 0:11.462 i 24
+F "VEHICLES - MOTORCYCLE - Harley Slow Down, Arrive, Idle, Stop.wav" 12460376 0 1481710490 0
+D y 2015-72- d "Slow approach from left, Idle and stop on front position" s 96000 n 2
+D r 0:33.408 l 0:20.999 i 24
+F "VEHICLES - MOTORCYCLE - Harley Start And Long Idle, Back-Firing.wav" 34898292 0 1481710539 0
+D y 2015-72- d "Start and long Idle, Back-firing" s 96000 n 2
+D r 27:00.949 l 0:59.349 i 24
+F "VEHICLES - MOTORCYCLE - Harley Start, Accelerate, Slow Speed Pull Away, Pass By Medium Speed, Arrive, Idle, Stop-Exhaust Pipe Mic.wav" 29116496 0 1481710539 0
+D y 2015-11-05 d "Start, Accelerate, Slow Speed pull away, Pass By Medium Speed, Arrive, Idle, Stop, SM58 on Exhaust Pipe" s 96000 n 1
+D r 19:13.397 l 1:38.933 i 24
+F "VEHICLES - MOTORCYCLE - IDLE - 01.wav" 25784512 0 1582748204 0
+D y 2004-08-27 d MOTORCY5-GAIN_01-03 s 44100 n 2
+D r 2:32.322 l 2:18.544 i 16
+F "VEHICLES - MOTORCYCLE - Motorbike 01.wav" 1275940 0 1247999220 0
+D s 44100 n 2 l 0:07.232 i 16
+F "VEHICLES - MOTORCYCLE - Motorbike 02.wav" 877178 0 1247999574 0
+D y 2009-07-19 s 44100 n 2 l 0:03.314
+D i 24
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Pass.aiff" 3295180 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 112.3471 s 48000
+D n 2 l 0:17.089 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Pass.wav" 3014814 0 1439161143 0
+D a "Sound  Ideas" s 44100 n 2 l 0:17.089
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Pull Away.aiff" 6287928 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 117.4539 s 48000
+D n 2 l 0:32.693 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Pull Away.wav" 5767324 0 1439161362 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.693
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Pull Up.aiff" 5054200 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 146.3682 s 48000
+D n 2 l 0:26.235 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Pull Up.wav" 4628048 0 1439162257 0
+D a "Sound  Ideas" s 44100 n 2 l 0:26.235
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Start Stop.aiff" 6111340 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 120.8537 s 48000
+D n 2 l 0:31.773 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Dirt Start Stop.wav" 5605084 0 1439162629 0
+D a "Sound  Ideas" s 44100 n 2 l 0:31.773
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Drag Pass.aiff" 2769084 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 133.802 s 48000
+D n 2 l 0:14.349 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Drag Pass.wav" 2531418 0 1439163742 0
+D a "Sound  Ideas" s 44100 n 2 l 0:14.349
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Drag Pull Away.aiff" 1593340 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 116.5948 s 48000
+D n 2 l 0:08.233 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Drag Pull Away.wav" 1452570 0 1439163087 0
+D a "Sound  Ideas" s 44100 n 2 l 0:08.233
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Fx 01.aiff" 3651130 0 1505997470 0
+D a PowerFX.com p 93.1166 s 44100 n 2
+D l 0:20.619 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Fx 03.aiff" 5614030 0 1505997470 0
+D a PowerFX.com p 120.8882 s 44100 n 2
+D l 0:31.764 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Pass.aiff" 3437840 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 107.6661 s 48000
+D n 2 l 0:17.832 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Pass.wav" 3145884 0 1439161784 0
+D a "Sound  Ideas" s 44100 n 2 l 0:17.832
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Pull Away.aiff" 6216596 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 118.8039 s 48000
+D n 2 l 0:32.322 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Pull Away.wav" 5701788 0 1439161986 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.322
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Pull Up.aiff" 6323596 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 116.7902 s 48000
+D n 2 l 0:32.879 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Pull Up.wav" 5800096 0 1439161362 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.879
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Revs.aiff" 6298592 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 117.2547 s 48000
+D n 2 l 0:32.749 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Revs.wav" 5777124 0 1439161024 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.749
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Start Stop.aiff" 6279724 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 117.6076 s 48000
+D n 2 l 0:32.650 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Harley Start Stop.wav" 5759788 0 1439161036 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.650
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Horn 1.aiff" 110452 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 115.7696 s 48000
+D n 2 l 0:00.518 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Horn 1.wav" 91578 0 1439162650 0
+D a "Sound  Ideas" s 44100 n 2 l 0:00.518
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Horn 2.aiff" 233976 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 103.3592 s 48000
+D n 2 l 0:01.161 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Horn 2.wav" 204958 0 1439162981 0
+D a "Sound  Ideas" s 44100 n 2 l 0:01.161
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Pass.aiff" 3437844 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 107.6659 s 48000
+D n 2 l 0:17.832 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Pass.wav" 3145888 0 1439162369 0
+D a "Sound  Ideas" s 44100 n 2 l 0:17.832
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Pull Away.aiff" 6180932 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 119.4906 s 48000
+D n 2 l 0:32.136 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Pull Away.wav" 5669020 0 1439162930 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.136
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Pull Up.aiff" 6323596 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 116.7902 s 48000
+D n 2 l 0:32.879 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Pull Up.wav" 5800096 0 1439162901 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.879
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Revs.aiff" 6208848 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 118.9524 s 48000
+D n 2 l 0:32.281 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Revs.wav" 5694668 0 1439162405 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.281
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Start Stop.aiff" 6169888 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 119.7049 s 48000
+D n 2 l 0:32.078 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Modern Start Stop.wav" 5658876 0 1439161602 0
+D a "Sound  Ideas" s 44100 n 2 l 0:32.078
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Police Pass.aiff" 2213556 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 83.7372 s 48000
+D n 2 l 0:11.464 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Police Pass.wav" 2022484 0 1439162515 0
+D a "Sound  Ideas" s 44100 n 2 l 0:11.464
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Police Pull Away.aiff" 2557808 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 144.9134 s 48000
+D n 2 l 0:13.249 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Police Pull Away.wav" 2337332 0 1439162770 0
+D a "Sound  Ideas" s 44100 n 2 l 0:13.249
+D i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Police Pull Up.aiff" 3063356 0 1505997470 0
+D a "Sound  Ideas" d www.sound-ideas.com p 120.8879 s 48000
+D n 2 l 0:15.882 i 16
+F "VEHICLES - MOTORCYCLE - Motorcycle Police Pull Up.wav" 2801828 0 1439163181 0
+D a "Sound  Ideas" s 44100 n 2 l 0:15.882
+D i 16
+F "VEHICLES - STEAM - TRAIN - IDLE - 01.wav" 4007394 0 1582748204 0
+D y 2005-10-07 s 44100 n 1 r 1:19:56.669
+D l 0:45.207 i 16
+F "VEHICLES - SUBMARINE - SONAR - 01.wav" 2287336 0 1582748204 0
+D y 2004-08-27 d SUBMARIN-GAIN_01-03 s 44100 n 1
+D r 8:08.919 l 0:25.611 i 16
+F "VEHICLES - TRAIN - 01 Listen To The Shinkansen, Tokyo-Hiroshima First Train.wav" 5771162 0 1525995440 0
+D s 96000 n 2 l 0:10.019 i 24
+F "VEHICLES - TRAIN - 02 Listen To The Shinkansen, Tokyo-Hiroshima Second Train.wav" 10765862 0 1525995432 0
+D s 96000 n 2 l 0:18.690 i 24
+F "VEHICLES - TRAIN - 03 Akihabara Station, Tokyo.wav" 68450006 0 1525995416 0
+D s 96000 n 2 l 1:58.836 i 24
+F "VEHICLES - TRAIN - 04 Tokyo Station, Tokyo.wav" 88814786 0 1525995346 0
+D s 96000 n 2 l 2:34.192 i 24
+F "VEHICLES - TRAIN - 05 Shizuoka, Tokyo, World Busiest Train Station.wav" 110816402 0 1525995242 0
+D s 96000 n 2 l 3:12.389 i 24
+F "VEHICLES - TRAIN - 06 Narita JR Train Kasei Line R to L.wav" 12912314 0 1525995102 0
+D s 96000 n 2 l 0:22.417 i 24
+F "VEHICLES - TRAIN - 07 Narita JR Train Kasei Line L to R.wav" 15944660 0 1525995086 0
+D s 96000 n 2 l 0:27.681 i 24
+F "VEHICLES - TRAIN - 08 Narita Express Line L to R.wav" 11718716 0 1525995066 0
+D s 96000 n 2 l 0:20.344 i 24
+F "VEHICLES - TRAIN - 09 Inside The Train With Ambulance In Background.wav" 30583976 0 1525995050 0
+D s 96000 n 2 l 0:53.097 i 24
+F "VEHICLES - TRAIN - 10 Inside The Train With Second Train Drive By.wav" 7827506 0 1525995016 0
+D s 96000 n 2 l 0:13.589 i 24
+F "VEHICLES - TRAIN - 11 Chiba New Town Inside Train, Door Open, Door Closing, Announcement.wav" 185087168 0 1525995006 0
+D s 96000 n 2 l 5:21.331 i 24
+F "VEHICLES - TRAIN - 12 From Station To Station In Tokyo With Open Window.wav" 193198562 0 1525994812 0
+D s 96000 n 2 l 5:35.414 i 24
+F "VEHICLES - TRAIN - 13 Somewhere Between Tokyo Stations! Beepings & Announcements.wav" 54509702 0 1525994598 0
+D s 96000 n 2 l 1:34.634 i 24
+F "VEHICLES - TRAIN - 14 Somewhere Between Tokyo Stations! Part 2.wav" 138698378 0 1525994538 0
+D s 96000 n 2 l 4:00.795 i 24
+F "VEHICLES - TRAIN - 15 Chiyoda Subway Line, Tokyo.wav" 124044560 0 1525994384 0
+D s 96000 n 2 l 3:35.355 i 24
+F "VEHICLES - TRAIN - 16 Welcome To Osaka City Station! People Walking In The Hall.wav" 112705412 0 1525994248 0
+D s 96000 n 2 l 3:15.668 i 24
+F "VEHICLES - TRAIN - 17 Umeda, Osaka! 4th Busiest Train Station Worldwide.wav" 106398974 0 1525994128 0
+D s 96000 n 2 l 3:04.720 i 24
+F "VEHICLES - TRAIN - 18 Osaka Railway Cross! Warning Beepings & Passing Trains.wav" 61979186 0 1525994006 0
+D s 96000 n 2 l 1:47.602 i 24
+F "VEHICLES - TRAIN - 19 Osaka Train Station Using Ticket Machine.wav" 8858174 0 1525993928 0
+D s 96000 n 2 l 0:15.378 i 24
+F "VEHICLES - TRAIN - 20 Osaka Train Station Door Beeping.wav" 2090636 0 1525993920 0
+D s 96000 n 2 l 0:03.629 i 24
+F "VEHICLES - TRAIN - 21 Osaka Train Station! Megaphone Security Announcement & Reseller Background.wav" 28071248 0 1525993914 0
+D s 96000 n 2 l 0:48.734 i 24
+F "VEHICLES - TRAIN - 22 Osaka Train Ride To Umeda Station.wav" 126394364 0 1525993846 0
+D s 96000 n 2 l 3:39.434 i 24
+F "VEHICLES - TRAIN - 23 EXTRA- Men Sneezing 5 Times! Same Person! Part 1.wav" 5936192 0 1525992952 0
+D s 96000 n 2 l 0:10.305 i 24
+F "VEHICLES - TRAIN - 24 EXTRA- Men Sneezing Part 2.wav" 674294 0 1525992942 0
+D s 96000 n 2 l 0:01.170 i 24
+F "VEHICLES - TRAIN - 25 EXTRA- Men Sneezing Part 3.wav" 1730162 0 1525992938 0
+D s 96000 n 2 l 0:03.003 i 24
+F "VEHICLES - TRAIN - BELL - 01.wav" 4379264 0 1582748204 0
+D s 48000 n 2 l 0:15.205 i 24
+F "VEHICLES - TRAIN - Berlin clatter of cargo train wheels.wav" 2972204 0 1551654727 0
+D s 48000 n 2 l 0:15.480 i 16
+F "VEHICLES - TRAIN - Berlin Hauptbahnhof Station Hall Close To Elevator Undergrond Level Distant Trains Incoming And Outgoing People Walk By Announcements Walla4, Ub01 044.wav" 62132776 0 1488537526 0
+D t "Urban Berlin" y 2016-03-23 d "BERLIN_HAUPTBAHNHOF_STATION HALL CLOSE TO ELEVATOR_UNDERGROND LEVEL_DISTANT TRAINS INCOMING AND OUTGOING_PEOPLE WALK BY_ANNOUNCEMENTS_WALLA4" s 48000
+D n 2 r 12:39:00.379 l 3:35.723 i 24
+F "VEHICLES - TRAIN - Berlin train28.wav" 145468 0 1551654681 0
+D s 22050 n 2 l 0:06.542 i 16
+F "VEHICLES - TRAIN - Berlin, Backyard Kottbusser Tor, Adalbertstr, City Rumble, Cars And Train In Distance, Birds In Distance, Kids, Chatting Of Men Passing, Kreuzberg Berlin, Ub02 09.wav" 96106330 0 1488537510 0
+D t "Urban Berlin" y 2016-12-01 d "BERLIN, BACKYARD KOTTBUSSER TOR, ADALBERTSTR, CITY RUMBLE, CARS AND TRAIN IN DISTANCE, BIRDS IN DISTANCE, KIDS, CHATTING OF MEN PASSING, KREUZBERG BERLIN" s 96000
+D n 2 r 16:08:56.458 l 2:46.843 i 24
+F "VEHICLES - TRAIN - Berlin, Plattform U Bahn Station Kottbusser Tor, Train Stops Moves On, Signal. Voices, Car Horn In Dist, Ub02 44.wav" 186221372 0 1488537510 0
+D t "Urban Berlin" y 2016-12-01 d "BERLIN, PLATTFORM U-BAHN STATION KOTTBUSSER TOR, TRAIN STOPS MOVES ON, SIGNAL. VOICES, CAR HORN IN DIST" s 96000
+D n 2 r 18:13:24.411 l 5:23.293 i 24
+F "VEHICLES - TRAIN - Freight Train Honk Sounds.WAV" 6362378 0 1568029193 0
+D y 2017-08-24 s 96000 n 1 r 12:25:09.813
+D l 0:21.950 i 24
+F "VEHICLES - TRAIN - Freight Train Oakland 2 Nku100.wav" 149766144 0 1488537517 0
+D y 2016-11-05 d "sSPEED=023.976-ND  sTAKE=85  sUBITS=$01011185  sSWVER=2.67  sPROJECT=  sSCENE=  sFILENAME=T85.WAV  sTAPE=110101  sTRK1=Track A  sTRK2=Track B  sNOTE=  " s 96000 n 2
+D r 0:29.196 l 4:20.000 i 24
+F "VEHICLES - TRAIN - Freight Train Richmond 7 Nku100.wav" 115801722 0 1488537524 0
+D y 2016-12-06 d "sSPEED=023.976-ND  sTAKE=56  sUBITS=$09301656  sSWVER=2.67  sPROJECT=  sSCENE=  sFILENAME=T56.WAV  sTAPE=160930  sTRK1=Track A  sTRK2=Track B  sNOTE=  " s 96000 n 2
+D r 2:35:30.321 l 3:21.033 i 24
+F "VEHICLES - TRAIN - Germany Train Changing The Lokomotive Front.wav" 31719932 0 1555952043 0
+D y 2017-06-08 s 96000 n 2 r 21:13:19.819
+D l 0:55.000 i 24
+F "VEHICLES - TRAIN - Germany Train HydraulicDoor SpaceSound.wav" 69161418 0 1555952052 0
+D y 2017-05-29 s 96000 n 2 r 15:31:56.522
+D l 2:00.000 i 24
+F "VEHICLES - TRAIN - Germany TRAIN IN THE FRONT SOUND WAVE.wav" 167410172 0 1555952116 0
+D y 2017-06-08 s 96000 n 2 r 21:18:28.000
+D l 4:50.573 i 24
+F "VEHICLES - TRAIN - Germany Ulm Train Announcement.wav" 53543582 0 1555952072 0
+D y 2017-06-10 s 96000 n 2 l 1:32.940
+D i 24
+F "VEHICLES - TRAIN - Germany Ulm Train Driving InsideRecordings.wav" 80061692 0 1555952080 0
+D y 2017-06-08 s 96000 n 2 r 15:28:35.000
+D l 2:18.926 i 24
+F "VEHICLES - TRAIN - Germany Ulm Train InsightRecordings.wav" 86439932 0 1555952088 0
+D y 2017-06-08 s 96000 n 2 r 15:24:41.000
+D l 2:30.000 i 24
+F "VEHICLES - TRAIN - RAIL - CLACKS - 01.wav" 3097934 0 1582748204 0
+D y 2004-08-27 d TRAIN_RA-GAIN_01-05 s 44100 n 2
+D r 4:42.168 l 0:17.141 i 16
+F "VEHICLES - TRAIN - Railroad Crossing First Train Mono Version Audio Technica.wav" 37558190 0 1515470962 0
+D s 96000 n 1 l 2:10.410 i 24
+F "VEHICLES - TRAIN - Railroad Crossing First Train Mono Version Rode NTG4+.wav" 37561610 0 1515470904 0
+D s 96000 n 1 l 2:10.421 i 24
+F "VEHICLES - TRAIN - Railroad Crossing First Train Stereo Version Zoom H6.wav" 77838152 0 1515470840 0
+D s 96000 n 2 l 2:15.135 i 24
+F "VEHICLES - TRAIN - Railroad Crossing First Train YouTube Version All Microphones.wav" 74980916 0 1515470684 0
+D s 96000 n 2 l 2:10.175 i 24
+F "VEHICLES - TRAIN - Railroad Crossing Second Train Original Stereo Version Zoom H6.wav" 51523820 0 1515471168 0
+D s 96000 n 2 l 1:29.450 i 24
+F "VEHICLES - TRAIN - Railroad Crossing Second Train YouTube Version Stereo Zoom H6.wav" 56736080 0 1515471096 0
+D s 96000 n 2 l 1:38.500 i 24
+F "VEHICLES - TRAIN - Railroad Crossing Traffic All YouTube Version.wav" 157744730 0 1515469830 0
+D s 96000 n 2 l 4:33.862 i 24
+F "VEHICLES - TRAIN - Railroad Crossing Traffic Mono Version Audio Technica.wav" 56192994 0 1515470562 0
+D s 96000 n 1 l 3:15.114 i 24
+F "VEHICLES - TRAIN - Railroad Crossing Traffic Mono Version Rode NTG4+.wav" 54295776 0 1515470244 0
+D s 96000 n 1 l 3:08.526 i 24
+F "VEHICLES - TRAIN - Railroad Crossing Traffic Stereo Version Zoom H6.wav" 157367270 0 1515470166 0
+D s 96000 n 2 l 4:33.206 i 24
+F "VEHICLES - TRAIN - RELEASE - STEAM - 01.wav" 942086 0 1582748204 0
+D y 2005-10-07 s 44100 n 1 r 1:19:56.669
+D l 0:10.600 i 16
+F "VEHICLES - TRAIN - Street Car (Key Line) - Vintage - Car - Interior - Crowded - Ride - Passengers - 02.wav" 15562444 0 1481710505 0
+D s 48000 n 2 l 0:54.028 i 24
+F "VEHICLES - TRAIN - Street Car (Metro Tram) - Vintage - Car - Interior - Ride - Depart - 01.wav" 9926184 0 1481710470 0
+D y 2015-02-22 s 48000 n 2 l 0:34.465
+D i 24
+F "VEHICLES - TRAIN - Subway (Bart) - Train - Interior - Ride - Cruising - Quiet - 03.wav" 21965080 0 1481710470 0
+D y 2015-02-24 s 48000 n 2 l 1:16.266
+D i 24
+F "VEHICLES - TRAIN - Subway Idle.wav" 5523948 0 1439162791 0
+D a "Sound  Ideas" s 44100 n 2 l 0:31.314
+D i 16
+F "VEHICLES - TRAIN - Subway Interior.wav" 12741652 0 1439161096 0
+D a "Sound  Ideas" s 44100 n 2 l 1:12.230
+D i 16
+F "VEHICLES - TRAIN - Subway Pull Up And Pull Away.wav" 11915040 0 1439161983 0
+D a "Sound  Ideas" s 44100 n 2 l 1:07.544
+D i 16
+F "VEHICLES - TRAIN - Subway Station.wav" 7197476 0 1439161344 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:40.801
+D i 16
+F "VEHICLES - TRAIN - Subway, Conductor, Loudspeaker, Pedestrian, Megaphone, Subway Station, Waiting For Train, Small Crowd Chatter, USA, New York City, Parsons Street.wav" 138271208 0 1555952410 0
+D t 190327 y 2019-03-27 d "waiting for the train at parsons street subway station" s 192000
+D n 2 r 0:34.917 l 1:59.907 i 24
+F "VEHICLES - TRAIN - Subway, Subway Station, Crowd Walla Distance & Narrow, Train Arriving, Squeaking Brakes, Boarding Train, Railway Clicks, Train Interior, Beeping, Footsteps, East Side, E Train To JFK, USA, New York City.wav" 276489974 0 1555952471 0
+D y 2019-04-08 d "Boarding E Train to JFK Airport and recording Train interior sounds" s 192000 n 2
+D l 4:00.000 i 24
+F "VEHICLES - TRAIN - Subway, Subway Station, Squeaking Brakes, Railway Clicks, Train Interior, Beeping, Footsteps, Open Closing Doors, Train Stop, Train Accelerate, East Side, E Train To JFK, USA, New York City03.wav" 276464352 0 1555952456 0
+D y 2019-04-08 d "Taking E Train to JFK Airport and recording Train interior sounds" s 192000 n 2
+D l 3:59.977 i 24
+F "VEHICLES - TRAIN - Subway.wav" 11586186 0 1439163434 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:05.680
+D i 16
+F "VEHICLES - TRAIN - Train 1.aif" 2261200 0 1505997471 0
+D s 44100 n 1 l 0:25.514 i 16
+F "VEHICLES - TRAIN - Train 2 Richmond.wav" 73225190 0 1488537524 0
+D s 96000 n 2 l 2:07.126 i 24
+F "VEHICLES - TRAIN - Train 2.aif" 1840496 0 1505997471 0
+D s 44100 n 1 l 0:20.744 i 16
+F "VEHICLES - TRAIN - Train 3.aif" 1791960 0 1505997471 0
+D s 44100 n 1 l 0:20.194 i 16
+F "VEHICLES - TRAIN - Train 4 San Francisco.wav" 72654714 0 1488537535 0
+D y 2016-06-15 d "sSPEED=023.976-ND  sTAKE=231  sUBITS=$06141631  sSWVER=2.67  sPROJECT=  sSCENE=  sFILENAME=T231.WAV  sTAPE=160614  sTRK1=Track A  sTRK2=Track B  sNOTE=  " s 96000 n 2
+D r 23:07.386 l 2:06.125 i 24
+F "VEHICLES - TRAIN - Train 4.aif" 867394 0 1505997471 0
+D s 44100 n 1 l 0:09.711 i 16
+F "VEHICLES - TRAIN - Train 5.aif" 1151292 0 1505997471 0
+D s 44100 n 1 l 0:12.930 i 16
+F "VEHICLES - TRAIN - Train 6.aif" 722252 0 1505997471 0
+D s 44100 n 1 l 0:08.066 i 16
+F "VEHICLES - TRAIN - Train And Crossing Bell.wav" 21937504 0 1439162691 0
+D a "Detroit Chop Shop" s 44100 n 2 l 2:04.361
+D i 16
+F "VEHICLES - TRAIN - Train At Crossing.aiff" 9729684 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 75.8601 s 48000
+D n 2 l 0:50.619 i 16
+F "VEHICLES - TRAIN - Train At Crossing.wav" 8929434 0 1439162275 0
+D a "Sound  Ideas" s 44100 n 2 l 0:50.619
+D i 16
+F "VEHICLES - TRAIN - Train Interior.aiff" 6359260 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 116.1342 s 48000
+D n 2 l 0:33.065 i 16
+F "VEHICLES - TRAIN - Train Interior.wav" 5832860 0 1439162048 0
+D a "Sound  Ideas" s 44100 n 2 l 0:33.065
+D i 16
+F "VEHICLES - TRAIN - Train Leaving, Train Station Denver Airport, People Chatter, Air System, Walking, Escalator Up, Suitcase Rolling, Busy, Denver Airport, USA, Zoom F8n, 19224.WAV" 211640324 0 1576616533 0
+D t 190921 y 2019-09-21 c "Good Take" d "Train, Interior, Union Station To Denver Airport, Air System, Few People, Empty Train, Denver, Colorado, USA, Zoom F8n, 19224 "
+D s 192000 n 2 r 40:09.595 l 3:03.596
+D i 24
+F "VEHICLES - TRAIN - Train Pass 1.aiff" 13893044 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 106.2187 s 48000
+D n 2 l 1:12.303 i 16
+F "VEHICLES - TRAIN - Train Pass 1.wav" 12754524 0 1439161891 0
+D a "Sound  Ideas" s 44100 n 2 l 1:12.303
+D i 16
+F "VEHICLES - TRAIN - Train Pass 2.aiff" 3741024 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 98.9085 s 48000
+D n 2 l 0:19.411 i 16
+F "VEHICLES - TRAIN - Train Pass 2.wav" 3424412 0 1439163207 0
+D a "Sound  Ideas" s 44100 n 2 l 0:19.411
+D i 16
+F "VEHICLES - TRAIN - Train Pass By Fx 3.aif" 67453066 0 1505994829 0
+D s 96000 n 2 l 1:57.093 i 24
+F "VEHICLES - TRAIN - Train Pass By.wav" 7505384 0 1439162614 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:42.546
+D i 16
+F "VEHICLES - TRAIN - Train Pass By1.aif" 2206396 0 1505997471 0
+D s 44100 n 1 l 0:24.893 i 16
+F "VEHICLES - TRAIN - Train Pass By2.aif" 1855796 0 1505997471 0
+D s 44100 n 1 l 0:20.918 i 16
+F "VEHICLES - TRAIN - Train Pass Fx 01.aiff" 4437562 0 1505997471 0
+D a PowerFX.com p 76.5625 s 44100 n 2
+D l 0:25.077 i 16
+F "VEHICLES - TRAIN - Train Pass Fx 02.aiff" 6171086 0 1505997471 0
+D a PowerFX.com p 109.9568 s 44100 n 2
+D l 0:34.922 i 16
+F "VEHICLES - TRAIN - train passing by.aif" 1128884 0 1505997470 0
+D s 44100 n 1 l 0:12.676 i 16
+F "VEHICLES - TRAIN - Train Station 1.aiff" 12065800 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 122.3188 s 48000
+D n 2 l 1:02.786 i 16
+F "VEHICLES - TRAIN - Train Station 1.wav" 11075744 0 1439162425 0
+D a "Sound  Ideas" s 44100 n 2 l 1:02.786
+D i 16
+F "VEHICLES - TRAIN - Train Station 2.aiff" 12137128 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 121.5993 s 48000
+D n 2 l 1:03.158 i 16
+F "VEHICLES - TRAIN - Train Station 2.wav" 11141276 0 1439161470 0
+D a "Sound  Ideas" s 44100 n 2 l 1:03.158
+D i 16
+F "VEHICLES - TRAIN - Train Station Announcement Train Horn And Crowd Away Wide 120502 00.wav" 44279636 0 1488537384 0
+D y 2012-06-18 d "Train-station very large, announcement and crowd away" s 48000 n 2
+D r 10:00:54.549 l 2:17.347 i 24
+F "VEHICLES - TRAIN - Train Yard 01.wav" 11006756 0 1439161917 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "VEHICLES - TRAIN - Train Yard 02.wav" 11006756 0 1439163173 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "VEHICLES - TRAIN - Train, Freight Train Slow Pass By LR, Squeaking, Turning Train Cars, Locomotive Engine, Heavy Low Rumble, Traffic Pass By Background, River Platte, USA, Zoom F8n, Wildtronics SAAM .WAV" 293607316 0 1576632723 0
+D y 2019-10-24 c "Good Take" d "freight train slow pass by LR at industrial area in River Platte. Background traffic & squeaking train cars." s 192000
+D n 2 r 3:35.780 l 4:14.748 i 24
+F "VEHICLES - TRAIN - Train, Interior, Denver Airport To Union Station, Air System, Doors, Closing, Beep, Few People Chatting, Empty Train, Denver, Colorado, USA, Zoom F8n, 19224.wav" 196991160 0 1576622434 0
+D y 2019-11-26 d "Boarding the train from Denver airport to Union Station. Train slowly moves & people on board chatting. Outside signal from railway crossing." s 192000 n 2
+D l 2:50.993 i 24
+F "VEHICLES - TRAIN - Train, Interior, Denver Airport To Union Station, Air System, Doors, Open, Closing, Train Stopping, Driving, Beep, Few People Chatting, Empty Train, Denver, Colorado, USA, Zoom  F8n, 19224, 02.wav" 413561596 0 1576628270 0
+D y 2019-11-26 d "Driving to Denver in train from Denver airport, air system is running, train shakes and vibrates. Stops and drives.   " s 192000 n 2
+D l 5:58.987 i 24
+F "VEHICLES - TRAIN - Train.wav" 3175244 0 1469348784 0
+D s 44100 n 2 l 0:12.000 i 24
+F "VEHICLES - TRAIN - Traindoor 04.wav" 2256576 0 1488536986 0
+D d "Train, Hydraulic Doors, Open, Close" s 96000 n 2 l 0:03.914
+D i 24
+F "VEHICLES - TRAIN - Traindriveby S08Tt.24.wav" 39982050 0 1372263294 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"TRANSPORTATION, TRAIN, DRIVE, BY, SHORT"'
+D d '"TRANSPORTATION, TRAIN, DRIVE, BY, SHORT"' s 96000 n 2 l 1:09.304
+D i 24
+F "VEHICLES - TRAIN - Trainwhistleblow S08Tt.31.wav" 2388094 0 1372263294 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"TRANSPORTATION, TRAIN, WHISTLE, BLOW"'
+D d '"TRANSPORTATION, TRAIN, WHISTLE, BLOW"' s 96000 n 2 l 0:04.122
+D i 24
+F "VEHICLES - TRAIN - U-bahn Grd 01.aif" 698096 0 1505997471 0
+D s 44100 n 1 l 0:07.792 i 16
+F "VEHICLES - TRAIN - U-bahn Grd 02.aif" 2193008 0 1505997471 0
+D s 44100 n 1 l 0:24.741 i 16
+F "VEHICLES - TRAIN - U-bahn Grd 03.aif" 1743338 0 1505997471 0
+D s 44100 n 1 l 0:19.643 i 16
+F "VEHICLES - TRUCK - Truck Brake.aiff" 1044656 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 89.2124 s 48000
+D n 2 l 0:05.380 i 16
+F "VEHICLES - TRUCK - Truck Brake.wav" 949262 0 1439161688 0
+D a "Sound  Ideas" s 44100 n 2 l 0:05.380
+D i 16
+F "VEHICLES - TRUCK - Truck Fx 02.aiff" 5777870 0 1505997471 0
+D a PowerFX.com p 117.4538 s 44100 n 2
+D l 0:32.693 i 16
+F "VEHICLES - TRUCK - Truck Horn.aiff" 911404 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 102.4296 s 48000
+D n 2 l 0:04.686 i 16
+F "VEHICLES - TRUCK - Truck Horn.wav" 826794 0 1439163436 0
+D a "Sound  Ideas" s 44100 n 2 l 0:04.686
+D i 16
+F "VEHICLES - TRUCK - Truck Pull Away.aiff" 19270132 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 76.5632 s 48000
+D n 2 l 1:40.309 i 16
+F "VEHICLES - TRUCK - Truck Pull Away.wav" 17694724 0 1439162195 0
+D a "Sound  Ideas" s 44100 n 2 l 1:40.309
+D i 16
+F "VEHICLES - TRUCK - Truck Pull Up.aiff" 11744804 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 125.6649 s 48000
+D n 2 l 1:01.114 i 16
+F "VEHICLES - TRUCK - Truck Pull Up.wav" 10780828 0 1439162087 0
+D a "Sound  Ideas" s 44100 n 2 l 1:01.114
+D i 16
+F "VEHICLES - TRUCK - Truck Start Stop.aiff" 10137704 0 1505997471 0
+D a "Sound  Ideas" d www.sound-ideas.com p 145.6073 s 48000
+D n 2 l 0:52.744 i 16
+F "VEHICLES - TRUCK - Truck Start Stop.wav" 9304308 0 1439161388 0
+D a "Sound  Ideas" s 44100 n 2 l 0:52.744
+D i 16
+F "VEHICLES - TRUCK - Truck.aif" 1076936 0 1505997471 0
+D s 44100 n 1 l 0:12.087 i 16
+F Vespa.aif 888078 0 1505997472 0
+D s 44100 n 1 l 0:09.946 i 16
+F "Volvo Dump Truck T1 Ext Startup Idle Blips Steady Rpms Shutdown Rsm191.wav" 36770054 0 1488537471 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior startup idle blips steady rpms shutdown Neumann RSM191 wav"
+D d "exterior startup idle blips steady rpms shutdown Neumann RSM191 wav" s 96000 n 2 l 1:03.642
+D i 24 m 0
+F "Volvo Dump Truck T6 Ext Flatbed Tilt Up And Down Schoeps.wav" 40428450 0 1488537521 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior flatbed tilt up and down Schoeps CMC6 wav"
+D d "exterior flatbed tilt up and down Schoeps CMC6 wav" s 96000 n 2 l 1:09.994
+D i 24 m 0
+F "Volvo Dump Truck T7 Ext Horn Idle Shutdown Schoeps.wav" 18988858 0 1488537535 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior horn idle shutdown Schoeps CMC6 wav"
+D d "exterior horn idle shutdown Schoeps CMC6 wav" s 96000 n 2 l 0:32.773
+D i 24 m 0
+F "Volvo F12 Truck T1 Exterior Medium Passby Dpa4021.wav" 15978028 0 1488537521 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Cars and trucks" c "Volvo F12 1992 truck straight 6 cylinder turbocharged diesel engine exterior medium passby DPA4021 wav"
+D d "Volvo F12 1992 truck straight 6 cylinder turbocharged diesel engine exterior medium passby DPA4021 wav" s 96000 n 2 l 0:27.493
+D i 24 m 0
+F "Volvo F12 Truck T11 Exterior Slow Passby Neumann.Rsm191.wav" 8344216 0 1488537066 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Cars and trucks" c "Volvo F12 1992 truck straight 6 cylinder turbocharged diesel engine exterior slow passby Neumann Neumann RSM191 wav"
+D d "Volvo F12 1992 truck straight 6 cylinder turbocharged diesel engine exterior slow passby Neumann Neumann RSM191 wav" s 96000 n 2 l 0:14.240
+D i 24 m 0
+F "Volvo F12 Truck T2 Onboard Slow Accel Through Gears.Long Decel Interior.wav" 44219300 0 1488537530 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Cars and trucks" c "Volvo F12 1992 truck straight 6 cylinder turbocharged diesel engine onboard slow accel through gears long decel Interior wav"
+D d "Volvo F12 1992 truck straight 6 cylinder turbocharged diesel engine onboard slow accel through gears long decel Interior wav" s 96000 n 2 l 1:16.522
+D i 24 m 0

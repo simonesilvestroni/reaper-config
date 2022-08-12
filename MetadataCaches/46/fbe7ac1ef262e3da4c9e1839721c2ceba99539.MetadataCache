@@ -1,0 +1,83 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - AIR"
+F "AIR CANISTER RELEASE_118F5D9B.wav" 56771892 0 1584373534 0
+D t "AIR CANISTER RELEASE" a - b - y 2019-05-18
+D g Air c "AIR CANISTER RELEASE - Squirt Gun Water Canister, No Water, Depressurize, Air Release" d "AIR CANISTER RELEASE - Squirt Gun Water Canister, No Water, Depressurize, Air Release" p -
+D k - s 192000 n 2 r 59:03.540
+D l 0:48.600 i 24 m 0
+F "Air Hit Fx 01.wav" 39420 0 1439162186 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.222
+D i 16
+F "Air Hit Fx 02.wav" 55080 0 1439163688 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.311
+D i 16
+F "Air Pressure Blast 1.wav" 435060 0 1439162890 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.465
+D i 16
+F "Air Reverse Burst 1.wav" 100472 0 1439161673 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.568
+D i 16
+F "Air Reverse Burst 2.wav" 100340 0 1439161146 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.567
+D i 16
+F "Air Reverse Burst 3.wav" 103312 0 1439163464 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.584
+D i 16
+F "Air Valve Blast.wav" 139320 0 1439161080 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.788
+D i 16
+F "FOL - AIR - machine FOL - AIRcon 01.wav" 221032 0 1299534632 0
+D y 2010-06-10 s 22050 n 1 l 0:04.921
+D i 16
+F "FOL - AIR - machine FOL - AIRcon 02.wav" 206498 0 1299534632 0
+D y 2010-08-15 s 44100 n 1 l 0:02.295
+D i 16
+F "FOL - AIR - machine FOL - AIRcon 03.wav" 637684 0 1299534632 0
+D s 44100 n 1 l 0:07.228 i 16
+F "FOL - AIR - machine FOL - AIRcon 04.wav" 3450820 0 1299534632 0
+D s 44100 n 2 l 0:09.780 i 32
+F "FOL - AIR - machine FOL - AIRcon 05.wav" 630402 0 1299534632 0
+D s 44100 n 1 l 0:07.145 i 16
+F "FOL - AIR - steam - pipe - 01.wav" 92466 0 1299534626 0
+D y 2010-06-30 p 123.5 k C s 44100
+D n 1 l 0:00.971 i 16
+F "FOL - AIR - steam - pipe - 02.wav" 431604 0 1299534626 0
+D s 32000 n 1 l 0:06.741 i 16
+F "FOL - AIR - steam - pipe - 03.wav" 108290 0 1299534626 0
+D y 2010-06-30 p 104.3 k C s 22050
+D n 1 l 0:02.301 i 16
+F "FOL - AIR - steam - pipe - 04.wav" 118412 0 1299534626 0
+D y 2010-06-30 p 94.8 k C s 44100
+D n 1 l 0:01.265 i 16
+F "FOL - AIR - steam - pipe - 05.wav" 132080 0 1299534626 0
+D y 2010-06-30 s 44100 n 1 l 0:01.452
+D i 16
+F "FOL - AIR - steam - pipe - 06.wav" 172156 0 1299534626 0
+D y 2010-06-30 p 96 k C s 44100
+D n 1 l 0:01.875 i 16
+F "FOL - AIR - steam - pipe - 07.wav" 89896 0 1299534626 0
+D p 121.6 k C s 44100 n 1
+D l 0:00.986 i 16
+F "KILLER BEE FIREWORK_03700A57.wav" 38187078 0 1584373534 0
+D t "KILLER BEE FIREWORK" a - b - y 2019-07-07
+D g Fire c "KILLER BEE FIREWORK - Ariel Firewok - Small Spinning Firework, Flying Past Mics, Whirring, Fizzing, Buzzing" d "KILLER BEE FIREWORK - Ariel Firewok - Small Spinning Firework, Flying Past Mics, Whirring, Fizzing, Buzzing" p -
+D k - s 192000 n 2 r 1:25:28.345
+D l 0:33.133 i 24 m 0
+F "Perfume Spray.mp3" 128730 0 1583931016 0
+D s 44100 n 2 l 0:03.971 i 259k
+F "PM GL Spray Air Hiss Deodrant Release 3.wav" 1000648 0 1541458368 0
+D a Michalski y 2018-11-05 c "Spray, Air, Hiss, Deodrant, Release" d "Spray, Air, Hiss, Deodrant, Release"
+D s 96000 n 1 l 0:03.437 i 24
+D m 0
+F "PM GL Spray Air Hiss Deodrant Release 4.wav" 777196 0 1541458368 0
+D a Michalski y 2018-11-05 c "Spray, Air, Hiss, Deodrant, Release" d "Spray, Air, Hiss, Deodrant, Release"
+D s 96000 n 1 l 0:02.661 i 24
+D m 0
+F "PM GL Steamer Air Hiss Milk Frother Steam 4.wav" 648364 0 1541512780 0
+D a "Phil Michalski" y 2018-11-06 c "Steamer, Air, Hiss, Milk Frother, Steam" d "Steamer, Air, Hiss, Milk Frother, Steam"
+D s 96000 n 1 l 0:02.213 i 24
+D m 0
+F "SCREAMING ROMAN CANDLE (A)_FE752800.wav" 77684726 0 1584373534 0
+D t "SCREAMING ROMAN CANDLE (A)" a - b - y 2019-07-07
+D g Fire c "SCREAMING ROMAN CANDLE (A) - Ariel Firework - Shrill Whistling, Spinning, Firey Poof, Soft Fire Hiss with Light Crackle" d "SCREAMING ROMAN CANDLE (A) - Ariel Firework - Shrill Whistling, Spinning, Firey Poof, Soft Fire Hiss with Light Crackle" p -
+D k - s 192000 n 2 r 50:05.301
+D l 1:07.419 i 24 m 0

@@ -1,0 +1,61 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Loopmasters Smokers Relight Deux"
+F RS1_CHat_1.wav 31392 0 1548713952 0
+D g "Drums, Hi-Hat, Hits, Closed, Dry" s 44100 n 2 l 0:00.113
+D i 24
+F RS1_CHat_2.wav 33696 0 1548713952 0
+D g "Drums, Hi-Hat, Hits, Closed, Dry" s 44100 n 2 l 0:00.121
+D i 24
+F RS1_CHat_3.wav 40992 0 1548713952 0
+D g "Drums, Hi-Hat, Hits, Closed, Dry" s 44100 n 2 l 0:00.149
+D i 24
+F RS1_Clap_1.wav 122784 0 1548713952 0
+D g "Drums, Hits, Clap, Dry" s 44100 n 2 l 0:00.458
+D i 24
+F RS1_Clap_2.wav 106272 0 1548713952 0
+D g "Drums, Hits, Clap, Dry" s 44100 n 2 l 0:00.396
+D i 24
+F RS1_Clap_3.wav 113952 0 1548713952 0
+D g "Drums, Hits, Clap, Dry" s 44100 n 2 l 0:00.425
+D i 24
+F RS1_Clap_4.wav 110880 0 1548713952 0
+D g "Drums, Hits, Clap, Dry" s 44100 n 2 l 0:00.413
+D i 24
+F RS1_Kick_1.wav 50592 0 1548713952 0
+D g "Drums, Kick, Hits, Dry" s 44100 n 2 l 0:00.185
+D i 24
+F RS1_Kick_2.wav 56736 0 1548713952 0
+D g "Drums, Kick, Hits, Dry" s 44100 n 2 l 0:00.208
+D i 24
+F RS1_Kick_3.wav 70560 0 1548713952 0
+D g "Drums, Kick, Hits, Dry" s 44100 n 2 l 0:00.261
+D i 24
+F RS1_Kick_4.wav 71712 0 1548713952 0
+D g "Drums, Kick, Hits, Dry" s 44100 n 2 l 0:00.265
+D i 24
+F RS1_OHat_1.wav 81568 0 1548713952 0
+D g "Drums, Hi-Hat, Hits, Open, Dry" s 44100 n 1 l 0:00.605
+D i 24
+F RS1_OHat_2.wav 81594 0 1548713952 0
+D g "Drums, Hi-Hat, Hits, Open, Vocals, Processed" s 44100 n 1 l 0:00.605
+D i 24
+F RS1_Rim_1.wav 85536 0 1548713952 0
+D g "Drums, Snare, Hits, Rim, Dry" s 44100 n 2 l 0:00.317
+D i 24
+F RS1_Rim_2.wav 42528 0 1548713952 0
+D g "Drums, Snare, Hits, Rim, Dry" s 44100 n 2 l 0:00.155
+D i 24
+F RS1_Rim_3.wav 45600 0 1548713952 0
+D g "Drums, Snare, Hits, Rim, Dry" s 44100 n 2 l 0:00.166
+D i 24
+F RS1_Snare_1.wav 137760 0 1548713952 0
+D g "Dry, Drums, Snare, Hits, Clap" s 44100 n 2 l 0:00.515
+D i 24
+F RS1_Snare_2.wav 131616 0 1548713952 0
+D g "Drums, Snare, Hits, Clap, Dry" s 44100 n 2 l 0:00.491
+D i 24
+F RS1_Snare_3.wav 148512 0 1548713952 0
+D g "Drums, Snare, Hits, Clap, Dry" s 44100 n 2 l 0:00.555
+D i 24
+F RS1_Snare_4.wav 113568 0 1548713952 0
+D g "Drums, Snare, Hits, Clap, Dry" s 44100 n 2 l 0:00.423
+D i 24

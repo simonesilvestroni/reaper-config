@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Volvo A30E dump truck"
+F Volvo_dump_truck_t1_ext_startup_idle_blips_steady_rpms_shutdown_RSM191.wav 36770054 0 1583869046 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior startup idle blips steady rpms shutdown Neumann RSM191 wav"
+D d "exterior startup idle blips steady rpms shutdown Neumann RSM191 wav" s 96000 n 2 l 1:03.642
+D i 24 m 0
+F Volvo_dump_truck_t6_ext_flatbed_tilt_up_and_down_Schoeps.wav 40428450 0 1583869052 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior flatbed tilt up and down Schoeps CMC6 wav"
+D d "exterior flatbed tilt up and down Schoeps CMC6 wav" s 96000 n 2 l 1:09.994
+D i 24 m 0
+F Volvo_dump_truck_t7_ext_horn_idle_shutdown_Schoeps.wav 18988858 0 1583869008 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Trucks c "exterior horn idle shutdown Schoeps CMC6 wav"
+D d "exterior horn idle shutdown Schoeps CMC6 wav" s 96000 n 2 l 0:32.773
+D i 24 m 0

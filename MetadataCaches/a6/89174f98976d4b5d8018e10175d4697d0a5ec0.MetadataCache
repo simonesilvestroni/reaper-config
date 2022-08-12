@@ -1,0 +1,119 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Bomb Factory/Noise Bombs"
+F BF_NoiseBomb_BoomFilter-01.wav 2329194 0 1537369934 0
+D s 44100 n 2 l 0:08.802 i 24
+F BF_NoiseBomb_BoomFilter-02.wav 2634744 0 1537369934 0
+D s 44100 n 2 l 0:09.957 i 24
+F BF_NoiseBomb_BoomFilter-03.wav 2193816 0 1537369934 0
+D s 44100 n 2 l 0:08.290 i 24
+F BF_NoiseBomb_BoomFilter-04.wav 2688450 0 1537369934 0
+D s 44100 n 2 l 0:10.160 i 24
+F BF_NoiseBomb_BoomFilter-05.wav 2279868 0 1537369934 0
+D s 44100 n 2 l 0:08.615 i 24
+F BF_NoiseBomb_BoomFilter-06.wav 1723464 0 1537369934 0
+D s 44100 n 2 l 0:06.513 i 24
+F BF_NoiseBomb_BoomFilter-07.wav 2141256 0 1537369934 0
+D s 44100 n 2 l 0:08.092 i 24
+F BF_NoiseBomb_BoomFilter-08.wav 2540970 0 1537369934 0
+D s 44100 n 2 l 0:09.602 i 24
+F BF_NoiseBomb_BoomFilter-09.wav 2164668 0 1537369934 0
+D s 44100 n 2 l 0:08.180 i 24
+F BF_NoiseBomb_BoomFilter-10.wav 2145462 0 1537369934 0
+D s 44100 n 2 l 0:08.107 i 24
+F BF_NoiseBomb_BoomFilter-11.wav 3434328 0 1537369934 0
+D s 44100 n 2 l 0:12.978 i 24
+F BF_NoiseBomb_BoomFilter-12.wav 3956328 0 1537369934 0
+D s 44100 n 2 l 0:14.951 i 24
+F BF_NoiseBomb_BoomFilter-13.wav 2754258 0 1537369934 0
+D s 44100 n 2 l 0:10.408 i 24
+F BF_NoiseBomb_BoomFilter-15.wav 2466474 0 1537369935 0
+D s 44100 n 2 l 0:09.321 i 24
+F BF_NoiseBomb_Harmon-01.wav 2329194 0 1537369934 0
+D s 44100 n 2 l 0:08.802 i 24
+F BF_NoiseBomb_Harmon-02.wav 2634744 0 1537369934 0
+D s 44100 n 2 l 0:09.957 i 24
+F BF_NoiseBomb_Harmon-03.wav 2193816 0 1537369936 0
+D s 44100 n 2 l 0:08.290 i 24
+F BF_NoiseBomb_Harmon-04.wav 2688450 0 1537369936 0
+D s 44100 n 2 l 0:10.160 i 24
+F BF_NoiseBomb_Harmon-05.wav 2279868 0 1537369936 0
+D s 44100 n 2 l 0:08.615 i 24
+F BF_NoiseBomb_Harmon-06.wav 2174178 0 1537369936 0
+D s 44100 n 2 l 0:08.216 i 24
+F BF_NoiseBomb_Harmon-07.wav 1723464 0 1537369937 0
+D s 44100 n 2 l 0:06.513 i 24
+F BF_NoiseBomb_Harmon-08.wav 2141256 0 1537369937 0
+D s 44100 n 2 l 0:08.092 i 24
+F BF_NoiseBomb_Harmon-09.wav 2540970 0 1537369937 0
+D s 44100 n 2 l 0:09.602 i 24
+F BF_NoiseBomb_Harmon-10.wav 2164668 0 1537369937 0
+D s 44100 n 2 l 0:08.180 i 24
+F BF_NoiseBomb_Harmon-11.wav 2145462 0 1537369937 0
+D s 44100 n 2 l 0:08.107 i 24
+F BF_NoiseBomb_Harmon-12.wav 3434328 0 1537369937 0
+D s 44100 n 2 l 0:12.978 i 24
+F BF_NoiseBomb_Harmon-13.wav 3956328 0 1537369937 0
+D s 44100 n 2 l 0:14.951 i 24
+F BF_NoiseBomb_Harmon-14.wav 2754258 0 1537369937 0
+D s 44100 n 2 l 0:10.408 i 24
+F BF_NoiseBomb_Harmon-15.wav 2535762 0 1537369938 0
+D s 44100 n 2 l 0:09.583 i 24
+F BF_NoiseBomb_Norm-01.wav 2329194 0 1537369938 0
+D s 44100 n 2 l 0:08.802 i 24
+F BF_NoiseBomb_Norm-02.wav 2634744 0 1537369938 0
+D s 44100 n 2 l 0:09.957 i 24
+F BF_NoiseBomb_Norm-03.wav 2193816 0 1537369938 0
+D s 44100 n 2 l 0:08.290 i 24
+F BF_NoiseBomb_Norm-04.wav 2688450 0 1537369938 0
+D s 44100 n 2 l 0:10.160 i 24
+F BF_NoiseBomb_Norm-05.wav 2279868 0 1537369938 0
+D s 44100 n 2 l 0:08.615 i 24
+F BF_NoiseBomb_Norm-06.wav 2174178 0 1537369938 0
+D s 44100 n 2 l 0:08.216 i 24
+F BF_NoiseBomb_Norm-07.wav 1723464 0 1537369938 0
+D s 44100 n 2 l 0:06.513 i 24
+F BF_NoiseBomb_Norm-08.wav 2141256 0 1537369939 0
+D s 44100 n 2 l 0:08.092 i 24
+F BF_NoiseBomb_Norm-09.wav 2540970 0 1537369939 0
+D s 44100 n 2 l 0:09.602 i 24
+F BF_NoiseBomb_Norm-10.wav 2164668 0 1537369939 0
+D s 44100 n 2 l 0:08.180 i 24
+F BF_NoiseBomb_Norm-11.wav 2145462 0 1537369940 0
+D s 44100 n 2 l 0:08.107 i 24
+F BF_NoiseBomb_Norm-12.wav 3434328 0 1537369940 0
+D s 44100 n 2 l 0:12.978 i 24
+F BF_NoiseBomb_Norm-13.wav 3956328 0 1537369940 0
+D s 44100 n 2 l 0:14.951 i 24
+F BF_NoiseBomb_Norm-14.wav 2754258 0 1537369940 0
+D s 44100 n 2 l 0:10.408 i 24
+F BF_NoiseBomb_Norm-15.wav 2405532 0 1537369941 0
+D s 44100 n 2 l 0:09.090 i 24
+F BF_NoiseBomb_Rumbler-01.wav 2329194 0 1537369941 0
+D s 44100 n 2 l 0:08.802 i 24
+F BF_NoiseBomb_Rumbler-02.wav 2634744 0 1537369940 0
+D s 44100 n 2 l 0:09.957 i 24
+F BF_NoiseBomb_Rumbler-03.wav 2193816 0 1537369941 0
+D s 44100 n 2 l 0:08.290 i 24
+F BF_NoiseBomb_Rumbler-04.wav 2688450 0 1537369941 0
+D s 44100 n 2 l 0:10.160 i 24
+F BF_NoiseBomb_Rumbler-05.wav 2279868 0 1537369941 0
+D s 44100 n 2 l 0:08.615 i 24
+F BF_NoiseBomb_Rumbler-06.wav 2899800 0 1537369941 0
+D s 44100 n 2 l 0:10.958 i 24
+F BF_NoiseBomb_Rumbler-07.wav 2738646 0 1537369941 0
+D s 44100 n 2 l 0:10.349 i 24
+F BF_NoiseBomb_Rumbler-08.wav 2141256 0 1537369941 0
+D s 44100 n 2 l 0:08.092 i 24
+F BF_NoiseBomb_Rumbler-09.wav 2540970 0 1537369941 0
+D s 44100 n 2 l 0:09.602 i 24
+F BF_NoiseBomb_Rumbler-10.wav 2164668 0 1537369941 0
+D s 44100 n 2 l 0:08.180 i 24
+F BF_NoiseBomb_Rumbler-11.wav 2645496 0 1537369942 0
+D s 44100 n 2 l 0:09.997 i 24
+F BF_NoiseBomb_Rumbler-12.wav 3434328 0 1537369942 0
+D s 44100 n 2 l 0:12.978 i 24
+F BF_NoiseBomb_Rumbler-13.wav 3956328 0 1537369942 0
+D s 44100 n 2 l 0:14.951 i 24
+F BF_NoiseBomb_Rumbler-14.wav 3542304 0 1537369942 0
+D s 44100 n 2 l 0:13.387 i 24
+F BF_NoiseBomb_Rumbler-15.wav 3077082 0 1537369942 0
+D s 44100 n 2 l 0:11.628 i 24

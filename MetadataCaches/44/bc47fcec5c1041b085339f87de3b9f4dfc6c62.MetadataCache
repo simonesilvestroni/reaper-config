@@ -1,0 +1,115 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Loopmasters Chilled Trap & Future Rnb"
+F CPCT_C_Bells.wav 563384 0 1548713903 0
+D g "Processed, Relaxed, Electric Piano, Bells, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:02.122 i 24
+F CPCT_C_DX_01.wav 455178 0 1548713903 0
+D g "Relaxed, Electric Piano, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:01.713 i 24
+F CPCT_C_DX_02.wav 232966 0 1548713903 0
+D g "Processed, Relaxed, Electric Piano, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.827 i 24
+F CPCT_C_Elec_Piano_01.wav 908072 0 1548713903 0
+D g "Relaxed, Electric Piano, Hits, Trap, RnB" s 44100 n 2 l 0:03.425
+D i 24
+F CPCT_C_Elec_Piano_02.wav 403198 0 1548713903 0
+D g "Relaxed, Electric Piano, Hits, Trap, RnB" s 44100 n 2 l 0:01.517
+D i 24
+F CPCT_C_Gamelan.wav 224404 0 1548713903 0
+D g "Dry, Percussion, Gong, Hits, Trap, RnB" s 44100 n 2 l 0:00.841
+D i 24
+F CPCT_C_Mono_Synth_01.wav 987546 0 1548713903 0
+D g "Synthesizer, Hits, Trap, RnB" s 44100 n 2 l 0:03.679
+D i 24
+F CPCT_C_Mono_Synth_02.wav 767886 0 1548713903 0
+D g "Organ, Synthesizer, Hits, Trap, Drones, RnB" s 44100 n 2 l 0:02.849
+D i 24
+F CPCT_C_Music_Box.wav 302554 0 1548713903 0
+D g "Processed, Hits, Trap, Music Box, RnB" s 44100 n 2 l 0:01.090
+D i 24
+F CPCT_C_Pad.wav 132370 0 1548713903 0
+D g "Processed, Pad, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.447 i 24
+F CPCT_C_Synth_Bass_01.wav 121398 0 1548713903 0
+D g "Bass, Synthetic Bass, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.452 i 24
+F CPCT_C_Synth_Bass_02.wav 125536 0 1548713903 0
+D g "Bass, Synthetic Bass, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.421 i 24
+F CPCT_C_Synth_Bass_03.wav 99468 0 1548713903 0
+D g "Bass, Synthetic Bass, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.369 i 24
+F CPCT_C_Synth_Bass_04.wav 599040 0 1548713903 0
+D g "Bass, Synthetic Bass, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:02.257 i 24
+F CPCT_C_Synth_Bass_05.wav 798414 0 1548713903 0
+D g "Processed, Bass, Synthetic Bass, Electric Piano, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:03.010 i 24
+F CPCT_C_Synth_Bass_06.wav 121620 0 1548713903 0
+D g "Bass, Synthetic Bass, Distorted, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.453 i 24
+F CPCT_C_Synth_Bass_07.wav 101406 0 1548713903 0
+D g "Bass, Synthetic Bass, Distorted, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.376 i 24
+F CPCT_C_Synth_Bass_08.wav 105816 0 1548713903 0
+D g "Bass, Synthetic Bass, Distorted, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.393 i 24
+F CPCT_C_Synth_Bass_09.wav 147600 0 1548713903 0
+D g "Bass, Synthetic Bass, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:00.551 i 24
+F CPCT_C_Synth_Bass_10.wav 415088 0 1548713903 0
+D g "Bass, Synthetic Bass, Deep, Hits, Trap, RnB" k C s 44100 n 2
+D l 0:01.562 i 24
+F CPCT_C_Synth_Bass_11.wav 821160 0 1548713903 0
+D g "Intense, Bass, Synthetic Bass, Strings, Deep, Hits, Trap, RnB" s 44100 n 2 l 0:03.096
+D i 24
+F CPCT_C_Synth_Bass_12.wav 170326 0 1548713903 0
+D g "Intense, Bass, Synthetic Bass, Strings, Deep, Hits, Trap, RnB" s 44100 n 2 l 0:00.590
+D i 24
+F CPCT_C_Synth_Bass_13.wav 108448 0 1548713903 0
+D g "Melodic, Bass, Synthetic Bass, Synthesizer, Hits, Trap, RnB" s 44100 n 2 l 0:00.357
+D i 24
+F CPCT_C_Synth_Bass_14.wav 1587966 0 1548713903 0
+D g "Bass, Synthetic Bass, Deep, Sub-Bass, Hits, Trap, RnB" s 44100 n 2 l 0:05.994
+D i 24
+F CPCT_C_Vox_01.wav 410838 0 1548713903 0
+D g "Processed, Vocals, Hits, Trap, RnB" s 44100 n 2 l 0:01.500
+D i 24
+F CPCT_C_Vox_02.wav 534590 0 1548713904 0
+D g "Processed, Vocals, Pitch Shift, Hits, Trap, RnB" s 44100 n 2 l 0:02.013
+D i 24
+F CPCT_C_Vox_03.wav 247232 0 1548713904 0
+D g "Processed, Vocals, Hits, Trap, Pitch Correction, RnB" s 44100 n 2 l 0:00.927
+D i 24
+F CPCT_C_Vox_04.wav 361182 0 1548713904 0
+D g "Processed, Vocals, Pitch Shift, Hits, Trap, Pitch Correction, RnB" s 44100 n 2 l 0:01.312
+D i 24
+F CPCT_C_Vox_05.wav 269172 0 1548713904 0
+D g "Processed, Vocals, Pitch Shift, Hits, Trap, Pitch Correction, RnB" s 44100 n 2 l 0:00.964
+D i 24
+F CPCT_C_Vox_06.wav 270602 0 1548713904 0
+D g "Processed, Vocals, Pitch Shift, Hits, Trap, RnB" s 44100 n 2 l 0:01.016
+D i 24
+F CPCT_C_Vox_07.wav 178938 0 1548713904 0
+D g "Processed, Vocals, Pitch Shift, Hits, Trap, Pitch Correction, RnB" s 44100 n 2 l 0:00.623
+D i 24
+F CPCT_C_Wurly.wav 546558 0 1548713903 0
+D g "Relaxed, Electric Piano, Hits, Trap, Wurlitzer, RnB" s 44100 n 2 l 0:02.012
+D i 24
+F CPCT_F_Sub_Bass_01.wav 211328 0 1548713903 0
+D g "Bass, Synthetic Bass, Sub-Bass, Hits, Trap, RnB" s 44100 n 2 l 0:00.745
+D i 24
+F CPCT_F_Sub_Bass_02.wav 464302 0 1548713903 0
+D g "Bass, Synthetic Bass, Sub-Bass, Hits, Trap, RnB" s 44100 n 2 l 0:01.748
+D i 24
+F CPCT_Fx_Hit_01.wav 1816032 0 1548713903 0
+D g "Processed, FX, Time-Stretched, Hits, Trap, RnB" s 44100 n 2 l 0:06.856
+D i 24
+F CPCT_Fx_Hit_02.wav 397536 0 1548713903 0
+D g "Processed, FX, Hits, Trap, Filter Sweep, Reversed, RnB" s 44100 n 2 l 0:01.496
+D i 24
+F CPCT_FX_Hit_03.wav 231006 0 1548713903 0
+D g "Processed, FX, Hits, Trap, RnB" s 44100 n 2 l 0:00.866
+D i 24
+F CPCT_Fx_Hit_04.wav 467536 0 1548713903 0
+D g "FX, Lo-Fi, Bells, Hits, Trap, RnB" s 44100 n 2 l 0:01.714
+D i 24

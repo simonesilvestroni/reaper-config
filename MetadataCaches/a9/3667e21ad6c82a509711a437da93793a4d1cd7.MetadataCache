@@ -1,0 +1,37 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/EXS Factory Samples/03 Drums & Percussion/02 Electronic Drum Kits/Orion Kit"
+F Clap_Orion.aif 174686 0 1655744446 0
+D s 44100 n 2 l 0:00.573 i 24
+F Crash_Orion.aif 1087338 0 1655744446 0
+D s 44100 n 2 l 0:03.679 i 24
+F Hi-Hat_Closed_Orion.aif 128372 0 1655744446 0
+D s 44100 n 2 l 0:00.416 i 24
+F Hi-Hat_Open_Orion.aif 563566 0 1570467875 0
+D s 44100 n 2 l 0:01.897 i 24
+F Kick_Orion.aif 273766 0 1570467875 0
+D s 44100 n 2 l 0:00.910 i 24
+F MechanicalFX_Orion.aif 535602 0 1570467875 0
+D s 44100 n 2 l 0:01.801 i 24
+F Perc_Orion.aif 102976 0 1570467875 0
+D s 44100 n 2 l 0:00.329 i 24
+F PercFX_1_Orion.aif 228252 0 1570467875 0
+D s 44100 n 2 l 0:00.756 i 24
+F PercFX_2_Orion.aif 223874 0 1570467875 0
+D s 44100 n 2 l 0:00.739 i 24
+F Ride_Orion.aif 557570 0 1570467875 0
+D s 44100 n 2 l 0:01.876 i 24
+F Rim_1_Orion.aif 20640 0 1655744446 0
+D s 44100 n 1 l 0:00.090 i 24
+F Rim_2_Orion.aif 20640 0 1655744446 0
+D s 44100 n 1 l 0:00.090 i 24
+F Shaker_1_Orion.aif 71960 0 1655744446 0
+D s 44100 n 2 l 0:00.224 i 24
+F Shaker_2_Orion.aif 539730 0 1655744446 0
+D s 44100 n 2 l 0:01.816 i 24
+F Snare_1_Orion.aif 314164 0 1570467875 0
+D s 44100 n 2 l 0:01.048 i 24
+F Snare_2_Orion.aif 314164 0 1570467875 0
+D s 44100 n 2 l 0:01.048 i 24
+F Tom_High_Orion.aif 153206 0 1570467875 0
+D s 44100 n 2 l 0:00.500 i 24
+F Tom_Mid_Orion.aif 184190 0 1570467875 0
+D s 44100 n 2 l 0:00.606 i 24

@@ -1,0 +1,439 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/AMBIENCE/AMB - WEATHER"
+F "AMB - THUNDER - CRACK - BIG - 01.wav" 4728204 0 1547642568 0
+D a Soundrangers.com d "Big thunder clap ripping through mountainous terrain." s 96000 n 2
+D l 0:08.195 i 24
+F "AMB - THUNDER - DISTANT - 01.wav" 6682032 0 1547642568 0
+D a Soundrangers.com d "Distant thunder clap rolling through mountainous terrain." s 96000 n 2
+D l 0:11.587 i 24
+F "AMB - THUNDER - ECHO - 01.wav" 4856966 0 1547642568 0
+D d "Thunder echo is loud and well defined." s 48000 n 2 l 0:16.460
+D i 24
+F "AMB - THUNDER - ROLLING - DISTANT - 01.wav" 12643750 0 1547642568 0
+D d "Thunder moderately distant filling sky with long roll." s 48000 n 2 l 0:43.496
+D i 24
+F "AMB - THUNDER - STRIKE - 01.wav" 8872994 0 1547642568 0
+D a Soundrangers.com d "Large, epic thunder strike with lightning." s 96000 n 2
+D r 1:38.613 l 0:15.392 i 24
+F "AMB - THUNDER - STRIKE - RUMBLE - 01.wav" 4923902 0 1547642568 0
+D s 96000 n 2 l 0:08.548 i 24
+F "AMB - WEATHER - LIGHTNING - STRIKE - RUMBLE - 01.wav" 4622138 0 1582748204 0
+D s 96000 n 2 l 0:08.024 i 24
+F "AMB - WEATHER - LIGHTNING - STRIKE - RUMBLE - 02.wav" 4514528 0 1582748204 0
+D s 96000 n 2 l 0:07.837 i 24
+F "AMB - WEATHER - LIGHTNING - STRIKE - RUMBLE - 03.wav" 4923902 0 1582748204 0
+D s 96000 n 2 l 0:08.548 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 1.wav" 18473930 0 1474286544 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 10.wav" 18473930 0 1474286712 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 11.wav" 18473930 0 1474286724 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 12.wav" 18473930 0 1474286736 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 13.wav" 18473930 0 1474286748 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 14.wav" 18473930 0 1474286760 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 15.wav" 18473930 0 1474286770 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 16.wav" 18473930 0 1474286782 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 2.wav" 18473930 0 1474286560 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 3.wav" 18473930 0 1474286592 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 4.wav" 18473930 0 1474286606 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 5.wav" 18473930 0 1474286620 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 6.wav" 18473930 0 1474286632 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 7.wav" 18473930 0 1474286676 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 8.wav" 18473930 0 1474286688 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - Rain & Thunder Storm 9.wav" 18473930 0 1474286700 0
+D s 44100 n 2 l 1:09.818 i 24
+F "AMB - WEATHER - rain - leaves.wav" 1687244 0 1299534650 0
+D s 44100 n 1 l 0:19.128 i 16
+F "AMB - WEATHER - rain - medium - 01.wav" 1810786 0 1299534650 0
+D y 2010-07-02 s 44100 n 2 l 0:10.242
+D i 16
+F "AMB - WEATHER - rain - medium - 02.wav" 1335430 0 1299534650 0
+D y 2010-07-01 s 44100 n 2 l 0:07.547
+D i 16
+F "AMB - WEATHER - rain - medium - 03.wav" 1018274 0 1299534650 0
+D y 2010-07-01 s 44100 n 2 l 0:05.749
+D i 16
+F "AMB - WEATHER - rain - medium - 11k.wav" 130562 0 1299534650 0
+D y 2010-07-01 s 11000 n 1 l 0:05.749
+D i 16
+F "AMB - WEATHER - rain - medium - 22k.wav" 257604 0 1299534650 0
+D y 2010-07-01 s 22050 n 1 l 0:05.749
+D i 16
+F "AMB - WEATHER - rain - medium - 48k.wav" 555990 0 1299534650 0
+D y 2010-07-01 s 48000 n 1 l 0:05.749
+D i 16
+F "AMB - WEATHER - rain - medium - 5k.wav" 61618 0 1299534650 0
+D y 2010-07-01 s 5000 n 1 l 0:05.750
+D i 16
+F "AMB - WEATHER - rain - medium - 8k.wav" 96090 0 1299534650 0
+D y 2010-07-01 s 8000 n 1 l 0:05.749
+D i 16
+F "AMB - WEATHER - rain - metal - 01.wav" 1935886 0 1299534650 0
+D s 44100 n 1 l 0:21.947 i 16
+F "AMB - WEATHER - Rain - on - leaves - ED.wav" 4097072 0 1299534650 0
+D s 44100 n 2 l 0:23.225 i 16
+F "AMB - WEATHER - rain - plasticroof - 01.wav" 2101074 0 1299534650 0
+D y 2010-07-20 s 44100 n 1 l 0:23.776
+D i 16
+F "AMB - WEATHER - rain - plasticroof - 02.wav" 1454610 0 1299534650 0
+D s 44100 n 1 l 0:16.490 i 16
+F "AMB - WEATHER - Rain 02.wav" 17281156 0 1488630176 0
+D y 2010-09-14 s 48000 n 2 l 1:00.000
+D i 24
+F "AMB - WEATHER - Rain 03.wav" 8649808 0 1488630176 0
+D y 2010-09-14 s 48000 n 2 l 0:30.030
+D i 24
+F "AMB - WEATHER - Rain 04.wav" 11518764 0 1488630173 0
+D s 48000 n 2 l 0:59.993 i 16
+F "AMB - WEATHER - Rain 05.wav" 11518024 0 1488630180 0
+D s 48000 n 2 l 0:59.989 i 16
+F "AMB - WEATHER - Rain 06.wav" 17298454 0 1488630175 0
+D y 2010-09-14 s 48000 n 2 l 1:00.060
+D i 24
+F "AMB - WEATHER - Rain 07.wav" 17281156 0 1488630176 0
+D y 2010-09-14 s 48000 n 2 l 1:00.000
+D i 24
+F "AMB - WEATHER - Rain 1.wav" 5895866 0 1439161678 0
+D a "Sound Ideas" s 44100 n 2 l 0:33.422
+D i 16
+F "AMB - WEATHER - Rain 2.wav" 10903198 0 1439161995 0
+D a "Sound Ideas" s 44100 n 2 l 1:01.808
+D i 16
+F "AMB - WEATHER - Rain 21.mp3" 1501126 0 1505990278 0
+D s 44100 n 2 l 1:33.362 i 128k
+F "AMB - WEATHER - Rain 22.mp3" 1501126 0 1505990278 0
+D s 44100 n 2 l 1:33.362 i 128k
+F "AMB - WEATHER - Rain 23.mp3" 1500708 0 1505990278 0
+D s 44100 n 2 l 1:33.336 i 128k
+F "AMB - WEATHER - Rain 24.mp3" 1506559 0 1505990278 0
+D s 44100 n 2 l 1:33.702 i 128k
+F "AMB - WEATHER - Rain 25.mp3" 1497782 0 1505990278 0
+D s 44100 n 2 l 1:33.153 i 128k
+F "AMB - WEATHER - Rain 26.mp3" 1505306 0 1505990278 0
+D s 44100 n 2 l 1:33.623 i 128k
+F "AMB - WEATHER - Rain 27.mp3" 1506141 0 1505990278 0
+D s 44100 n 2 l 1:33.676 i 128k
+F "AMB - WEATHER - Rain 28.mp3" 1504888 0 1505990278 0
+D s 44100 n 2 l 1:33.597 i 128k
+F "AMB - WEATHER - Rain 29.mp3" 1506977 0 1505990278 0
+D s 44100 n 2 l 1:33.728 i 128k
+F "AMB - WEATHER - Rain 3.wav" 12346898 0 1439161524 0
+D a "Sound Ideas" s 44100 n 2 l 1:09.992
+D i 16
+F "AMB - WEATHER - Rain 30.mp3" 1501962 0 1505990278 0
+D s 44100 n 2 l 1:33.414 i 128k
+F "AMB - WEATHER - Rain 33.mp3" 1502380 0 1505990278 0
+D s 44100 n 2 l 1:33.441 i 128k
+F "AMB - WEATHER - Rain 38.mp3" 1499454 0 1505990278 0
+D s 44100 n 2 l 1:33.258 i 128k
+F "AMB - WEATHER - Rain 39.mp3" 1501126 0 1505990278 0
+D s 44100 n 2 l 1:33.362 i 128k
+F "AMB - WEATHER - Rain 4.wav" 10966374 0 1439161901 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.166
+D i 16
+F "AMB - WEATHER - Rain 40.mp3" 1503216 0 1505990278 0
+D s 44100 n 2 l 1:33.493 i 128k
+F "AMB - WEATHER - Rain 41.mp3" 1508649 0 1505990278 0
+D s 44100 n 2 l 1:33.832 i 128k
+F "AMB - WEATHER - Rain 47.mp3" 1511993 0 1505990278 0
+D s 44100 n 2 l 1:34.041 i 128k
+F "AMB - WEATHER - Rain 5.wav" 21168156 0 1439162265 0
+D a "Detroit Chop Shop" s 44100 n 2 l 2:00.000
+D i 16
+F "AMB - WEATHER - Rain 52.mp3" 1499454 0 1505990278 0
+D s 44100 n 2 l 1:33.258 i 128k
+F "AMB - WEATHER - Rain 6.wav" 16392336 0 1439162601 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.926
+D i 16
+F "AMB - WEATHER - Rain 7.wav" 16392336 0 1439162123 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.926
+D i 16
+F "AMB - WEATHER - Rain And Distant Thunder Loop 01.wav" 25359992 0 1488537253 0
+D y 2016-06-16 d "RAIN THUNDER LOOP; Soft rain, patter, distant thunder" s 96000 n 2
+D r 22:06.375 l 0:44.017 i 24
+F "AMB - WEATHER - Rain Auto 02.wav" 11006756 0 1439161544 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "AMB - WEATHER - Rain Auto 03.wav" 11428140 0 1439161856 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:04.784
+D i 16
+F "AMB - WEATHER - Rain Auto 04.wav" 11428140 0 1439163185 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:04.784
+D i 16
+F "AMB - WEATHER - Rain Auto.wav" 11075738 0 1439161396 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.786
+D i 16
+F "AMB - WEATHER - Rain City.wav" 16184156 0 1439163581 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.746
+D i 16
+F "AMB - WEATHER - Rain Hard Loop 08.wav" 11379188 0 1488537378 0
+D y 2016-06-16 d "RAIN LOOP; Hard rain, midrange, blasting noise" s 96000 n 2
+D r 40:20.606 l 0:19.745 i 24
+F "AMB - WEATHER - Rain Heavy Thunder.wav" 6024014 0 1439163152 0
+D a "Apple Inc." s 44100 n 2 l 0:34.149
+D i 16
+F "AMB - WEATHER - Rain In Forest The Day 120118 13.wav" 19068476 0 1488537535 0
+D y 2012-06-27 s 48000 n 2 r 9:58:46.800
+D l 1:05.880 i 24
+F "AMB - WEATHER - Rain On Plastic Outside Loop.wav" 15099710 0 1488537503 0
+D y 2016-06-16 d "RAIN LOOP; Rain on plastic, patter, outside" s 96000 n 2
+D r 16:02.642 l 0:26.204 i 24
+F "AMB - WEATHER - Rain Town After Storm.wav" 16405212 0 1439161624 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.999
+D i 16
+F "AMB - WEATHER - Rain Umbrella 001 Wide.wav" 34616122 0 1488537491 0
+D y 2016-10-12 d "sNOTE=weather, rain, environment, outside, exterior, water, raining, nature, umbrella, brolly,  " s 96000 n 2
+D r 1:00:00.000 l 1:00.000 i 24
+F "AMB - WEATHER - Rain Windchime.wav" 1904540 0 1246438488 0
+D s 44100 n 2 l 0:07.197 i 24
+F "AMB - WEATHER - Rain, Distant Thunder And Bird Loop.wav" 37360682 0 1488537246 0
+D y 2016-06-16 d "RAIN THUNDER LOOP; Soft rain, thunder in the middle and rumble afterwards, bird in background" s 96000 n 2
+D r 27:03.346 l 1:04.852 i 24
+F "AMB - WEATHER - Rain.wav" 3323948 0 1247475870 0
+D s 44100 n 2 l 0:12.561 i 24
+F "AMB - WEATHER - Raindownpour S08Wt.27.wav" 63757446 0 1372263284 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"WEATHER, RAIN, DOWNPOUR, HEAVY, STEADY, CONCRETE, LOOP"'
+D d '"WEATHER, RAIN, DOWNPOUR, HEAVY, STEADY, CONCRETE, LOOP"' s 96000 n 2 l 1:50.528
+D i 24
+F "AMB - WEATHER - THUNDER - 01.wav" 406626 0 1582748204 0
+D s 44100 n 1 l 0:04.609 i 16
+F "AMB - WEATHER - THUNDER - 02.wav" 254184 0 1582748204 0
+D s 44100 n 1 l 0:02.881 i 16
+F "AMB - WEATHER - THUNDER - 03.wav" 340186 0 1582748204 0
+D s 44100 n 1 l 0:03.856 i 16
+F "AMB - WEATHER - THUNDER - 04.wav" 252170 0 1582748204 0
+D s 44100 n 1 l 0:02.858 i 16
+F "AMB - WEATHER - thunder - 05.wav" 1657818 0 1299534650 0
+D s 44100 n 1 l 0:18.792 i 16
+F "AMB - WEATHER - thunder - 06.wav" 2690648 0 1299534650 0
+D s 44100 n 1 l 0:30.502 i 16
+F "AMB - WEATHER - THUNDER - DISTANT - BOOM - 01.wav" 6409460 0 1582748204 0
+D d "Thunder distant and rolling repetitively. " s 48000 n 2 l 0:21.850
+D i 24
+F "AMB - WEATHER - THUNDER - DISTANT - ROLLING - 01.wav" 12643750 0 1582748204 0
+D d "Thunder moderately distant filling sky with long roll." s 48000 n 2 l 0:43.496
+D i 24
+F "AMB - WEATHER - THUNDER - LOUD - 01.wav" 3555986 0 1582748204 0
+D y 1904-01-01 d THUNDER3-GAIN_01-01 s 44100 n 2
+D r 24:27.315 l 0:19.678 i 16
+F "AMB - WEATHER - THUNDER - STRIKE - 01.wav" 8872994 0 1582748204 0
+D a Soundrangers.com d "Large, epic thunder strike with lightning." s 96000 n 2
+D r 1:38.613 l 0:15.392 i 24
+F "AMB - WEATHER - THUNDER - SWEEP - 01.wav" 655010 0 1582748204 0
+D y 1904-01-01 d THUNDER-GAIN_01-01 s 44100 n 2
+D r 21:10.224 l 0:03.613 i 16
+F "AMB - WEATHER - WIND - BACKYARD - FLAGPOLE - CLATTER - TREES - 01.wav" 135526406 0 1495982098 0
+D y 2017 g Environments c "Flagpole whipping in the wind, mast clacking rhythmically, Occasionally light shower of rain" d "Flagpole whipping in the wind, mast clacking rhythmically, Occasionally light shower of rain"
+D s 96000 n 2 r 1:29:32.432 l 3:54.971
+D i 24 m 0
+F "AMB - WEATHER - WIND - BOAT - SAILING - 01.wav" 11650418 0 986139690 0
+D y 2001-02-04 s 44100 n 2 l 1:06.044
+D i 16
+F "AMB - WEATHER - WIND - CAVE - 01.wav" 10977250 0 980019704 0
+D y 2001-01-20 s 44100 n 2 l 1:02.228
+D i 16
+F "AMB - WEATHER - WIND - DESERT - 01.wav" 11273558 0 1462117466 0
+D s 44100 n 2 l 1:02.422 i 16
+F "AMB - WEATHER - WIND - EERIE - 01.wav" 11180304 0 986318126 0
+D s 44100 n 2 l 1:03.380 i 16
+F "AMB - WEATHER - WIND - GALACTIC - 01.wav" 29635244 0 1547642572 0
+D s 44100 n 2 l 1:52.000 i 24
+F "AMB - WEATHER - WIND - GHOST - TOWN - 01.wav" 27091856 0 1447149658 0
+D y 2005-10-07 s 44100 n 2 r 1:05:49.302
+D l 2:30.003 i 16
+F "AMB - WEATHER - wind - gust - eerie - 01.wav" 1048044 0 1299534650 0
+D s 44100 n 1 l 0:11.878 i 16
+F "AMB - WEATHER - wind - gust - eerie - 02.wav" 695116 0 1299534650 0
+D s 44100 n 1 l 0:07.877 i 16
+F "AMB - WEATHER - wind - gust - eerie - 03.wav" 607768 0 1299534650 0
+D s 44100 n 1 l 0:06.887 i 16
+F "AMB - WEATHER - wind - gust - eerie - 04.wav" 1024590 0 1299534650 0
+D s 44100 n 1 l 0:11.612 i 16
+F "AMB - WEATHER - wind - gust - eerie - 05.wav" 1307650 0 1299534650 0
+D s 44100 n 1 l 0:14.822 i 16
+F "AMB - WEATHER - wind - gust - eerie - 06.wav" 1532792 0 1299534650 0
+D s 44100 n 1 l 0:17.374 i 16
+F "AMB - WEATHER - wind - gust - eerie - 07.wav" 784426 0 1299534650 0
+D s 44100 n 1 l 0:08.890 i 16
+F "AMB - WEATHER - wind - gust - eerie - 08.wav" 1277694 0 1299534650 0
+D s 44100 n 1 l 0:14.482 i 16
+F "AMB - WEATHER - wind - gust - eerie - 09.wav" 996378 0 1299534650 0
+D s 44100 n 1 l 0:11.293 i 16
+F "AMB - WEATHER - wind - gust - eerie - 10.wav" 313280 0 1299534650 0
+D s 44100 n 1 l 0:03.548 i 16
+F "AMB - WEATHER - wind - gust - eerie - 11.wav" 343362 0 1299534650 0
+D s 44100 n 1 l 0:03.889 i 16
+F "AMB - WEATHER - wind - gust - eerie - 12.wav" 310350 0 1299534650 0
+D s 44100 n 1 l 0:03.515 i 16
+F "AMB - WEATHER - wind - gust - eerie - 13.wav" 340034 0 1299534650 0
+D s 44100 n 1 l 0:03.851 i 16
+F "AMB - WEATHER - wind - gust - eerie - 14.wav" 441324 0 1299534650 0
+D s 44100 n 1 l 0:05.000 i 16
+F "AMB - WEATHER - WIND - GUSTY - BIRDS - 01.wav" 85586584 0 1547642574 0
+D y 2016-04-1 s 96000 n 2 l 2:27.802
+D i 24
+F "AMB - WEATHER - wind - low.wav" 9445950 0 1299534650 0
+D y 2010-07-03 s 22050 n 2 l 1:47.082
+D i 16
+F "AMB - WEATHER - wind - med.wav" 3664442 0 1299534650 0
+D y 2010-07-03 s 32000 n 2 l 0:28.618
+D i 16
+F "AMB - WEATHER - wind - thin.wav" 7480182 0 1299534650 0
+D y 2010-08-17 s 44100 n 2 l 0:42.397
+D i 16
+F "Amb Ext Rain Dripping In Parking Garage.wav" 42342282 0 1481710499 0
+D a "Tommy Sarioglou" y 2015-08-23 g Ambience d "Savannah, GA: Rain dripping in a parking garage at night."
+D s 96000 n 2 l 1:13.120 i 24
+F "Lightning Strike.mp3" 414614 0 1583931276 0
+D s 44100 n 2 l 0:12.905 i 257k
+F "PM BAR 17 Rain, City, Narrow Stree, Drippy, Drip, Water, Thunder, Peel, Dist.wav" 57780166 0 1539938520 0
+D a "Phil Michalski | PMSFX @pmsfx" y 2018-10-19 g Weather c "Rain, City, Narrow Street, Drippy, Distan Thunder"
+D d "Back Alley Rain, City, Pour, Drip, Thunder" s 192000 n 2 r 18:00.000
+D l 0:50.000 i 24 m 0
+F "PM BAR2 7 Rain, Back Alley, City, Drip, Light,.wav" 84804530 0 1568328086 0
+D a "Phil Michalski PMSFX" y 2019-09-13 g Weather c "Rain, Back Alley, City, Drip, Light, Gutter, Puddles"
+D d "Rain, Back Alley, City, Drip, Light, Gutter, Puddles" s 192000 n 2 r 10:59.000
+D l 1:13.500 i 24 m 0
+F "Rain Against Car Window Ambience.mp3" 494862 0 1583931237 0
+D s 44100 n 2 l 0:15.413 i 257k
+F "Rain Falling On Umbrella.mp3" 2526144 0 1583931238 0
+D s 44100 n 2 l 1:18.890 i 256k
+F "Rain Hitting Car Internal Ambience (10+ Minutes).mp3" 26033840 0 1583931302 0
+D s 44100 n 2 l 13:33.506 i 256k
+F "Raindrops On Plastic.mp3" 3028531 0 1583931179 0
+D s 44100 n 2 l 1:23.096 i 292k
+F "SingleSound Vietnam HoiAn Neighbordog Rain.wav" 2460774 0 1555952499 0
+D y 2017-12-31 s 96000 n 2 r 6:51:27.816
+D l 0:04.202 i 24
+F "SingleSound Vietnam HoiAn RainWater ComingOut Pipe.wav" 52690836 0 1555952510 0
+D y 2018-01-03 s 96000 n 2 r 3:57:54.000
+D l 1:31.407 i 24
+F "SingleSound Vietnam HoiAn Strong Soft Rain.wav" 69139710 0 1555952497 0
+D y 2017-12-31 s 96000 n 2 r 6:46:16.000
+D l 1:59.964 i 24
+F "Soft rain 01 (loopable).mp3" 4413466 0 1505990276 0
+D s 44100 n 2 l 1:50.028 i 320k
+F "Soft rain 02 (loopable).mp3" 1342511 0 1505990276 0
+D s 44100 n 2 l 0:33.254 i 320k
+F "Soft rain, thunder.mp3" 2009156 0 1505990276 0
+D s 44100 n 2 l 0:49.921 i 320k
+F "Summer rain 01.wav" 1972268 0 1246441788 0
+D s 44100 n 2 l 0:07.453 i 24
+F "Summer rain 02.wav" 3121280 0 1246441896 0
+D y 2009-07-01 s 44100 n 2 l 0:11.795
+D i 24
+F "Summer rain 03.wav" 4964480 0 1246441992 0
+D y 2009-07-01 s 44100 n 2 l 0:18.761
+D i 24
+F "Summer rain 04.wav" 3317888 0 1246442190 0
+D y 2009-07-01 s 44100 n 2 l 0:12.538
+D i 24
+F "Summer rain 05.wav" 6881324 0 1246442334 0
+D s 44100 n 2 l 0:39.009 i 16
+F "Thunder And Lightning 1.wav" 847828 0 1439162500 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.805
+D i 16
+F "Thunder And Lightning 2.wav" 2240448 0 1439162273 0
+D a "Sound Ideas" s 44100 n 2 l 0:12.700
+D i 16
+F "Thunder And Lightning 3.wav" 3400650 0 1439162071 0
+D a "Sound Ideas" s 44100 n 2 l 0:19.277
+D i 16
+F "Thunder And Rain 01.wav" 16427288 0 1439162828 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:33.124
+D i 16
+F "Thunder And Rain 02.wav" 16725076 0 1439161872 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:34.812
+D i 16
+F "Thunder And Rain 03.wav" 16177858 0 1439160970 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.710
+D i 16
+F "Thunder Clap.wav" 2240372 0 1439163342 0
+D a "Apple Inc." s 44100 n 2 l 0:12.700
+D i 16
+F "Thunder Roll.wav" 3400570 0 1439162345 0
+D a "Apple Inc." s 44100 n 2 l 0:19.277
+D i 16
+F "Thunder Storm Ambience (20+ Mins).mp3" 40471822 0 1583931311 0
+D s 44100 n 2 l 20:14.120 i 267k
+F "Thunderstorm 01.mp3" 261877 0 1505990278 0
+D s 44100 n 2 l 0:15.726 i 128k
+F "Thunderstorm 02.mp3" 208378 0 1505990278 0
+D s 44100 n 2 l 0:12.383 i 128k
+F "Thunderstorm 03.mp3" 215066 0 1505990278 0
+D s 44100 n 2 l 0:12.801 i 128k
+F "Thunderstorm 04.mp3" 412760 0 1505990278 0
+D s 44100 n 2 l 0:25.183 i 128k
+F "Thunderstorm 05.mp3" 395206 0 1505990278 0
+D s 44100 n 2 l 0:24.085 i 128k
+F "Thunderstorm 06.mp3" 346723 0 1505990278 0
+D s 44100 n 2 l 0:21.029 i 128k
+F "Thunderstorm 07.mp3" 317466 0 1505990278 0
+D s 44100 n 2 l 0:19.201 i 128k
+F "Thunderstorm 08.mp3" 234292 0 1505990278 0
+D s 44100 n 2 l 0:14.002 i 128k
+F "Thunderstorm 09.mp3" 281521 0 1505990278 0
+D s 44100 n 2 l 0:16.954 i 128k
+F "Thunderstorm 10.mp3" 187480 0 1505990278 0
+D s 44100 n 2 l 0:11.050 i 128k
+F "Thunderstorm 11.mp3" 366367 0 1505990278 0
+D s 44100 n 2 l 0:22.257 i 128k
+F "Thunderstorm 12.mp3" 299911 0 1505990278 0
+D s 44100 n 2 l 0:18.103 i 128k
+F "Thunderstorm 13.mp3" 341289 0 1505990278 0
+D s 44100 n 2 l 0:20.690 i 128k
+F "Thunderstorm 14.mp3" 291134 0 1505990278 0
+D s 44100 n 2 l 0:17.555 i 128k
+F "Thunderstorm 15.mp3" 370128 0 1505990278 0
+D s 44100 n 2 l 0:22.492 i 128k
+F "Thunderstorm 16.mp3" 367203 0 1505990278 0
+D s 44100 n 2 l 0:22.309 i 128k
+F "Thunderstorm 17.mp3" 626337 0 1505990278 0
+D s 44100 n 2 l 0:38.557 i 128k
+F "Thunderstorm 18.mp3" 353410 0 1505990278 0
+D s 44100 n 2 l 0:21.447 i 128k
+F "Thunderstorm 19.mp3" 301165 0 1505990278 0
+D s 44100 n 2 l 0:18.182 i 128k
+F "Thunderstorm 20.mp3" 219663 0 1505990278 0
+D s 44100 n 2 l 0:13.088 i 128k
+F "Thunderstorm 31.mp3" 1506141 0 1505990278 0
+D s 44100 n 2 l 1:33.676 i 128k
+F "Thunderstorm 32.mp3" 1501544 0 1505990278 0
+D s 44100 n 2 l 1:33.388 i 128k
+F "Thunderstorm 34.mp3" 1498618 0 1505990278 0
+D s 44100 n 2 l 1:33.205 i 128k
+F "Thunderstorm 35.mp3" 1495274 0 1505990278 0
+D s 44100 n 2 l 1:32.996 i 128k
+F "Thunderstorm 36.mp3" 1493185 0 1505990278 0
+D s 44100 n 2 l 1:32.866 i 128k
+F "Thunderstorm 37.mp3" 1499036 0 1505990278 0
+D s 44100 n 2 l 1:33.232 i 128k
+F "Thunderstorm Close Lightning Strike.mp3" 779075 0 1583931145 0
+D s 44100 n 2 l 0:24.294 i 257k
+F "WATER, Rain   Tropical rain, rain falling and dripping on leaves, insects and birds   Monsoon, jungle   Binaural.wav" 104050420 0 1544622770 0
+D a "Michel Marchant" y 2015-04-29 g Rain c "WATER, Rain | Tropical rainfall, rain falling on leaves and dripping in pools | Interesting sounding insects and birds | Monsoon, jungle, tropical storm | Binaural"
+D d "WATER, Rain | Tropical rainfall, rain falling on leaves and dripping in pools | Interesting sounding insects and birds | Binaural | Monsoon, jungle, tropical storm" s 96000 n 2 l 3:00.005
+D i 24 m 0
+F "Wind Chimes Blowing In Wind.mp3" 23238529 0 1583931311 0
+D s 44100 n 2 l 12:06.152 i 256k
+F "Wind Storm Ambience.mp3" 1878307 0 1583931209 0
+D s 44100 n 2 l 0:58.645 i 256k
+F wind-01.wav 17281156 0 1583930967 0
+D y 2010-09-14 s 48000 n 2 l 1:00.000
+D i 24
+F wind-chime-1.wav 958536 0 1583930933 0
+D s 48000 n 2 l 0:04.992 i 16
+F wind-chime-2.wav 10448968 0 1583930959 0
+D s 48000 n 2 l 0:54.421 i 16

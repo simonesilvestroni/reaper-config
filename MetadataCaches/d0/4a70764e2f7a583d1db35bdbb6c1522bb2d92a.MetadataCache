@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundMorph - INTERVENTION"
+F "Explosives - Sweetners_07.wav" 2169254 0 1583867806 0
+D d "Explosion, explosives, large, exterior, stereo, SWAT, battle, cinematic, impact, boom, dirt, debris" s 48000 n 2 l 0:04.688
+D i 24
+F "Gear - movements_running_10.wav" 5629362 0 1583868233 0
+D d "Gear movements, SWAT, tactical, equipment, foley, special forces, police" s 48000 n 1 l 0:33.679
+D i 24
+F M16_INT_B_distant.wav 24869720 0 1583868632 0
+D d "source layer, rifle, shot, weapon, intervention, tactical, SWAT, gun, automatic, semi automatic" s 96000 n 2 l 0:41.216
+D i 24
+F "MP5_Burst - Shot - Short - Urban_Exterior.wav" 2947088 0 1583867279 0
+D d "rifle, carbine, shot, weapon, intervention, tactical, SWAT, gun, automatic, semi automatic, machine gun" s 96000 n 2 l 0:03.788
+D i 24

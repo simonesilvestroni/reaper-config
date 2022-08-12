@@ -1,0 +1,317 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - PLASTIC"
+F "Ball Bounce.wav" 82502 0 1248261072 0
+D y 2009-07-22 s 44100 n 2 l 0:00.311
+D i 24
+F "Ball Bouncing 1.wav" 88312 0 1200106056 0
+D s 44100 n 1 l 0:01.000 i 16
+F "Ball Bouncing 2.wav" 308812 0 1200106056 0
+D s 44100 n 1 l 0:03.500 i 16
+F "Ball In Glass 1.wav" 88440 0 1200106056 0
+D s 44100 n 1 l 0:01.001 i 16
+F "Ball In Glass 2.wav" 61988 0 1200106056 0
+D s 44100 n 1 l 0:00.701 i 16
+F "Ball In Glass 3.wav" 81374 0 1200106056 0
+D s 44100 n 1 l 0:00.921 i 16
+F "Ball Tunnel 1.wav" 141584 0 1200106056 0
+D s 44100 n 1 l 0:01.603 i 16
+F "Ball Tunnel 2.wav" 139880 0 1200106058 0
+D s 44100 n 1 l 0:01.584 i 16
+F "BOWED PLASTIC SIDING (01A)_7F416844.wav" 264236724 0 1584373534 0
+D t "BOWED PLASTIC SIDING (01A)" a - b - y 2019-11-16
+D g Metal c "BOWED PLASTIC SIDING (01A) - Shrill, Screeching and Buzzing Plastic, Reverberent Stairwell" d CO100kx2 p -
+D k - s 192000 n 2 r 1:35:29.857
+D l 3:49.355 i 24 m 0
+F "FOL - PLASTIC - BALL - ROLL - 01.wav" 980024 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin" s 96000
+D n 2 r 4:21.722 l 0:01.695 i 24
+F "FOL - PLASTIC - BALL - ROLL - 02.wav" 1238546 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin" s 96000
+D n 2 r 4:21.716 l 0:02.144 i 24
+F "FOL - PLASTIC - BALL - ROLL - 03.wav" 721508 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin" s 96000
+D n 2 r 4:21.746 l 0:01.246 i 24
+F "FOL - PLASTIC - BALL - ROLL - 04.wav" 1161944 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin" s 96000
+D n 2 r 4:21.719 l 0:02.011 i 24
+F "FOL - PLASTIC - BALL - ROLL - 05.wav" 1123646 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin" s 96000
+D n 2 r 4:21.724 l 0:01.944 i 24
+F "FOL - PLASTIC - BALL - SQUEAK - 01.wav" 657580 0 1582747034 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.445 l 0:01.135 i 24
+F "FOL - PLASTIC - BALL - SQUEAK - 02.wav" 442144 0 1582747034 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.461 l 0:00.761 i 24
+F "FOL - PLASTIC - BALL - SQUEAK - 03.wav" 561838 0 1582747034 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.445 l 0:00.969 i 24
+F "FOL - PLASTIC - BALL - SQUEAK - 04.wav" 1399734 0 1582747034 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.440 l 0:02.424 i 24
+F "FOL - PLASTIC - BALL - SQUEAK - 05.wav" 5540862 0 1582747034 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.456 l 0:09.613 i 24
+F "FOL - PLASTIC - BARREL - 01.wav" 66700 0 1582747034 0
+D s 44100 n 1 l 0:00.755 i 16
+F "FOL - PLASTIC - BARREL - 02.wav" 79934 0 1582747034 0
+D s 44100 n 1 l 0:00.905 i 16
+F "FOL - PLASTIC - BARREL - 03.wav" 123684 0 1582747034 0
+D s 44100 n 1 l 0:01.401 i 16
+F "FOL - PLASTIC - BARREL - 04.wav" 90170 0 1582747034 0
+D s 44100 n 1 l 0:01.021 i 16
+F "FOL - PLASTIC - BARREL - 05.wav" 76256 0 1582747034 0
+D s 44100 n 1 l 0:00.864 i 16
+F "FOL - PLASTIC - BASKETS - HANDLING - 01.wav" 40780490 0 1582747034 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Using big plastic baskets. " d "Using big plastic baskets. "
+D s 96000 n 1 l 2:20.848 i 24
+F "FOL - PLASTIC - BOTTLE - 01.wav" 1754088 0 1582747034 0
+D t "Opens And Closes Extension" a SoundBits y 2017-10-04 g "PLASTIC BOTTLE"
+D c "Plastic Bottle, Open, Close, Lock" d "Plastic Bottle, Open, Close, Lock" s 96000 n 2
+D r 25:18.279 l 0:03.022 i 24 m 0
+F "FOL - PLASTIC - BOTTLE - WATER - SHAKING - 01.wav" 65125534 0 1582747034 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Shaking plastic bottle with water. " d "Shaking plastic bottle with water. "
+D s 96000 n 1 l 3:44.934 i 24
+F "FOL - PLASTIC - BOWL - 01.wav" 34810 0 1582747034 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.369
+D i 16
+F "FOL - PLASTIC - BOWL - 02.wav" 32578 0 1582747034 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.344
+D i 16
+F "FOL - PLASTIC - BOX - DRAGGED - SCRAPE - FLOOR - 01.wav" 32243038 0 1582747034 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Scraping plastic box against concrete floor." d "Scraping plastic box against concrete floor."
+D s 96000 n 1 l 1:51.360 i 24
+F "FOL - PLASTIC - BUTTON - 01.wav" 1487394 0 1582747034 0
+D y "	" d "GENERIC BUTTON MEDIUM PLASTIC Press, rattle, release, shake" s 48000 n 2
+D l 0:04.830 i 24
+F "FOL - PLASTIC - BUTTON - 02.wav" 1247384 0 1582747034 0
+D y "	" d "GENERIC BUTTON MEDIUM PLASTIC Press, snap, resonance" s 48000 n 2
+D l 0:03.997 i 24
+F "FOL - PLASTIC - BUTTON - 03.wav" 1203544 0 1582747034 0
+D y "	" d "GENERIC BUTTON MEDIUM PLASTIC Press, snap, release, resonance, spring" s 48000 n 2
+D l 0:03.844 i 24
+F "FOL - PLASTIC - BUTTON - 04.wav" 1223794 0 1582747034 0
+D y "	" d "GENERIC BUTTON MEDIUM PLASTIC Press snap, mechanics, resonance" s 48000 n 2
+D l 0:03.915 i 24
+F "FOL - PLASTIC - BUTTON - 05.wav" 1170110 0 1582747034 0
+D y "	" d "GENERIC BUTTON MEDIUM PLASTIC Snap, fast" s 48000 n 2
+D l 0:03.729 i 24
+F "FOL - PLASTIC - BUTTON - TINY - 01.wav" 1247302 0 1582747034 0
+D y "	" d "GENERIC BUTTON TINY PLASTIC Switch, click" s 48000 n 2
+D l 0:03.997 i 24
+F "FOL - PLASTIC - BUTTON - TINY - 02.wav" 2252654 0 1582747034 0
+D y "	" d "GENERIC BUTTON TINY PLASTIC Squeak, rub, release, hollow" s 48000 n 2
+D l 0:07.488 i 24
+F "FOL - PLASTIC - BUTTON - TINY - 03.wav" 1238838 0 1582747034 0
+D y "	" d "GENERIC BUTTON TINY PLASTIC Press, lock, latch" s 48000 n 2
+D l 0:03.968 i 24
+F "FOL - PLASTIC - BUTTON - TINY - 04.wav" 1652070 0 1582747034 0
+D y "	" d "GENERIC BUTTON TINY PLASTIC Press, release, spring" s 48000 n 2
+D l 0:05.402 i 24
+F "FOL - PLASTIC - BUTTON - TINY - 05.wav" 1494954 0 1582747034 0
+D y "	" d "GENERIC BUTTON TINY PLASTIC Press, squeak, rub, release" s 48000 n 2
+D l 0:04.850 i 24
+F "FOL - PLASTIC - CAP - BOTTLE - SCREW - 01.wav" 3885098 0 1582747034 0
+D y 2016-11-04 d "Screw Cap, Plastic Bottle, Open and Close, Screw the lid on and off" s 96000 n 2
+D r 7:24.535 l 0:06.741 i 24
+F "FOL - PLASTIC - CONTAINER - 01.wav" 338516 0 1582747034 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Plat, Dish, Bloc. Hit," s 96000
+D n 2 r 52:56.158 l 0:00.581 i 24
+F "FOL - PLASTIC - CONTAINER - 02.wav" 290644 0 1582747034 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Plat, Dish, Bloc. Hit," s 96000
+D n 2 r 52:57.005 l 0:00.498 i 24
+F "FOL - PLASTIC - CONTAINER - 03.wav" 309790 0 1582747034 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Plat, Dish, Bloc. Hit," s 96000
+D n 2 r 52:58.535 l 0:00.531 i 24
+F "FOL - PLASTIC - CONTAINER - 04.wav" 330470 0 1582747034 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Plat, Dish, Bloc. Hit," s 96000
+D n 2 r 52:59.790 l 0:00.567 i 24
+F "FOL - PLASTIC - CONTAINER - 05.wav" 233348 0 1582747034 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Plat, Dish, Bloc. Hit," s 96000
+D n 2 r 53:01.228 l 0:00.399 i 24
+F "FOL - PLASTIC - CRASH - 01.wav" 90922 0 1582747034 0
+D s 44100 n 1 l 0:01.030 i 16
+F "FOL - PLASTIC - CRASH - 02.wav" 49708 0 1582747034 0
+D s 44100 n 1 l 0:00.563 i 16
+F "FOL - PLASTIC - CRASH - 03.wav" 86314 0 1582747034 0
+D s 44100 n 1 l 0:00.978 i 16
+F "FOL - PLASTIC - CRASH - 04.wav" 80682 0 1582747034 0
+D s 44100 n 1 l 0:00.914 i 16
+F "FOL - PLASTIC - CRASH - 05.wav" 38700 0 1582747034 0
+D s 44100 n 1 l 0:00.438 i 16
+F "FOL - PLASTIC - CREAKS - 01.wav" 4626948 0 1582747034 0
+D y 2017-05-02 d "Plastic, Bottle Case, Squeak, Creaking, Creak - Mono - NTG3" s 96000 n 1
+D r 33:13.117 l 0:16.062 i 24
+F "FOL - PLASTIC - MANIPULATION - 01.wav" 1219530 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Shake, Squeak, Hit," s 96000
+D n 2 r 4:02.656 l 0:02.111 i 24
+F "FOL - PLASTIC - MANIPULATION - 02.wav" 2339898 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Shake, Squeak, Hit," s 96000
+D n 2 r 4:02.655 l 0:04.056 i 24
+F "FOL - PLASTIC - MECHANISM - SHAKE - 01.wav" 841210 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Mechanism, Run, Spin" s 96000
+D n 2 r 4:04.955 l 0:01.454 i 24
+F "FOL - PLASTIC - MECHANISM - SHAKE - 02.wav" 857162 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Mechanism, Run, Spin" s 96000
+D n 2 r 4:04.951 l 0:01.482 i 24
+F "FOL - PLASTIC - MECHANISM - SHAKE - 03.wav" 905042 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Mechanism, Run, Spin" s 96000
+D n 2 r 4:04.960 l 0:01.565 i 24
+F "FOL - PLASTIC - MECHANISM - SHAKE - 04.wav" 785354 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Mechanism, Run, Spin" s 96000
+D n 2 r 4:04.963 l 0:01.357 i 24
+F "FOL - PLASTIC - MECHANISM - SHAKE - 05.wav" 785354 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Mechanism, Run, Spin" s 96000
+D n 2 r 4:04.948 l 0:01.357 i 24
+F "FOL - PLASTIC - MOVEMENT - 01.wav" 8062444 0 1582747034 0
+D y 2012-10-18 d "SCI FI MECHANICS PLASTIC MOVEMENT Glove compartment closing, plastic with metal twang." s 96000 n 2
+D l 0:13.626 i 24
+F "FOL - PLASTIC - MOVEMENT - 02.wav" 14697388 0 1582747034 0
+D y 2012-10-18 d "SCI FI MECHANICS PLASTIC MOVEMENT Plastic movement of a cassette being put into a radio." s 96000 n 2
+D l 0:25.130 i 24
+F "FOL - PLASTIC - MOVEMENT - 03.wav" 5343228 0 1582747034 0
+D y 2012-10-18 d "SCI FI MECHANICS PLASTIC MOVEMENT Snapping movement, cassette inserted into a radio." s 96000 n 2
+D l 0:08.912 i 24
+F "FOL - PLASTIC - MOVEMENT - 04.wav" 6573596 0 1582747034 0
+D y 2012-10-18 d "SCI FI MECHANICS PLASTIC MOVEMENT Short movement, cassette inserted into a radio." s 96000 n 2
+D l 0:11.045 i 24
+F "FOL - PLASTIC - MOVEMENT - 05.wav" 7730108 0 1582747034 0
+D y 2012-10-18 d "SCI FI MECHANICS PLASTIC MOVEMENT Scraping movement, dvd drive being opened." s 96000 n 2
+D l 0:13.050 i 24
+F "FOL - PLASTIC - MOVEMENT - 06.wav" 81068508 0 1582747034 0
+D y 2012-10-18 d "SCI FI MECHANICS PLASTIC MOVEMENT Plastic movement of cd changer. Some button clicks and small moving motor." s 96000 n 2
+D l 2:20.208 i 24
+F "FOL - PLASTIC - OBJECTS - HANDLING - 01.wav" 1444476 0 1582747034 0
+D y 2018-07-24 d "dSCENE=  dTAKE=  dTAPE=  dNOTE=sci-fi, futuristic, weapon, gun, foley, trigger, bolt, cock, action, mechanic, click  " s 48000 n 2
+D l 0:01.144 i 24
+F "FOL - PLASTIC - OBJECTS - HANDLING - 02.wav" 1544496 0 1582747034 0
+D y 2018-07-24 d "dSCENE=  dTAKE=  dTAPE=  dNOTE=sci-fi, futuristic, weapon, gun, foley, trigger, bolt, cock, action, mechanic, click  " s 48000 n 2
+D l 0:01.489 i 24
+F "FOL - PLASTIC - RATTLE - 01.wav" 3301394 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Rubbing," s 96000
+D n 2 r 4:01.868 l 0:05.725 i 24
+F "FOL - PLASTIC - RATTLE - 02.wav" 3128624 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Rattle, Rubbing," s 96000
+D n 2 r 4:01.580 l 0:05.425 i 24
+F "FOL - PLASTIC - REMOVE - BAG - 01.wav" 1960208 0 1582747034 0
+D t "Coffee, filter, remove from plastic bag" b "The Home Barista" y 2017-04-22 g Paper
+D c "Coffee, filter, remove from plastic bag" d "Coffee, filter, remove from plastic bag" s 96000 n 1
+D r 0:12.445 l 0:06.798 i 24
+F "FOL - PLASTIC - SAWING - 01.wav" 77728206 0 1582747034 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Scraping plastic hangers against each other, sawing sound. " d "Scraping plastic hangers against each other, sawing sound. "
+D s 96000 n 1 l 4:28.463 i 24
+F "FOL - PLASTIC - SODA - CUP - 01.wav" 60204 0 1582747034 0
+D s 44100 n 1 l 0:00.682 i 16
+F "FOL - PLASTIC - SODA - CUP - 02.wav" 135210 0 1582747034 0
+D s 44100 n 1 l 0:01.532 i 16
+F "FOL - PLASTIC - SODA - CUP - 03.wav" 192812 0 1582747034 0
+D s 44100 n 1 l 0:02.185 i 16
+F "FOL - PLASTIC - SODA - CUP - 04.wav" 61548 0 1582747034 0
+D s 44100 n 1 l 0:00.697 i 16
+F "FOL - PLASTIC - SPIN - CLINCK - TICK - 01.wav" 43245268 0 1582747034 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Gear clicking sounds, spinning, subtle and high pitch. " d "Gear clicking sounds, spinning, subtle and high pitch. "
+D s 96000 n 1 l 2:29.361 i 24
+F "FOL - PLASTIC - TOY - BALLS - SHAKING - SPINNING - 01.wav" 67050664 0 1582747034 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Shaking plastic box with small toy balls. " d "Shaking plastic box with small toy balls. "
+D s 96000 n 1 l 3:51.583 i 24
+F "FOL - PLASTIC - TOY - SPIN - 01.wav" 4056994 0 1582747034 0
+D t Correction y 2015-10-02 d "Toys, Kids, Plastic, Play, Tools, Spin, Rotate," s 96000
+D n 2 r 5:23.314 l 0:07.037 i 24
+F "FOL - PLASTIC - TOY - SPIN - 02.wav" 2249770 0 1582747034 0
+D t Correction y 2015-10-02 d "Toys, Kids, Plastic, Play, Tools, Spin, Rotate," s 96000
+D n 2 r 5:23.318 l 0:03.899 i 24
+F "FOL - PLASTIC - TOY - SPIN - 03.wav" 1395952 0 1582747034 0
+D t Correction y 2015-10-02 d "Toys, Kids, Plastic, Play, Tools, Spin, Rotate," s 96000
+D n 2 r 5:23.316 l 0:02.417 i 24
+F "FOL - PLASTIC - TOY - SPIN - 04.wav" 1877596 0 1582747034 0
+D t Correction y 2015-10-02 d "Toys, Kids, Plastic, Play, Tools, Spin, Rotate," s 96000
+D n 2 r 5:23.333 l 0:03.253 i 24
+F "FOL - PLASTIC - WHEELS - SPIN - 01.wav" 5566234 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Truck, Car, Wheels, Rotate, Spin, Shaking " s 96000
+D n 2 r 4:00.925 l 0:09.657 i 24
+F "FOL - PLASTIC - WHEELS - SPIN - 02.wav" 2499398 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Truck, Car, Wheels, Rotate, Spin, Shaking " s 96000
+D n 2 r 4:01.191 l 0:04.333 i 24
+F "FOL - PLASTIC - WHEELS - SPIN - 03.wav" 3990842 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 4:00.359 l 0:06.922 i 24
+F "FOL - PLASTIC - WHEELS - SPIN - 04.wav" 3395204 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 4:00.736 l 0:05.888 i 24
+F "FOL - PLASTIC - WHEELS - SPIN - 05.wav" 3312476 0 1582747034 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 4:00.738 l 0:05.744 i 24
+F "FOL - PLASTIC - WRAPPER - SQUEAKS - 01.wav" 9295756 0 1582747034 0
+D y 2015-01-04 d "PULLING AND BENDING PLASTIC CELLOPHANE WRAPPER - SQUEAKY" s 96000 n 1
+D r 1:00:27.014 l 0:32.149 i 24
+F pill-bottle-1.wav 258120 0 1583930956 0
+D s 48000 n 2 l 0:01.344 i 16
+F pill-bottle-2.wav 196680 0 1583930956 0
+D s 48000 n 2 l 0:01.024 i 16
+F pill-bottle-to-table-1.wav 172104 0 1583930957 0
+D s 48000 n 2 l 0:00.896 i 16
+F "Plastic Bottle 1.wav" 66262 0 1200106142 0
+D s 44100 n 1 l 0:00.750 i 16
+F "Plastic Bottle 1C.wav" 55238 0 1201972894 0
+D s 44100 n 1 l 0:00.625 i 16
+F "Plastic Bottle 2.wav" 65246 0 1200106144 0
+D s 44100 n 1 l 0:00.738 i 16
+F "Plastic Bottle 2C.wav" 42078 0 1201972894 0
+D s 44100 n 1 l 0:00.475 i 16
+F "Plastic Bottle 3.wav" 90842 0 1201972894 0
+D s 44100 n 1 l 0:01.028 i 16
+F "Plastic Bottle Crush.mp3" 118699 0 1583931183 0
+D s 44100 n 2 l 0:03.658 i 260k
+F "Plastic Bottle Pop1.wav" 82258 0 1202133368 0
+D y 2008-02-04 s 44100 n 1 r 0:00.399
+D l 0:00.924 i 16
+F "Plastic Bottle Pop2.wav" 76754 0 1202133368 0
+D y 2008-02-04 s 44100 n 1 r 0:03.581
+D l 0:00.862 i 16
+F "Plastic Bottle Pop3.wav" 74194 0 1202133368 0
+D y 2008-02-04 s 44100 n 1 r 0:11.778
+D l 0:00.833 i 16
+F "Plastic Bottle Stairs 1.wav" 400228 0 1200106144 0
+D s 44100 n 1 l 0:04.536 i 16
+F "Plastic Bowl 01.wav" 33200 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.369
+D i 16
+F "Plastic Bowl 02.wav" 51006 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.571
+D i 16
+F "Plastic Box 1.wav" 93574 0 1201972944 0
+D s 44100 n 1 l 0:01.059 i 16
+F "Plastic Container 1.wav" 185924 0 1439162146 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.053
+D i 16
+F "Plastic Container 2.wav" 55776 0 1439163325 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.315
+D i 16
+F "Plastic Crumple 1.wav" 3784776 0 1488630177 0
+D s 48000 n 2 l 0:19.712 i 16
+F "Plastic Crumple 2.wav" 2184632 0 1488630177 0
+D s 48000 n 2 l 0:11.378 i 16
+F "Plastic Flex.wav" 271616 0 1247750198 0
+D y 2009-07-16 s 44100 n 2 l 0:01.026
+D i 24
+F "Plastic Hit1.wav" 154186 0 1199110316 0
+D s 44100 n 1 l 0:01.746 i 16
+F "Plastic Hit2.wav" 212994 0 1199110316 0
+D s 44100 n 1 l 0:02.413 i 16
+F "Plastic Jeans 1.wav" 35080 0 1200106144 0
+D s 44100 n 1 l 0:00.396 i 16
+F "Plastic Plate 01.wav" 44170 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.493
+D i 16
+F "Plastic Plate 02.wav" 31016 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.344
+D i 16
+F "Plastic Plate 03.wav" 43960 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.491
+D i 16
+F "Plastic Plate 04.wav" 50664 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.567
+D i 16
+F plastic-crumple-1.wav 3784776 0 1583930957 0
+D s 48000 n 2 l 0:19.712 i 16
+F plastic-crumple-2.wav 2184632 0 1583930932 0
+D s 48000 n 2 l 0:11.378 i 16

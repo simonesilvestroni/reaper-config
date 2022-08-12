@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Mindful Audio - Elements - Gears"
+F "large gear 02 metal wood slow 8040.wav" 8483868 0 1583868372 0
+D y 2016-04-21T09:20:43+01:00 d "large gear metal wood slow mechanism machine cog ratchet pinion" s 96000 n 1
+D l 0:29.380 i 24
+F "large gear 03 metal slow 8040.wav" 17554712 0 1583868853 0
+D d "large gear metal slow mechanism cog ratchet pinion drawbridge" s 96000 n 1 l 1:00.894
+D i 24
+F "small gear 13 plastic metal slow.wav" 20895600 0 1583869085 0
+D d "small gear plastic metal slow mechanism cog ratchet pinion" s 96000 n 1 l 1:12.494
+D i 24
+F "small gear 15 plastic fast.wav" 15908944 0 1583868584 0
+D d "small gear plastic fast mechanism cog ratchet pinion creaky squeaky" s 96000 n 1 l 0:55.179
+D i 24

@@ -1,0 +1,15 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Chrysler Town & Country 3.6L VVT_"
+F Chrysler_TC_t1_onboard_startup_various_acceleration_deceleration_gearing_shutdown_interior.1.wav 28380534 0 1583869015 0
+F Chrysler_TC_t1_onboard_startup_various_acceleration_deceleration_gearing_shutdown_interior.wav 28380534 0 1583869000 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard startup various acceleration deceleration gearing shutdown interior Neumann RSM191 Sound Devices 788 wav"
+D d "onboard startup various acceleration deceleration gearing shutdown interior Neumann RSM191 Sound Devices 788 wav" s 96000 n 2 l 0:49.077
+D i 24 m 0
+F Chrysler_TC_t3_exterior_startup_aways_passbys_approaches_stops_shutdowns_various_speeds_shotgun.wav 21766686 0 1583868963 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior startup aways passbys approaches stops shutdowns various speeds handheld shotgun Neumann RSM191 Sound Devices 744 wav"
+D d "exterior startup aways passbys approaches stops shutdowns various speeds handheld shotgun Neumann RSM191 Sound Devices 744 wav" s 96000 n 2 l 0:37.594
+D i 24 m 0
+F Chrysler_TC_t4_exterior_startup_away_approach_stop_shutdown_shotgun.1.wav 6467582 0 1583869029 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior startup away approach stop shutdown handheld shotgun Neumann RSM191 Sound Devices 744 wav"
+D d "exterior startup away approach stop shutdown handheld shotgun Neumann RSM191 Sound Devices 744 wav" s 96000 n 2 l 0:11.034
+D i 24 m 0
+F Chrysler_TC_t4_exterior_startup_away_approach_stop_shutdown_shotgun.wav 6467582 0 1583868761 0

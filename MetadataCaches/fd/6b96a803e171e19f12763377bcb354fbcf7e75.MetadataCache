@@ -1,0 +1,58 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Ambience City"
+F "Bart 1.wav" 503892 0 1436227745 0
+D s 44100 n 1 l 0:05.665 i 16
+F "Bus Interior Idling.wav" 1397820 0 1436227745 0
+D s 44100 n 2 l 0:07.900 i 16
+F "Cafe Ambience.wav" 3879636 0 1436227745 0
+D s 44100 n 2 l 0:21.969 i 16
+F "Church Bell.wav" 1101642 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:06.240 i 16
+F "City Light C3.wav" 2351928 0 1436227745 0
+D t 100121_01 a "My Recording" s 48000 n 2
+D l 0:11.902 i 16
+F "Drying Machine Loop.wav" 703572 0 1436227745 0
+D s 44100 n 2 l 0:03.964 i 16
+F "Festival Fatigue.wav" 822912 0 1436227745 0
+D s 44100 n 2 l 0:04.641 i 16
+F Fleamarket.wav 892920 0 1436227745 0
+D s 44100 n 1 l 0:10.076 i 16
+F "Hallgrimskirkja Bells.wav" 2380380 0 1436227745 0
+D s 44100 n 2 l 0:13.458 i 16
+F "High Street Edinburgh.wav" 1449312 0 1436227745 0
+D s 44100 n 2 l 0:08.192 i 16
+F "Iceland Cafe Gig Hang 3.wav" 565274 0 1436227745 0
+D y 2011-10-13 s 48000 n 1 r 15:55:04.463
+D l 0:05.812 i 16
+F "Outdoor Shower 02.wav" 5185850 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 4:04:05.380 l 0:19.575 i 24
+F "Passing Car 1.wav" 3636404 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 5:35:17.954 l 0:13.719 i 24
+F "Passing Car 3.wav" 2339054 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 5:03:09.806 l 0:08.816 i 24
+F "Power Plant 03 Pdown.wav" 7506850 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 3:43:04.359 l 0:28.344 i 24
+F "Power Plant 04.wav" 3703430 0 1436227745 0
+D y 2011-12-06 d Deru s 44100 n 2
+D r 3:47:32.338 l 0:13.972 i 24
+F Sfmall.wav 2584808 0 1436227745 0
+D s 44100 n 2 l 0:14.629 i 16
+F "Sfpowell Street.wav" 2928724 0 1436227745 0
+D s 44100 n 2 l 0:16.579 i 16
+F "Soundcheck Guitar 3.wav" 603322 0 1436227745 0
+D y 2011-10-14 s 48000 n 1 r 2:24:01.562
+D l 0:06.217 i 16
+F "Street 1.wav" 274762 0 1436227745 0
+D s 44100 n 1 l 0:03.067 i 16
+F Traveller.wav 1587644 0 1436227745 0
+D s 44100 n 2 l 0:09.000 i 16
+F "Vot Vradiochatter 01.wav" 391922 0 1655744996 0
+D c "Recorded on 11/18/2009 in Edison." s 44100 n 2 l 0:02.220
+D i 16
+F "Vot Vradiochatter 02.wav" 1026462 0 1655744996 0
+D c "Recorded on 11/18/2009 in Edison." s 44100 n 2 l 0:05.817
+D i 16

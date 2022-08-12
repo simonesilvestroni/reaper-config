@@ -1,0 +1,114 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Bass/Analog Bass/Throaty Bass"
+F "Throaty Bass A#-1.wav" 536626 0 1436227745 0
+D c "r8brain PRO NormGain: 0.03 dB" s 44100 n 1 l 0:05.893
+D i 16
+F "Throaty Bass A#0.wav" 691402 0 1436227745 0
+D c "r8brain PRO NormGain: 0.05 dB" s 44100 n 1 l 0:07.607
+D i 16
+F "Throaty Bass A#1.wav" 966714 0 1436227745 0
+D c "r8brain PRO NormGain: -0.06 dB" s 44100 n 1 l 0:10.657
+D i 16
+F "Throaty Bass A#2.wav" 966714 0 1436227745 0
+D s 44100 n 1 l 0:10.657 i 16
+F "Throaty Bass A#3.wav" 397190 0 1436227745 0
+D s 44100 n 1 l 0:04.348 i 16
+F "Throaty Bass A#4.wav" 532006 0 1436227745 0
+D s 44100 n 1 l 0:05.842 i 16
+F "Throaty Bass A#5.wav" 602296 0 1436227745 0
+D s 44100 n 1 l 0:06.620 i 16
+F "Throaty Bass B1.wav" 899392 0 1436227745 0
+D c "r8brain PRO NormGain: -0.06 dB" s 44100 n 1 l 0:09.912
+D i 16
+F "Throaty Bass C-1.wav" 387824 0 1436227745 0
+D c "r8brain PRO NormGain: 0.03 dB" s 44100 n 1 l 0:04.244
+D i 16
+F "Throaty Bass C0.wav" 428400 0 1436227745 0
+D c "r8brain PRO NormGain: 0.02 dB" s 44100 n 1 l 0:04.694
+D i 16
+F "Throaty Bass C1.wav" 980428 0 1436227745 0
+D c "r8brain PRO NormGain: -0.03 dB" s 44100 n 1 l 0:10.809
+D i 16
+F "Throaty Bass C2.wav" 842026 0 1436227745 0
+D s 44100 n 1 l 0:09.276 i 16
+F "Throaty Bass C3.wav" 559714 0 1436227745 0
+D s 44100 n 1 l 0:06.148 i 16
+F "Throaty Bass C4.wav" 570282 0 1436227745 0
+D s 44100 n 1 l 0:06.266 i 16
+F "Throaty Bass C5.wav" 615062 0 1436227745 0
+D s 44100 n 1 l 0:06.762 i 16
+F "Throaty Bass C6.wav" 563184 0 1436227745 0
+D s 44100 n 1 l 0:06.187 i 16
+F "Throaty Bass D-1.wav" 384384 0 1436227745 0
+D c "r8brain PRO NormGain: 0.02 dB" s 44100 n 1 l 0:04.206
+D i 16
+F "Throaty Bass D0.wav" 438210 0 1436227745 0
+D c "r8brain PRO NormGain: 0.02 dB" s 44100 n 1 l 0:04.802
+D i 16
+F "Throaty Bass D1.wav" 664884 0 1436227745 0
+D s 44100 n 1 l 0:07.314 i 16
+F "Throaty Bass D2.wav" 547558 0 1436227745 0
+D c "r8brain PRO NormGain: 0.05 dB" s 44100 n 1 l 0:06.014
+D i 16
+F "Throaty Bass D3.wav" 731956 0 1436227745 0
+D s 44100 n 1 l 0:08.057 i 16
+F "Throaty Bass D4.wav" 694362 0 1436227745 0
+D c "r8brain PRO NormGain: 0.06 dB" s 44100 n 1 l 0:07.640
+D i 16
+F "Throaty Bass D5.wav" 505424 0 1436227745 0
+D c "r8brain PRO NormGain: -0.01 dB" s 44100 n 1 l 0:05.547
+D i 16
+F "Throaty Bass E-1.wav" 432094 0 1436227745 0
+D c "r8brain PRO NormGain: 0.04 dB" s 44100 n 1 l 0:04.735
+D i 16
+F "Throaty Bass E0.wav" 693190 0 1436227745 0
+D c "r8brain PRO NormGain: 0.00 dB" s 44100 n 1 l 0:07.627
+D i 16
+F "Throaty Bass E1.wav" 902774 0 1436227745 0
+D s 44100 n 1 l 0:09.949 i 16
+F "Throaty Bass E2.wav" 535938 0 1436227745 0
+D c "r8brain PRO NormGain: 0.08 dB" s 44100 n 1 l 0:05.885
+D i 16
+F "Throaty Bass E3.wav" 507462 0 1436227745 0
+D s 44100 n 1 l 0:05.570 i 16
+F "Throaty Bass E4.wav" 534254 0 1436227745 0
+D c "r8brain PRO NormGain: 0.05 dB" s 44100 n 1 l 0:05.867
+D i 16
+F "Throaty Bass E5.wav" 492370 0 1436227745 0
+D c "r8brain PRO NormGain: -0.06 dB" s 44100 n 1 l 0:05.402
+D i 16
+F "Throaty Bass F#-1.wav" 514314 0 1436227745 0
+D c "r8brain PRO NormGain: 0.02 dB" s 44100 n 1 l 0:05.646
+D i 16
+F "Throaty Bass F#0.wav" 512732 0 1436227745 0
+D c "r8brain PRO NormGain: 0.03 dB" s 44100 n 1 l 0:05.628
+D i 16
+F "Throaty Bass F#1.wav" 617714 0 1436227745 0
+D c "r8brain PRO NormGain: -0.40 dB" s 44100 n 1 l 0:06.791
+D i 16
+F "Throaty Bass F#2.wav" 604876 0 1436227745 0
+D c "r8brain PRO NormGain: 0.03 dB" s 44100 n 1 l 0:06.649
+D i 16
+F "Throaty Bass F#3.wav" 1048462 0 1436227745 0
+D s 44100 n 1 l 0:11.563 i 16
+F "Throaty Bass F#4.wav" 280952 0 1436227745 0
+D c "r8brain PRO NormGain: 0.02 dB" s 44100 n 1 l 0:03.060
+D i 16
+F "Throaty Bass F#5.wav" 597850 0 1436227745 0
+D s 44100 n 1 l 0:06.571 i 16
+F "Throaty Bass G#-1.wav" 763402 0 1436227745 0
+D c "r8brain PRO NormGain: 0.02 dB" s 44100 n 1 l 0:08.405
+D i 16
+F "Throaty Bass G#0.wav" 650568 0 1436227745 0
+D c "r8brain PRO NormGain: -0.14 dB" s 44100 n 1 l 0:07.155
+D i 16
+F "Throaty Bass G#1.wav" 795114 0 1436227745 0
+D c "r8brain PRO NormGain: -0.07 dB" s 44100 n 1 l 0:08.756
+D i 16
+F "Throaty Bass G#2.wav" 558600 0 1436227745 0
+D s 44100 n 1 l 0:06.136 i 16
+F "Throaty Bass G#3.wav" 485866 0 1436227745 0
+D s 44100 n 1 l 0:05.330 i 16
+F "Throaty Bass G#4.wav" 534156 0 1436227745 0
+D s 44100 n 1 l 0:05.865 i 16
+F "Throaty Bass G#5.wav" 600846 0 1436227745 0
+D s 44100 n 1 l 0:06.604 i 16

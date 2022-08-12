@@ -1,0 +1,25 @@
+C10017 "/Volumes/LIBRARY/PRODUCTION/2022/Isadora D/Dimenticare Rimini/Dimenticare Rimini [PRE Master]/Audio files"
+F bass.wav 79107064 0 1655303390 0
+D y 2022-06-15 s 44100 n 2 r 1:00:08.000
+D l 3:44.000 i 32
+F "Dimenticare Rimini [Master]_stems_VOX.wav" 83328736 0 1656083943 0
+D y 2022-06-24 s 48000 n 2 l 3:37.000
+D i 32
+F drums.wav 79107066 0 1655302296 0
+D y 2022-06-15 s 44100 n 2 r 1:00:08.000
+D l 3:44.000 i 32
+F guit-glued.wav 82944736 0 1656168987 0
+D y 2022-06-25 s 48000 n 2 l 3:36.000
+D i 32
+F guit.wav 79107064 0 1655302853 0
+D y 2022-06-15 s 44100 n 2 r 1:00:08.000
+D l 3:44.000 i 32
+F synth-glued.wav 82944736 0 1656169241 0
+D y 2022-06-25 s 48000 n 2 l 3:36.000
+D i 32
+F synth.wav 79107064 0 1655304137 0
+D y 2022-06-15 s 44100 n 2 r 1:00:08.000
+D l 3:44.000 i 32
+F vox.wav 79107066 0 1655305974 0
+D y 2022-06-15 s 44100 n 2 r 1:00:08.000
+D l 3:44.000 i 32

@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Hydraulics & Pneumatics Library"
+F Machine_2_mono_02.wav 522358 0 1583867189 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Machines c "Plastic Moulding Machine workshop pneumatics hydraulics noise Sennheiser MKH8060 mono"
+D d "Plastic Moulding Machine workshop pneumatics hydraulics noise Sennheiser MKH8060 mono" s 96000 n 1 l 0:01.770
+D i 24 m 0
+F Machine_6_mono_06.wav 3721826 0 1583868481 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Machines c "Material Feeding Hall workshop pneumatics hydraulics noise Sennheiser MKH8060 mono"
+D d "Material Feeding Hall workshop pneumatics hydraulics noise Sennheiser MKH8060 mono" s 96000 n 1 l 0:12.880
+D i 24 m 0
+F Robot_1_axle_1_speed_-1_MKH8060.wav 6860018 0 1583868795 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Machines c "KUKA Industrial robot 1 axle speed 1 Sennheiser MKH8060 wav hydraulics  whine rpms"
+D d "KUKA Industrial robot 1 axle speed 1 Sennheiser MKH8060 wav hydraulics  whine rpms" s 96000 n 1 l 0:23.402
+D i 24 m 0

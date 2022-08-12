@@ -1,0 +1,103 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Drums/Single Samples"
+F 808_Saw_Complex_Transpose_Dirty.aif 705654 0 1655744421 0
+D s 44100 n 2 l 0:04.000 i 16
+F "808CX 36 BD2 8_1.aif" 68246 0 1655744421 0
+D s 44100 n 1 l 0:00.760 i 16
+F "Ame Hit 22.wav" 1064516 0 1436227745 0
+D s 44100 n 2 l 0:06.011 i 16
+F bass_squelch.wav 132344 0 1614292734 0
+D s 44100 n 2 l 0:00.750 i 16
+F "Blip Kick.aif" 530792 0 1655744421 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Canyon Hit.wav" 163924 0 1655744718 0
+D s 44100 n 1 l 0:01.811 i 16
+F "Chill Kick.aif" 324054 0 1614292734 0
+D s 48000 n 2 l 0:01.125 i 24
+F "Cinematic Drum Hit 02.wav" 417536 0 1655744718 0
+D s 44100 n 2 l 0:02.343 i 16
+F "Cinematic Drum Hit 06.wav" 417536 0 1655744718 0
+D s 44100 n 2 l 0:02.343 i 16
+F "Cinematic Drum Hit 07.wav" 830972 0 1436227745 0
+D s 44100 n 2 l 0:04.687 i 16
+F "Cinematic Drum Hit 08.wav" 665596 0 1436227745 0
+D s 44100 n 2 l 0:03.750 i 16
+F "Cinematic Drum Hit 09.wav" 505768 0 1436227745 0
+D s 44100 n 2 l 0:02.843 i 16
+F "Closed Analog Hi Hat.aif" 62640 0 1655744718 0
+D s 44100 n 2 l 0:00.352 i 16
+F "Dark Secrets Transient.wav" 32186 0 1655744467 0
+D y 2021-03-15 s 44100 n 2 r 1:00:00.000
+D l 0:00.117 i 24
+F "Finger Snap Ambience.wav" 120632 0 1655744718 0
+D s 44100 n 2 l 0:00.660 i 16
+F "Fractal Gong.wav" 569660 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:03.224
+D i 16
+F "Gamelan Space Gong.wav" 1559492 0 1436227745 0
+D s 44100 n 2 l 0:08.817 i 16
+F "Gong 1.aif" 1881828 0 1438707436 0
+D s 44100 n 2 l 0:10.665 i 16
+F "Gong 2.aif" 2548032 0 1438707436 0
+D s 44100 n 2 l 0:14.441 i 16
+F "Kalimba Rattle.aif" 303520 0 1655744718 0
+D s 44100 n 2 l 0:01.714 i 16
+F "Kick Attack.aif" 177532 0 1614292734 0
+D s 44100 n 2 l 0:00.666 i 24
+F Kicks-007.aif 244126 0 1655744421 0
+D s 44100 n 2 l 0:00.890 i 24
+F KickSub-Overdrive.aif 1427632 0 1614292734 0
+D s 44100 n 2 l 0:05.384 i 24
+F "Low Kick.aif" 576054 0 1655744421 0
+D s 48000 n 2 l 0:02.000 i 24
+F "Mega Clap 1.wav" 82930 0 1655744718 0
+D a "Eddie Bazil" s 44100 n 2 l 0:00.469
+D i 16
+F "Mega Clap 2.wav" 47030 0 1436227745 0
+D a "Eddie Bazil" g claps,perc s 44100 n 2
+D l 0:00.254 i 16
+F "Mega Kick 2.wav" 84630 0 1655744718 0
+D a "Eddie Bazil" s 44100 n 2 l 0:00.478
+D i 16
+F "Mega Kick 4.wav" 27712 0 1436227745 0
+D a "Eddie Bazil" s 44100 n 1 l 0:00.312
+D i 16
+F "Mid Knock.aif" 135302 0 1655744421 0
+D s 44100 n 2 l 0:00.760 i 16
+F "Modulated Sine SW.wav" 6256 0 1621433383 0
+D s 44100 n 1 l 0:00.046 i 24
+F Rattlesnake.wav 358474 0 1436227745 0
+D s 44100 n 1 l 0:04.016 i 16
+F "Slap House Attack 01.wav" 127360 0 1655744467 0
+D y 2021-05-05 s 44100 n 2 r 1:00:45.459
+D l 0:00.476 i 24
+F "Slap House Attack 02.wav" 171224 0 1621433383 0
+D s 44100 n 1 l 0:01.289 i 24
+F "Slap House Attack 03.wav" 130176 0 1655744467 0
+D t "Miles & Miles_MelancholicDance_2020 v02" s 44100 n 2 r 0:58.306
+D l 0:00.483 i 24
+F "Slap House Attack 04.aif" 496844 0 1655744467 0
+D s 44100 n 2 l 0:01.875 i 24
+F "Slap House Attack 05.wav" 42028 0 1655744467 0
+D s 44100 n 2 l 0:00.235 i 16
+F "Sub Kick 3_5.aif" 1187486 0 1614292734 0
+D s 44100 n 2 l 0:04.474 i 24
+F Subkick-Overdrive.aif 597036 0 1655744421 0
+D s 44100 n 2 l 0:02.250 i 24
+F "Talking Drum 1.wav" 294322 0 1655744718 0
+D s 44100 n 1 l 0:03.289 i 16
+F "Tibetian Bell.wav" 962540 0 1655744718 0
+D s 44100 n 1 l 0:10.865 i 16
+F "Triangle Alarm.wav" 532666 0 1436227745 0
+D s 44100 n 1 l 0:05.991 i 16
+F "Trompong 1.wav" 395960 0 1436227745 0
+D s 44100 n 1 l 0:04.429 i 16
+F "Trompong 2.wav" 787854 0 1436227745 0
+D s 44100 n 1 l 0:08.872 i 16
+F "Trompong 3.wav" 493998 0 1431631303 0
+D s 44100 n 1 l 0:05.540 i 16
+F "Trompong 4.wav" 289488 0 1436227745 0
+D s 44100 n 1 l 0:03.221 i 16
+F unconventional_808.wav 297722 0 1655744421 0
+D s 44100 n 2 l 0:01.125 i 24
+F wrist_kick.aif 38724 0 1655744421 0
+D s 44100 n 1 l 0:00.415 i 16

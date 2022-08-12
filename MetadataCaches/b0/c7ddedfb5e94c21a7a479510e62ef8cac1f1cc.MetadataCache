@@ -1,0 +1,121 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Technology"
+F "Alien Vacuum Microbes.wav" 1439804 0 1436227745 0
+D s 44100 n 2 l 0:08.122 i 16
+F "Aquarium Bubbles 02.wav" 1215756 0 1436227745 0
+D s 44100 n 2 l 0:06.888 i 16
+F "Cell Phone Signal 02.wav" 455524 0 1436227745 0
+D y 2000-00-00 s 44100 n 1 l 0:05.156
+D i 16
+F "Dentist 2 Polish 2.wav" 774358 0 1436227745 0
+D s 44100 n 2 l 0:04.262 i 16
+F "Dentist 2 Scale 10.wav" 464782 0 1436227745 0
+D s 44100 n 2 l 0:02.548 i 16
+F "Dentist 2 Scale 5.wav" 490578 0 1436227745 0
+D s 44100 n 2 l 0:02.691 i 16
+F "Dentist 2 Scale 8.wav" 757114 0 1436227745 0
+D s 44100 n 2 l 0:04.167 i 16
+F "Dentist Drill 14.wav" 777546 0 1436227745 0
+D s 44100 n 2 l 0:04.280 i 16
+F "Dentist Drill 15.wav" 291350 0 1436227745 0
+D s 44100 n 2 l 0:01.587 i 16
+F "Dentist Drill 17.wav" 715390 0 1436227745 0
+D s 44100 n 2 l 0:03.936 i 16
+F "Dentist Drill 18.wav" 328798 0 1436227745 0
+D s 44100 n 2 l 0:01.794 i 16
+F "Dentist Drill 3.wav" 1227242 0 1436227745 0
+D s 44100 n 2 l 0:06.771 i 16
+F "Dentist Drill 8.wav" 723122 0 1436227745 0
+D s 44100 n 2 l 0:03.979 i 16
+F "Electrical Storm.wav" 1264140 0 1436227745 0
+D s 44100 n 2 l 0:07.142 i 16
+F "Elevator Going Up.wav" 2224690 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:12.605 i 16
+F "Engine Jangle.wav" 921740 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:05.219
+D i 16
+F "Fishtank 1.wav" 1730684 0 1436227745 0
+D y 2010-12-28 s 44100 n 2 r 0:35.717
+D l 0:09.757 i 16
+F "Freezer Vacuum.wav" 7159900 0 1436227745 0
+D s 44100 n 2 l 0:40.588 i 16
+F Freezer.wav 5363952 0 1436227745 0
+D s 44100 n 2 l 0:30.407 i 16
+F "High Tension.wav" 2478634 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:14.045 i 16
+F "Hose Grunge.wav" 641092 0 1436227745 0
+D s 44100 n 2 l 0:03.604 i 16
+F "Hum Klang.wav" 473056 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:02.676
+D i 16
+F "Hydraulic Lift.caf" 33286 0 1437740639 0
+D a "Apple Inc." g "Other Genre" s 44100 n 2
+D l 0:00.859
+F "Iceland Geothermal 2.wav" 1091628 0 1436227745 0
+D s 44100 n 1 l 0:12.087 i 16
+F "Industrial Fork.wav" 13394492 0 1655744473 0
+D s 44100 n 2 l 0:37.966 i 32
+F "LA Flush Stop.wav" 554398 0 1655744473 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:03.045
+D i 16
+F "Laptop Cooler Close.wav" 2913012 0 1655744473 0
+D s 44100 n 2 l 0:08.256 i 32
+F "Mechanical Startup.wav" 1199268 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:06.793
+D i 16
+F Phosphorescent.wav 1676044 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:09.495
+D i 16
+F "Pomelo Split 01.wav" 1275848 0 1655744473 0
+D s 44100 n 2 l 0:04.821 i 24
+F "Radio Breakthrough.wav" 737508 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:04.176
+D i 16
+F "Radiostatic 001.wav" 4427414 0 1436227745 0
+D t "Radiostatic 001" c "(c) yuroun.nl" s 44100 n 2
+D l 0:25.097 i 16
+F "Radiostatic 004.wav" 1200692 0 1436227745 0
+D t "Radiostatic 004" s 44100 n 2 l 0:06.805
+D i 16
+F Radiosweep.wav 836908 0 1436227745 0
+D s 44100 n 2 l 0:04.714 i 16
+F "Rewound 01.caf" 91781 0 1437740639 0
+D a "Apple Inc." g "Other Genre" s 44100 n 2
+D l 0:02.675
+F "Robot Action 01.caf" 57619 0 1437740639 0
+D a "Apple Inc." g "Other Genre" s 44100 n 2
+D l 0:01.613
+F "Robot Action 02.caf" 55565 0 1437740639 0
+D a "Apple Inc." g "Other Genre" s 44100 n 2
+D l 0:01.544
+F "Servo Sequence.wav" 1198690 0 1655744473 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:06.790 i 16
+F "Shard Slicer.wav" 2246200 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:12.728
+D i 16
+F Tumbler.wav 2254390 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:12.774 i 16
+F "Turbine Strain.wav" 2614648 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:14.816
+D i 16
+F "Underground Ambience.wav" 3434824 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:19.466
+D i 16
+F "Vinyl Noise 1.wav" 466754 0 1431631303 0
+D s 44100 n 1 l 0:05.244 i 16
+F "Vinyl Noise 3.wav" 340276 0 1431631303 0
+D s 44100 n 1 l 0:03.810 i 16
+F "Vinyl Noise 7 Long.wav" 1586600 0 1431631303 0
+D s 44100 n 1 l 0:17.941 i 16
+F "Water Knocking.wav" 2242060 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:12.704
+D i 16
+F "White Noise.wav" 175412 0 1436227745 0
+D y 2000-01-01 s 44100 n 2 l 0:00.989
+D i 16
+F "Yacht Motor.wav" 486730 0 1436227745 0
+D y 2010-06-21 s 44100 n 2 r 0:33.182
+D l 0:02.725 i 16

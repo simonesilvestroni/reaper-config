@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - MatiasMacSD - FEEL TEXTURES VOL 1"
+F TextureGlassDebris_008.wav 9726952 0 1583867215 0
+D d "Texture, Glass, Debris, Low frequency" s 96000 n 2 l 0:16.885
+D i 24
+F TextureMetalGlassScratch_004.wav 374488 0 1583867223 0
+D d "Texture, Metal, Glass, Scratch" s 96000 n 1 l 0:01.297
+D i 24
+F TextureThunderDrum_008.wav 2964208 0 1583867295 0
+D d "Texture, Thunder Drum, Musical Instrument, Spring Steel, Resonance" s 96000 n 2 l 0:05.144
+D i 24
+F TextureWindChimeKeys_003.wav 4964194 0 1583867470 0
+D d "Texture, Wind Chime, Keys, Reverb" s 96000 n 2 l 0:08.616
+D i 24

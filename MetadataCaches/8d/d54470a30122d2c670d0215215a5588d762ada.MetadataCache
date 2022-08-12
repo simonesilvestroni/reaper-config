@@ -1,0 +1,53 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Soundtrack/Suspense & Horror/foley_ish"
+F bees.wav 1056892 0 1185521394 0
+D y 2007-07-26 s 44100 n 1 l 0:07.987
+D i 24
+F door_close_downstairs.wav 847982 0 1185521398 0
+D s 44100 n 1 l 0:06.409 i 24
+F ghost_choir_elevator.wav 1041542 0 1185521402 0
+D y 2004-08-29 s 44100 n 1 l 0:07.871
+D i 24
+F idle_train.wav 1283312 0 1185521406 0
+D y 2007-07-26 s 44100 n 1 l 0:09.699
+D i 24
+F japanese_suspense.wav 1235072 0 1185521410 0
+D y 2007-07-21 s 44100 n 1 l 0:09.334
+D i 24
+F raunchy_record.wav 405628 0 1185521416 0
+D y 2007-07-21 s 44100 n 1 l 0:03.065
+D i 24
+F scene_punctuation.wav 1440892 0 1185521420 0
+D y 2007-07-21 s 44100 n 1 l 0:10.890
+D i 24
+F voxfemale120_001.wav 1058526 0 1185521450 0
+D c "Made with Sony ACID Pro 6.0" p 120 s 44100 n 1
+D l 0:08.000 i 24
+F voxfemale120_002.wav 1070688 0 1185521454 0
+D s 44100 n 1 l 0:08.000 i 24
+F voxfemale_agony.wav 1325832 0 1185521424 0
+D s 44100 n 1 l 0:09.928 i 24
+F voxfemale_anger.wav 1392642 0 1185521430 0
+D s 44100 n 1 l 0:10.433 i 24
+F voxfemale_defeat.wav 2061238 0 1185521434 0
+D s 44100 n 1 l 0:15.487 i 24
+F voxfemale_fear.wav 1604326 0 1185521440 0
+D s 44100 n 1 l 0:12.033 i 24
+F voxfemale_sorrow.wav 1438998 0 1185521444 0
+D s 44100 n 1 l 0:10.783 i 24
+F voxfemaleandmale.wav 467750 0 1185521458 0
+D s 44100 n 1 l 0:03.535 i 24
+F voxmale_eerie.wav 1452892 0 1185521462 0
+D s 44100 n 1 l 0:10.888 i 24
+F voxmale_panting.wav 1070688 0 1185521468 0
+D s 44100 n 1 l 0:08.000 i 24
+F voxmale_SomeoneElseSpeaking.wav 1298092 0 1185521472 0
+D s 44100 n 1 l 0:09.718 i 24
+F walking_on_gravel_skippety.wav 313468 0 1185521478 0
+D y 2007-07-26 s 44100 n 1 l 0:02.368
+D i 24
+F walking_on_gravel_slight_skip.wav 622208 0 1185521482 0
+D y 2007-07-26 s 44100 n 1 l 0:04.702
+D i 24
+F walking_on_gravel_under_arch.wav 700544 0 1185521486 0
+D y 2007-07-26 s 44100 n 1 l 0:05.294
+D i 24

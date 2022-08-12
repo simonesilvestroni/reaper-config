@@ -1,0 +1,68 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/ALARMS/CLOCK"
+F ALRM_AntiqueClockStrike.wav 8779880 0 1439162718 0
+D a "Apple Inc." s 44100 n 2 l 0:49.771
+D i 16
+F ALRM_BellStrike.wav 4947042 0 1439162091 0
+D a "Sound Ideas" s 44100 n 2 l 0:28.043
+D i 16
+F ALRM_Cartoon.wav 3573210 0 1439161359 0
+D a "Sound Ideas" s 44100 n 2 l 0:20.255
+D i 16
+F ALRM_Clock.wav 2797298 0 1439163706 0
+D a "Sound Ideas" s 44100 n 2 l 0:15.856
+D i 16
+F ALRM_Clock1.wav 2879560 0 1488630194 0
+D s 48000 n 2 l 0:14.997 i 16
+F ALRM_ClockBell.wav 1759282 0 1439161364 0
+D a "Apple Inc." s 44100 n 2 l 0:09.972
+D i 16
+F ALRM_Cuckoo.wav 2306654 0 1439161399 0
+D a "Sound Ideas" s 44100 n 2 l 0:13.075
+D i 16
+F ALRM_CuckooClock,Wind-Up01.wav 7443222 0 1481710532 0
+D y 2015-07-26 d "Clockwork winding. Winding up an antique cuckoo clock with a pull chain." s 96000 n 1
+D r 5:20.000 l 0:19.370 i 32
+F ALRM_CuckooClockToll10.wav 12456774 0 1481710532 0
+D y 2015-07-26 d "Antique reed cuckoo clock sounds 10 o'clock." s 96000 n 1
+D r 2:35.648 l 0:32.426 i 32
+F ALRM_Fx02.aiff 9054666 0 1505995961 0
+D a PowerFX.com p 149.7962 s 44100 n 2
+D l 0:51.269 i 16
+F ALRM_GrandfatherClockStrike.wav 11830316 0 1439162870 0
+D a "Apple Inc." s 44100 n 2 l 1:07.064
+D i 16
+F ALRM_Stopwatch.wav 5300058 0 1439162518 0
+D a "Sound Ideas" s 44100 n 2 l 0:30.044
+D i 16
+F ALRM_Tick1.wav 5678432 0 1439162505 0
+D a "Sound Ideas" s 44100 n 2 l 0:32.189
+D i 16
+F ALRM_Tick2.wav 5766814 0 1439161088 0
+D a "Sound Ideas" s 44100 n 2 l 0:32.690
+D i 16
+F ALRM_Ticking1.wav 3805256 0 1488630196 0
+D s 48000 n 2 l 0:19.818 i 16
+F ALRM_Ticking2.wav 1921968 0 1488630185 0
+D s 48000 n 2 l 0:10.010 i 16
+F ALRM_Ticking3.wav 233544 0 1488630185 0
+D s 48000 n 2 l 0:01.216 i 16
+F ALRM_Ticking4.wav 5689416 0 1488630192 0
+D s 48000 n 2 l 0:29.632 i 16
+F ALRM_Ticking5.wav 5906504 0 1488630185 0
+D s 48000 n 2 l 0:30.762 i 16
+F ALRM_TowerChimes.aiff 4061080 0 1505997469 0
+D a "Sound Ideas" d www.sound-ideas.com p 91.0872 s 48000
+D n 2 l 0:21.078 i 16
+F ALRM_TowerChimes.wav 3718442 0 1439162401 0
+D a "Sound Ideas" s 44100 n 2 l 0:21.078
+D i 16
+F ALRM_Winding1.wav 2126972 0 1488630192 0
+D s 48000 n 2 l 0:11.077 i 16
+F ALRM_Winding2.wav 2543388 0 1488630187 0
+D s 48000 n 2 l 0:13.246 i 16
+F ALRM_WindUp.wav 5753084 0 1439163580 0
+D a "Apple Inc." s 44100 n 2 l 0:32.613
+D i 16
+F ALRM_Wristwatch.wav 2704958 0 1439163210 0
+D a "Sound Ideas" s 44100 n 2 l 0:15.333
+D i 16

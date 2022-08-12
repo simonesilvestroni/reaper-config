@@ -1,0 +1,549 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - BODY"
+F "Arrow Body Impact.wav" 96920 0 1439162609 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.548
+D i 16
+F "Bodyfall On Concrete 1.wav" 74704 0 1439161782 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.422
+D i 16
+F "Bodyfall On Concrete 2.wav" 50760 0 1439163612 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.286
+D i 16
+F "Bodyfall On Dirt 1.wav" 123196 0 1439163612 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.697
+D i 16
+F "Bodyfall On Dirt 2.wav" 177780 0 1439162983 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.006
+D i 16
+F "Bodyfall On Dirt 3.wav" 111108 0 1439162441 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.629
+D i 16
+F "Bodyfall On Wood 1.wav" 159324 0 1439163516 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.902
+D i 16
+F "Bodyfall On Wood 2.wav" 144684 0 1439162892 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.819
+D i 16
+F "Bodyfall Through Glass.wav" 521000 0 1439161944 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.952
+D i 16
+F Bone_Movement_Dull_Clacking_Handling_OCP-1522-013.wav 5007704 0 1566570829 0
+D t Bone_Movement_Dull_Clacking_Handling_OCP-1522-013 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Bone Movement, Dull Clacking, Handling, Rustle and Impacts" d "Bone Movement, Dull Clacking, Handling, Rustle and Impacts" s 48000
+D n 1 r 0:02.243 l 0:47.658 i 16
+D m 0
+F cloth-1.wav 643144 0 1583930806 0
+D s 48000 n 2 l 0:03.349 i 16
+F cloth-2.wav 999496 0 1583930862 0
+D s 48000 n 2 l 0:05.205 i 16
+F "Fall Body Dirt&Roll Tumble.wav" 3431612 0 1502566160 0
+D s 44100 n 2 l 0:19.453 i 16
+F "Fall Body Dirt&Roll1.wav" 3020012 0 1502563409 0
+D s 44100 n 2 l 0:17.120 i 16
+F "Fall Body Dirt&Roll2.wav" 2387324 0 1502565874 0
+D s 44100 n 2 l 0:13.533 i 16
+F "Fall Body Dirt&Scrape.wav" 2300300 0 1502565875 0
+D s 44100 n 2 l 0:13.040 i 16
+F "Fall Body Dirt.wav" 2319116 0 1502563802 0
+D s 44100 n 2 l 0:13.146 i 16
+F "Fall Body Dirt2.wav" 2577836 0 1502563803 0
+D s 44100 n 2 l 0:14.613 i 16
+F "Fall Body Dirt3.wav" 2462588 0 1502563162 0
+D s 44100 n 2 l 0:13.960 i 16
+F "Fall Body Grass Heavy.wav" 2286188 0 1502566029 0
+D s 44100 n 2 l 0:12.960 i 16
+F "Fall Body Grass&Roll.wav" 3650348 0 1502566161 0
+D s 44100 n 2 l 0:20.693 i 16
+F "Fall Body Leaves.wav" 2820092 0 1502562283 0
+D s 44100 n 2 l 0:15.986 i 16
+F "Fall Body Sheet Metal Duct.wav" 3450428 0 1502562004 0
+D s 44100 n 2 l 0:19.560 i 16
+F "Fall Body Slam.wav" 2791868 0 1502565717 0
+D s 44100 n 2 l 0:15.826 i 16
+F "Fall Body Snow.wav" 3372812 0 1502565759 0
+D s 44100 n 2 l 0:19.120 i 16
+F "Fall Body Wood Slam.wav" 3198764 0 1502566151 0
+D s 44100 n 2 l 0:18.133 i 16
+F "Fall Body Wood&Roll.wav" 2984732 0 1502566207 0
+D s 44100 n 2 l 0:16.920 i 16
+F "Fall Body Wood&Scuffle.wav" 3241100 0 1502566207 0
+D s 44100 n 2 l 0:18.373 i 16
+F "Fall Body Wood1.wav" 2349692 0 1502565760 0
+D s 44100 n 2 l 0:13.320 i 16
+F "Fall Body Wood2.wav" 2624876 0 1502565760 0
+D s 44100 n 2 l 0:14.880 i 16
+F "Fall Body Wood3.wav" 2883596 0 1502566206 0
+D s 44100 n 2 l 0:16.346 i 16
+F "FOL - BODY - CAR - BOAT - SQUEAK - 01.wav" 207418 0 1582742026 0
+D y 2007-09-22 d "Short And Light. - Metal Bucket Movement" s 44100 n 2
+D l 0:01.168 i 16
+F "FOL - BODY - CAR - BOAT - SQUEAK - 02.wav" 86482 0 1582742026 0
+D y 2007-09-22 d "Short And Light. - Metal Bucket Movement" s 44100 n 2
+D l 0:00.484 i 16
+F "FOL - BODY - CAR - BOAT - SQUEAK - 03.wav" 323176 0 1582742026 0
+D y 2007-09-22 d "Short And Light. - Metal Bucket Movement" s 44100 n 2
+D l 0:01.823 i 16
+F "FOL - BODY - CAR - BOAT - SQUEAK - 04.wav" 407588 0 1582742026 0
+D y 2007-09-22 d "Short And Light. - Metal Bucket Movement" s 44100 n 2
+D l 0:02.300 i 16
+F "FOL - BODY - CAR - CRANK - 01.wav" 74788 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - CRANK - 02.wav" 109660 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.560 i 32
+F "FOL - BODY - CAR - CRANK - 03.wav" 98948 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.480 i 32
+F "FOL - BODY - CAR - CRANK - 04.wav" 56236 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - CRANK - 05.wav" 106364 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.511 i 32
+F "FOL - BODY - CAR - CRANK - 06.wav" 150572 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.768 i 32
+F "FOL - BODY - CAR - CRANK - 07.wav" 124776 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.560 i 32
+F "FOL - BODY - CAR - CRANK - 08.wav" 88632 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - CRANK - 09.wav" 68476 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - CRANK - 10.wav" 157268 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.791 i 32
+F "FOL - BODY - CAR - CRANK - 11.wav" 62412 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - CRANK - 12.wav" 43360 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.200 i 32
+F "FOL - BODY - CAR - CRANK - 13.wav" 768800 0 1582742026 0
+D y 2015-12-22 c "Turning crank of antique coffee grinder with a squeaky rattle Mechanisms | Hzandbits Sound Effects" d "sNOTE=Turning crank of antique coffee grinder with a squeaky rattle Mechanisms | Hzandbits Sound Effects  " s 96000
+D n 1 r 0:27.221 l 0:02.631 i 24
+F "FOL - BODY - CAR - CRANK - 14.wav" 56348 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - CRANK - 15.wav" 32860 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.160 i 32
+F "FOL - BODY - CAR - CRANK - 16.wav" 32944 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.160 i 32
+F "FOL - BODY - CAR - CRANK - 17.wav" 79064 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - CRANK - 18.wav" 132896 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.560 i 32
+F "FOL - BODY - CAR - CRANK - 19.wav" 104224 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.480 i 32
+F "FOL - BODY - CAR - CRANK - 20.wav" 94056 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.440 i 32
+F "FOL - BODY - CAR - CRANK - 21.wav" 72388 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - CRANK - 22.wav" 84272 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - CRANK - 23.wav" 149056 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.760 i 32
+F "FOL - BODY - CAR - CRANK - 24.wav" 94472 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.480 i 32
+F "FOL - BODY - CAR - CRANK - 25.wav" 117960 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.568 i 32
+F "FOL - BODY - CAR - CRANK - 26.wav" 83048 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - CRANK - 27.wav" 178316 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.880 i 32
+F "FOL - BODY - CAR - CRANK - 28.wav" 98132 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.480 i 32
+F "FOL - BODY - CAR - CRANK - 29.wav" 96948 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.480 i 32
+F "FOL - BODY - CAR - CRANK - 30.wav" 68540 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - CRANK - 31.wav" 78720 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - CRANK - 32.wav" 110748 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.560 i 32
+F "FOL - BODY - CAR - CRANK - 33.wav" 79328 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - CRASH - 01.wav" 168918 0 1582742026 0
+D y 2007-09-22 d "Hollow Metal Impact With Debris. - Crash Sweetener" s 44100 n 2
+D l 0:00.950 i 16
+F "FOL - BODY - CAR - CRASH - 02.wav" 427988 0 1582742026 0
+D y 2007-09-22 d "Hollow Metal Impact With Debris. - Crash Sweetener" s 44100 n 2
+D l 0:02.416 i 16
+F "FOL - BODY - CAR - HOOD - IMPACT - 01.wav" 75802 0 1582742026 0
+D y 2005-01-1 s 48000 n 1 r 0:03.686
+D l 0:00.766 i 16
+F "FOL - BODY - CAR - HOOD - IMPACT - 02.wav" 130288 0 1582742026 0
+D y 2005-01-1 s 48000 n 1 r 0:00.200
+D l 0:01.330 i 16
+F "FOL - BODY - CAR - HOOD - IMPACT - 03.wav" 153380 0 1582742026 0
+D y 2005-01-1 s 48000 n 1 r 0:06.166
+D l 0:01.568 i 16
+F "FOL - BODY - CAR - IMPACTS - 01.wav" 244738 0 1582742026 0
+D y 2007-09-22 d "Light Body Fall On Metal With Light Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:01.379 i 16
+F "FOL - BODY - CAR - IMPACTS - 02.wav" 4598668 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT High pitched metal impact, slamming car door." s 96000 n 2
+D l 0:07.621 i 24
+F "FOL - BODY - CAR - IMPACTS - 03.wav" 4361788 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Bright, fast impact, car door slamming shut." s 96000 n 2
+D l 0:07.210 i 24
+F "FOL - BODY - CAR - IMPACTS - 04.wav" 6016572 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Metal box on wood, rattling impact." s 96000 n 2
+D l 0:10.080 i 24
+F "FOL - BODY - CAR - IMPACTS - 05.wav" 8206956 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Steel door slamming shut, snappy impact with some rattling." s 96000 n 2
+D l 0:13.877 i 24
+F "FOL - BODY - CAR - IMPACTS - 06.wav" 9547868 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Metal impact, steel door, rattling tail." s 96000 n 2
+D l 0:16.202 i 24
+F "FOL - BODY - CAR - IMPACTS - 07.wav" 7185644 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL MOVEMENT Car door lock mechanics, short thick snapping." s 96000 n 2
+D l 0:12.106 i 24
+F "FOL - BODY - CAR - LARGE - IMPACT - 01.wav" 613778 0 1582742026 0
+D y 2007-09-22 d "Low And Sustained Medium Body Fall On Hollow Metal. - Fight Impacts" s 44100 n 2
+D l 0:03.467 i 16
+F "FOL - BODY - CAR - LARGE - IMPACT - 02.wav" 314458 0 1582742026 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:01.773 i 16
+F "FOL - BODY - CAR - LARGE - IMPACT - 03.wav" 343676 0 1582742026 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:01.939 i 16
+F "FOL - BODY - CAR - LARGE - IMPACT - 04.wav" 381886 0 1582742026 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:02.155 i 16
+F "FOL - BODY - CAR - LARGE - IMPACT - 05.wav" 415102 0 1582742026 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:02.343 i 16
+F "FOL - BODY - CAR - LARGE - IMPACT - 06.wav" 311990 0 1582742026 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:01.759 i 16
+F "FOL - BODY - CAR - LARGE - IMPACT - 07.wav" 469088 0 1582742026 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:02.648 i 16
+F "FOL - BODY - CAR - MOVEMENTS.wav" 9166524 0 1582742026 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL MOVEMENT Metal movement, door lock, some squeaking." s 96000 n 2
+D l 0:15.541 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 01.wav" 657580 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.443 l 0:01.135 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 02.wav" 657580 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.445 l 0:01.135 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 03.wav" 442144 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.461 l 0:00.761 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 04.wav" 561838 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.445 l 0:00.969 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 05.wav" 1399734 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.440 l 0:02.424 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 06.wav" 5540862 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.456 l 0:09.613 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 07.wav" 314482 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.434 l 0:00.540 i 24
+F "FOL - BODY - CAR - PLASTIC - SQUEAK - 08.wav" 3593970 0 1582742026 0
+D t Correction y 2015-10-01 d "Toys, Kids, Plastic, Play, Manipulation, Ball, Roll, Spin, Squeak," s 96000
+D n 2 r 2:26.439 l 0:06.233 i 24
+F "FOL - BODY - CAR - SQUEAK - 01.wav" 142264 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.680 i 32
+F "FOL - BODY - CAR - SQUEAK - 02.wav" 64120 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 03.wav" 59552 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 04.wav" 59036 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 05.wav" 90520 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 06.wav" 148504 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.760 i 32
+F "FOL - BODY - CAR - SQUEAK - 07.wav" 68076 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 08.wav" 66288 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 09.wav" 126152 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 10.wav" 78628 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 11.wav" 66980 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 12.wav" 65312 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 13.wav" 55688 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 14.wav" 76772 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 15.wav" 89260 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - SQUEAK - 16.wav" 63512 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 17.wav" 71988 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 18.wav" 80248 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 19.wav" 85020 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - SQUEAK - 20.wav" 102032 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.520 i 32
+F "FOL - BODY - CAR - SQUEAK - 21.wav" 85124 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.400 i 32
+F "FOL - BODY - CAR - SQUEAK - 22.wav" 48096 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.240 i 32
+F "FOL - BODY - CAR - SQUEAK - 23.wav" 71772 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 24.wav" 57940 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 25.wav" 73720 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 26.wav" 120600 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.600 i 32
+F "FOL - BODY - CAR - SQUEAK - 27.wav" 71684 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 28.wav" 66316 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 29.wav" 154480 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.760 i 32
+F "FOL - BODY - CAR - SQUEAK - 30.wav" 75220 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 31.wav" 65744 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 32.wav" 73440 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 33.wav" 110424 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 34.wav" 141132 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.720 i 32
+F "FOL - BODY - CAR - SQUEAK - 35.wav" 103528 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.480 i 32
+F "FOL - BODY - CAR - SQUEAK - 36.wav" 140768 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.720 i 32
+F "FOL - BODY - CAR - SQUEAK - 37.wav" 70756 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.280 i 32
+F "FOL - BODY - CAR - SQUEAK - 38.wav" 75036 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.360 i 32
+F "FOL - BODY - CAR - SQUEAK - 39.wav" 130888 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.640 i 32
+F "FOL - BODY - CAR - SQUEAK - 40.wav" 64888 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 41.wav" 63568 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.320 i 32
+F "FOL - BODY - CAR - SQUEAK - 42.wav" 55708 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.200 i 32
+F "FOL - BODY - CAR - SQUEAK - 43.wav" 48332 0 1582742026 0
+D y 2017-10-20 s 48000 n 1 r 10:00:00.000
+D l 0:00.240 i 32
+F "FOL - BODY - Cheek Slap.wav" 25376 0 1247756476 0
+D y 2009-07-16 s 44100 n 2 l 0:00.095
+D i 24
+F "FOL - BODY - Chest Slap.wav" 32144 0 1247756218 0
+D y 2009-07-16 s 44100 n 2 l 0:00.120
+D i 24
+F "FOL - BODY - Cleaning Teeth.wav" 1425536 0 1247741824 0
+D y 2009-07-16 s 44100 n 2 l 0:05.387
+D i 24
+F "FOL - BODY - Cough 01.wav" 219968 0 1247735962 0
+D y 2009-07-16 s 44100 n 2 l 0:00.830
+D i 24
+F "FOL - BODY - Cough 02.wav" 612992 0 1247736008 0
+D y 2009-07-16 s 44100 n 2 l 0:02.316
+D i 24
+F "FOL - BODY - Cough 03.wav" 313466 0 1248004282 0
+D y 2009-07-19 s 44100 n 2 l 0:01.184
+D i 24
+F "FOL - BODY - Cough 04.wav" 96314 0 1248173570 0
+D y 2009-07-21 s 44100 n 2 l 0:00.363
+D i 24
+F "FOL - BODY - Deep Breath.wav" 563072 0 1247755738 0
+D y 2009-07-16 s 44100 n 2 l 0:02.127
+D i 24
+F "FOL - BODY - Did we Fake it.wav" 3376256 0 1247746586 0
+D y 2009-07-16 s 44100 n 2 l 0:12.759
+D i 24
+F "FOL - BODY - Eating Crisps.wav" 165626 0 1248006080 0
+D y 2009-07-19 s 44100 n 2 l 0:00.625
+D i 24
+F "FOL - BODY - Eating Toast.wav" 751232 0 1247739266 0
+D y 2009-07-16 s 44100 n 2 l 0:02.838
+D i 24
+F "FOL - BODY - Excuse Me.wav" 193664 0 1247755824 0
+D y 2009-07-16 s 44100 n 2 l 0:00.731
+D i 24
+F "FOL - BODY - Exhale.wav" 538502 0 1248006614 0
+D y 2009-07-19 s 44100 n 2 l 0:02.034
+D i 24
+F "FOL - BODY - Fall 01.wav" 236594 0 1248036816 0
+D s 44100 n 2 l 0:00.893 i 24
+F "FOL - BODY - Gargle.wav" 1278092 0 1248296972 0
+D y 2009-07-22 s 44100 n 2 l 0:04.829
+D i 24
+F "FOL - BODY - Gee up.wav" 121862 0 1248006442 0
+D y 2009-07-19 s 44100 n 2 l 0:00.460
+D i 24
+F "FOL - BODY - Kiss 01.wav" 51770 0 1248006706 0
+D y 2009-07-19 s 44100 n 2 l 0:00.195
+D i 24
+F "FOL - BODY - Kiss 02.wav" 236282 0 1248006754 0
+D y 2009-07-19 s 44100 n 2 l 0:00.892
+D i 24
+F "FOL - BODY - Mouth Click.wav" 15512 0 1247755242 0
+D y 2009-07-16 s 44100 n 2 l 0:00.058
+D i 24
+F "FOL - BODY - Out Of Breath.wav" 1400972 0 1248196934 0
+D y 2009-07-21 s 44100 n 2 l 0:05.294
+D i 24
+F "FOL - BODY - Pencil & Cheek.wav" 725132 0 1248173512 0
+D y 2009-07-21 s 44100 n 2 l 0:02.740
+D i 24
+F "FOL - BODY - Pencil & teeth 01.wav" 281222 0 1248173400 0
+D y 2009-07-21 s 44100 n 2 l 0:01.062
+D i 24
+F "FOL - BODY - Pencil & teeth 02.wav" 123398 0 1248173466 0
+D y 2009-07-21 s 44100 n 2 l 0:00.465
+D i 24
+F "FOL - BODY - pop.wav" 18176 0 1247756170 0
+D y 2009-07-16 s 44100 n 2 l 0:00.068
+D i 24
+F "FOL - BODY - Pucker Up.wav" 110534 0 1248006658 0
+D y 2009-07-19 s 44100 n 2 l 0:00.417
+D i 24
+F "FOL - BODY - Sneeze.wav" 188672 0 1247828858 0
+D y 2009-07-17 s 44100 n 2 l 0:00.712
+D i 24
+F "FOL - BODY - Sniff 01.wav" 101888 0 1247737716 0
+D y 2009-07-16 s 44100 n 2 l 0:00.384
+D i 24
+F "FOL - BODY - Sniff 02.wav" 103808 0 1247755672 0
+D y 2009-07-16 s 44100 n 2 l 0:00.391
+D i 24
+F "FOL - BODY - Sniff 03.wav" 124550 0 1248006468 0
+D y 2009-07-19 s 44100 n 2 l 0:00.470
+D i 24
+F "FOL - BODY - Stretch.wav" 1450124 0 1248006504 0
+D y 2009-07-19 s 44100 n 2 l 0:05.479
+D i 24
+F "FOL - BODY - Teeth Suck.wav" 68084 0 1248006552 0
+D y 2009-07-19 s 44100 n 2 l 0:00.256
+D i 24
+F "FOL - BODY - Tut 01.wav" 24896 0 1247755776 0
+D y 2009-07-16 s 44100 n 2 l 0:00.093
+D i 24
+F "FOL - BODY - Washing hands.wav" 2457740 0 1248191904 0
+D y 2009-07-21 s 44100 n 2 l 0:09.288
+D i 24
+F "FOL - BODY - Weeze.wav" 258176 0 1247755280 0
+D y 2009-07-16 s 44100 n 2 l 0:00.975
+D i 24
+F Hands_Rub_Wipe_Dirt_OCM-0002-609.wav 651374 0 1566570830 0
+D t Hands_Rub_Wipe_Dirt_OCM-0002-609 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Hands Rub, Wipe Dirt" d "Hands Rub, Wipe Dirt" s 48000
+D n 1 r 0:00.933 l 0:01.525 i 24
+D m 1
+F "Hit Body 1.wav" 4527644 0 1502565641 0
+D s 44100 n 2 l 0:25.666 i 16
+F "Hit Body 10.wav" 4330076 0 1502566116 0
+D s 44100 n 2 l 0:24.546 i 16
+F "Hit Body 11.wav" 3017660 0 1502566117 0
+D s 44100 n 2 l 0:17.106 i 16
+F "Hit Body 12.wav" 4673468 0 1502565739 0
+D s 44100 n 2 l 0:26.493 i 16
+F "Hit Body 13.wav" 5950604 0 1502565535 0
+D s 44100 n 2 l 0:33.733 i 16
+F "Hit Body 14.wav" 2796572 0 1502564005 0
+D s 44100 n 2 l 0:15.853 i 16
+F "Hit Body 2.wav" 2678972 0 1502565642 0
+D s 44100 n 2 l 0:15.186 i 16
+F "Hit Body 3.wav" 3932588 0 1502565837 0
+D s 44100 n 2 l 0:22.293 i 16
+F "Hit Body 4.wav" 3864380 0 1502565837 0
+D s 44100 n 2 l 0:21.906 i 16
+F "Hit Body 5.wav" 3349292 0 1502566278 0
+D s 44100 n 2 l 0:18.986 i 16
+F "Hit Body 6.wav" 3121148 0 1502566279 0
+D s 44100 n 2 l 0:17.693 i 16
+F "Hit Body 7.wav" 3732668 0 1502564068 0
+D s 44100 n 2 l 0:21.160 i 16
+F "Hit Body 8.wav" 2540204 0 1502564069 0
+D s 44100 n 2 l 0:14.400 i 16
+F "Hit Body 9.wav" 3151724 0 1502565951 0
+D s 44100 n 2 l 0:17.866 i 16
+F "Hit Body.wav" 2608412 0 1502565486 0
+D s 44100 n 2 l 0:14.786 i 16
+F "Hit Solid 1.wav" 3144668 0 1502565607 0
+D s 44100 n 2 l 0:17.826 i 16
+F "Hit Solid 2.wav" 3259916 0 1502566105 0
+D s 44100 n 2 l 0:18.480 i 16
+F "Hit Solid.wav" 3269324 0 1502561215 0
+D s 44100 n 2 l 0:18.533 i 16
+F Knuckle_Crack_Hand_2_Variations_OCP-1548-61.wav 866218 0 1566570830 0
+D t Knuckle_Crack_Hand_2_Variations_OCP-1548-61 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Knuckle Crack, Hand, 2 Variations" d "Knuckle Crack, Hand, 2 Variations" s 48000
+D n 1 l 0:04.522 i 16 m 0
+F "Punch, Body Deep, Hard Body Punch.wav" 4021964 0 1502566291 0
+D s 44100 n 2 l 0:22.800 i 16
+F "Punch, Body Quick Solid Body Hit.wav" 3168188 0 1502566291 0
+D s 44100 n 2 l 0:17.960 i 16

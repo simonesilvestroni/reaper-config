@@ -1,0 +1,51 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/EXS Factory Samples/03 Drums & Percussion/02 Electronic Drum Kits/Minimalist Kit"
+F BoomFX_Minimalist.aif 440848 0 1512169034 0
+D s 44100 n 2 l 0:01.636 i 24
+F CharacteristicFX_Minimalist.aif 188272 0 1512169034 0
+D s 44100 n 2 l 0:00.681 i 24
+F Clap_1_Minimalist.aif 188272 0 1655745085 0
+D s 44100 n 2 l 0:00.681 i 24
+F Clap_2_Minimalist.aif 188272 0 1655745086 0
+D s 44100 n 2 l 0:00.681 i 24
+F Conga_Low_Minimalist.aif 188272 0 1655745085 0
+D s 44100 n 2 l 0:00.681 i 24
+F Conga_Mid_Minimalist.aif 181576 0 1655745086 0
+D p 88.0005 s 44100 n 2 l 0:00.681
+D i 24
+F Crash_Minimalist.aif 476932 0 1655745085 0
+D s 44100 n 2 l 0:01.772 i 24
+F Hi-Hat_Minimalist.aif 188272 0 1655745085 0
+D s 44100 n 2 l 0:00.681 i 24
+F Hi-Hat_Open_Minimalist.aif 188272 0 1655745085 0
+D s 44100 n 2 l 0:00.681 i 24
+F Hi-Hat_Pedal_Minimalist.aif 188272 0 1655745086 0
+D s 44100 n 2 l 0:00.681 i 24
+F Kick_1_Minimalist.aif 188272 0 1655745086 0
+D s 44100 n 2 l 0:00.681 i 24
+F Kick_2_Sub_Minimalist.aif 296518 0 1655745085 0
+D s 44100 n 2 l 0:01.090 i 24
+F NoiseFX_Minimalist.aif 729502 0 1512169034 0
+D s 44100 n 2 l 0:02.727 i 24
+F PerFX_Minimalist.aif 440848 0 1512169034 0
+D s 44100 n 2 l 0:01.636 i 24
+F Ride_Minimalist.aif 585172 0 1512169034 0
+D s 44100 n 2 l 0:02.181 i 24
+F Rim_Minimalist.aif 188272 0 1512169034 0
+D s 44100 n 2 l 0:00.681 i 24
+F Shaker_1_Minimalist.aif 152194 0 1655745085 0
+D s 44100 n 2 l 0:00.545 i 24
+F Shaker_2_Minimalist.aif 152194 0 1655745085 0
+D s 44100 n 2 l 0:00.545 i 24
+F Snare_1_Minimalist.aif 188272 0 1512169034 0
+D s 44100 n 2 l 0:00.681 i 24
+F Snare_2_Minimalist.aif 188272 0 1655745086 0
+D s 44100 n 2 l 0:00.681 i 24
+F Snare_3_Minimalist.aif 188272 0 1655745086 0
+D s 44100 n 2 l 0:00.681 i 24
+F Tom_High_Minimalist.aif 188272 0 1655745085 0
+D s 44100 n 2 l 0:00.681 i 24
+F Tom_Low_Minimalist.aif 181570 0 1655745085 0
+D p 88.0005 s 44100 n 2 l 0:00.681
+D i 24
+F Tom_Mid_Minimalist.aif 188272 0 1655745085 0
+D s 44100 n 2 l 0:00.681 i 24

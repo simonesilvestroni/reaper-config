@@ -1,0 +1,115 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Impacts"
+F "60s Synth FX 02.wav" 213712 0 1436227745 0
+D s 44100 n 1 l 0:02.362 i 16
+F Cave01.wav 1423144 0 1436835092 0
+D y 2012-02-21 s 44100 n 2 r 1:00:00.103
+D l 0:05.340 i 24
+F "CB Tek Box 11.wav" 9556 0 1436227745 0
+D s 44100 n 1 l 0:00.060 i 16
+F "Cinematic Impact 01.wav" 1327096 0 1436227745 0
+D s 44100 n 2 l 0:07.500 i 16
+F "Cinematic Impact 05 1.wav" 1327096 0 1436227745 0
+D s 44100 n 2 l 0:07.500 i 16
+F "Cinematic Impact 06.wav" 830972 0 1436227745 0
+D s 44100 n 2 l 0:04.687 i 16
+F "Cinematic Impact 08.wav" 1327096 0 1436227745 0
+D s 44100 n 2 l 0:07.500 i 16
+F "Cinematic Impact 09.wav" 1338156 0 1436227745 0
+D s 44100 n 2 l 0:07.562 i 16
+F "Cinematic Impact 10 3.wav" 1988596 0 1655744708 0
+D s 44100 n 2 l 0:11.250 i 16
+F "Cinematic Impact 12.wav" 665596 0 1436227745 0
+D s 44100 n 2 l 0:03.750 i 16
+F "Cinematic Impact 13.wav" 1161724 0 1655744709 0
+D s 44100 n 2 l 0:06.562 i 16
+F "Cinematic Impact 19.wav" 1988596 0 1436227745 0
+D s 44100 n 2 l 0:11.250 i 16
+F "Cinematic Woosh Hit 01.wav" 1327096 0 1436227745 0
+D s 44100 n 2 l 0:07.500 i 16
+F "Cinematic Woosh Hit 02.wav" 665596 0 1436227745 0
+D s 44100 n 2 l 0:03.750 i 16
+F "Cinematic Woosh Hit 03.wav" 2402036 0 1436227745 0
+D s 44100 n 2 l 0:13.593 i 16
+F "Cinematic Woosh Hit 04.wav" 2650096 0 1436227745 0
+D s 44100 n 2 l 0:15.000 i 16
+F "Cinematic Woosh Hit 06 1.wav" 3146224 0 1436227745 0
+D s 44100 n 2 l 0:17.812 i 16
+F "Cinematic Woosh Hit 07.wav" 2980848 0 1436227745 0
+D s 44100 n 2 l 0:16.875 i 16
+F "Cinematic Woosh Hit 08.wav" 2650096 0 1436227745 0
+D s 44100 n 2 l 0:15.000 i 16
+F Cloud01.wav 2539616 0 1436922737 0
+D y 2012-02-21 s 44100 n 2 r 1:00:00.136
+D l 0:09.554 i 24
+F "Concrete Drop.wav" 68202 0 1436227745 0
+D s 44100 n 1 l 0:00.725 i 16
+F "Deep Dark Impact.wav" 2164192 0 1436227745 0
+D s 44100 n 2 l 0:12.245 i 16
+F "Deep Drum 6.wav" 849046 0 1436227745 0
+D y 2008-03-28 s 44100 n 2 r 1:03:50.400
+D l 0:04.800 i 16
+F EkoFX05.wav 2101540 0 1436819170 0
+D y 2012-02-21 s 44100 n 2 r 1:00:00.098
+D l 0:07.901 i 24
+F EkoFX11.wav 3169964 0 1436819170 0
+D y 2012-02-21 s 44100 n 2 r 1:00:00.065
+D l 0:11.934 i 24
+F Flutter03.wav 791948 0 1436838384 0
+D y 2012-02-24 s 44100 n 2 r 1:00:00.040
+D l 0:02.959 i 24
+F "Gong Hit.wav" 5988718 0 1655744708 0
+D s 44100 n 2 l 0:33.882 i 16
+F "Hit Rizer pp.wav" 715624 0 1436227745 0
+D c "r8brain PRO NormGain: -1.83 dB" s 44100 n 2 l 0:04.033
+D i 16
+F "Ice Impact 1.wav" 2117530 0 1436227745 0
+D y 2013-06-13 s 44100 n 2 r 1:00:00.000
+D l 0:08.000 i 24
+F "Ice Impact 2.wav" 1147330 0 1436227745 0
+D y 2013-06-13 s 44100 n 2 r 1:00:00.000
+D l 0:04.333 i 24
+F "Industrial Hit 1.wav" 361512 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:02.026
+D i 16
+F "Industrial Hit 2.wav" 358916 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:02.011
+D i 16
+F "Industrial Hit 4.wav" 361276 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:02.024
+D i 16
+F "Industrial Hit 5.wav" 796596 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:04.492
+D i 16
+F "Industrial Hit 6.wav" 389368 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:02.184
+D i 16
+F "Mmg Fmfall 01.wav" 451808 0 1436227745 0
+D s 44100 n 1 l 0:05.000 i 16
+F "Mmg Fmfall 03.wav" 443478 0 1436227745 0
+D s 44100 n 1 l 0:04.907 i 16
+F "Resonant Bell.wav" 846764 0 1436227745 0
+D s 44100 n 2 l 0:04.800 i 16
+F "Reverb Noise Burst.wav" 813318 0 1436227745 0
+D s 44100 n 1 l 0:09.004 i 16
+F "Reverb Pitch Fall.wav" 907330 0 1436227745 0
+D s 44100 n 1 l 0:10.046 i 16
+F "Sci Fi 02.wav" 210256 0 1436227745 0
+D s 44100 n 1 l 0:02.324 i 16
+F "Signal 01.wav" 283886 0 1436227745 0
+D s 44100 n 1 l 0:03.139 i 16
+F "Signal 02.wav" 285842 0 1436227745 0
+D s 44100 n 1 l 0:03.161 i 16
+F "Small Blip.wav" 423404 0 1655744708 0
+D s 44100 n 2 l 0:02.400 i 16
+F "Spring Boing 02.wav" 533592 0 1436227745 0
+D s 44100 n 1 l 0:05.906 i 16
+F "Verb Tail.wav" 719342 0 1436227745 0
+D s 44100 n 1 l 0:07.963 i 16
+F "Wehee 01.wav" 349792 0 1436227745 0
+D s 44100 n 2 l 0:01.934 i 16
+F "Zap Aways 1.wav" 507108 0 1436227745 0
+D s 44100 n 2 l 0:02.805 i 16
+F "Zap Aways 2.wav" 506028 0 1436227745 0
+D s 44100 n 2 l 0:02.799 i 16
+F "Zoom FX Down.wav" 1550602 0 1436227745 0
+D s 44100 n 1 l 0:17.172 i 16

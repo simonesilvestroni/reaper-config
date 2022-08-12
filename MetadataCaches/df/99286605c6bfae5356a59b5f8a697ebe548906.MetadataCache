@@ -1,0 +1,95 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Toy Percussion"
+F "Big Drain Sust.wav" 2234918 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:12.353
+D i 16
+F "Chime Up.aif" 2813704 0 1655744801 0
+D s 44100 n 2 l 0:15.947 i 16
+F "Clang 01.wav" 696452 0 1436227745 0
+D s 44100 n 2 l 0:03.854 i 16
+F "Clang 03.wav" 722124 0 1436227745 0
+D s 44100 n 2 l 0:03.996 i 16
+F "Clang 08.wav" 215000 0 1436227745 0
+D s 44100 n 1 l 0:02.376 i 16
+F "Clicks Ncuts.wav" 5022384 0 1436227745 0
+D s 44100 n 2 l 0:28.471 i 16
+F "Creaky Frog 1.wav" 467102 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:02.643 i 16
+F "Creaky Frog 2.wav" 418582 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:02.368 i 16
+F "Creaky Frog 3.wav" 547326 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:03.098 i 16
+F "Glass Gliss.wav" 1364176 0 1436227745 0
+D s 44100 n 2 l 0:07.709 i 16
+F "Glitch Effect.wav" 1675844 0 1436227745 0
+D s 44100 n 2 l 0:09.500 i 16
+F "Glitch Texture 05.wav" 1313144 0 1436227745 0
+D s 44100 n 2 l 0:07.420 i 16
+F "Grill Perc 1.wav" 1050256 0 1436227745 0
+D s 44100 n 2 l 0:05.930 i 16
+F "Guiro Frog 1.wav" 82814 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:00.465 i 16
+F "Guiro Frog 2.wav" 92658 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:00.520 i 16
+F "Guiro Frog 3.wav" 389630 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:02.204 i 16
+F "Hi Chimes.wav" 2210412 0 1436227745 0
+D s 44100 n 2 l 0:12.506 i 16
+F "Kitchen Sink 3.wav" 1295332 0 1436227745 0
+D s 44100 n 2 l 0:07.319 i 16
+F "Metalic Clang 1.wav" 435152 0 1436227745 0
+D s 44100 n 2 l 0:02.407 i 16
+F "Metalic Clang 2.wav" 514848 0 1436227745 0
+D s 44100 n 2 l 0:02.848 i 16
+F "Pno Phrydgian Jangle D4.wav" 3944098 0 1655744801 0
+D c "Recorded on 5/26/2010 in Edison." s 44100 n 2 l 0:22.357
+D i 16
+F "Poly Eating.wav" 771996 0 1436227745 0
+D s 44100 n 1 l 0:08.750 i 16
+F "Polystyrene Long.wav" 1321270 0 1436227745 0
+D s 44100 n 1 l 0:14.978 i 16
+F "Ruffling Bag.wav" 384316 0 1436227745 0
+D s 44100 n 1 l 0:04.309 i 16
+F "Shattered Glass 01.wav" 478804 0 1436227745 0
+D s 44100 n 2 l 0:02.648 i 16
+F "Shattered Glass 02.wav" 489624 0 1436227745 0
+D s 44100 n 2 l 0:02.708 i 16
+F "Shell Chimes.wav" 2188868 0 1655744801 0
+D s 44100 n 2 l 0:12.384 i 16
+F "Song Of Wires.wav" 1996464 0 1436227745 0
+D s 44100 n 2 l 0:11.294 i 16
+F "Twang Attack 1.wav" 332398 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:01.880 i 16
+F "Twang Attack 2.wav" 420946 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:02.381 i 16
+F "Twang Attack 3.wav" 289430 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:01.636 i 16
+F "Twang Attack 4.wav" 256318 0 1655744801 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:01.448 i 16
+F "Water Splashes Tonal 05.wav" 2067820 0 1436227745 0
+D s 44100 n 2 l 0:11.718 i 16
+F "Water Splashes Tonal 07.wav" 2070192 0 1436227745 0
+D s 44100 n 2 l 0:11.732 i 16
+F "Water Splashes Tonal 10.wav" 864324 0 1436227745 0
+D s 44100 n 2 l 0:04.896 i 16
+F "Water Stream Tonal 02.wav" 7903432 0 1436227745 0
+D s 44100 n 2 l 0:44.800 i 16
+F "Water Tonal Stream 01.wav" 248696 0 1436227745 0
+D s 44100 n 2 l 0:01.406 i 16
+F "Whirling Frog.wav" 2316910 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:13.128 i 16
+F "Wind Chimes.wav" 1471604 0 1436227745 0
+D s 44100 n 2 l 0:08.318 i 16
+F "Windy Flagpole.wav" 15552672 0 1436227745 0
+D y 2011-11-20 d Deru s 48000 n 2
+D r 7:42:53.445 l 0:53.999 i 24

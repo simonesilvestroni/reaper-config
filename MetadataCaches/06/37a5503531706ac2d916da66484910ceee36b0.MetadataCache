@@ -1,0 +1,9 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Fog Convolver Factory Bank/Samples/Microphones"
+F "Dynamic (cheap).wav" 3611 0 1427462267 0
+D t "CB Radio" s 48000 n 1 l 0:00.024
+D i 24
+F "Dynamic (standard).wav" 6047 0 1427464137 0
+D s 44100 n 1 l 0:00.045 i 24
+F "Telephone (mic).wav" 7319 0 1427461883 0
+D t "CB Radio" s 48000 n 1 l 0:00.050
+D i 24

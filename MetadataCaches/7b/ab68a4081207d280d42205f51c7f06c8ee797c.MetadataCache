@@ -1,0 +1,12 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Mindful Audio - Elements - Ice"
+F "ice blocks movement dragging 01.wav" 5768996 0 1583868440 0
+D y 2016-04-11T14:02:10+01:00 d "ice blocks movement dragging bricks creaks snow" s 96000 n 1
+D l 0:19.643 i 24
+F "thick ice hits impacts debris bright 03.wav" 2571952 0 1583868818 0
+D g Ice c "thick ice snow rocks hits impacts debris bits" d "thick ice snow rocks hits impacts debris bits" s 96000
+D n 1 l 0:08.560 i 24 m 1
+F "thin ice cracks crunchy 06.wav" 9333272 0 1583869092 0
+D d "thin ice cracks break crunchy crackly crackle crusty glassy" s 96000 n 1 l 0:32.037
+D i 24
+F "thin ice creaks.wav" 1699936 0 1583867132 0
+D s 96000 n 1 l 0:05.516 i 24

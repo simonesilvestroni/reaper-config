@@ -1,0 +1,15 @@
+C10017 /Volumes/LIBRARY/Decidedly/DecentSampler/Kettle/Samples
+F k16-noteoff-abcd.wav 828086 0 1614962142 0
+D c "recorded w/ Susan's H4n, built-in mics.   2016 nov 11    Normalized, noise-reduced a bit (mostly targetting 120 and <60 Hz)  and then hipass filtered 65 Hz, 2nd order    H4n has better response on resonance and doesn't seem to missmuc at the high end (>24 kHz)  " s 48000 n 2 l 0:02.873
+D i 24
+F kettle-whistle-steady.wav 2225708 0 1614797622 0
+D s 96000 n 2 l 0:03.864 i 24
+F kettle_v2_x4_f_d.wav 3413264 0 1614962142 0
+D c "466951 from h4nproc    " s 48000 n 2 l 0:11.850
+D i 24
+F kettle_v2_x4_m_d.wav 3021058 0 1614962142 0
+D c "3691503 from h4nproc    " s 48000 n 2 l 0:10.488
+D i 24
+F kettle_v2_x4_p_d.wav 2281880 0 1614962142 0
+D c "5066156 x1 and 5492755 x4  from h4nproc  " s 48000 n 2 l 0:07.922
+D i 24

@@ -1,0 +1,2610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="kawa Scripts" commit="918efb747ce7cc23c82751eb4b96599feeb30d47">
+  <category name="ENVELOPE section">
+    <reapack name="kawa_ENV_ChangePointShape_Next.lua" type="script" desc="kawa_ENV_ChangePointShape_Next.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ChangePointShape_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ChangePointShape_Prev.lua" type="script" desc="kawa_ENV_ChangePointShape_Prev.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ChangePointShape_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ChangePointShapeAll_Next.lua" type="script" desc="kawa_ENV_ChangePointShapeAll_Next.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ChangePointShapeAll_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ChangePointShapeAll_Prev.lua" type="script" desc="kawa_ENV_ChangePointShapeAll_Prev.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ChangePointShapeAll_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ClearPointsInTimeSelection.lua" type="script" desc="kawa_ENV_ClearPointsInTimeSelection.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ClearPointsInTimeSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DecreaseLength.lua" type="script" desc="kawa_ENV_DecreaseLength.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DecreaseLength.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DecreaseLength_Type2.lua" type="script" desc="kawa_ENV_DecreaseLength_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DecreaseLength_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DecreaseTenstion.lua" type="script" desc="kawa_ENV_DecreaseTenstion.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DecreaseTenstion.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DecreaseValue.lua" type="script" desc="kawa_ENV_DecreaseValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DecreaseValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DecreaseValue_additive.lua" type="script" desc="kawa_ENV_DecreaseValue_additive.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DecreaseValue_additive.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateMusical.lua" type="script" desc="kawa_ENV_DuplicateMusical.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateMusical.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateMusical_AbsTimeBase.lua" type="script" desc="kawa_ENV_DuplicateMusical_AbsTimeBase.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateMusical_AbsTimeBase.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateMusical_AbsTimeBase_Back.lua" type="script" desc="kawa_ENV_DuplicateMusical_AbsTimeBase_Back.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateMusical_AbsTimeBase_Back.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateMusical_Backword.lua" type="script" desc="kawa_ENV_DuplicateMusical_Backword.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateMusical_Backword.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateSimple.lua" type="script" desc="kawa_ENV_DuplicateSimple.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateSimple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateSimple_AbsTimeBase.lua" type="script" desc="kawa_ENV_DuplicateSimple_AbsTimeBase.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateSimple_AbsTimeBase.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateSimple_AbsTimeBase_Back.lua" type="script" desc="kawa_ENV_DuplicateSimple_AbsTimeBase_Back.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateSimple_AbsTimeBase_Back.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_DuplicateSimple_Back.lua" type="script" desc="kawa_ENV_DuplicateSimple_Back.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_DuplicateSimple_Back.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ExpandValue.lua" type="script" desc="kawa_ENV_ExpandValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ExpandValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FadeInPoints_Cubic.lua" type="script" desc="kawa_ENV_FadeInPoints_Cubic.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FadeInPoints_Cubic.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FadeInPoints_Liner.lua" type="script" desc="kawa_ENV_FadeInPoints_Liner.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FadeInPoints_Liner.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FadeInPoints_Sin.lua" type="script" desc="kawa_ENV_FadeInPoints_Sin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FadeInPoints_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FadeOutPoints_Cubic.lua" type="script" desc="kawa_ENV_FadeOutPoints_Cubic.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FadeOutPoints_Cubic.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FadeOutPoints_Liner.lua" type="script" desc="kawa_ENV_FadeOutPoints_Liner.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FadeOutPoints_Liner.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FadeOutPoints_Sin.lua" type="script" desc="kawa_ENV_FadeOutPoints_Sin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FadeOutPoints_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FitToLoopSelection.lua" type="script" desc="kawa_ENV_FitToLoopSelection.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FitToLoopSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_FixValue.lua" type="script" desc="kawa_ENV_FixValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_FixValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateAbsSin.lua" type="script" desc="kawa_ENV_GenerateAbsSin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateAbsSin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateBitAbsSin.lua" type="script" desc="kawa_ENV_GenerateBitAbsSin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateBitAbsSin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateBitSaw.lua" type="script" desc="kawa_ENV_GenerateBitSaw.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateBitSaw.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateBitSin.lua" type="script" desc="kawa_ENV_GenerateBitSin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateBitSin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateBitTri.lua" type="script" desc="kawa_ENV_GenerateBitTri.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateBitTri.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateSaw.lua" type="script" desc="kawa_ENV_GenerateSaw.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateSaw.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateSin.lua" type="script" desc="kawa_ENV_GenerateSin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateSin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateSquare.lua" type="script" desc="kawa_ENV_GenerateSquare.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateSquare.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GenerateTri.lua" type="script" desc="kawa_ENV_GenerateTri.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GenerateTri.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_GUI_SettingPriority.lua" type="script" desc="kawa_ENV_GUI_SettingPriority.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_GUI_SettingPriority.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_IncreaseLength.lua" type="script" desc="kawa_ENV_IncreaseLength.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_IncreaseLength.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_IncreaseLength_Type2.lua" type="script" desc="kawa_ENV_IncreaseLength_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_IncreaseLength_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_IncreaseTenstion.lua" type="script" desc="kawa_ENV_IncreaseTenstion.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_IncreaseTenstion.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_IncreaseValue.lua" type="script" desc="kawa_ENV_IncreaseValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_IncreaseValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_IncreaseValue_additive.lua" type="script" desc="kawa_ENV_IncreaseValue_additive.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_IncreaseValue_additive.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_InsertCenterValueEnvelopePoint.lua" type="script" desc="kawa_ENV_InsertCenterValueEnvelopePoint.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_InsertCenterValueEnvelopePoint.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_InsertMaxValueEnvelopePoint.lua" type="script" desc="kawa_ENV_InsertMaxValueEnvelopePoint.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_InsertMaxValueEnvelopePoint.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_InsertMinValueEnvelopePoint.lua" type="script" desc="kawa_ENV_InsertMinValueEnvelopePoint.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_InsertMinValueEnvelopePoint.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_InvertPosition.lua" type="script" desc="kawa_ENV_InvertPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_InvertPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_InvertValue.lua" type="script" desc="kawa_ENV_InvertValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_InvertValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_InvertValueAndPosition.lua" type="script" desc="kawa_ENV_InvertValueAndPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_InvertValueAndPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_LightWightPoints.lua" type="script" desc="kawa_ENV_LightWightPoints.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_LightWightPoints.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_LightWightPoints_Type2.lua" type="script" desc="kawa_ENV_LightWightPoints_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_LightWightPoints_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_LightWightPoints_Type3.lua" type="script" desc="kawa_ENV_LightWightPoints_Type3.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_LightWightPoints_Type3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_PresetWaveTest.lua" type="script" desc="kawa_ENV_PresetWaveTest.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_PresetWaveTest.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_QuantizePoints.lua" type="script" desc="kawa_ENV_QuantizePoints.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_QuantizePoints.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_QuantizePoints_Type2.lua" type="script" desc="kawa_ENV_QuantizePoints_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_QuantizePoints_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_RandomPointPosition.lua" type="script" desc="kawa_ENV_RandomPointPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_RandomPointPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_RandomPointShape.lua" type="script" desc="kawa_ENV_RandomPointShape.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_RandomPointShape.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_RandomPointValue.lua" type="script" desc="kawa_ENV_RandomPointValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_RandomPointValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ReduceValue.lua" type="script" desc="kawa_ENV_ReduceValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ReduceValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectEvenPoints.lua" type="script" desc="kawa_ENV_SelectEvenPoints.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectEvenPoints.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectHigherValuePointsThanFirstPt.lua" type="script" desc="kawa_ENV_SelectHigherValuePointsThanFirstPt.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectHigherValuePointsThanFirstPt.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectionNext.lua" type="script" desc="kawa_ENV_SelectionNext.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectionNext.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectionPrev.lua" type="script" desc="kawa_ENV_SelectionPrev.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectionPrev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectLowerValuePointsThanFirstPt.lua" type="script" desc="kawa_ENV_SelectLowerValuePointsThanFirstPt.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectLowerValuePointsThanFirstPt.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectOddPoints.lua" type="script" desc="kawa_ENV_SelectOddPoints.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectOddPoints.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SelectPointsInTimeSelection.lua" type="script" desc="kawa_ENV_SelectPointsInTimeSelection.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SelectPointsInTimeSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SetPointValueToCenterValue.lua" type="script" desc="kawa_ENV_SetPointValueToCenterValue.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SetPointValueToCenterValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SetPointValueToMaxValue.lua" type="script" desc="kawa_ENV_SetPointValueToMaxValue.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SetPointValueToMaxValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SetPointValueToMinValue.lua" type="script" desc="kawa_ENV_SetPointValueToMinValue.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SetPointValueToMinValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShiftPosition_LEFT.lua" type="script" desc="kawa_ENV_ShiftPosition_LEFT.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShiftPosition_LEFT.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShiftPosition_LEFT_Type2.lua" type="script" desc="kawa_ENV_ShiftPosition_LEFT_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShiftPosition_LEFT_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShiftPosition_RIGHT.lua" type="script" desc="kawa_ENV_ShiftPosition_RIGHT.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShiftPosition_RIGHT.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShiftPosition_RIGHT_Type2.lua" type="script" desc="kawa_ENV_ShiftPosition_RIGHT_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShiftPosition_RIGHT_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShiftValue_DOWN.lua" type="script" desc="kawa_ENV_ShiftValue_DOWN.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShiftValue_DOWN.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShiftValue_UP.lua" type="script" desc="kawa_ENV_ShiftValue_UP.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShiftValue_UP.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShowAsEnvelopePreset.lua" type="script" desc="kawa_ENV_ShowAsEnvelopePreset.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShowAsEnvelopePreset.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShowEnvelopeStateChunk.lua" type="script" desc="kawa_ENV_ShowEnvelopeStateChunk.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShowEnvelopeStateChunk.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShowPointInfo.lua" type="script" desc="kawa_ENV_ShowPointInfo.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShowPointInfo.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_ShowPointInfo_More.lua" type="script" desc="kawa_ENV_ShowPointInfo_More.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_ShowPointInfo_More.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_FromGrid.lua" type="script" desc="kawa_ENV_SplitPoints_FromGrid.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_FromGrid.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type1_2.lua" type="script" desc="kawa_ENV_SplitPoints_Type1_2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type1_2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type1_3.lua" type="script" desc="kawa_ENV_SplitPoints_Type1_3.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type1_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type1_4.lua" type="script" desc="kawa_ENV_SplitPoints_Type1_4.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type1_4.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type1_5.lua" type="script" desc="kawa_ENV_SplitPoints_Type1_5.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type1_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type1_7.lua" type="script" desc="kawa_ENV_SplitPoints_Type1_7.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type1_7.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type2_2.lua" type="script" desc="kawa_ENV_SplitPoints_Type2_2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type2_2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type2_3.lua" type="script" desc="kawa_ENV_SplitPoints_Type2_3.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type2_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type2_4.lua" type="script" desc="kawa_ENV_SplitPoints_Type2_4.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type2_4.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type2_5.lua" type="script" desc="kawa_ENV_SplitPoints_Type2_5.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type2_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SplitPoints_Type2_7.lua" type="script" desc="kawa_ENV_SplitPoints_Type2_7.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SplitPoints_Type2_7.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_SyncTimeSelectionRange.lua" type="script" desc="kawa_ENV_SyncTimeSelectionRange.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_SyncTimeSelectionRange.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_ENV_UnSelectAllPoints.lua" type="script" desc="kawa_ENV_UnSelectAllPoints.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/ENVELOPE%20section/kawa_ENV_UnSelectAllPoints.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="GUI section">
+    <reapack name="kawa_GUI_AutoTrackHighlight.lua" type="script" desc="kawa_GUI_AutoTrackHighlight.">
+      <version name="2018/11/11" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_AutoTrackHighlight.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_ChannelSelector.lua" type="script" desc="&quot;kawa_GUI_ChannelSelector.">
+      <version name="2022/05/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_ChannelSelector.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_Check_ChordTone.lua" type="script" desc="kawa_GUI_Check_ChordTone.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_Check_ChordTone.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_Check_CircleOf5th.lua" type="script" desc="kawa_GUI_Check_CircleOf5th.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_Check_CircleOf5th.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_Check_MajorScale.lua" type="script" desc="kawa_GUI_Check_MajorScale.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_Check_MajorScale.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_CheckerToolSet.lua" type="script" desc="kawa_GUI_CheckerToolSet.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_CheckerToolSet.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_CheckerToolSetFade.lua" type="script" desc="kawa_GUI_CheckerToolSetFade.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_CheckerToolSetFade.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_Clock.lua" type="script" desc="kawa_GUI_Clock.">
+      <version name="2018/10/12" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_Clock.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_Clock_withoutDate.lua" type="script" desc="kawa_GUI_Clock_withoutDate.">
+      <version name="2018/10/12" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_Clock_withoutDate.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_DummyTimer.lua" type="script" desc="kawa_GUI_DummyTimer.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_DummyTimer.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_EnvelopePreset.lua" type="script" desc="kawa_GUI_EnvelopePreset.">
+      <version name="2017/08/19" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_EnvelopePreset.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_FxMorph_2.lua" type="script" desc="kawa_GUI_FxMorph_2.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_FxMorph_2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_FxMorph_4.lua" type="script" desc="kawa_GUI_FxMorph_4.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_FxMorph_4.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_FxRandomiza.lua" type="script" desc="kawa_GUI_FxRandomiza.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_FxRandomiza.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_FxToolSet.lua" type="script" desc="kawa_GUI_FxToolSet.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_FxToolSet.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_FxToolSetFade.lua" type="script" desc="kawa_GUI_FxToolSetFade.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_FxToolSetFade.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_GonioMeter.lua" type="script" desc="kawa_GUI_GonioMeter.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_GonioMeter.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_GonioMeter_EX.lua" type="script" desc="kawa_GUI_GonioMeter_EX.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_GonioMeter_EX.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_InfoLoopSelection.lua" type="script" desc="kawa_GUI_InfoLoopSelection.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_InfoLoopSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_InfoTimeSelection.lua" type="script" desc="kawa_GUI_InfoTimeSelection.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_InfoTimeSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_MatrixAnim.lua" type="script" desc="kawa_GUI_MatrixAnim.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_MatrixAnim.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_MatrixAnim3D.lua" type="script" desc="kawa_GUI_MatrixAnim3D.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_MatrixAnim3D.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_OscilloScope.lua" type="script" desc="kawa_GUI_OscilloScope.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_OscilloScope.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_ParticalAnimation.lua" type="script" desc="kawa_GUI_ParticalAnimation.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_ParticalAnimation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_PeakMeter.lua" type="script" desc="kawa_GUI_PeakMeter.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_PeakMeter.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_RamenTimer.lua" type="script" desc="kawa_GUI_RamenTimer.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_RamenTimer.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_ScaleSelector.lua" type="script" desc="kawa_GUI_ScaleSelector.">
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_ScaleSelector.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_ScaleTranspose.lua" type="script" desc="kawa_GUI_ScaleTranspose.">
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_ScaleTranspose.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_SimpleFX_Wet.lua" type="script" desc="kawa_GUI_SimpleFX_Wet.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_SimpleFX_Wet.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_SimpleKeyborad.lua" type="script" desc="kawa_GUI_SimpleKeyborad.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_SimpleKeyborad.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_SimpleToolSet.lua" type="script" desc="kawa_GUI_SimpleToolSet.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_SimpleToolSet.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_SimpleToolSetFade.lua" type="script" desc="kawa_GUI_SimpleToolSetFade.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_SimpleToolSetFade.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_SimpleVCA.lua" type="script" desc="kawa_GUI_SimpleVCA.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_SimpleVCA.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_Test.lua" type="script" desc="kawa_GUI_Test.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_Test.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_TestTabComponent.lua" type="script" desc="kawa_GUI_TestTabComponent.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_TestTabComponent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_GUI_TestTabComponentFade.lua" type="script" desc="kawa_GUI_TestTabComponentFade.">
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/GUI%20section/kawa_GUI_TestTabComponentFade.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="JSFX effects">
+    <reapack name="kawa_GonionMeter_Ex.jsfx" type="effect" desc="Goniometer_EX">
+      <version name="2016/07/02" author="[LOSER][kawaMod]" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_GonionMeter_Ex.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_Simple_Mid_Side.jsfx" type="effect" desc="kawa_Simple_Mid_Side_JSFX">
+      <version name="2016/06/15" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_Simple_Mid_Side.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_XY_BitCrusher.jsfx" type="effect" desc="kawa_XY_BitCrusher">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_XY_BitCrusher.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_XY_Chorus.jsfx" type="effect" desc="kawa_XY_Chorus">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_XY_Chorus.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_XY_Delay.jsfx" type="effect" desc="kawa_XY_Delay">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_XY_Delay.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_XY_Delay_Type2.jsfx" type="effect" desc="kawa_XY_Delay_Type2">
+      <version name="01/24/2021" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_XY_Delay_Type2.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_XY_Flanger.jsfx" type="effect" desc="kawa_XY_Flanger">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source>https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/JSFX%20effects/kawa_XY_Flanger.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="MAIN section">
+    <reapack name="kawa_MAIN_BasePitchTuning.lua" type="script" desc="kawa_MAIN_BasePitchTuning.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_BasePitchTuning.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ChangeActiveTake_next.lua" type="script" desc="kawa_MAIN_ChangeActiveTake_next.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ChangeActiveTake_next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ChangeActiveTake_prev.lua" type="script" desc="kawa_MAIN_ChangeActiveTake_prev.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ChangeActiveTake_prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorMarkerAndRegionHue.lua" type="script" desc="kawa_MAIN_ColorMarkerAndRegionHue.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorMarkerAndRegionHue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorMarkerHue.lua" type="script" desc="kawa_MAIN_ColorMarkerHue.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorMarkerHue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorRegionHue.lua" type="script" desc="kawa_MAIN_ColorRegionHue.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorRegionHue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemHue.lua" type="script" desc="kawa_MAIN_ColorSelectedItemHue.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemHue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemHueClear.lua" type="script" desc="kawa_MAIN_ColorSelectedItemHueClear.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemHueClear.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemHueGrad.lua" type="script" desc="kawa_MAIN_ColorSelectedItemHueGrad.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemHueGrad.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemHueRand.lua" type="script" desc="kawa_MAIN_ColorSelectedItemHueRand.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemHueRand.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_Brighter.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_Brighter.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_Brighter.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_Clear.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_Clear.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_Clear.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_ColorShift_L.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_ColorShift_L.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_ColorShift_L.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_ColorShift_R.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_ColorShift_R.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_ColorShift_R.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_Darker.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_Darker.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_Darker.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_DecreaseSaturation.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_DecreaseSaturation.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_DecreaseSaturation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_Grad.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_Grad.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_Grad.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_GradOption.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_GradOption.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_GradOption.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_IncreaseSaturation.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_IncreaseSaturation.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_IncreaseSaturation.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_Invert.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_Invert.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/28" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_Invert.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorSelectedItemOrTrack_Rand.lua" type="script" desc="kawa_MAIN_ColorSelectedItemOrTrack_Rand.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorSelectedItemOrTrack_Rand.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorTrackClear.lua" type="script" desc="kawa_MAIN_ColorTrackClear.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorTrackClear.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ColorTrackHue.lua" type="script" desc="kawa_MAIN_ColorTrackHue.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ColorTrackHue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_CreateSamplOMatic5000.lua" type="script" desc="kawa_MAIN_CreateSamplOMatic5000.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_CreateSamplOMatic5000.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DecreaseLength.lua" type="script" desc="kawa_MAIN_DecreaseLength.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DecreaseLength.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DeleteGluedTakeName.lua" type="script" desc="kawa_MAIN_DeleteGluedTakeName.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DeleteGluedTakeName.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical(ToProjectEndOrNextItem)(WithPool).lua" type="script" desc="kawa_MAIN_DuplicateMusical(ToProjectEndOrNextItem)(WithPool).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical(ToProjectEndOrNextItem)(WithPool).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical(ToProjectEndOrNextItem).lua" type="script" desc="kawa_MAIN_DuplicateMusical(ToProjectEndOrNextItem).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical(ToProjectEndOrNextItem).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical(WithPool).lua" type="script" desc="kawa_MAIN_DuplicateMusical(WithPool).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical(WithPool).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical.lua" type="script" desc="kawa_MAIN_DuplicateMusical.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_Back(ToProjectStartOrPreviouseItem)(withPool).lua" type="script" desc="kawa_MAIN_DuplicateMusical_Back(ToProjectStartOrPreviouseItem)(withPool).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_Back(ToProjectStartOrPreviouseItem)(withPool).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_Back(ToProjectStartOrPreviouseItem).lua" type="script" desc="kawa_MAIN_DuplicateMusical_Back(ToProjectStartOrPreviouseItem).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_Back(ToProjectStartOrPreviouseItem).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_Back(withPool).lua" type="script" desc="kawa_MAIN_DuplicateMusical_Back(withPool).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_Back(withPool).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_Back.lua" type="script" desc="kawa_MAIN_DuplicateMusical_Back.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_Back.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_FillInLoopSelection.lua" type="script" desc="kawa_MAIN_DuplicateMusical_FillInLoopSelection.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_FillInLoopSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_FillInTimeSelection.lua" type="script" desc="kawa_MAIN_DuplicateMusical_FillInTimeSelection.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_FillInTimeSelection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_DuplicateMusical_NextItemOrProjectEnd.lua" type="script" desc="kawa_MAIN_DuplicateMusical_NextItemOrProjectEnd.">
+      <version name="2017/01/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_DuplicateMusical_NextItemOrProjectEnd.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ExplodeMidiNotesToNewMediaItemByPitchClass.lua" type="script" desc="kawa_MAIN_ExplodeMidiNotesToNewMediaItemByPitchClass.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/27" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ExplodeMidiNotesToNewMediaItemByPitchClass.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ExplodeMidiNotesToNewTrackByPitchClass(IgnoreDefaultTrackSetting).lua" type="script" desc="kawa_MAIN_ExplodeMidiNotesToNewTrackByPitchClass(IgnoreDefaultTrackSetting).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/27" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ExplodeMidiNotesToNewTrackByPitchClass(IgnoreDefaultTrackSetting).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ExplodeMidiNotesToNewTrackByPitchClass.lua" type="script" desc="kawa_MAIN_ExplodeMidiNotesToNewTrackByPitchClass.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/27" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ExplodeMidiNotesToNewTrackByPitchClass.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_HorizontalZoom_In_3.lua" type="script" desc="kawa_MAIN_HorizontalZoom_In_3.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_HorizontalZoom_In_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_HorizontalZoom_In_5.lua" type="script" desc="kawa_MAIN_HorizontalZoom_In_5.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_HorizontalZoom_In_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_HorizontalZoom_Out_3.lua" type="script" desc="kawa_MAIN_HorizontalZoom_Out_3.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_HorizontalZoom_Out_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_HorizontalZoom_Out_5.lua" type="script" desc="kawa_MAIN_HorizontalZoom_Out_5.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_HorizontalZoom_Out_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_IncreaseLength.lua" type="script" desc="kawa_MAIN_IncreaseLength.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_IncreaseLength.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_MorseSplit_Random.lua" type="script" desc="kawa_MAIN_MorseSplit_Random.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_MorseSplit_Random.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_NextFolderCompactSetting.lua" type="script" desc="kawa_MAIN_NextFolderCompactSetting.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_NextFolderCompactSetting.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_OpenProjectDirectory.lua" type="script" desc="kawa_MAIN_OpenProjectDirectory.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_OpenProjectDirectory.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_RenderSelectedItemsToNewTrack.lua" type="script" desc="kawa_MAIN_RenderSelectedItemsToNewTrack.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_RenderSelectedItemsToNewTrack.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Next.lua" type="script" desc="kawa_MAIN_ScreenSet_Next.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Prev.lua" type="script" desc="kawa_MAIN_ScreenSet_Prev.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Toggle_1_2.lua" type="script" desc="kawa_MAIN_ScreenSet_Toggle_1_2.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Toggle_1_2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Toggle_3_4.lua" type="script" desc="kawa_MAIN_ScreenSet_Toggle_3_4.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Toggle_3_4.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Toggle_5_6.lua" type="script" desc="kawa_MAIN_ScreenSet_Toggle_5_6.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Toggle_5_6.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Toggle_7_8.lua" type="script" desc="kawa_MAIN_ScreenSet_Toggle_7_8.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Toggle_7_8.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ScreenSet_Toggle_9_10.lua" type="script" desc="kawa_MAIN_ScreenSet_Toggle_9_10.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ScreenSet_Toggle_9_10.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectedItemRandomMute.lua" type="script" desc="kawa_MAIN_SelectedItemRandomMute.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectedItemRandomMute.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectedItemsPitchRate_Arp.lua" type="script" desc="kawa_MAIN_SelectedItemsPitchRate_Arp.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectedItemsPitchRate_Arp.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectedItemsPitchRate_Arp_Type2.lua" type="script" desc="kawa_MAIN_SelectedItemsPitchRate_Arp_Type2.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectedItemsPitchRate_Arp_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectedItemsPitchRate_Random.lua" type="script" desc="kawa_MAIN_SelectedItemsPitchRate_Random.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectedItemsPitchRate_Random.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectedTrackHideTCP_Type2.lua" type="script" desc="kawa_MAIN_SelectedTrackHideTCP_Type2.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectedTrackHideTCP_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectedTrackToFolder_Type2.lua" type="script" desc="kawa_MAIN_SelectedTrackToFolder_Type2.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectedTrackToFolder_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectionNext.lua" type="script" desc="kawa_MAIN_SelectionNext.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectionNext.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SelectionPrev.lua" type="script" desc="kawa_MAIN_SelectionPrev.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SelectionPrev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SetItemEndToNextItemStart_Type1.lua" type="script" desc="kawa_MAIN_SetItemEndToNextItemStart_Type1.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SetItemEndToNextItemStart_Type1.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SetItemEndToNextItemStart_Type2.lua" type="script" desc="kawa_MAIN_SetItemEndToNextItemStart_Type2.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SetItemEndToNextItemStart_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SetLoopSelectionBySelectedItem'sBar(measure).lua" type="script" desc="kawa_MAIN_SetLoopSelectionBySelectedItem'sBar(measure).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SetLoopSelectionBySelectedItem'sBar(measure).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SetTimeSelectionBySelectedItem'sBar(measure).lua" type="script" desc="kawa_MAIN_SetTimeSelectionBySelectedItem'sBar(measure).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SetTimeSelectionBySelectedItem'sBar(measure).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SplitByGrid.lua" type="script" desc="kawa_MAIN_SplitByGrid.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SplitByGrid.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SplitItem2.lua" type="script" desc="kawa_MAIN_SplitItem2.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SplitItem2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SplitItem3.lua" type="script" desc="kawa_MAIN_SplitItem3.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SplitItem3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SplitItem4.lua" type="script" desc="kawa_MAIN_SplitItem4.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SplitItem4.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SplitItem5.lua" type="script" desc="kawa_MAIN_SplitItem5.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SplitItem5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_SplitItem7.lua" type="script" desc="kawa_MAIN_SplitItem7.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_SplitItem7.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_Synchronize_Item'sMuteState_And_Track's_Type2.lua" type="script" desc="kawa_MAIN_Synchronize_Item'sMuteState_And_Track's_Type2.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_Synchronize_Item'sMuteState_And_Track's_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_TakeNameFromTrackName.lua" type="script" desc="kawa_MAIN_TakeNameFromTrackName.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_TakeNameFromTrackName.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_TakeNameFromTrackNameWithNumbering.lua" type="script" desc="kawa_MAIN_TakeNameFromTrackNameWithNumbering.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_TakeNameFromTrackNameWithNumbering.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_TakeNameToTextClip.lua" type="script" desc="kawa_MAIN_TakeNameToTextClip.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_TakeNameToTextClip.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_TakeNameToTrackName.lua" type="script" desc="kawa_MAIN_TakeNameToTrackName.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_TakeNameToTrackName.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ToggleLengthNext.lua" type="script" desc="kawa_MAIN_ToggleLengthNext.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ToggleLengthNext.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_ToggleLengthPrev.lua" type="script" desc="kawa_MAIN_ToggleLengthPrev.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_ToggleLengthPrev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_Transpose.lua" type="script" desc="kawa_MAIN_Transpose.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_Transpose.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_VerticalZoom_In_3.lua" type="script" desc="kawa_MAIN_VerticalZoom_In_3.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_VerticalZoom_In_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_VerticalZoom_In_5.lua" type="script" desc="kawa_MAIN_VerticalZoom_In_5.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_VerticalZoom_In_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_VerticalZoom_Out_3.lua" type="script" desc="kawa_MAIN_VerticalZoom_Out_3.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_VerticalZoom_Out_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MAIN_VerticalZoom_Out_5.lua" type="script" desc="kawa_MAIN_VerticalZoom_Out_5.">
+      <version name="2017/01/16" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="main">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MAIN%20section/kawa_MAIN_VerticalZoom_Out_5.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="MIDI editor">
+    <reapack name="kawa_MIDI_AddTempoChangeMarker.lua" type="script" desc="kawa_MIDI_AddTempoChangeMarker.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_AddTempoChangeMarker.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_AssignChannelFromChordTone.lua" type="script" desc="kawa_MIDI_AssignChannelFromChordTone.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_AssignChannelFromChordTone.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_AssignChannelFromChordTone_Near.lua" type="script" desc="kawa_MIDI_AssignChannelFromChordTone_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_AssignChannelFromChordTone_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ChangeActiveTake_next.lua" type="script" desc="kawa_MIDI_ChangeActiveTake_next.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ChangeActiveTake_next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ChangeActiveTake_prev.lua" type="script" desc="kawa_MIDI_ChangeActiveTake_prev.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ChangeActiveTake_prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ChangeColorNoteBy_Circle.lua" type="script" desc="kawa_MIDI_ChangeColorNoteBy_Circle.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ChangeColorNoteBy_Circle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ChangeNoteChannel(MouseWheelOnly).lua" type="script" desc="kawa_MIDI_ChangeNoteChannel(MouseWheelOnly).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ChangeNoteChannel(MouseWheelOnly).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ConnectTwoPitch.lua" type="script" desc="kawa_MIDI_ConnectTwoPitch.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/07/30" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ConnectTwoPitch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DecreaseLength.lua" type="script" desc="kawa_MIDI_DecreaseLength.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DecreaseLength.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DecreaseStartPos.lua" type="script" desc="kawa_MIDI_DecreaseStartPos.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DecreaseStartPos.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DecreaseVelocity.lua" type="script" desc="kawa_MIDI_DecreaseVelocity.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DecreaseVelocity.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DecrementChannel.lua" type="script" desc="kawa_MIDI_DecrementChannel.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DecrementChannel.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DeleteBottomNote.lua" type="script" desc="kawa_MIDI_DeleteBottomNote.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DeleteBottomNote.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DeleteBottomNote_Near.lua" type="script" desc="kawa_MIDI_DeleteBottomNote_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DeleteBottomNote_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DeleteTopNote.lua" type="script" desc="kawa_MIDI_DeleteTopNote.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DeleteTopNote.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DeleteTopNote_Near.lua" type="script" desc="kawa_MIDI_DeleteTopNote_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/24" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DeleteTopNote_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DetectBottomNote.lua" type="script" desc="kawa_MIDI_DetectBottomNote.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DetectBottomNote.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DetectBottomNote_Near.lua" type="script" desc="kawa_MIDI_DetectBottomNote_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DetectBottomNote_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DetectTopNote.lua" type="script" desc="kawa_MIDI_DetectTopNote.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DetectTopNote.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DetectTopNote_Near.lua" type="script" desc="kawa_MIDI_DetectTopNote_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DetectTopNote_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DuplicateMusical.lua" type="script" desc="kawa_MIDI_DuplicateMusical.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DuplicateMusical.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_DuplicateSimple.lua" type="script" desc="kawa_MIDI_DuplicateSimple.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_DuplicateSimple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_EditingItemsTrackToggleSolo.lua" type="script" desc="kawa_MIDI_EditingItemsTrackToggleSolo.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_EditingItemsTrackToggleSolo.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_EditNotes_Mixed(Detect_Delete).lua" type="script" desc="kawa_MIDI_EditNotes_Mixed(Detect_Delete).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_EditNotes_Mixed(Detect_Delete).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_EditNotes_Mixed(Detect_Delete)_Near.lua" type="script" desc="kawa_MIDI_EditNotes_Mixed(Detect_Delete)_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_EditNotes_Mixed(Detect_Delete)_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ExpandVelocity.lua" type="script" desc="kawa_MIDI_ExpandVelocity.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ExpandVelocity.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ExplodeSelectedNotesToNewMediItemByPitchClass.lua" type="script" desc="kawa_MIDI_ExplodeSelectedNotesToNewMediItemByPitchClass.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ExplodeSelectedNotesToNewMediItemByPitchClass.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ExplodeSelectedNotesToNewTrackByPitchClass(IgnoreDefaultTrackSetting).lua" type="script" desc="kawa_MIDI_ExplodeSelectedNotesToNewTrackByPitchClass(IgnoreDefaultTrackSetting).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ExplodeSelectedNotesToNewTrackByPitchClass(IgnoreDefaultTrackSetting).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ExplodeSelectedNotesToNewTrackByPitchClass.lua" type="script" desc="kawa_MIDI_ExplodeSelectedNotesToNewTrackByPitchClass.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ExplodeSelectedNotesToNewTrackByPitchClass.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_GenerateArp.lua" type="script" desc="kawa_MIDI_GenerateArp.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_GenerateArp.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_GenerateExplodeArp.lua" type="script" desc="kawa_MIDI_GenerateExplodeArp.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_GenerateExplodeArp.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_GenerateRandomArp.lua" type="script" desc="kawa_MIDI_GenerateRandomArp.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_GenerateRandomArp.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_GrowUp.lua" type="script" desc="kawa_MIDI_GrowUp.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_GrowUp.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_Harmony.lua" type="script" desc="kawa_MIDI_Harmony.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_Harmony.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_HorizontalZoom_In_3.lua" type="script" desc="kawa_MIDI_HorizontalZoom_In_3.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_HorizontalZoom_In_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_HorizontalZoom_In_5.lua" type="script" desc="kawa_MIDI_HorizontalZoom_In_5.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_HorizontalZoom_In_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_HorizontalZoom_Next.lua" type="script" desc="kawa_MIDI_HorizontalZoom_Next.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_HorizontalZoom_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_HorizontalZoom_Out_3.lua" type="script" desc="kawa_MIDI_HorizontalZoom_Out_3.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_HorizontalZoom_Out_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_HorizontalZoom_Out_5.lua" type="script" desc="kawa_MIDI_HorizontalZoom_Out_5.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_HorizontalZoom_Out_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_HorizontalZoom_Prev.lua" type="script" desc="kawa_MIDI_HorizontalZoom_Prev.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_HorizontalZoom_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_IncreaseLength.lua" type="script" desc="kawa_MIDI_IncreaseLength.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_IncreaseLength.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_IncreaseStartPos.lua" type="script" desc="kawa_MIDI_IncreaseStartPos.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_IncreaseStartPos.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_IncreaseVelocity.lua" type="script" desc="kawa_MIDI_IncreaseVelocity.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_IncreaseVelocity.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_IncrementChannel.lua" type="script" desc="kawa_MIDI_IncrementChannel.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_IncrementChannel.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertCC64_off.lua" type="script" desc="kawa_MIDI_InsertCC64_off.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertCC64_off.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertCC64_on.lua" type="script" desc="kawa_MIDI_InsertCC64_on.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertCC64_on.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnMousePitch(anyScale).lua" type="script" desc="kawa_MIDI_InsertChord_OnMousePitch(anyScale).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnMousePitch(anyScale).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnMousePitch(anyScale)_Custom(RandomOrder).lua" type="script" desc="kawa_MIDI_InsertChord_OnMousePitch(anyScale)_Custom(RandomOrder).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnMousePitch(anyScale)_Custom(RandomOrder).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnMousePitch(anyScale)_Custom.lua" type="script" desc="kawa_MIDI_InsertChord_OnMousePitch(anyScale)_Custom.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnMousePitch(anyScale)_Custom.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnMousePitch(majorKeyOnly).lua" type="script" desc="kawa_MIDI_InsertChord_OnMousePitch(majorKeyOnly).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnMousePitch(majorKeyOnly).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnPitchCursor(anyScale).lua" type="script" desc="kawa_MIDI_InsertChord_OnPitchCursor(anyScale).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnPitchCursor(anyScale).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnPitchCursor(anyScale)_Custom(RandomOrder).lua" type="script" desc="kawa_MIDI_InsertChord_OnPitchCursor(anyScale)_Custom(RandomOrder).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnPitchCursor(anyScale)_Custom(RandomOrder).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnPitchCursor(anyScale)_Custom.lua" type="script" desc="kawa_MIDI_InsertChord_OnPitchCursor(anyScale)_Custom.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnPitchCursor(anyScale)_Custom.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_InsertChord_OnPitchCursor(majorKeyOnly).lua" type="script" desc="kawa_MIDI_InsertChord_OnPitchCursor(majorKeyOnly).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/09/06" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_InsertChord_OnPitchCursor(majorKeyOnly).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_LegatoType2.lua" type="script" desc="kawa_MIDI_LegatoType2.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_LegatoType2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_MorseDuplicate.lua" type="script" desc="kawa_MIDI_MorseDuplicate.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_MorseDuplicate.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_MorseDuplicate_Random.lua" type="script" desc="kawa_MIDI_MorseDuplicate_Random.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/06/29" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_MorseDuplicate_Random.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_MorseSplit.lua" type="script" desc="kawa_MIDI_MorseSplit.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_MorseSplit.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_MorseSplit_Random.lua" type="script" desc="kawa_MIDI_MorseSplit_Random.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_MorseSplit_Random.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NoteLength_Next.lua" type="script" desc="kawa_MIDI_NoteLength_Next.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NoteLength_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NoteLength_Prev.lua" type="script" desc="kawa_MIDI_NoteLength_Prev.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NoteLength_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NoteLengthEach_Next.lua" type="script" desc="kawa_MIDI_NoteLengthEach_Next.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NoteLengthEach_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NoteLengthEach_Prev.lua" type="script" desc="kawa_MIDI_NoteLengthEach_Prev.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NoteLengthEach_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NoteLengthToEnd.lua" type="script" desc="kawa_MIDI_NoteLengthToEnd.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NoteLengthToEnd.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NoteLengthToEndOfTakeItem.lua" type="script" desc="kawa_MIDI_NoteLengthToEndOfTakeItem.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/08/18" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NoteLengthToEndOfTakeItem.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NudgeNoteLeft.lua" type="script" desc="kawa_MIDI_NudgeNoteLeft.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NudgeNoteLeft.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NudgeNoteRight.lua" type="script" desc="kawa_MIDI_NudgeNoteRight.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NudgeNoteRight.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NudgeTwoNoteLeft.lua" type="script" desc="kawa_MIDI_NudgeTwoNoteLeft.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NudgeTwoNoteLeft.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_NudgeTwoNoteRight.lua" type="script" desc="kawa_MIDI_NudgeTwoNoteRight.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_NudgeTwoNoteRight.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_PasteToUpperOnMousePitch.lua" type="script" desc="kawa_MIDI_PasteToUpperOnMousePitch.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/07" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_PasteToUpperOnMousePitch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_PasteToUpperPitchCursor.lua" type="script" desc="kawa_MIDI_PasteToUpperPitchCursor.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_PasteToUpperPitchCursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_PitchBendGlide.lua" type="script" desc="kawa_MIDI_PitchBendGlide.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_PitchBendGlide.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ReduceVelocity.lua" type="script" desc="kawa_MIDI_ReduceVelocity.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ReduceVelocity.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ResolveOverLap.lua" type="script" desc="kawa_MIDI_ResolveOverLap.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ResolveOverLap.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectAllNoteCurrentTake.lua" type="script" desc="kawa_MIDI_SelectAllNoteCurrentTake.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectAllNoteCurrentTake.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectBottomNotes.lua" type="script" desc="kawa_MIDI_SelectBottomNotes.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectBottomNotes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectBottomNotes_Near.lua" type="script" desc="kawa_MIDI_SelectBottomNotes_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectBottomNotes_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectBottomNotes_OnPointedBar.lua" type="script" desc="kawa_MIDI_SelectBottomNotes_OnPointedBar.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectBottomNotes_OnPointedBar.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectedNoteInfo.lua" type="script" desc="kawa_MIDI_SelectedNoteInfo.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectedNoteInfo.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectedNotesToDuplicateTrack(nonDeleteOriginalNotes).lua" type="script" desc="kawa_MIDI_SelectedNotesToDuplicateTrack(nonDeleteOriginalNotes).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/22" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectedNotesToDuplicateTrack(nonDeleteOriginalNotes).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectedNotesToDuplicateTrack.lua" type="script" desc="kawa_MIDI_SelectedNotesToDuplicateTrack.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/22" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectedNotesToDuplicateTrack.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectedNotesToNewMediaItem.lua" type="script" desc="kawa_MIDI_SelectedNotesToNewMediaItem.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectedNotesToNewMediaItem.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectedNotesToNewTrackMediaItem(IgnoreDefaultTrackSetting).lua" type="script" desc="kawa_MIDI_SelectedNotesToNewTrackMediaItem(IgnoreDefaultTrackSetting).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectedNotesToNewTrackMediaItem(IgnoreDefaultTrackSetting).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectedNotesToNewTrackMediaItem.lua" type="script" desc="kawa_MIDI_SelectedNotesToNewTrackMediaItem.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectedNotesToNewTrackMediaItem.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectEvenNotesFromLower.lua" type="script" desc="kawa_MIDI_SelectEvenNotesFromLower.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectEvenNotesFromLower.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectEvenNotesFromLower_Near.lua" type="script" desc="kawa_MIDI_SelectEvenNotesFromLower_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectEvenNotesFromLower_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectionAuto_Ver1_Next.lua" type="script" desc="kawa_MIDI_SelectionAuto_Ver1_Next.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/05" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectionAuto_Ver1_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectionAuto_Ver1_Prev.lua" type="script" desc="kawa_MIDI_SelectionAuto_Ver1_Prev.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/05" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectionAuto_Ver1_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectionAuto_Ver2.lua" type="script" desc="kawa_MIDI_SelectionAuto_Ver2.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectionAuto_Ver2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectMiddleNotes.lua" type="script" desc="kawa_MIDI_SelectMiddleNotes.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectMiddleNotes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectMiddleNotes_Near.lua" type="script" desc="kawa_MIDI_SelectMiddleNotes_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectMiddleNotes_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectMiddleNotes_OnPointedBar.lua" type="script" desc="kawa_MIDI_SelectMiddleNotes_OnPointedBar.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectMiddleNotes_OnPointedBar.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectNotes_Mixed(TopMiddleBottomEvenOdd).lua" type="script" desc="kawa_MIDI_SelectNotes_Mixed(TopMiddleBottomEvenOdd).">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/07/30" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectNotes_Mixed(TopMiddleBottomEvenOdd).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectNotes_Mixed(TopMiddleBottomEvenOdd)_Near.lua" type="script" desc="kawa_MIDI_SelectNotes_Mixed(TopMiddleBottomEvenOdd)_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/07/30" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectNotes_Mixed(TopMiddleBottomEvenOdd)_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectOddNotesFromLower.lua" type="script" desc="kawa_MIDI_SelectOddNotesFromLower.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectOddNotesFromLower.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectOddNotesFromLower_Near.lua" type="script" desc="kawa_MIDI_SelectOddNotesFromLower_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectOddNotesFromLower_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectSimilerChord.lua" type="script" desc="kawa_MIDI_SelectSimilerChord.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectSimilerChord.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectSimilerChord_Near.lua" type="script" desc="kawa_MIDI_SelectSimilerChord_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectSimilerChord_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectTopNotes.lua" type="script" desc="kawa_MIDI_SelectTopNotes.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectTopNotes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectTopNotes_Near.lua" type="script" desc="kawa_MIDI_SelectTopNotes_Near.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectTopNotes_Near.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SelectTopNotes_OnPointedBar.lua" type="script" desc="kawa_MIDI_SelectTopNotes_OnPointedBar.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/03" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SelectTopNotes_OnPointedBar.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_ShowItemStateChunk.lua" type="script" desc="kawa_MIDI_ShowItemStateChunk.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_ShowItemStateChunk.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SplitNote2.lua" type="script" desc="kawa_MIDI_SplitNote2.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SplitNote2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SplitNote3.lua" type="script" desc="kawa_MIDI_SplitNote3.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SplitNote3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SplitNote4.lua" type="script" desc="kawa_MIDI_SplitNote4.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SplitNote4.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SplitNote5.lua" type="script" desc="kawa_MIDI_SplitNote5.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SplitNote5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_SplitNote7.lua" type="script" desc="kawa_MIDI_SplitNote7.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_SplitNote7.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_StrokeDown.lua" type="script" desc="kawa_MIDI_StrokeDown.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_StrokeDown.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_StrokeUp.lua" type="script" desc="kawa_MIDI_StrokeUp.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_StrokeUp.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityFix.lua" type="script" desc="kawa_MIDI_VelocityFix.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityFix.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityInterPolation_Cubic.lua" type="script" desc="kawa_MIDI_VelocityInterPolation_Cubic.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityInterPolation_Cubic.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityInterPolation_CubicRand.lua" type="script" desc="kawa_MIDI_VelocityInterPolation_CubicRand.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityInterPolation_CubicRand.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityInterPolation_Liner.lua" type="script" desc="kawa_MIDI_VelocityInterPolation_Liner.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityInterPolation_Liner.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityInterPolation_LinerRand.lua" type="script" desc="kawa_MIDI_VelocityInterPolation_LinerRand.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityInterPolation_LinerRand.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityInterPolation_Sin.lua" type="script" desc="kawa_MIDI_VelocityInterPolation_Sin.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityInterPolation_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityInterPolation_SinRand.lua" type="script" desc="kawa_MIDI_VelocityInterPolation_SinRand.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityInterPolation_SinRand.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VelocityRandom.lua" type="script" desc="kawa_MIDI_VelocityRandom.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/02/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VelocityRandom.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalScrollToBottomNote.lua" type="script" desc="kawa_MIDI_VerticalScrollToBottomNote.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalScrollToBottomNote.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalScrollToCircle.lua" type="script" desc="kawa_MIDI_VerticalScrollToCircle.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalScrollToCircle.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalScrollToSwitch.lua" type="script" desc="kawa_MIDI_VerticalScrollToSwitch.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalScrollToSwitch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalScrollToTopNote.lua" type="script" desc="kawa_MIDI_VerticalScrollToTopNote.">
+      <metadata>
+        <link rel="website">https://bitbucket.org/kawaCat/reascript-m2bpack/</link>
+      </metadata>
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalScrollToTopNote.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalZoom_In_3.lua" type="script" desc="kawa_MIDI_VerticalZoom_In_3.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalZoom_In_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalZoom_In_5.lua" type="script" desc="kawa_MIDI_VerticalZoom_In_5.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalZoom_In_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalZoom_Next.lua" type="script" desc="kawa_MIDI_VerticalZoom_Next.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalZoom_Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalZoom_Out_3.lua" type="script" desc="kawa_MIDI_VerticalZoom_Out_3.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalZoom_Out_3.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalZoom_Out_5.lua" type="script" desc="kawa_MIDI_VerticalZoom_Out_5.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalZoom_Out_5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDI_VerticalZoom_Prev.lua" type="script" desc="kawa_MIDI_VerticalZoom_Prev.">
+      <version name="2017/01/21" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDI_VerticalZoom_Prev.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_ClearAllCCInLastTouchedCCLane_AllCH.lua" type="script" desc="kawa_MIDICC_ClearAllCCInLastTouchedCCLane_AllCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_ClearAllCCInLastTouchedCCLane_AllCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_ClearAllCCInLastTouchedCCLane_OnlyCH.lua" type="script" desc="kawa_MIDICC_ClearAllCCInLastTouchedCCLane_OnlyCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_ClearAllCCInLastTouchedCCLane_OnlyCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_ClearCCWithInLoopSelection_AllCH.lua" type="script" desc="kawa_MIDICC_ClearCCWithInLoopSelection_AllCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_ClearCCWithInLoopSelection_AllCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_ClearCCWithInLoopSelection_OnlyCH.lua" type="script" desc="kawa_MIDICC_ClearCCWithInLoopSelection_OnlyCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_ClearCCWithInLoopSelection_OnlyCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_CompressCCValue.lua" type="script" desc="kawa_MIDICC_CompressCCValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_CompressCCValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_DecreasePosition(TimeStrecth).lua" type="script" desc="kawa_MIDICC_DecreasePosition(TimeStrecth).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_DecreasePosition(TimeStrecth).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_DecreaseValue.lua" type="script" desc="kawa_MIDICC_DecreaseValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_DecreaseValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_DuplicateMusical.lua" type="script" desc="kawa_MIDICC_DuplicateMusical.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_DuplicateMusical.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_DuplicateMusical_Back.lua" type="script" desc="kawa_MIDICC_DuplicateMusical_Back.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_DuplicateMusical_Back.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_DuplicateSimple.lua" type="script" desc="kawa_MIDICC_DuplicateSimple.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_DuplicateSimple.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_DuplicateSimple_Back.lua" type="script" desc="kawa_MIDICC_DuplicateSimple_Back.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_DuplicateSimple_Back.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_ExpandCCValue.lua" type="script" desc="kawa_MIDICC_ExpandCCValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_ExpandCCValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FadeInCCValue_Cubic.lua" type="script" desc="kawa_MIDICC_FadeInCCValue_Cubic.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FadeInCCValue_Cubic.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FadeInCCValue_Liner.lua" type="script" desc="kawa_MIDICC_FadeInCCValue_Liner.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FadeInCCValue_Liner.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FadeInCCValue_Sin.lua" type="script" desc="kawa_MIDICC_FadeInCCValue_Sin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FadeInCCValue_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FadeOutCCValue_Cubic.lua" type="script" desc="kawa_MIDICC_FadeOutCCValue_Cubic.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FadeOutCCValue_Cubic.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FadeOutCCValue_Liner.lua" type="script" desc="kawa_MIDICC_FadeOutCCValue_Liner.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FadeOutCCValue_Liner.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FadeOutCCValue_Sin.lua" type="script" desc="kawa_MIDICC_FadeOutCCValue_Sin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FadeOutCCValue_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FitCopyToLoopSelectionRange.lua" type="script" desc="kawa_MIDICC_FitCopyToLoopSelectionRange.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FitCopyToLoopSelectionRange.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FixCCValueAbsolute.lua" type="script" desc="kawa_MIDICC_FixCCValueAbsolute.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FixCCValueAbsolute.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FixCCValuePercent.lua" type="script" desc="kawa_MIDICC_FixCCValuePercent.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FixCCValuePercent.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FixCCValueToCenter.lua" type="script" desc="kawa_MIDICC_FixCCValueToCenter.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FixCCValueToCenter.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FixCCValueToMAX.lua" type="script" desc="kawa_MIDICC_FixCCValueToMAX.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FixCCValueToMAX.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_FixCCValueToMIN.lua" type="script" desc="kawa_MIDICC_FixCCValueToMIN.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_FixCCValueToMIN.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_GenerateWaveSignal_Saw.lua" type="script" desc="kawa_MIDICC_GenerateWaveSignal_Saw.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_GenerateWaveSignal_Saw.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_GenerateWaveSignal_Sin.lua" type="script" desc="kawa_MIDICC_GenerateWaveSignal_Sin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_GenerateWaveSignal_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_GenerateWaveSignal_Square.lua" type="script" desc="kawa_MIDICC_GenerateWaveSignal_Square.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_GenerateWaveSignal_Square.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_GenerateWaveSignal_Tri.lua" type="script" desc="kawa_MIDICC_GenerateWaveSignal_Tri.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_GenerateWaveSignal_Tri.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_IncreasePosition(TimeStrecth).lua" type="script" desc="kawa_MIDICC_IncreasePosition(TimeStrecth).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_IncreasePosition(TimeStrecth).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_IncreaseValue.lua" type="script" desc="kawa_MIDICC_IncreaseValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_IncreaseValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InsertCenterValueCC.lua" type="script" desc="kawa_MIDICC_InsertCenterValueCC.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InsertCenterValueCC.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InsertMaxValueCC.lua" type="script" desc="kawa_MIDICC_InsertMaxValueCC.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InsertMaxValueCC.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InsertMinValueCC.lua" type="script" desc="kawa_MIDICC_InsertMinValueCC.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InsertMinValueCC.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InterPolationCCValue_Cubic.lua" type="script" desc="kawa_MIDICC_InterPolationCCValue_Cubic.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InterPolationCCValue_Cubic.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InterPolationCCValue_Liner.lua" type="script" desc="kawa_MIDICC_InterPolationCCValue_Liner.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InterPolationCCValue_Liner.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InterPolationCCValue_Sin.lua" type="script" desc="kawa_MIDICC_InterPolationCCValue_Sin.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InterPolationCCValue_Sin.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InterPolationCCValue_Sin_Type2.lua" type="script" desc="kawa_MIDICC_InterPolationCCValue_Sin_Type2.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InterPolationCCValue_Sin_Type2.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InvertPosition.lua" type="script" desc="kawa_MIDICC_InvertPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InvertPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InvertValue.lua" type="script" desc="kawa_MIDICC_InvertValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InvertValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_InvertValueAndPosition.lua" type="script" desc="kawa_MIDICC_InvertValueAndPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_InvertValueAndPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_RandomCCPosition.lua" type="script" desc="kawa_MIDICC_RandomCCPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_RandomCCPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_RandomCCValue.lua" type="script" desc="kawa_MIDICC_RandomCCValue.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_RandomCCValue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_RandomCCValueAndPosition.lua" type="script" desc="kawa_MIDICC_RandomCCValueAndPosition.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_RandomCCValueAndPosition.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_ReduceCCCount.lua" type="script" desc="kawa_MIDICC_ReduceCCCount.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_ReduceCCCount.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SelectAllCCInLastTouchedCCLane_AllCH.lua" type="script" desc="kawa_MIDICC_SelectAllCCInLastTouchedCCLane_AllCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SelectAllCCInLastTouchedCCLane_AllCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SelectAllCCInLastTouchedCCLane_OnlyCH.lua" type="script" desc="kawa_MIDICC_SelectAllCCInLastTouchedCCLane_OnlyCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SelectAllCCInLastTouchedCCLane_OnlyCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SelectCCWithInLoopSelection_AllCH.lua" type="script" desc="kawa_MIDICC_SelectCCWithInLoopSelection_AllCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SelectCCWithInLoopSelection_AllCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SelectCCWithInLoopSelection_OnlyCH.lua" type="script" desc="kawa_MIDICC_SelectCCWithInLoopSelection_OnlyCH.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SelectCCWithInLoopSelection_OnlyCH.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Bezier_EFF_Type1(mouseWheel only).lua" type="script" desc="kawa_MIDICC_SplitCC_Bezier_EFF_Type1(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Bezier_EFF_Type1(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Bezier_EFF_Type2(mouseWheel only).lua" type="script" desc="kawa_MIDICC_SplitCC_Bezier_EFF_Type2(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Bezier_EFF_Type2(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Bezier_Type1(mouseWheel only).lua" type="script" desc="kawa_MIDICC_SplitCC_Bezier_Type1(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Bezier_Type1(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Bezier_Type1_L(mouseWheel only).lua" type="script" desc="kawa_MIDICC_SplitCC_Bezier_Type1_L(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Bezier_Type1_L(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Bezier_Type2(mouseWheel only).lua" type="script" desc="kawa_MIDICC_SplitCC_Bezier_Type2(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Bezier_Type2(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Bezier_Type2_L(mouseWheel only).lua" type="script" desc="kawa_MIDICC_SplitCC_Bezier_Type2_L(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Bezier_Type2_L(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Cubic_02.lua" type="script" desc="kawa_MIDICC_SplitCC_Cubic_02.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Cubic_02.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Cubic_03.lua" type="script" desc="kawa_MIDICC_SplitCC_Cubic_03.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Cubic_03.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Cubic_04.lua" type="script" desc="kawa_MIDICC_SplitCC_Cubic_04.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Cubic_04.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Cubic_10.lua" type="script" desc="kawa_MIDICC_SplitCC_Cubic_10.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Cubic_10.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Cubic_30.lua" type="script" desc="kawa_MIDICC_SplitCC_Cubic_30.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Cubic_30.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Liner_02.lua" type="script" desc="kawa_MIDICC_SplitCC_Liner_02.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Liner_02.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Liner_03.lua" type="script" desc="kawa_MIDICC_SplitCC_Liner_03.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Liner_03.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Liner_04.lua" type="script" desc="kawa_MIDICC_SplitCC_Liner_04.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Liner_04.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Liner_10.lua" type="script" desc="kawa_MIDICC_SplitCC_Liner_10.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Liner_10.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Liner_30.lua" type="script" desc="kawa_MIDICC_SplitCC_Liner_30.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Liner_30.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_02.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_02.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_02.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_03.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_03.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_03.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_04.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_04.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_04.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_10.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_10.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_10.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_30.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_30.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_30.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_Type2_02.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_Type2_02.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_Type2_02.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_Type2_03.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_Type2_03.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_Type2_03.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_Type2_04.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_Type2_04.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_Type2_04.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_Type2_10.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_Type2_10.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_Type2_10.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_SplitCC_Sin_Type2_30.lua" type="script" desc="kawa_MIDICC_SplitCC_Sin_Type2_30.">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_SplitCC_Sin_Type2_30.lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_WarpCC_Position_Type1(mouseWheel only).lua" type="script" desc="kawa_MIDICC_WarpCC_Position_Type1(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_WarpCC_Position_Type1(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_WarpCC_Position_Type1_L(mouseWheel only).lua" type="script" desc="kawa_MIDICC_WarpCC_Position_Type1_L(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_WarpCC_Position_Type1_L(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_WarpCC_Value_Type1(mouseWheel only).lua" type="script" desc="kawa_MIDICC_WarpCC_Value_Type1(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_WarpCC_Value_Type1(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_WarpCC_Value_Type1_L(mouseWheel only).lua" type="script" desc="kawa_MIDICC_WarpCC_Value_Type1_L(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_WarpCC_Value_Type1_L(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_WarpCC_Value_Type2_Smoozing(mouseWheel only).lua" type="script" desc="kawa_MIDICC_WarpCC_Value_Type2_Smoozing(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_WarpCC_Value_Type2_Smoozing(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+    <reapack name="kawa_MIDICC_WarpCC_Value_Type2_Smoozing_L(mouseWheel only).lua" type="script" desc="kawa_MIDICC_WarpCC_Value_Type2_Smoozing_L(mouseWheel only).">
+      <version name="2017/01/09" author="kawa_" time="2022-05-29T11:40:17Z">
+        <source main="midi_editor">https://bitbucket.org/kawaCat/reascript-m2bpack/raw/918efb747ce7cc23c82751eb4b96599feeb30d47/MIDI%20editor/kawa_MIDICC_WarpCC_Value_Type2_Smoozing_L(mouseWheel%20only).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaScript-MIDI for ReaPack.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab ReaScript For Cockos REAPER Midi Piano Roll Editor.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Scripts info and Animation Preview at {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-midi-section"}}{\fldrslt{\ul
+Wiki Page
+}}}
+.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Some script need {\field{\*\fldinst{HYPERLINK "http://www.sws-extension.org/"}}{\fldrslt{\ul
+"SWS / S&M Extension"
+}}}
+.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Thank you Reaper And ReaPack And Sws extensiton!\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Animation Preview and Documents.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-midi-section"}}{\fldrslt{\ul
+MIDI-Section
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-midi-cc-section"}}{\fldrslt{\ul
+MIDI-CC-Section
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-envelope-section"}}{\fldrslt{\ul
+ENVELOPE-Section
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-main-section"}}{\fldrslt{\ul
+MAIN-Section
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-gui-section"}}{\fldrslt{\ul
+GUI-Section
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 6.\tx360\tab {\field{\*\fldinst{HYPERLINK "http://kawa.works/reascript-change-log"}}{\fldrslt{\ul
+Change log
+}}}
+\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 7.\tx360\tab {\field{\*\fldinst{HYPERLINK "https://bitbucket.org/kawaCat/reascript-m2bpack/wiki/Laboratory"}}{\fldrslt{\ul
+Labo
+}}}
+\sa180\par}
+}
+]]></description>
+  </metadata>
+</index>

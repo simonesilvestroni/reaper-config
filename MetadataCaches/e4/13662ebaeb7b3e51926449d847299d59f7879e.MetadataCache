@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Bluezone Corporation - War Zone (Designed Explosions)"
+F Bluezone-BC0214-beep-mine-explosion-002.wav 1591172 0 1583867469 0
+D t "template 2015 (explosion)" s 44100 n 2 l 0:06.007
+D i 24
+F Bluezone-BC0214-beep-mine-explosion-007.wav 2267282 0 1583869006 0
+D t "template 2015 (explosion)" s 44100 n 2 l 0:08.562
+D i 24
+F Bluezone-BC0214-explosion-whooshe-003.wav 2122220 0 1583868402 0
+D t "template 2015 (explosion)" s 44100 n 2 l 0:08.014
+D i 24
+F Bluezone-BC0214-explosion-whooshe-020.wav 2370560 0 1583869059 0
+D t "template 2015 (explosion)" s 44100 n 2 r 0:00.024
+D l 0:08.952 i 24

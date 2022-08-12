@@ -1,0 +1,479 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/AMBIENCE/AMB - NATURE - BEACH & SEA"
+F "1.Indonesia - Bali - FerryHarbour - PadangBai - Night - CalmOceanWaves - FerryHonk - short - long - 01.WAV" 475926280 0 1538023025 0
+D t 180726 y 2018-07-26 d "SPEED=29.970D  TAKE=001  UBITS=00000000  SCENE=180726  TAPE=180726  CIRCLED=FALSE  TR1=Tr1  TR2=Tr2  TR5=Tr5  TR6=Tr6  NOTE=  " s 192000
+D n 2 r 1:04.998 l 6:53.012 i 24
+F "14.Singapore - Hydrophone - smallwaterchannel - flowingwater - ZoomF4 - Limpetmics - 19224 - 02.WAV" 164807270 0 1538021596 0
+D t 180819 y 2018-08-19 d "I found a small water channel and used my hdrophones for this recording. I used one pair to get the stereo effect" s 192000
+D n 2 r 0:43.043 l 2:22.942 i 24
+F "15.Singapore - LabradorPark - IndustrialSounds - Ships&Containerparkbackground - wavessplashing - ZoomF8n - DPA4060 - 19224.WAV" 264338276 0 1538026397 0
+D t 180906 y 2018-09-06 d "SPEED=29.970D  TAKE=028  UBITS=00000000  SCENE=180906  TAPE=180906  CIRCLED=FALSE  TR1=Tr1  TR2=Tr2  NOTE=  " s 192000
+D n 2 r 20:13.634 l 3:49.341 i 24
+F "4.Indonesia - Bali - FerryPort - PadangBai - ShipHonk - short - 04.wav" 7878532 0 1538022657 0
+D t 180726 y 2018-07-26 d "SPEED=29.970D  TAKE=001  UBITS=00000000  SCENE=180726  TAPE=180726  CIRCLED=FALSE  TR1=Tr1  TR2=Tr2  TR5=Tr5  TR6=Tr6  NOTE=  " s 192000
+D n 2 r 2:04.939 l 0:06.720 i 24
+F "5.Indonesia - Bali - OceanWaves - PadangBai - Calm - BoatsInWater - Sandbeach - NightTime - 05.wav" 427368012 0 1538022077 0
+D y 2018-07-28 s 192000 n 2 l 6:10.970
+D i 24
+F "6.Indonesia - Bali - OceanWaves - VulcanicBlackSand - Brushing - Soft - 06.WAV" 164884142 0 1538026944 0
+D t 180726 y 2018-07-26 d "SPEED=29.970D  TAKE=006  UBITS=00000000  SCENE=180726  TAPE=180726  CIRCLED=FALSE  TR1=Tr1  TR2=Tr2  NOTE=  " s 192000
+D n 2 r 12:17.003 l 2:23.009 i 24
+F "AMB - BEACH - DAY - LOOP - 01.wav" 34503474 0 1538401842 0
+D y 2018-10-01 s 48000 n 2 r 10:15:24.291
+D l 1:59.166 i 24
+F "AMB - BEACH - OCEAN - WAVES - 01.wav" 12887104 0 986318006 0
+D s 44100 n 2 l 1:13.055 i 16
+F "AMB - BEACH - SEAGULLS - 01.wav" 35618990 0 1547642550 0
+D s 48000 n 2 l 2:03.676 i 24
+F "AMB - BEACH - STORM - LOOP - 01.wav" 34503474 0 1538401868 0
+D y 2018-10-01 s 48000 n 2 r 10:21:16.541
+D l 1:59.166 i 24
+F "AMB - BEACH - WAVES - CALM - 01.wav" 10114456 0 1467903442 0
+D y 2016 g "Game Sounds" c "organic nature, epic stock media, loops, water, ocean, waves, ripples, flowing, stream, river, beach, lake" d "16bit 44100khz"
+D s 44100 n 2 r 1:00:00.000 l 0:56.754
+D i 16 m 0
+F "AMB - BEACH - WAVES - CRASHING - 01.wav" 202730618 0 1495892238 0
+D y 2017-03-19 g "Ocean Beaches" c "Stinson Beach, mics placed behind a gigantc rock with several pockets of puddles and crevices just below the mic. " d "dUBITS=$00000000  dSCENE=1  dTAKE=2  dTAPE=z001  dFRAMERATE=30FF  dTRK1=Ch 1  dTRK2=Ch 2  "
+D s 96000 n 2 r 23:40:30.148 l 5:49.434
+D i 24 m 0
+F "AMB - BEACH - WAVES - LARGE - 01.wav" 13817662 0 1532600436 0
+D y 2017-09-0 d Waves,Large,Beach,Calm,Hissing s 96000 n 2
+D l 0:23.978 i 24
+F "AMB - Beach walla.wav" 257106050 0 1488537528 0
+D y 2015-10-12 s 96000 n 2 r 1:10:30.715
+D l 7:26.354 i 24
+F "AMB - Beach With Children.wav" 16081500 0 1439161795 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.164
+D i 16
+F "AMB - NATURE - Atlantic Ocean Waves Ambience.mp3" 9110673 0 1583931282 0
+D s 44100 n 2 l 4:44.657 i 256k
+F "Amb Ext Fort Mcallister Water Lapping Boat Ramp.wav" 71468698 0 1481710369 0
+D a "Tommy Sarioglou" y 2015-08-23 g Ambience d "Richmond Hill, GA: Water lapping against boat ramp."
+D s 96000 n 2 l 2:03.421 i 24
+F "Ambience Huge Waves 1M Away From Impact Point 2.wav" 24243632 0 1488537526 0
+D y 2016-06-2 c "Natural ambience of huge waves hitting rocks 1 meter away from the microphone. These sound effects were recorded at the Black Sea over a period of three days using a Tascam DR-600mkII and a Rode NT4." d "sNOTE=Natural ambience of huge waves hitting rocks 1 meter away from the microphone. These sound effects were recorded at the Black Sea over a period of three days using a Tascam DR-600mkII and a Rode NT4.  " s 96000
+D n 2 l 0:42.069 i 24
+F "Ambience Huge Waves 2M Away From Impact Point 1.wav" 22277552 0 1488537527 0
+D y 2016-06-2 c "Natural ambience of huge waves hitting rocks 2 meters away from the microphone. These sound effects were recorded at the Black Sea over a period of three days using a Tascam DR-600mkII and a Rode NT4." d "sNOTE=Natural ambience of huge waves hitting rocks 2 meters away from the microphone. These sound effects were recorded at the Black Sea over a period of three days using a Tascam DR-600mkII and a Rode NT4.  " s 96000
+D n 2 l 0:38.656 i 24
+F "Aquatics Fx.aiff" 34662 0 1505995958 0
+D a PowerFX.com d SL03930 p 441.9576 s 44100
+D n 2 l 0:00.135 i 16
+F "Bayou Swamp 01.wav" 16254940 0 1439162952 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.147
+D i 16
+F "Beach Fx 01.wav" 7078022 0 1439163215 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:40.124
+D i 16
+F "Calm Ocean Ambience.mp3" 770715 0 1583931004 0
+D s 44100 n 2 l 0:24.033 i 257k
+F "Canoe Paddle.wav" 4147614 0 1439161041 0
+D a "Apple Inc." s 44100 n 2 l 0:23.512
+D i 16
+F "CostaRica - PlayaCarillo - OceanSounds - 01.WAV" 294110360 0 1526820505 0
+D y 2018-04-05 s 96000 n 2 r 12:47:16.914
+D l 8:30.537 i 24
+F "CostaRica - Samara - PlayaSamara - OceanSounds - 01.WAV" 164691132 0 1526819902 0
+D y 2018-04-06 s 96000 n 2 r 6:38:22.244
+D l 4:45.852 i 24
+F "CostaRica - SantaTeresa - HermosaBeach - PicificOcean - RTVinBackground.wav" 37293310 0 1526816210 0
+D y 2018-04-15 s 96000 n 2 r 13:55:57.469
+D l 1:04.676 i 24
+F "Creek, Water, Flowing, Splashing.wav" 10161568 0 1488537382 0
+D y 2016-10-14 d "WATER FLOWING MOVEMENT; Creek, water, flowing, splashing" s 96000 n 2
+D r 2:51.152 l 0:17.640 i 24
+F "Did We Fake It.wav" 3376256 0 1247742986 0
+D y 2009-07-16 s 44100 n 2 l 0:12.759
+D i 24
+F "Dry Stone To Water.wav" 529250 0 1470124290 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Water Splash 1.wav" 529244 0 1470489038 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Water Splash 2.wav" 529244 0 1470489062 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dunking Bottle.wav" 613766 0 1248293048 0
+D y 2009-07-22 s 44100 n 2 l 0:02.319
+D i 24
+F "Indonesia - Bali - EchoBeach - Canggu - IndianOcean.WAV" 280343036 0 1526816137 0
+D y 2018-02-26 s 96000 n 2 r 17:20.000
+D l 8:06.637 i 24
+F "Indonesia - Bali - SesehBeach - IndianOcean.WAV" 211906356 0 1526815799 0
+D y 2018-02-25 s 96000 n 2 r 21:46:51.176
+D l 6:07.823 i 24
+F "Jamjar Of Water.wav" 1201274 0 1248267052 0
+D y 2009-07-22 s 44100 n 2 l 0:04.539
+D i 24
+F "Japan - Tajimaisland - OceanWavesOngravelstones.wav" 65382224 0 1526814654 0
+D y 2018-03-17 s 96000 n 2 r 17:30:40.000
+D l 1:53.438 i 24
+F "Jumping In Pool.wav" 655404 0 1439161819 0
+D a "Apple Inc." s 44100 n 2 l 0:03.714
+D i 16
+F Kayak.wav 4086502 0 1439162413 0
+D a "Sound Ideas" s 44100 n 2 l 0:23.165
+D i 16
+F "Large Wave Splash On Rocks 21.wav" 4509208 0 1488537422 0
+D y 2016-06-2 c "Short sound effect of a large wave hitting rocks and causing a splash. A few seconds were intentionally left in at the end of the file in order to make it easier for you to blend it into your project.  These sound effects were recorded at the Black Sea over a period of three days using a Tascam DR-600mkII and a Rode NT4." s 96000 n 2
+D r 0:41.984 l 0:07.808 i 24
+F "Medium Wave Splash On Rocks 12.wav" 4533796 0 1488536907 0
+D y 2016-06-2 c "Short sound effect of a medium-sized wave hitting rocks and causing a splash. A few seconds were intentionally left in at the end of the file in order to make it easier for you to blend it into your project.  These sound effects were recorded at the Black Sea over a period of three days using a Tascam DR-600mkII and a Rode NT4." s 96000 n 2
+D r 3:45.749 l 0:07.850 i 24
+F "Ocean Surf.wav" 11010146 0 1439163492 0
+D a "Apple Inc." s 44100 n 2 l 1:02.415
+D i 16
+F "Ocean Waves Hitting Rocks.mp3" 6850350 0 1583931083 0
+D s 44100 n 2 l 3:34.022 i 256k
+F "PM ASR Sea Waves Lapping Calm to Intense.wav" 361293612 0 1558191735 0
+D a "Phil Michalski | PMSFX @pmsfx" y 2019-05-18 g Ambience c "Sea, Waves, Lapping, Clalm to Intense, Water"
+D d "Sea, Waves, SPlashing, Swells, Gurgling" s 192000 n 2 r 36:52.000
+D l 5:13.364 i 24 m 0
+F "Port Ambience, Small Waves Hitting Boats.wav" 65387078 0 1488537534 0
+D t "Mediterranean Summertime" y 2016-04-14 c "Port ambience, small waves hitting boats" d "sPROJECT=Mediterranean Summertime  sNOTE=Port ambience, small waves hitting boats  "
+D s 96000 n 2 r 1:00:10.500 l 1:53.500
+D i 24
+F "Public Beach Ambience.mp3" 8901693 0 1583931306 0
+D s 44100 n 2 l 4:38.126 i 256k
+F "Scuba Breathing.wav" 9580632 0 1439163161 0
+D a "Apple Inc." s 44100 n 2 l 0:54.311
+D i 16
+F "Scuba Dive.wav" 16634576 0 1439163159 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:34.299
+D i 16
+F "Seagulls Calling On Quiet Beach.mp3" 2230229 0 1583931195 0
+D s 44100 n 2 l 1:09.643 i 256k
+F "Seagulls Calling On Quiet Beach_2.mp3" 2230229 0 1583931139 0
+D s 44100 n 2 l 1:09.643 i 256k
+F "Sewers 01 (loopable).mp3" 1223393 0 1505990276 0
+D s 44100 n 2 l 0:30.276 i 321k
+F "Sewers 02 (loopable).mp3" 1234886 0 1505990276 0
+D s 44100 n 2 l 0:30.564 i 321k
+F "Shore 1.wav" 19539734 0 1474376282 0
+D s 44100 n 2 l 1:13.846 i 24
+F "Shore 2.wav" 19539734 0 1474376304 0
+D s 44100 n 2 l 1:13.846 i 24
+F "Shore 3.wav" 19539734 0 1474376298 0
+D s 44100 n 2 l 1:13.846 i 24
+F "Shore 4   1.wav" 19539734 0 1476211020 0
+D s 44100 n 2 l 1:13.846 i 24
+F "Shore 4   2.wav" 19539734 0 1476211232 0
+D s 44100 n 2 l 1:13.846 i 24
+F "Shore 4.wav" 19539734 0 1474376290 0
+D s 44100 n 2 l 1:13.846 i 24
+F "Shore 5.wav" 12096044 0 1474377032 0
+D s 44100 n 2 l 0:45.714 i 24
+F "Shore 6.wav" 16934444 0 1474377138 0
+D s 44100 n 2 l 1:04.000 i 24
+F "Shore 7.wav" 9072044 0 1474377226 0
+D s 44100 n 2 l 0:34.285 i 24
+F "STOMPS Water Deep Set 2 WALK 01.wav" 1269106 0 1544622770 0
+D a "Michel Marchant" y 2017-02-24 g Source c "FOOTSTEPS, Water | WALK, Deep water, hard attack bubbles | Single step_01"
+D d "FOOTSTEPS, Water | WALK, Deep water, hard attack bubbles  | Single step_01" s 192000 n 1 r 55:58.566
+D l 0:01.853 i 24 m 0
+F "STOMPS Water Deep Set 2 WALK 02.wav" 1269106 0 1544622770 0
+D a "Michel Marchant" y 2017-02-24 g Source c "FOOTSTEPS, Water | WALK, Deep water, hard attack bubbles | Single step_02"
+D d "FOOTSTEPS, Water | WALK, Deep water, hard attack bubbles  | Single step_02" s 192000 n 1 r 56:00.920
+D l 0:01.853 i 24 m 0
+F "STOMPS Water Deep Set 2 WALK 03.wav" 1269106 0 1544622770 0
+D a "Michel Marchant" y 2017-02-24 g Source c "FOOTSTEPS, Water | WALK, Deep water, hard attack bubbles | Single step_03"
+D d "FOOTSTEPS, Water | WALK, Deep water, hard attack bubbles  | Single step_03" s 192000 n 1 r 56:03.274
+D l 0:01.853 i 24 m 0
+F "Stream (loopable).mp3" 3421858 0 1505990277 0
+D s 44100 n 2 l 1:25.238 i 320k
+F "Stream 1.wav" 11518024 0 1488630171 0
+D s 48000 n 2 l 0:59.989 i 16
+F "Stream 2.wav" 11525200 0 1488630178 0
+D s 48000 n 2 l 1:00.026 i 16
+F "Stream 3.wav" 11522120 0 1488630178 0
+D s 48000 n 2 l 1:00.010 i 16
+F "Stream With Mill Water Wheel.wav" 16816772 0 1439162110 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:35.332
+D i 16
+F "Swimming 1.wav" 1302140 0 1439161797 0
+D a "Sound Ideas" s 44100 n 2 l 0:07.380
+D i 16
+F "Swimming 2.wav" 1153104 0 1439162843 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.536
+D i 16
+F "Swimming 3.wav" 550716 0 1439161265 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.121
+D i 16
+F "Swimming 4.wav" 3677854 0 1439162287 0
+D a "Sound Ideas" s 44100 n 2 l 0:20.848
+D i 16
+F "Swimming Indoor.wav" 3420116 0 1439161969 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:19.387
+D i 16
+F "Swimming Pool Fx 02.wav" 6685692 0 1439161975 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:37.900
+D i 16
+F "Swimming Pool Fx 03.wav" 950404 0 1439162042 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:05.387
+D i 16
+F "Swimming Pool Indoor.wav" 1267054 0 1439163450 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.181
+D i 16
+F "Under Umbrella.wav" 3907628 0 1247475986 0
+D s 44100 n 2 l 0:14.767 i 24
+F "USA - California - Balbo - TheWedge - PacificOcean - WavesOnStones - Jetty.wav" 184031936 0 1526814576 0
+D y 2018-05-20 s 96000 n 2 l 5:19.482
+D i 24
+F "USA - California - Balboa - Midnight - Water - Gargle - Heron.wav" 77606926 0 1526814362 0
+D y 2018-05-20 s 96000 n 2 l 2:14.717
+D i 24
+F "USA - California - LosAngeles - RedondoPier - Fishermen - Bellbuoy.wav" 223810448 0 1526812974 0
+D y 2018-05-20 s 96000 n 2 l 6:28.542
+D i 24
+F "USA - California - MorroBay - SeaOtters - Seagulls.wav" 189074032 0 1526812651 0
+D y 2018-05-20 s 96000 n 2 l 5:28.236
+D i 24
+F "USA - California - Newport - Balboa - Pier - WaterCrushingOnJetty.wav" 152816490 0 1526812413 0
+D y 2017-10-23 s 96000 n 2 r 17:05:39.960
+D l 4:25.237 i 24
+F "USA - California - OrangeCounty - 1000StepsBeach - Part02.wav" 237113224 0 1526811313 0
+D y 2018-05-20 s 96000 n 2 r 11:02.682
+D l 6:51.637 i 24
+F "USA - California - OrangeCounty - DanaPoint - Midnight - BoatFogHorn - Seagul - OceanOnStones.wav" 210958448 0 1526810878 0
+D y 2018-05-20 s 96000 n 2 l 6:06.230
+D i 24
+F "USA - OrangeCounty - Balboa - NewportBeach - Sunrise.WAV" 82218240 0 1526810621 0
+D y 2017-10-23 s 96000 n 2 r 18:15:49.000
+D l 2:22.670 i 24
+F "Water 1.mp3" 1507813 0 1505990277 0
+D s 44100 n 2 l 1:33.780 i 128k
+F "Water 10.mp3" 1600600 0 1505990277 0
+D s 44100 n 2 l 1:39.579 i 128k
+F "Water 11.mp3" 1586808 0 1505990277 0
+D s 44100 n 2 l 1:38.717 i 128k
+F "Water 12.mp3" 1990138 0 1505990277 0
+D s 44100 n 2 l 2:03.978 i 128k
+F "Water 13.mp3" 1983033 0 1505990277 0
+D s 44100 n 2 l 2:03.534 i 128k
+F "Water 14.mp3" 1995990 0 1505990277 0
+D s 44100 n 2 l 2:04.343 i 128k
+F "Water 15.mp3" 1981779 0 1505990277 0
+D s 44100 n 2 l 2:03.455 i 128k
+F "Water 16.mp3" 1990138 0 1505990277 0
+D s 44100 n 2 l 2:03.978 i 128k
+F "Water 17.mp3" 1983033 0 1505990277 0
+D s 44100 n 2 l 2:03.534 i 128k
+F "Water 18.mp3" 1965479 0 1505990277 0
+D s 44100 n 2 l 2:02.436 i 128k
+F "Water 19.mp3" 1228199 0 1505990277 0
+D s 44100 n 2 l 1:16.252 i 128k
+F "Water 2.mp3" 1513665 0 1505990277 0
+D s 44100 n 2 l 1:34.146 i 128k
+F "Water 20.mp3" 1989720 0 1505990277 0
+D s 44100 n 2 l 2:03.952 i 128k
+F "Water 21.mp3" 1653681 0 1505990277 0
+D s 44100 n 2 l 1:42.923 i 128k
+F "Water 22.mp3" 242233 0 1505990277 0
+D s 44100 n 2 l 0:14.499 i 128k
+F "Water 23.mp3" 1098631 0 1505990277 0
+D s 44100 n 2 l 1:08.128 i 128k
+F "Water 24.mp3" 1973002 0 1505990277 0
+D s 44100 n 2 l 2:02.907 i 128k
+F "Water 25.mp3" 1359856 0 1505990277 0
+D s 44100 n 2 l 1:24.507 i 128k
+F "Water 26.mp3" 1499454 0 1505990277 0
+D s 44100 n 2 l 1:33.258 i 128k
+F "Water 27.mp3" 1978435 0 1505990277 0
+D s 44100 n 2 l 2:03.246 i 128k
+F "Water 28.mp3" 1990138 0 1505990277 0
+D s 44100 n 2 l 2:03.978 i 128k
+F "Water 29.mp3" 1130396 0 1505990277 0
+D s 44100 n 2 l 1:10.139 i 128k
+F "Water 3.mp3" 1505306 0 1505990277 0
+D s 44100 n 2 l 1:33.623 i 128k
+F "Water 30.mp3" 1674161 0 1505990277 0
+D s 44100 n 2 l 1:44.203 i 128k
+F "Water 31.mp3" 1987630 0 1505990277 0
+D s 44100 n 2 l 2:03.821 i 128k
+F "Water 32.mp3" 1987212 0 1505990277 0
+D s 44100 n 2 l 2:03.795 i 128k
+F "Water 33.mp3" 1986377 0 1505990277 0
+D s 44100 n 2 l 2:03.743 i 128k
+F "Water 34.mp3" 1522024 0 1505990277 0
+D s 44100 n 2 l 1:34.668 i 128k
+F "Water 35.mp3" 1614811 0 1505990277 0
+D s 44100 n 2 l 1:40.467 i 128k
+F "Water 36.mp3" 1035937 0 1505990277 0
+D s 44100 n 2 l 1:04.210 i 128k
+F "Water 37.mp3" 1243245 0 1505990277 0
+D s 44100 n 2 l 1:17.192 i 128k
+F "Water 38.mp3" 2344150 0 1505990277 0
+D s 44100 n 2 l 2:26.156 i 128k
+F "Water 39.mp3" 1328927 0 1505990277 0
+D s 44100 n 2 l 1:22.574 i 128k
+F "Water 4.mp3" 1499872 0 1505990277 0
+D s 44100 n 2 l 1:33.284 i 128k
+F "Water 40.mp3" 1017965 0 1505990277 0
+D s 44100 n 2 l 1:03.086 i 128k
+F "Water 41.mp3" 927268 0 1505990277 0
+D s 44100 n 2 l 0:57.418 i 128k
+F "Water 42.mp3" 170344 0 1505990277 0
+D s 44100 n 2 l 0:09.979 i 128k
+F "Water 5.mp3" 1511157 0 1505990277 0
+D s 44100 n 2 l 1:33.989 i 128k
+F "Water 6.mp3" 1427565 0 1505990277 0
+D s 44100 n 2 l 1:28.739 i 128k
+F "Water 7.mp3" 1979689 0 1505990277 0
+D s 44100 n 2 l 2:03.325 i 128k
+F "Water 8.mp3" 1982197 0 1505990277 0
+D s 44100 n 2 l 2:03.481 i 128k
+F "Water 9.mp3" 1989302 0 1505990277 0
+D s 44100 n 2 l 2:03.925 i 128k
+F "Water Bubbles Rapid1.wav" 3892604 0 1502565698 0
+D s 44100 n 2 l 0:22.066 i 16
+F "Water Bubbles Rapid2.wav" 9431564 0 1502565898 0
+D s 44100 n 2 l 0:53.466 i 16
+F "Water Bubbles Rapid3.wav" 10099532 0 1502566253 0
+D s 44100 n 2 l 0:57.253 i 16
+F "Water Bubbles Singles.wav" 14333132 0 1502566254 0
+D s 44100 n 2 l 1:21.253 i 16
+F "Water Bubbles.wav" 11018528 0 1439161244 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.462
+D i 16
+F "Water Can 1.wav" 111558 0 1200106184 0
+D s 44100 n 1 l 0:01.263 i 16
+F "Water Can 2.wav" 153392 0 1200106184 0
+D s 44100 n 1 l 0:01.737 i 16
+F "Water Cauldren.wav" 8836508 0 1502565076 0
+D s 44100 n 2 l 0:50.093 i 16
+F "Water flowing 1.wav" 2175014 0 1248361938 0
+D s 44100 n 2 l 0:08.219 i 24
+F "Water flowing 2.wav" 2624768 0 1248362066 0
+D s 44100 n 2 l 0:09.919 i 24
+F "Water Glass 1.Wav" 287660 0 1200106184 0
+D s 44100 n 1 l 0:03.260 i 16
+F "Water Glass 2.Wav" 275724 0 1200106184 0
+D s 44100 n 1 l 0:03.124 i 16
+F "Water Glass 3.Wav" 588840 0 1200106186 0
+D s 44100 n 1 l 0:06.674 i 16
+F "Water Hit1.wav" 292346 0 1201632618 0
+D s 44100 n 1 l 0:03.313 i 16
+F "Water Hit2.wav" 350992 0 1201632620 0
+D s 44100 n 1 l 0:03.978 i 16
+F "Water Hit3.wav" 324390 0 1201632620 0
+D s 44100 n 1 l 0:03.676 i 16
+F "Water Hit4.wav" 285408 0 1201632620 0
+D s 44100 n 1 l 0:03.234 i 16
+F "Water Hits.wav" 3786764 0 1502565615 0
+D s 44100 n 2 l 0:21.466 i 16
+F "Water Lapping Sea Waves Sandy Beach 03.wav" 10888192 0 1488536652 0
+D y 2016-03-13 d "water, sea, beach, sand, waves, redSonic01" s 48000 n 2
+D r 11:24.412 l 0:37.803 i 24
+F "Water Lapping Sea Waves Sandy Beach 5 Meters 01.wav" 29728522 0 1488537534 0
+D y 2016-03-13 d "water, sea, beach, sand, waves, redSonic01" s 48000 n 2
+D r 6:37.403 l 1:43.221 i 24
+F "Water Ocean 1.wav" 11014726 0 1439162089 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.440
+D i 16
+F "Water Ocean 2.wav" 11075738 0 1439163475 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.786
+D i 16
+F "Water Ocean 3.wav" 11850906 0 1439161862 0
+D a "Sound Ideas" s 44100 n 2 l 1:07.181
+D i 16
+F "Water Ocean 4.wav" 10977410 0 1439163083 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.229
+D i 16
+F "Water Ocean Beach Waves 01.wav" 16302440 0 1439161942 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.416
+D i 16
+F "Water Ocean Beach Waves 02.wav" 16302440 0 1439161075 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.416
+D i 16
+F "Water Ocean Pier 01.wav" 16386072 0 1439162315 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.890
+D i 16
+F "Water Ocean Pier 02.wav" 16342852 0 1439161358 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.645
+D i 16
+F "Water Ocean Waves On Rocks 01.wav" 16386072 0 1439161495 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.890
+D i 16
+F "Water Ocean Waves On Rocks 02.wav" 16386072 0 1439163308 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.890
+D i 16
+F "Water Pan 1.wav" 156840 0 1200106186 0
+D s 44100 n 1 l 0:01.776 i 16
+F "Water Pan 1C.wav" 173734 0 1201974404 0
+D s 44100 n 1 l 0:01.968 i 16
+F "Water Pan 2.wav" 144044 0 1200106186 0
+D s 44100 n 1 l 0:01.631 i 16
+F "Water Pan 2C.wav" 143286 0 1201974404 0
+D s 44100 n 1 l 0:01.623 i 16
+F "Water Splash Hose.wav" 12515036 0 1502565977 0
+D s 44100 n 2 l 1:10.946 i 16
+F "Water Splash Move.wav" 9506828 0 1502565882 0
+D s 44100 n 2 l 0:53.893 i 16
+F "Water Splash Move2.wav" 24815996 0 1502566224 0
+D s 44100 n 2 l 2:20.680 i 16
+F "Water Splash Small.wav" 8210876 0 1502565615 0
+D s 44100 n 2 l 0:46.546 i 16
+F "Water Splatter In Factory.wav" 14902316 0 1502566251 0
+D s 44100 n 2 l 1:24.480 i 16
+F "Water Squish Grit.wav" 4624076 0 1502564090 0
+D s 44100 n 2 l 0:26.213 i 16
+F "Water Squish Suck.wav" 5722460 0 1502564092 0
+D s 44100 n 2 l 0:32.440 i 16
+F "Water Squish Suck2.wav" 5614268 0 1502563722 0
+D s 44100 n 2 l 0:31.826 i 16
+F "Water Suck Airy.wav" 3511580 0 1502563886 0
+D s 44100 n 2 l 0:19.906 i 16
+F "Water Swirl Metal Trashcan Light Medium St.wav" 38618384 0 1488537534 0
+D t Rotation_Master_HQ y 2016-02-24 d "Water - Swirl - Metal trash can - Light - Medium speed - Contact | Liquid, Fluid, Tank, Slosh" s 192000
+D n 2 l 0:33.082 i 24
+F "Water Underground Sewage Duct Water Running Medium Distance Mono.wav" 10078128 0 1488536959 0
+D y 2015-11-2 d "water, underground, sewage, duct, run, running, flow, flowing, medium, distance, mono" s 96000 n 2
+D l 0:16.213 i 24
+F "Water Waves On Boat 01.wav" 16296096 0 1439163559 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.380
+D i 16
+F "Water Waves On Boat 02.wav" 10918468 0 1439163703 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:01.895
+D i 16
+F "WATER, Waves   Marina, water lapping between boats, rubber squeaks from boats against dock.wav" 69445840 0 1544622770 0
+D a "Michel Marchant" y 2015-04-29 g Waves c "WATER, Waves | Marina, water lapping and splashing between boats, rubber squeaks from boats against dock, light background marina ambience | Water wheel"
+D d "WATER, Waves | Marina, water lapping and splashing between boats, rubber squeaks from boats against dock, light background marina ambience | Water wheel" s 96000 n 2 l 2:00.005
+D i 24 m 0
+F "Water,Inlet,Wash,Bubbling,Between,Rocks,Liquid,Bubbles,Loop 01.wav" 111061012 0 1488537350 0
+D y 2016-10-03 s 192000 n 2 r 2:01:19.682
+D l 1:36.378 i 24
+F Water01.wav 1486976 0 1247475650 0
+D y 2009-07-13 s 44100 n 2 l 0:05.619
+D i 24
+F Water02.wav 1560704 0 1247475698 0
+D y 2009-07-13 s 44100 n 2 l 0:05.897
+D i 24
+F Water03.wav 569690 0 1247996184 0
+D y 2009-06-13 s 44100 n 2 l 0:02.152
+D i 24
+F Water04.wav 2144372 0 1247996258 0
+D y 2009-06-12 s 44100 n 2 l 0:08.103
+D i 24
+F Water05.wav 1064570 0 1248293160 0
+D y 2009-07-22 s 44100 n 2 l 0:04.022
+D i 24
+F "Waterdripsingle Sfxb.4884.wav" 133968 0 1372263300 0
+D y 2010-11-29 d '"WATER, DRIP, SINGLE"' s 96000 n 2
+D l 0:00.224 i 24
+F "Waves   Beach Medium Waves Near.wav" 70554524 0 1488537521 0
+D y 2013-08-22 s 96000 n 2 r 0:16.896
+D l 2:00.576 i 24
+F "Waves   Beach Waves In Hole.wav" 75029164 0 1488537534 0
+D y 2013-08-26 s 96000 n 2 r 26:42.025
+D l 2:08.223 i 24
+F "Waves - Large.Wav" 11941180 0 1299534632 0
+D s 44100 n 2 l 1:07.691 i 16
+F "Waves lapping calmly at the coast of Southern Fyn at Øhavsruten. Sunny midday in October.WAV" 991647764 0 1576587758 0
+D y 2019-12-17 d "ocean, sea, waves, winter, hav, beach, lapping, denmark, fyn, seagulls" s 96000 n 2
+D r 13:28:45.833 l 28:41.606 i 24
+F "Waves, Beach, Splashing, Rolling, Soft, Calm, Daytime, Outside Malaga, Alboran Sea, Spain, Zoom F6, 19232.WAV" 279975124 0 1577100081 0
+D t 191207_003.TAKE y 2019-12-07 d "Calm ocean waves rolling, splashing on sand beach with stones near Malaga." s 192000
+D n 2 r 0:18.855 l 3:02.186 i 32
+F "Waves, Crushing, Splashing, Beach, Rolling, Stones, Seagulls, Parrots, Malaga, Spain, Evening, Alboran Sea, Zoom F6, 19232.WAV" 195020276 0 1577100077 0
+D t 191205_015.TAKE y 2019-12-05 d "Waves recording at the beach in Malaga in the evening.  Seagulls and parotts in the sky." s 192000
+D n 2 r 1:29.138 l 2:06.877 i 32
+F "Waves, Crushing, Splashing, Beach, Rolling, Stones, Very Close, Malaga, Spain, Evening, Alboran Sea, Zoom F6, 19232.wav" 240695842 0 1577100088 0
+D y 2019-12-09 d "Waves recording at the beach in Malaga in the evening. " s 192000 n 2
+D l 2:36.696 i 32

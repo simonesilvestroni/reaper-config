@@ -1,0 +1,68 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/WEATHER/STORM/Storm Eunice field recording 2022"
+F "STORM_Storm Eunice Gusts Wind Trees Leaves Blowing buffeting the mic WGC 3pm TG EXT.wav" 123189266 0 1645368437 0
+D a "Tony Gibson" y 2022-02-20 g WEATHER c "Storm Eunice Gusts Wind Trees Leaves Blowing buffeting the mic WGC 3pm TG EXT"
+D d "Storm Eunice Gusts Wind Trees Leaves Blowing buffeting the mic WGC 3pm TG EXT" s 96000 n 2 r 1:01:32.470
+D l 3:33.840 i 24
+F "STORM_Storm Eunice Gusts Wind Trees Leaves Blowing Recorded in a Garage Metal bangs debris WGC 1pm TG INT.wav" 495435392 0 1645368437 0
+D a "Tony Gibson" y 2022-02-20 g WEATHER c "Storm Eunice Gusts Wind Trees Leaves Blowing Recorded in a Garage Metal bangs debris WGC 1pm TG INT"
+D d "Storm Eunice Gusts Wind Trees Leaves Blowing Recorded in a Garage Metal bangs debris WGC 1pm TG INT" s 96000 n 2 r 1:00:26.700
+D l 14:20.100 i 24
+F "STORM_Storm Eunice Gusts Wind Trees Leaves Blowing Recorded in a Garage Metal bangs debris WGC 2pm TG INT.wav" 43033464 0 1645368437 0
+D a "Tony Gibson" y 2022-02-20 g WEATHER c "Storm Eunice Gusts Wind Trees Leaves Blowing Recorded in a Garage Metal bangs debris WGC 2pm TG INT"
+D d "Storm Eunice Gusts Wind Trees Leaves Blowing Recorded in a Garage Metal bangs debris WGC 2pm TG INT" s 96000 n 2 r 1:01:38.590
+D l 1:14.680 i 24
+F "STORM_Storm Eunice Gusts Wind Trees Leaves Blowing WGC 12pm TG EXT.wav" 188639910 0 1645368437 0
+D a "Tony Gibson" y 2022-02-20 g WEATHER c "Storm Eunice Gusts Wind Trees Leaves Blowing Gusts WGC 12pm TG EXT"
+D d "Storm Eunice Gusts Wind Trees Leaves Blowing Gusts WGC 12pm TG EXT" s 96000 n 2 r 1:00:04.290
+D l 5:27.470 i 24
+F "WIND-EXT_Sheltered Central London Roof Strong Wind Leaf Rustles_GW_NONE_PCMM10.wav" 230051850 0 1645259380 0
+D y 2022-02-19 s 96000 n 2 r 13:05.493
+D l 6:37.290 i 24
+F "WIND-EXT_Sheltered Disused Lightwell Strong Wind Drone Some Creaks_GW_NONE_PCMM10.wav" 210546466 0 1645259374 0
+D y 2022-02-19 s 96000 n 2 r 5:42.592
+D l 6:03.605 i 24
+F "WIND_Storm Eunice strong wind rattles wood fence and moves objects_Chris Procopiou__00E81831.wav" 389725846 0 1645531012 0
+D t "Storm Eunice strong wind rattles wood fence and moves objects" a "Chris Procopiou" b ChrisProck y 2022-02-18
+D g WIND c "WIND - STORM EUNICE - Wood fence, various objects rattle, foliage tree move, intense. [CU] leaves on concrete, hinge friction. [DST] City wash." d "WIND - STORM EUNICE - Wood fence, various objects rattle, foliage tree move, intense. [CU] leaves on concrete, hinge friction. [DST] City wash." k WIND/GENERAL
+D s 96000 n 2 r 2:14:26.405 l 11:16.567
+D i 24
+F "WIND_Strong Storm Wind Through Industrial Area, Metal Ringing, Whistling_CAMIELPOVEL_NONE.wav" 126142128 0 1645238290 0
+D t "Recording Edit" y 2022-02-19 d "WIND_Strong Storm Wind Through Industrial Area, Metal Ringing, Whistling_CAMIELPOVEL_NONE" s 96000
+D n 2 l 3:38.989 i 24
+F "WIND_Strong Wind in Leafless Tree, Metallic Ringing, Dead Leaves on Ground_CAMIELPOVEL_NONE.wav" 51551650 0 1645234386 0
+D t "Recording Edit" y 2022-02-19 d "WIND_Strong Wind in Leafless Tree, Metallic Ringing, Dead Leaves on Ground_CAMIELPOVEL_NONE" s 96000
+D n 2 l 1:29.492 i 24
+F "WIND_very deep strong gusts caution sub extreme OMNIS_RJW-02.wav" 120962506 0 1645517495 0
+D y 2022-02-22 s 96000 n 2 r 2:09.024
+D l 3:28.896 i 24
+F "WINDGust_deep gusts with metal rattle OMINS_RJW.wav" 122569562 0 1645517495 0
+D y 2022-02-22 s 96000 n 2 l 3:31.671
+D i 24
+F "WINDGust_metal gate moving in strong also light wind OMNIS_RJW-01.wav" 128473130 0 1645517495 0
+D y 2022-02-22 s 96000 n 2 l 3:41.866
+D i 24
+F "WINDGust_plastic flaps whistles high wind OMNI_RJW-01.wav" 118590730 0 1645517495 0
+D y 2022-02-22 s 96000 n 2 l 3:24.800
+D i 24
+F "WINDGust_plastic sheeting violent flapping in strong wind OMNIS_RJW-02.wav" 142703786 0 1645517495 0
+D y 2022-02-22 s 96000 n 2 r 1:54.688
+D l 4:06.442 i 24
+F "WINDGust_Storm Eunice strong wind accents intense built up_Chris Procopiou__34C29339.wav" 239718396 0 1645531012 0
+D t "Storm Eunice strong wind accents intense built up" a "Chris Procopiou" b ChrisProck y 2022-02-18
+D g WIND c "WIND - STORM EUNICE - Strong accents, foliage tree move, intense. [CU] leaves on concrete, hinge friction. [DST] City wash." d "WIND - STORM EUNICE - Strong accents, foliage tree move, intense. [CU] leaves on concrete, hinge friction. [DST] City wash." k WIND/GUST
+D s 96000 n 2 r 57:06.527 l 6:56.139
+D i 24
+F "WINDGusts_light fabric or sign flap in wind OMNIS_RJW-03.wav" 173932170 0 1645517495 0
+D y 2022-02-22 s 96000 n 2 r 8:06.058
+D l 5:00.373 i 24
+F "WINDInt_Inside Conservatory Gusts Metallic Rattle_GW_NONE_PCMM10.wav" 97898492 0 1645259370 0
+D y 2022-02-19 s 96000 n 2 l 2:49.064
+D i 24
+F "WINDInt_Storm, Strong Wind In Attic, Dynamic Gusts, Slight Creaks_CAMIELPOVEL_NONE.wav" 255537810 0 1645238996 0
+D t "Recording Edit" y 2022-02-18 d "WINDInt_Storm, Strong Wind In Attic, Dynamic Gusts, Slight Creaks 01_CAMIELPOVEL_NONE" s 96000
+D n 2 l 7:23.635 i 24
+F "WINDVege_Storm Eunice wind presence through tree foliage movement_Chris Procopiou__FC4AC9D0.wav" 191566382 0 1645531012 0
+D t "Storm Eunice wind presence through tree foliage movement" a "Chris Procopiou" b ChrisProck y 2022-02-18
+D g WIND c "WIND - STORM EUNICE - Steady presence, foliage tree move. [CU] leaves on concrete, hinge friction. [DST] City wash." d "WIND - STORM EUNICE - Steady presence, foliage tree move. [CU] leaves on concrete, hinge friction. [DST] City wash." k WIND/VEGETATION
+D s 96000 n 2 r 45:09.613 l 5:32.541
+D i 24

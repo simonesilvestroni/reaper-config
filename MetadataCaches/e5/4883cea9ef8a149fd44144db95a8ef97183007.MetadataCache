@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Hzandbits - Howling Winds - Interior"
+F Wind,Int,Howl,Forceful,Tonal,Vocal,Gust.wav 5220676 0 1583868270 0
+D y 2015-02-09 s 96000 n 2 r 0:55.955
+D l 0:09.062 i 24
+F Wind,Int,Howl,Tonal,Mumble.wav 19100320 0 1583868544 0
+D y 2015-02-09 s 96000 n 2 r 2:23.614
+D l 0:33.159 i 24
+F "Wind,Raindrops,Int,Open window,Long whoosh.wav" 17321530 0 1583868683 0
+D y 2015-02-07 s 96000 n 2 r 0:50.053
+D l 0:30.070 i 24
+F Wind,Sleet,Int,Urban,Rushing,Gusts.wav 52671838 0 1583868709 0
+D y 2015-02-06 s 96000 n 2 r 6:46.152
+D l 1:31.442 i 24

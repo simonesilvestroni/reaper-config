@@ -1,0 +1,19 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Lo-fi Punk Disco/02(100BPM)"
+F Bass_SynthA.wav 421864 0 1174475100 0
+D s 44100 n 1 l 0:04.782 i 16
+F Bass_SynthB.wav 421864 0 1174475100 0
+D s 44100 n 1 l 0:04.782 i 16
+F Drums(Full).wav 843684 0 1174475100 0
+D s 44100 n 2 l 0:04.782 i 16
+F Drums(Just_pattern).wav 843684 0 1174475100 0
+D s 44100 n 2 l 0:04.782 i 16
+F Drums(loop).wav 843684 0 1174475100 0
+D s 44100 n 2 l 0:04.782 i 16
+F Full_Mix.wav 3386928 0 1174475100 0
+D s 44100 n 2 l 0:19.200 i 16
+F Guitars.wav 843684 0 1174475100 0
+D s 44100 n 2 l 0:04.782 i 16
+F Sweep_Synth.wav 1693488 0 1174475100 0
+D s 44100 n 2 l 0:09.600 i 16
+F Whyne_Synth.wav 837952 0 1174475100 0
+D s 44100 n 2 l 0:04.750 i 16

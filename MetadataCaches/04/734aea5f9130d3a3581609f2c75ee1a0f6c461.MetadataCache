@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Noisecreations - ARCADIA"
+F SFX-ARCADIA_Error03.wav 619572 0 1583867186 0
+D d "8-Bit, Retro, Error, Notification, Alert, Look, UI, Interface, Help, Buzz, Alarm, Question" s 96000 n 2 l 0:01.073
+D i 24
+F SFX-ARCADIA_GameFinish10.wav 1860234 0 1583867883 0
+D d "8-Bit, Retro, Game, Finish, End, Close, Round, Over, Defeat, Victory, Battle, Map" s 96000 n 2 l 0:03.227
+D i 24
+F SFX-ARCADIA_ItemPickUp16.wav 312318 0 1583867885 0
+D d "8-Bit, Retro, Item, Pick, Up, Gain, Obtain, Character, Inventory, Add, Collect" s 96000 n 2 l 0:00.540
+D i 24
+F SFX-ARCADIA_Notification01.wav 812916 0 1583867891 0
+D d "8-Bit, Retro, Notify, Notification, Alert, Error, Alarm, Nudge, Menu, Call, Warning, Communication, Message" s 96000 n 2 l 0:01.409
+D i 24

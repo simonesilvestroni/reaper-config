@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - M1 Corbitt Prime Mover Cargo Truck"
+F M1_Corbitt_t11_ext_passby_DPA4011.wav 35365806 0 1583869042 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Military truck" c "exterior passby right turning point FR2 DPA4011 wav"
+D d "exterior passby right turning point FR2 DPA4011 wav" s 96000 n 2 l 1:01.194
+D i 24 m 0
+F M1_Corbitt_t1_onbrd_startup_idle_shutdown_interior_RSM191_XY.wav 10735010 0 1583869014 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Military truck" c "onboard startup idle shutdown interior Sound Devices 788 Neumann RSM191 XY wav"
+D d "onboard startup idle shutdown interior Sound Devices 788 Neumann RSM191 XY wav" s 96000 n 2 l 0:18.432
+D i 24 m 0
+F M1_Corbitt_t2_onbrd_startup_blips_shutdown_flatbed_MKH418S_S.wav 20642466 0 1583869074 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Military truck" c "onboard startup blips shutdown flatbed metal rattle vibrations Sound Devices 744 Sennheiser MKH418 S wav"
+D d "onboard startup blips shutdown flatbed metal rattle vibrations Sound Devices 744 Sennheiser MKH418 S wav" s 96000 n 1 l 1:11.264
+D i 24 m 0

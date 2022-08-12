@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - MatiasMacSD - PRESS - INTERFACE SOUNDS"
+F InterfaceBleep-16.wav 3237688 0 1583868775 0
+D d "Interface, Interaction, Bleep" s 96000 n 2 l 0:05.619
+D i 24
+F InterfaceBleepGlitch-11.wav 3957194 0 1583869073 0
+D d "Interface, Interaction, Bleep, Glitch" s 96000 n 1 l 0:13.737
+D i 24
+F InterfaceButtonDigital-06.wav 318652 0 1583868400 0
+D d "Interface, Interaction, Button, Digital" s 96000 n 1 l 0:01.103
+D i 24
+F InterfaceGlitchInteractionData-32.wav 1545490 0 1583868878 0
+D d "Interface, Interaction, Glitch, Data" s 96000 n 1 l 0:05.363
+D i 24

@@ -1,0 +1,24 @@
+[Floating toolbar 2]
+icon_0=text_wide_tt
+icon_1=text_wide_tt
+icon_2=text_wide_tt
+icon_3=text_wide_tt
+icon_4=text_wide_tt
+icon_5=text_wide_tt
+icon_6=text_wide_tt
+icon_7=text_wide_tt
+icon_8=text_wide_tt
+icon_9=text_wide_tt
+icon_10=text_wide_tt
+item_0=40906 TRACK EXPLORER
+item_1=50124 MEDIA EXPLORER
+item_2=41157 PROJECT BAY
+item_3=40251 ROUTING MATRIX
+item_4=40768 GROUPING MATRIX
+item_5=40326 REGIONS MARKERS
+item_6=40378 BIG CLOCK
+item_7=40240 PERF METER
+item_8=_SWSSNAPSHOT_OPEN SNAPSHOTS
+item_9=_S&M_SHOW_RGN_PLAYLIST REGION PLAYLIST
+item_10=41076 BATCH CONVERTER
+

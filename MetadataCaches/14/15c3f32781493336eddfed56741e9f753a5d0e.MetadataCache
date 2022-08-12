@@ -1,0 +1,91 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Loopmasters Smokers Relight Deux"
+F RS1_Flute_1.wav 1069956 0 1548713952 0
+D g "Dry, Flute, Melodic" s 44100 n 1 l 0:08.076
+D i 24
+F RS1_Flute_2.wav 177804 0 1548713952 0
+D g "Dry, Flute, Melodic" s 44100 n 1 l 0:01.333
+D i 24
+F RS1_Flute_3.wav 338958 0 1548713952 0
+D g "Dry, Flute, Melodic" s 44100 n 1 l 0:02.551
+D i 24
+F RS1_Flute_4.wav 356794 0 1548713952 0
+D g "Dry, Flute, Melodic" s 44100 n 1 l 0:02.686
+D i 24
+F RS1_Flute_5.wav 222988 0 1548713952 0
+D g "Dry, Flute, Staccato" s 44100 n 1 l 0:01.674
+D i 24
+F RS1_Sax_1.wav 687814 0 1548713952 0
+D g "Dry, Saxophone, Melodic" s 44100 n 1 l 0:05.188
+D i 24
+F RS1_Sax_2.wav 481240 0 1548713952 0
+D g "Dry, Saxophone" s 44100 n 1 l 0:03.626
+D i 24
+F RS1_Sax_3.wav 640192 0 1548713952 0
+D g "Dry, Saxophone, Melodic" s 44100 n 1 l 0:04.828
+D i 24
+F RS1_Sax_4.wav 248348 0 1548713952 0
+D g "Dry, Saxophone, Melodic" s 44100 n 1 l 0:01.866
+D i 24
+F RS1_Sax_5.wav 357746 0 1548713952 0
+D g "Dry, Saxophone, Melodic" s 44100 n 1 l 0:02.693
+D i 24
+F SR1_Chd_BluRoad1.wav 411098 0 1548713952 0
+D g "Chords, Tremolo" s 44100 n 2 l 0:01.548
+D i 24
+F SR1_Chd_Cruel1.wav 432794 0 1548713952 0
+D g "Chords, Processed, Noise" s 44100 n 2 l 0:01.630
+D i 24
+F SR1_Chd_Downer.wav 406346 0 1548713952 0
+D g "Downer, Chords, Delay" s 44100 n 2 l 0:01.530
+D i 24
+F SR1_Chd_LovePad.wav 448544 0 1548713952 0
+D g "Delay, Chords, Pad" s 44100 n 2 l 0:01.689
+D i 24
+F SR1_Chd_Rhodes88_2.wav 996764 0 1548713952 0
+D g "Chords, Rhodes, Delay" s 44100 n 2 l 0:03.761
+D i 24
+F SR1_Chd_Rhodes88_3.wav 975260 0 1548713952 0
+D g "Chords, Rhodes, Delay" s 44100 n 2 l 0:03.680
+D i 24
+F SR1_Chd_Rhodes88_4.wav 961436 0 1548713952 0
+D g "Chords, Rhodes" s 44100 n 2 l 0:03.628
+D i 24
+F SR1_Chd_Rhodes88vv.wav 1035164 0 1548713952 0
+D g "Chords, Rhodes, Delay" s 44100 n 2 l 0:03.906
+D i 24
+F SR1_Chd_Stabber.wav 448412 0 1548713952 0
+D g "Chords, Stabs, Delay" s 44100 n 2 l 0:01.689
+D i 24
+F SR1_Chd_VibeMe1.wav 448700 0 1548713952 0
+D g "Chords, Vibraphone" s 44100 n 2 l 0:01.690
+D i 24
+F SR1_Chd_VoxPad1.wav 401708 0 1548713952 0
+D g "Processed, Vocals, Pad, Delay, Chords, Dirty" s 44100 n 2 l 0:01.512
+D i 24
+F SR1_Chd_VoxPad2.wav 401474 0 1548713952 0
+D g "Processed, Vocals, Pad, Delay, Chords, Dirty" s 44100 n 2 l 0:01.511
+D i 24
+F SR1_Fx_Blurred.wav 640012 0 1548713952 0
+D g "FX, Radio, Lo-Fi" s 44100 n 2 l 0:02.413
+D i 24
+F SR1_Fx_Lettered.wav 470908 0 1548713952 0
+D g "Vocals, Male, FX, Delay" s 44100 n 2 l 0:01.774
+D i 24
+F SR1_Fx_Rehabz.wav 634066 0 1548713952 0
+D g "Vocals, Male, FX, Delay" s 44100 n 2 l 0:02.390
+D i 24
+F SR1_Fx_Rizzi.wav 396742 0 1548713952 0
+D g "Processed, FX, Stick, Reverb, Rim, Hits" s 44100 n 2 l 0:01.493
+D i 24
+F SR1_Fx_Room.wav 477358 0 1548713952 0
+D g "FX, Static, Radio, Voices, Male" s 44100 n 2 l 0:01.798
+D i 24
+F SR1_Fx_Strax.wav 397624 0 1548713952 0
+D g "Shaker, FX, Static, Percussion" s 44100 n 2 l 0:01.497
+D i 24
+F SR1_Fx_Tinkle.wav 156310 0 1548713952 0
+D g "Percussion, FX, Shaker" s 44100 n 2 l 0:00.585
+D i 24
+F SR1_Fx_Woohms.wav 638872 0 1548713952 0
+D g "Sci-Fi, FX, Pitch Shift" s 44100 n 2 l 0:02.409
+D i 24

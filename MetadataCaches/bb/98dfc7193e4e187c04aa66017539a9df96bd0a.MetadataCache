@@ -1,0 +1,49 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] PMSFX SAMPLER Q1 2020/PM Point and Shoot"
+F "PM PAS Aperture ring f stops 019.wav" 295710 0 1531059803 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Aperture ring, f stops, turn, rotary "
+D d "Camera, Aperture ring, f stops, turn, rotary " s 96000 n 1 l 0:00.529
+D i 24 m 0
+F "PM PAS Button press 124.wav" 242106 0 1531058521 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Button, Press"
+D d "Camera, Button, Press" s 96000 n 1 l 0:00.349
+D i 24 m 0
+F "PM PAS Crop switch selector  038.wav" 325392 0 1531058521 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Crop switch, Selector"
+D d "Camera, Crop switch, Selector" s 96000 n 1 l 0:00.638
+D i 24 m 0
+F "PM PAS Ejecting battery 183.wav" 527012 0 1531059870 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Ejecting, Battery"
+D d "Camera, Ejecting, Battery" s 96000 n 1 l 0:01.329
+D i 24 m 0
+F "PM PAS Exposure dial  103.wav" 246318 0 1531058522 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Exposure, Dial, Rotary"
+D d "Camera, Exposure, Dial, Rotary" s 96000 n 1 l 0:00.363
+D i 24 m 0
+F "PM PAS Flash crack picture takes 072.wav" 583258 0 1547820720 0
+D a "Phil Michalski" y 2019-01-18 g Foley c "Camera, Flash, Picture, Taken, Shutter, Crack"
+D d "Camera, Flash, Picture, Taken, Shutter, Crack" s 96000 n 1 l 0:01.522
+D i 24 m 0
+F "PM PAS Handling nosies 161.wav" 844814 0 1531058522 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Handling, Noises"
+D d "Camera, Handling, Noises" s 96000 n 1 l 0:02.441
+D i 24 m 0
+F "PM PAS Hot shoe cap off 054.wav" 310318 0 1531058523 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Hot shoe, protective cap off"
+D d "Camera, Hot shoe, protective cap off" s 96000 n 1 l 0:00.585
+D i 24 m 0
+F "PM PAS Inserting battery 182.wav" 689094 0 1531059934 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Inserting, Battery"
+D d "Camera, Inserting, Battery" s 96000 n 1 l 0:01.889
+D i 24 m 0
+F "PM PAS Lense cap on 006.wav" 413854 0 1531059945 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Lense, Protective cap on"
+D d "Camera, Lense, Protective cap on" s 96000 n 1 l 0:00.938
+D i 24 m 0
+F "PM PAS Power up 014.wav" 1026064 0 1531058524 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Power up"
+D d "Camera, Power up" s 96000 n 1 l 0:03.071
+D i 24 m 0
+F "PM PAS Shutter dial 080.wav" 265330 0 1531058524 0
+D a "Phil Michalski" y 2018-07-08 g Foley c "Camera, Shutter Dial, Rotary"
+D d "Camera, Shutter Dial, Rotary" s 96000 n 1 l 0:00.429
+D i 24 m 0

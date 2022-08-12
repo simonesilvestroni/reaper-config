@@ -1,0 +1,17 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Roland CR-78/Roland CR-78 Hat"
+F "Roland CR-78 Hat_Bongo.wav" 16608 0 1496186078 0
+D y 2017-05-30 s 44100 n 1 l 0:00.124
+D i 24
+F "Roland CR-78 Hat_Bongo2.wav" 25062 0 1496186072 0
+D s 44100 n 1 l 0:00.189 i 24
+F "Roland CR-78 Hat_Closed.wav" 5783 0 1496185958 0
+D s 44100 n 1 l 0:00.042 i 24
+F "Roland CR-78 Hat_Rim.wav" 13662 0 1496186066 0
+D y 2017-05-30 s 44100 n 1 l 0:00.102
+D i 24
+F "Roland CR-78 Hi Hat.wav" 4996 0 1496185958 0
+D s 44100 n 1 l 0:00.037 i 24
+F "Roland CR-78 Hi Hat2.wav" 6956 0 1496186056 0
+D s 44100 n 1 l 0:00.052 i 24
+F "Roland CR-78 Hi Hat_Metal.wav" 18779 0 1496185958 0
+D s 44100 n 1 l 0:00.141 i 24

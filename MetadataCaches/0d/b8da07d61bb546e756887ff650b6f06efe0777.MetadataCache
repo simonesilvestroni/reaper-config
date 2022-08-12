@@ -1,0 +1,14 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Fog Convolver Factory Bank/Samples/Designed"
+F "Moving Wind.wav" 2664730 0 1317830289 0
+D y 2011-10-05 s 48000 n 2 r 1:00:00.000
+D l 0:09.250 i 24
+F "Prague Glass Harp.wav" 2891084 0 1431903518 0
+D s 48000 n 2 l 0:10.038 i 24
+F "Prague Organ (slow 1).wav" 2887360 0 1431903238 0
+D t praga-organ-a s 48000 n 2 l 0:10.025
+D i 24 m 1
+F "Prague Organ (slow 2).wav" 2887360 0 1431903239 0
+D t praga-organ-b s 48000 n 2 l 0:10.025
+D i 24 m 2
+F "Thunder Can (slow).wav" 2884538 0 1431903856 0
+D s 48000 n 2 l 0:10.015 i 24

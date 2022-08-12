@@ -1,0 +1,66 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/AMBIENCE/AMB - NATURE - FOREST"
+F "AMB - Afternoon South Africa, savanna, birds and insects.wav" 112239578 0 1513872400 0
+D d "AMB afternoon South Africa, savanna, birds and insects, crickets, cicadas, Crimson Breasted Shrike" s 96000 n 2 l 3:14.000
+D i 24
+F "AMB - Autumn dawn, Romania, alpine forest, quiet, distant songbirds, ravens.wav" 272225714 0 1513872380 0
+D s 96000 n 2 l 7:51.755 i 24
+F "AMB - Autumn night, Romania, alpine forest, quiet, soft rain.wav" 146717834 0 1513872410 0
+D s 96000 n 2 l 4:13.859 i 24
+F "AMB - FOREST - BIRDS_01.wav" 37032882 0 1547642538 0
+D b "nature sounds" y 2017-04-27 g ambience c "wild nature ambience || birds singing and ravens croak near to the seaside || zoom h4"
+D d "wild nature ambience || birds singing and ravens croak near to the seaside || zoom h4" s 96000 n 2 l 1:03.779
+D i 24 m 0
+F "AMB - FOREST - BIRDS_02.wav" 402228498 0 1547642556 0
+D t "Ambisonic Forest - Summer" a Soundreorganized b "Ambisonic Forest - Summer" y 2017-09-23
+D g "Sound Effect" c Forest_Summer_Sunrise_NearLake_LightWind_Birds_GreatTit_Swan_Woodpecker_FuMa d "Ambisonic Forest - Summer - Forest_Summer_Sunrise_NearLake_LightWind_Birds_GreatTit_Swan_Woodpecker_FuMa" s 96000
+D n 4 l 5:49.149 i 24
+F "AMB - FOREST - BIRDS_NOISY_01.wav" 29498834 0 1547642538 0
+D s 48000 n 2 l 1:42.426 i 24
+F "AMB - FOREST - BIRDS_QUIET_01.wav" 17684870 0 1547642542 0
+D y 2014-05-12 s 48000 n 2 r 0:58.368
+D l 1:00.799 i 24
+F "AMB - FOREST - CICADA_NIGHT_01.wav" 11402342 0 1547642560 0
+D s 48000 n 2 l 0:39.591 i 24
+F "AMB - FOREST - CICADA_NIGHT_02.wav" 12641924 0 1547642560 0
+D s 48000 n 2 l 0:43.895 i 24
+F "AMB - FOREST - RAIN_01.wav" 89794310 0 1547642540 0
+D y 2017-07-2 d "Forest rain very quiet with light birds" s 96000 n 2
+D r 0:52.565 l 2:33.441 i 24
+F "AMB - FOREST - RAIN_OCCASIONAL_THUNDER_01.wav" 201437454 0 1545149950 0
+D a "George Vlad" y 2018-12-10 g Ambience c "Wet season afternoon in the cloud forest, Ethiopian Highlands. Calm rain with occasional thunder."
+D d "Wet season afternoon in the cloud forest, Ethiopian Highlands. Calm rain with occasional thunder." s 96000 n 2 l 5:48.000
+D i 24 m 0
+F "AMB - FOREST - TROPICAL_BIRDS_01.wav" 22825732 0 1116516536 0
+D d "Venezuela: Daytime Ambience,  Birds,  Insects" s 48000 n 2 l 1:58.645
+D i 16
+F "AMB - FOREST - TROPICAL_BIRDS_02.wav" 115962392 0 1455977452 0
+D t "Tropical Ambiences" a "Articulated Sounds" b "Tropical Ambiences" y 2016-02-19
+D g "Sound Effect" c "Tropical Ambience, Mangrove dark forest floor at dusk, wildlife includes: frogs, crickets, distant Toucans and strange sounds. LOOP" d "Tropical Ambience, Mangrove dark forest floor at dusk, wildlife includes: frogs, crickets, distant Toucans and strange sounds. LOOP " s 96000
+D n 2 l 3:19.347 i 24 m "Tropical Ambiences"
+F "AMB - FOREST - WIND_BIRDS_01.wav" 402228498 0 1506255182 0
+D t "Ambisonic Forest - Summer" a Soundreorganized b "Ambisonic Forest - Summer" y 2017-09-23
+D g "Sound Effect" c Forest_Summer_Sunrise_NearLake_LightWind_Birds_GreatTit_Swan_Woodpecker_FuMa d "Ambisonic Forest - Summer - Forest_Summer_Sunrise_NearLake_LightWind_Birds_GreatTit_Swan_Woodpecker_FuMa" s 96000
+D n 4 l 5:49.149 i 24
+F "Calm Winter Forest Ambience [30+ Mins].mp3" 71912384 0 1583931301 0
+D s 44100 n 2 l 37:27.210 i 256k
+F CC2_SDB_AMB_FOREST_WINTER_BLIZZARD_01.wav 124309112 0 1497150650 0
+D t "Winter Forest" a "Stephane Fufa Dufour" b "Winter Forest" y 2017-06-10
+D g Ambience c "North Wood Forest, breezy whistling air, blizzard snow, raven calls, LOOP" d "North Wood Forest, breezy whistling air, blizzard snow, raven calls, LOOP" s 96000
+D n 2 l 3:35.713 i 24 m 0
+F "Eerie Forest Ambience.mp3" 14245719 0 1583931274 0
+D s 44100 n 2 l 7:06.789 i 267k
+F "Forest Stream River Water 01.wav" 11430540 0 1439161102 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:04.798
+D i 16
+F "Forest Stream River Water 02.wav" 11430540 0 1439162625 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:04.798
+D i 16
+F "Forest Stream River Water 04.wav" 10995048 0 1439163249 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.329
+D i 16
+F "Morning Birds Singing.mp3" 30074670 0 1583931302 0
+D s 44100 n 2 l 15:39.782 i 256k
+F "Morning In The Forest Ambience.mp3" 12760293 0 1583931316 0
+D s 44100 n 2 l 6:38.707 i 256k
+F "Peaceful Forrest Ambience.mp3" 9819532 0 1583931288 0
+D s 44100 n 2 l 5:06.809 i 256k

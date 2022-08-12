@@ -1,0 +1,512 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - P"
+F "Pang Short R To L 003.wav" 1181930 0 1481709982 0
+D y 2014-09-30 s 96000 n 2 r 1:00:04.000
+D l 0:02.048 i 24
+F "Paper Handling And Turning Sequence.wav" 2832554 0 1481710522 0
+D a "Nikhil Kamble" b "Paper Sounds" g "Sound effects" s 48000
+D n 2 l 0:09.834 i 24
+F "Paper Newspaper Light Movement 01.wav" 331294 0 1488537260 0
+D t Paperlife y 2016-05-10 d "Newspaper, Light, Paper, Movement, Swish, Move, Slide, Glide, " s 96000
+D n 1 l 0:01.085 i 24
+F "Paper Pergament Pages Turn Flip 20.wav" 327936 0 1488537261 0
+D t Paperlife y 2016-07-05 d "Paper, Pergament, Pages, Turn, Flip, Turnover, Crackle, Handling, Movement, " s 96000
+D n 1 l 0:01.073 i 24
+F "Paper Rip Short 03.wav" 906384 0 1488537020 0
+D t Paperlife y 2016-05-10 d "Paper, Rip, Tear, Split, Jerk, Wrench, Cut, Short" s 96000
+D n 1 l 0:03.082 i 24
+F "Paper Rustling Movement Handling 50.wav" 594772 0 1488537056 0
+D t Paperlife y 2016-07-06 d "Paper, Rustling, Movement, Handling, Book, Turnover, Sheet, Side, " s 96000
+D n 1 l 0:02.000 i 24
+F Parched,Drawing,Crisp,Paper,Notebook,Crumpling.wav 2308872 0 1488537366 0
+D y 2016-03-21 d Parched,drawing,crisp,paper,notebook,crumpling s 96000 n 1
+D r 27:27.766 l 0:08.009 i 24
+F Parched,Drawing,Crisp,Paper,Notebook,Pen,Stroke,Scribble,Short,Steady.wav 140070 0 1488537336 0
+D y 2016-03-21 d Parched,drawing,crisp,paper,notebook,pen,stroke,scribble,short,steady s 96000 n 1
+D r 3:52.486 l 0:00.473 i 24
+F Parched,Drawing,Dense,Paper,Cotton,Eraser,Rubbing,Short,Smooth,Alt2.wav 270880 0 1488537282 0
+D y 2016-03-21 d Parched,drawing,dense,paper,cotton,eraser,rubbing,short,smooth,alt2 s 96000 n 1
+D r 2:15:54.459 l 0:00.932 i 24
+F Parched,Paper,Movement,Linen,Shake,Crimp,Wobble.wav 290562 0 1488537281 0
+D y 2016-01-25 d Parched,paper,movement,linen,shake,crimp,wobble s 96000 n 1
+D r 45:48.275 l 0:01.001 i 24
+F "Pass By Mrs Drift.wav" 3141364 0 1481710503 0
+D s 48000 n 1 l 0:21.760 i 24
+F "Pearl Barley Open Package-001.wav" 847630 0 1488536997 0
+D y 2017-01-30 d "Foley, Groat" s 96000 n 1
+D l 0:02.940 i 24
+F "Peas Into Glass Cup-019.wav" 744022 0 1488536821 0
+D y 2017-01-30 d "Foley, Groat" s 96000 n 1
+D l 0:02.580 i 24
+F "Pedal Fx 02.wav" 4407732 0 1488537422 0
+D t "Pedal FX 02" d "No-Input Mixer, Feedback Loop, Interference, Glitch, Malfunction" s 96000 n 2
+D l 0:07.650 i 24
+F "PEGASUS, Mythical creature, plumed, large, single flap 01.wav" 2286936 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Design c "WING FLAP, plumed; Large, airy, powerful flap; Feathery wings; Single down stroke 01"
+D d "WING FLAP, plumed; Large, airy, powerful flap; Feathery wings; Single down stroke 01" s 192000 n 2 l 0:01.210
+D i 24 m 0
+F "PEGASUS, Mythical creature, plumed, large, single flap 02.wav" 2286936 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Design c "WING FLAP, plumed; Large, airy, powerful flap; Feathery wings; Single down stroke 02"
+D d "WING FLAP, plumed; Large, airy, powerful flap; Feathery wings; Single down stroke 02" s 192000 n 2 l 0:01.210
+D i 24 m 0
+F "PEGASUS, Mythical creature, plumed, large, single flap 03.wav" 2286936 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Design c "WING FLAP, plumed; Large, airy, powerful flap; Feathery wings; Single down stroke 03"
+D d "WING FLAP, plumed; Large, airy, powerful flap; Feathery wings; Single down stroke 03" s 192000 n 2 l 0:01.210
+D i 24 m 0
+F "Person Removing Jacket 001.wav" 1184886 0 1481710488 0
+D y 2015-02-03 s 96000 n 2 r 1:00:00.000
+D l 0:02.053 i 24
+F "Pile Of Scrap Metal - Metal Scrap Pile, Rustle, Drop, Long Tail 03.wav" 2458040 0 1488536994 0
+D y 2016-03-16 d "DEBRIS JUNK FOLEY; Pile of metal scrap. Rustle, drop, long tail." s 192000 n 1
+D r 3:11.698 l 0:04.266 i 24
+F "Placing Pieces On The Board 2.wav" 40664 0 1481710018 0
+D y 2015-02-06 s 44100 n 2 r 0:15.408
+D l 0:00.130 i 24
+F "Planetary Exterior Drone 06.wav" 40478112 0 1488537518 0
+D d "Drone, Industrial, Science Fiction, Horror, Dystopian, Atmosphere, Ambience, Spaceport, Planetary, Soundscape, Bed" s 96000 n 2 l 1:10.272
+D i 24
+F "Plate Impact Hard 02.wav" 440854 0 1488537323 0
+D y 2016-02-23 d "MEDIEVAL ARMOR PLATE IMPACT HARD; Very hard single impact on plate armor." s 96000 n 2
+D r 0:04.511 l 0:00.764 i 24
+F "PM ALIEN ATMOSPHERES 01.wav" 21313152 0 1493803680 0
+D y 2017-02-03 s 48000 n 2 l 1:13.085
+D i 24
+F "PM ALIEN ATMOSPHERES 03.wav" 21162928 0 1493803681 0
+D y 2017-02-03 s 48000 n 2 r 2:24.711
+D l 1:12.567 i 24
+F "PM ALIEN ATMOSPHERES 16.wav" 24762282 0 1493803682 0
+D y 2017-02-03 s 48000 n 2 r 20:11.379
+D l 1:25.000 i 24
+F "PM ALIEN ATMOSPHERES 26.wav" 18972284 0 1493803683 0
+D y 2017-02-03 s 48000 n 2 r 43:52.652
+D l 1:05.000 i 24
+F "PM ALIEN ATMOSPHERES 31.wav" 20419780 0 1493803683 0
+D y 2017-02-03 s 48000 n 2 r 50:22.723
+D l 1:10.000 i 24
+F "PM ALIEN ATMOSPHERES 38.wav" 21867282 0 1493803684 0
+D y 2017-02-03 s 48000 n 2 r 33:31.495
+D l 1:15.000 i 24
+F "PM ALIEN ATMOSPHERES 49.wav" 21477888 0 1493803684 0
+D y 2017-02-03 s 48000 n 2 r 29:43.840
+D l 1:13.654 i 24
+F "PM BASSDROP 1.wav" 5628096 0 1511474140 0
+D s 96000 n 2 l 0:09.758 i 24
+F "PM Booms HORROR 11.wav" 2191150 0 1511901144 0
+D s 96000 n 2 l 0:03.791 i 24
+F "PM Booms SCIFI 32.wav" 1284936 0 1511898159 0
+D s 96000 n 2 l 0:02.218 i 24
+F "PM CS ambiance 10.wav" 52126178 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, ambiance, atmo, drone, low" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, ambiance, atmo, drone, low  "
+D s 96000 n 2 l 1:30.000 i 24
+F "PM CS ambiance 8.wav" 52126174 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, ambiance, atmo, drone, low" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, ambiance, atmo, drone, low  "
+D s 96000 n 2 l 1:30.000 i 24
+F "PM CS beep close complex Copy.wav" 1448644 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button  "
+D s 96000 n 2 l 0:02.481 i 24
+F "PM CS beep complex2.wav" 1962194 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button  "
+D s 96000 n 2 l 0:03.368 i 24
+F "PM CS beep confirmed.wav" 813414 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button  "
+D s 96000 n 2 l 0:01.384 i 24
+F "PM CS beep failed.wav" 819490 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button  "
+D s 96000 n 2 l 0:01.394 i 24
+F "PM CS beep tweety3.wav" 591006 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, beep, bleep, button  "
+D s 96000 n 2 l 0:01.000 i 24
+F "PM CS calculation complex.wav" 1711460 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, calculation, processing" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, calculation, processing  "
+D s 96000 n 2 l 0:02.934 i 24
+F "PM CS calculation complex2.wav" 2130930 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, calculation, processing" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, calculation, processing  "
+D s 96000 n 2 l 0:03.659 i 24
+F "PM CS calculation complex7.wav" 2272306 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, calculation, processing" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, calculation, processing  "
+D s 96000 n 2 l 0:03.903 i 24
+F "PM CS click alien2.wav" 1371824 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, click" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, click  "
+D s 96000 n 2 l 0:02.348 i 24
+F "PM CS click alien4.wav" 1494400 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, click" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, click  "
+D s 96000 n 2 l 0:02.560 i 24
+F "PM CS close complex5.wav" 1640592 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, close" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, close  "
+D s 96000 n 2 l 0:02.812 i 24
+F "PM CS cursor.wav" 2969228 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, cursor" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, cursor  "
+D s 96000 n 2 l 0:05.107 i 24
+F "PM CS hologram background.wav" 17379908 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, hologram, ambiance, drone" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, hologram, ambiance, drone  "
+D s 96000 n 2 l 0:29.993 i 24
+F "PM CS hologram small open.wav" 1214558 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, hologram" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, hologram  "
+D s 96000 n 2 l 0:02.076 i 24
+F "PM CS loading clicky.wav" 1359662 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, loading" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, loading  "
+D s 96000 n 2 l 0:02.327 i 24
+F "PM CS loading crystal fast.wav" 1138436 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, loading" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, loading  "
+D s 96000 n 2 l 0:01.945 i 24
+F "PM CS loading r2.wav" 889628 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, loading" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, loading  "
+D s 96000 n 2 l 0:01.515 i 24
+F "PM CS open complex19.wav" 1539858 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, open" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, open  "
+D s 96000 n 2 l 0:02.638 i 24
+F "PM CS open complex6.wav" 1022662 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, open" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, open  "
+D s 96000 n 2 l 0:01.745 i 24
+F "PM CS open noisy.wav" 955548 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, open" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, open  "
+D s 96000 n 2 l 0:01.629 i 24
+F "PM CS terminal alien glitch.wav" 2096304 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, terminal" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, terminal  "
+D s 96000 n 2 l 0:03.599 i 24
+F "PM CS text error.wav" 2404546 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, text" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, text  "
+D s 96000 n 2 l 0:04.131 i 24
+F "PM CS text receiving2.wav" 2291638 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, text" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, text  "
+D s 96000 n 2 l 0:03.936 i 24
+F "PM CS transmition open noisy.wav" 994532 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, transmition" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, transmition  "
+D s 96000 n 2 l 0:01.696 i 24
+F "PM CS transmition radio glitch3.wav" 1688642 0 1508073587 0
+D t "PM CYBERSPHERE by Phil Michalski" y 2017-10-15 c "PM Cybersphere, sci-fi, scifi, UI, HUD, transmition" d "dUBITS=  dSCENE=  dTAKE=  dTAPE=  dTRK1=  dTRK2=  dNOTE=PM Cybersphere, sci-fi, scifi, UI, HUD, transmition  "
+D s 96000 n 2 l 0:02.895 i 24
+F "PM DRONE 003 LOW.wav" 20242694 0 1493803689 0
+D s 48000 n 2 l 1:09.893 i 24
+F "PM DRONE 018 LOW PULSE.wav" 19109296 0 1493803690 0
+D s 48000 n 2 l 1:05.978 i 24
+F "PM DRONE 025 LOW.wav" 17850430 0 1493803690 0
+D s 48000 n 2 l 1:01.630 i 24
+F "PM DRONE 037 LOW MID.wav" 19322820 0 1493803691 0
+D s 48000 n 2 l 1:06.711 i 24
+F "PM DRONE 045 LOW MID.wav" 17362446 0 1493803691 0
+D s 48000 n 2 l 0:59.940 i 24
+F "PM DRONE 051 LOW MID MOVEMENT.wav" 17975020 0 1493803691 0
+D s 48000 n 2 l 1:02.064 i 24
+F "PM InMotion Busy Cafe.wav" 35723798 0 1509651572 0
+D d "Time trails, time lapse, time-lapse, passage of time, Ambiance, cafe, bar, restaurant, walla, people, plates" s 96000 n 2 l 1:02.008
+D i 24
+F "PM InMotion Sinister metal Groans 2.wav" 73845050 0 1510008011 0
+D d "Time trails, time lapse, time-lapse, passage of time, horror, metal, groaning, moaning, bending, drones, soundscape" s 96000 n 2 l 2:08.187
+D i 24
+F "PM InMotion Sinister Radio.wav" 46191520 0 1509650409 0
+D d "Time trails, time lapse, time-lapse, passage of time, Ether, Radio, Chatter, Evil, Drone Reversed" s 96000 n 2 l 1:20.181
+D i 24
+F "PM InMotion Traffic.wav" 37221378 0 1509740722 0
+D d "Time trails, time lapse, time-lapse, passage of time, Ambiance, Traffic, Cars, Pass bys" s 96000 n 2 l 1:04.608
+D i 24
+F "PM InMotion TV 3.wav" 36000874 0 1509650252 0
+D d "Time trails, time lapse, time-lapse, passage of time, TV, television, ether, chatter " s 96000 n 2 l 1:02.489
+D i 24
+F "PM InMotion Voices demonic.wav" 36069382 0 1509648996 0
+D d "Time trails, time lapse, time-lapse, passage of time, voices, horror, demonic, demon, drone" s 96000 n 2 l 1:02.608
+D i 24
+F "PM LUI VOICES PAD.wav" 26809250 0 1496835005 0
+D s 48000 n 2 l 1:32.575 i 24
+F "PM MRI PM Low Drone 1.wav" 73097044 0 1511952420 0
+D y 2017-11-29T11:32:18+01:00 s 96000 n 2 l 2:06.892
+D i 24
+F "PM MRI PM Voices 1.wav" 73097044 0 1511952402 0
+D y 2017-11-29T11:36:29+01:00 s 96000 n 2 l 2:06.892
+D i 24
+F "PM PARANOIA DRONE 1.wav" 31043962 0 1506810582 0
+D y 2017-10-01 s 96000 n 2 r 0:29.500
+D l 0:53.597 i 24
+F "PM PARANOIA DRONE 14.wav" 57913130 0 1506810793 0
+D y 2017-10-01 s 96000 n 2 r 16:20.500
+D l 1:40.000 i 24
+F "PM PARANOIA DRONE 24.wav" 39157758 0 1506810931 0
+D y 2017-10-01 s 96000 n 2 r 27:50.000
+D l 1:07.609 i 24
+F "PM PARANOIA DRONE 29.wav" 40541732 0 1506810997 0
+D y 2017-10-01 s 96000 n 2 r 35:23.000
+D l 1:10.000 i 24
+F "PM PARANOIA IMPACT 1.wav" 3690696 0 1506811042 0
+D y 2017-10-01 s 96000 n 2 r 44:36.000
+D l 0:06.359 i 24
+F "PM PARANOIA IMPACT 11.wav" 4001328 0 1506811134 0
+D y 2017-10-01 s 96000 n 2 r 46:43.000
+D l 0:06.895 i 24
+F "PM PARANOIA IMPACT 4.wav" 4707804 0 1506811068 0
+D y 2017-10-01 s 96000 n 2 r 45:10.500
+D l 0:08.115 i 24
+F "PM PARANOIA IMPACT 7.wav" 5564988 0 1506811091 0
+D y 2017-10-01 s 96000 n 2 r 45:47.904
+D l 0:09.596 i 24
+F "PM PARANOIA RISER 1.wav" 6377964 0 1506811190 0
+D y 2017-10-01 s 96000 n 2 r 48:59.500
+D l 0:11.000 i 24
+F "PM PARANOIA RISER 15.wav" 3431752 0 1506810106 0
+D y 2017-10-01 s 96000 n 2 r 51:37.000
+D l 0:05.923 i 24
+F "PM PARANOIA RISER 18.wav" 6660970 0 1506810120 0
+D y 2017-10-01 s 96000 n 2 r 52:24.000
+D l 0:11.500 i 24
+F "PM PARANOIA RISER 26.wav" 7390046 0 1506810156 0
+D y 2017-10-01 s 96000 n 2 r 54:34.000
+D l 0:12.759 i 24
+F "PM PARANOIA RISER 9.wav" 4514424 0 1506810077 0
+D y 2017-10-01 s 96000 n 2 r 50:29.000
+D l 0:07.792 i 24
+F "PM PARANOIA VOICE 4.wav" 10237360 0 1506811279 0
+D y 2017-10-01 s 96000 n 2 r 57:57.000
+D l 0:17.652 i 24
+F "PM PARANOIA VOICE 7.wav" 41120780 0 1506811306 0
+D y 2017-10-01 s 96000 n 2 r 1:03:04.000
+D l 1:11.000 i 24
+F "PM Risers SCIFI 23.wav" 6343104 0 1511566011 0
+D s 96000 n 2 l 0:11.000 i 24
+F "PM SCIFI FLY BYS 09 2.wav" 5509386 0 1493803692 0
+D s 48000 n 2 l 0:19.000 i 24
+F "PM SCIFI FLY BYS 09.wav" 5508032 0 1493803692 0
+D s 48000 n 2 l 0:19.000 i 24
+F "PM SCIFI FLY BYS 18 2.wav" 4106570 0 1493803692 0
+D s 48000 n 2 l 0:14.158 i 24
+F "PM SCIFI FLY BYS 18.wav" 4105210 0 1493803692 0
+D s 48000 n 2 l 0:14.158 i 24
+F "PM SCIFI FLY BYS 23 2.wav" 2860806 0 1476569761 0
+D s 48000 n 2 l 0:09.855 i 24
+F "PM SCIFI FLY BYS 23.wav" 2859452 0 1476484008 0
+D s 48000 n 2 l 0:09.855 i 24
+F "PM SCIFI FLY BYS 31 2.wav" 2125806 0 1476569762 0
+D s 48000 n 2 l 0:07.316 i 24
+F "PM SCIFI FLY BYS 31.wav" 2124920 0 1476484008 0
+D s 48000 n 2 l 0:07.316 i 24
+F "PM SCIFI FLY BYS 45 2.wav" 5196914 0 1493803693 0
+D s 48000 n 2 l 0:17.924 i 24
+F "PM SCIFI FLY BYS 45.wav" 5196016 0 1493803693 0
+D s 48000 n 2 l 0:17.924 i 24
+F "PM SFE HEAVY N 01.wav" 1821290 0 1507378636 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, heavy, narrow sounding" s 96000 n 2 l 0:03.148
+D i 24
+F "PM SFE HEAVY N 05.wav" 2123824 0 1507378607 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, heavy, narrow sounding" s 96000 n 2 l 0:03.671
+D i 24
+F "PM SFE HEAVY N 10.wav" 2476174 0 1507378607 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, heavy, narrow sounding" s 96000 n 2 l 0:04.283
+D i 24
+F "PM SFE HEAVY N 14.wav" 1690444 0 1507378607 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, heavy, narrow sounding" s 96000 n 2 l 0:02.919
+D i 24
+F "PM SFE HEAVY N 19.wav" 2616946 0 1507378607 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, heavy, narrow sounding" s 96000 n 2 l 0:04.527
+D i 24
+F "PM SFE IMPACTS 01.wav" 3485064 0 1507399666 0
+D y 2017-10-07 d "PM SCI-FI Mechanics, robot, robotic, impact, mechanical, boom " s 96000 n 2
+D l 0:06.000 i 24
+F "PM SFE IMPACTS 02.wav" 4295044 0 1507399832 0
+D y 2017-10-07 d "PM SCI-FI Mechanics, robot, robotic, impact, mechanical, boom " s 96000 n 2
+D l 0:07.398 i 24
+F "PM SFE LIGHT N 07.wav" 1448968 0 1507334547 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, synthetic, light, narrow sounding" s 96000 n 2 l 0:02.500
+D i 24
+F "PM SFE LIGHT N 16.wav" 1448968 0 1507334548 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, synthetic, light, narrow sounding" s 96000 n 2 l 0:02.500
+D i 24
+F "PM SFE LIGHT N 20.wav" 1336942 0 1507334548 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, synthetic, light, narrow sounding" s 96000 n 2 l 0:02.305
+D i 24
+F "PM SFE LIGHT N 30.wav" 1160968 0 1507334548 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, synthetic, light, narrow sounding" s 96000 n 2 l 0:02.000
+D i 24
+F "PM SFE LIGHT N 32.wav" 1441192 0 1507334548 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, synthetic, light, narrow sounding" s 96000 n 2 l 0:02.486
+D i 24
+F "PM SFE RCLEAN N 03.wav" 1739830 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 0:04.938
+D l 0:03.000 i 24
+F "PM SFE RCLEAN N 14.wav" 1451832 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 0:36.549
+D l 0:02.500 i 24
+F "PM SFE RCLEAN N 24.wav" 2027832 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 1:10.222
+D l 0:03.500 i 24
+F "PM SFE RCLEAN N 33.wav" 1632972 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 1:39.656
+D l 0:02.814 i 24
+F "PM SFE RCLEAN N 50.wav" 1739834 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 2:29.179
+D l 0:03.000 i 24
+F "PM SFE RCLEAN N 52.wav" 1739834 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 2:35.179
+D l 0:03.000 i 24
+F "PM SFE RCLEAN N 62.wav" 1221686 0 1507377763 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 3:11.836
+D l 0:02.100 i 24
+F "PM SFE RCLEAN N 76.wav" 2315834 0 1507377764 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 4:00.209
+D l 0:04.000 i 24
+F "PM SFE RCLEAN N 78.wav" 2231102 0 1507377764 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 4:08.565
+D l 0:03.852 i 24
+F "PM SFE RCLEAN N 82.wav" 2315834 0 1507377764 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, narrow sounding" s 96000 n 2 r 4:33.895
+D l 0:04.000 i 24
+F "PM SFE RVOCO N 10.wav" 1736968 0 1507378328 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2 l 0:03.000
+D i 24
+F "PM SFE RVOCO N 17.wav" 2905130 0 1507399816 0
+D y 2017-10-07 d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2
+D l 0:05.000 i 24
+F "PM SFE RVOCO N 22.wav" 3570580 0 1507378329 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2 l 0:06.183
+D i 24
+F "PM SFE RVOCO N 28.wav" 4531804 0 1507378329 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2 l 0:07.852
+D i 24
+F "PM SFE RVOCO N 35.wav" 1667614 0 1507378329 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2 l 0:02.879
+D i 24
+F "PM SFE RVOCO N 38.wav" 2264512 0 1507378329 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2 l 0:03.915
+D i 24
+F "PM SFE RVOCO N 45.wav" 2719162 0 1507378330 0
+D d "PM SCI-FI Mechanics, robot, robotic, transformation, vocoded, vocoder, narrow sounding" s 96000 n 2 l 0:04.705
+D i 24
+F "PM SFE WARPED 01.wav" 3070216 0 1507334966 0
+D d "PM SCI-FI Mechanics, robot, robotic, warped, mechanical, metallic " s 96000 n 2 l 0:05.314
+D i 24
+F "PM SFE WARPED 03.wav" 3176950 0 1507334966 0
+D d "PM SCI-FI Mechanics, robot, robotic, warped, mechanical, metallic " s 96000 n 2 l 0:05.500
+D i 24
+F "PM SFE WARPED 17.wav" 2888950 0 1507334966 0
+D d "PM SCI-FI Mechanics, robot, robotic, warped, mechanical, metallic " s 96000 n 2 l 0:05.000
+D i 24
+F "PM SFE WARPED 29.wav" 3004150 0 1507334967 0
+D d "PM SCI-FI Mechanics, robot, robotic, warped, mechanical, metallic " s 96000 n 2 l 0:05.200
+D i 24
+F "PM SFE WARPED 34.wav" 1852774 0 1507334967 0
+D d "PM SCI-FI Mechanics, robot, robotic, warped, mechanical, metallic " s 96000 n 2 l 0:03.201
+D i 24
+F "PM SNAIL ORGANIC TEXTURE.wav" 22182996 0 1496759112 0
+D s 48000 n 2 l 1:16.601 i 24
+F "PM SNAIL SCREAM BIG 04.wav" 1469520 0 1496745068 0
+D s 96000 n 1 l 0:05.083 i 24
+F "PM SNAIL SCREAM SMALL 06.wav" 895696 0 1496744935 0
+D s 96000 n 1 l 0:03.090 i 24
+F "PM Stinger HORROR 61.wav" 5775142 0 1511903476 0
+D s 96000 n 2 l 0:10.013 i 24
+F "PM Stinger SCIFI 15.wav" 5006230 0 1511293470 0
+D s 96000 n 2 l 0:08.631 i 24
+F "PM Subway soundscape muffled LFE 01.wav" 10142300 0 1496250985 0
+D s 48000 n 2 l 0:35.000 i 24
+F "PM Subway soundscape muffled LFE 05.wav" 10142300 0 1496250985 0
+D s 48000 n 2 l 0:35.000 i 24
+F "PM Subway walla Warped lng vrb 02.wav" 8694676 0 1496250985 0
+D s 48000 n 2 l 0:30.000 i 24
+F "PM Subway Warped Fast vrb 04.wav" 1746110 0 1496250986 0
+D s 48000 n 2 l 0:06.000 i 24
+F "PM Subway Warped Fast vrb 07.wav" 3483254 0 1496250986 0
+D s 48000 n 2 l 0:12.000 i 24
+F "Pony Blow 03.wav" 211562 0 1488537225 0
+D y 2015-01-18 d "shetland pony blow mouth nose creature" s 96000 n 1
+D r 0:05.973 l 0:00.664 i 24
+F "Pony Nicker Heavy 08.wav" 880480 0 1488536903 0
+D y 2015-01-18 d "shetland pony nicker heavy grunt vocal creature" s 96000 n 1
+D r 0:05.973 l 0:02.950 i 24
+F "Pony Nicker Soft 07.wav" 691894 0 1488536982 0
+D y 2015-01-18 d "shetland pony nicker soft grunt vocal creature" s 96000 n 1
+D r 0:05.973 l 0:02.306 i 24
+F "Pony Whinny Heavy 05.wav" 554162 0 1488536698 0
+D y 2015-01-18 d "shetland pony whinny heavy neigh vocal creature" s 96000 n 1
+D r 0:05.973 l 0:01.835 i 24
+F "Pop Toy Ts 02.wav" 2277552 0 1481710502 0
+D t Correction y 2015-12-08 d "Toys, Kids, Plastic, Play, Pop, Popping, Cartoon," s 96000
+D n 2 r 3:53.908 l 0:03.948 i 24
+F "Power Core 3.wav" 3251192 0 1488537478 0
+D d "power core, core, power, electricity, engine, force, sci-fi, vehicle, spaceship, futuristic, pulsating" s 96000 n 2 l 0:04.955
+D i 24
+F "Pr Army Gear Room Walk C414.wav" 4663700 0 1488537081 0
+D y 2015-11-29 s 48000 n 1 r 1:02:22.039
+D l 0:31.229 i 24
+F "Pr Chains Scrape 4 416.L.wav" 4211524 0 1488536522 0
+D y 2015-11-29 s 48000 n 1 r 1:05:25.680
+D l 0:28.200 i 24
+F "Pr Leather Backpack Jog 416.L.wav" 2988298 0 1488537054 0
+D y 2015-11-28 s 48000 n 1 r 1:02:55.934
+D l 0:20.005 i 24
+F "Pr Purse Leather Scrape 2 416.L.wav" 4561646 0 1488536796 0
+D y 2015-11-29 s 48000 n 1 r 1:04:17.001
+D l 0:30.545 i 24
+F "Prel Station Id Rm02.6.wav" 3782966 0 1372263280 0
+D y 01:0-:2-08 d '"STATION, ID, BEEPS, EXPLOSION, PRODUCTION ELEMENT, IMAGING ELEMENT, ACCENT, TRANSITION"' s 96000 n 2
+D l 0:06.547 i 24
+F "Pressing Buttons 6.wav" 3817130 0 1488536223 0
+D s 96000 n 2 l 0:06.626 i 24
+F "Printer 17.wav" 1487318 0 1488536602 0
+D s 96000 n 2 l 0:02.582 i 24
+F "Printing Press,Fast,Grinding,Hydraulics,Whirring.wav" 6420768 0 1481710529 0
+D y 2013-01-03 s 48000 n 1 r 51:18.577
+D l 0:43.000 i 24
+F "Printing Press,Slow, Machine, Start.wav" 1820894 0 1481710529 0
+D y 2013-01-04 s 48000 n 1 r 50:21.965
+D l 0:12.184 i 24
+F "Process Malfunction - Computer Glitch 02.wav" 18433126 0 1488537534 0
+D d "glitch, computer, technology, future, user interface, science fiction, scifi, alien, error, crash, broken, failure, hack, mainframe, corrupt data stream, processing, malfunction" s 96000 n 2 l 0:32.000
+D i 24
+F "Process Malfunction - Computer Glitch 18.wav" 21178360 0 1488537507 0
+D d "glitch, computer, technology, future, user interface, science fiction, scifi, alien, error, crash, broken, failure, hack, mainframe, corrupt data stream, processing, malfunction" s 96000 n 2 l 0:36.766
+D i 24
+F "Process Malfunction - Computer Glitch 36.wav" 18433126 0 1488537534 0
+D d "glitch, computer, technology, future, user interface, science fiction, scifi, alien, error, crash, broken, failure, hack, mainframe, corrupt data stream, processing, malfunction" s 96000 n 2 l 0:32.000
+D i 24
+F "Process Malfunction - Computer Glitch 40.wav" 20737126 0 1488537494 0
+D d "glitch, computer, technology, future, user interface, science fiction, scifi, alien, error, crash, broken, failure, hack, mainframe, corrupt data stream, processing, malfunction" s 96000 n 2 l 0:36.000
+D i 24
+F "Processed Noise 01.wav" 1058444 0 1425730662 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Processed Noise 02.wav" 1058444 0 1425730726 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Processed Noise 03.wav" 890924 0 1425730814 0
+D s 44100 n 2 l 0:03.366 i 24
+F "Processed Noise 04.wav" 1058444 0 1425731242 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Processed Noise 05.wav" 1119404 0 1425731436 0
+D s 44100 n 2 l 0:06.345 i 16
+F "Processed Noise 06.wav" 1121324 0 1425731514 0
+D s 44100 n 2 l 0:04.237 i 24
+F "Processed Noise 07.wav" 827468 0 1425731552 0
+D s 44100 n 2 l 0:03.127 i 24
+F "Production Element Transition 05.wav" 10184650 0 1488537273 0
+D d "Production Element, Atmospheric Element, Transition, Change, Movement" s 96000 n 2 l 0:17.680
+D i 24
+F "Productionelementtransitionglitch 001.wav" 1923676 0 1481710485 0
+D d "Surreal, Surrealism, Production Element, Transition, Glitch" s 96000 n 2 l 0:03.338
+D i 24
+F "Protests Anticapitalista 02 Ravenswood.wav" 33949922 0 1481710527 0
+D y 2014-04-16 d "Protest chants, 'Anticapitalista', In crowd, Large group, Starts distant and grows, Very strong, Drum" s 96000 n 2
+D l 0:58.913 i 24
+F "Protests Let Us March Downtown.wav" 26286242 0 1481710534 0
+D y 2014-04-16 d "Protest chants, 'Let us march', In crowd, Large group, Single voice starts chant, Very strong, Individual yells" s 96000 n 2
+D l 0:45.608 i 24
+F "Protests Our Streets 01 Downtown.wav" 32683834 0 1481710518 0
+D y 2014-04-16 d "Protest chants, 'Whose streets? Our Streets', In crowd, Large group, Starts distant and grows, Strong, Horn" s 96000 n 2
+D l 0:56.714 i 24
+F "Protests Peoples Territory 02 Ravenswood.wav" 36492386 0 1481710525 0
+D y 2014-04-16 d "Protest chants, 'People's territory', In crowd, Medium group, Megaphone call, Crowd response, Drum" s 96000 n 2
+D l 1:03.343 i 24
+F "Puke On Guy 03 04 01 .wav" 849928 0 1488536997 0
+D y 2011-06-07 g FOLEY c "Misc, Vomits, Spits, Chokes" d "Misc, Vomits, Spits, Chokes"
+D s 48000 n 2 r 2:15:31.732 l 0:02.869
+D i 24 m 0
+F pulse1.wav 1269982 0 1129394378 0
+D y 2005-10-15 s 44100 n 2 l 0:07.198
+D i 16
+F pulse2.wav 1050846 0 1129394420 0
+D y 2005-10-15 s 44100 n 2 l 0:05.955
+D i 16
+F pulse3.wav 549598 0 1129394516 0
+D y 2005-10-15 s 44100 n 2 l 0:03.114
+D i 16
+F "Punch Blocked 02.wav" 268370 0 1488537225 0
+D s 96000 n 2 l 0:00.465 i 24
+F "Punch General Body Impact 03.wav" 274286 0 1488537282 0
+D s 96000 n 2 l 0:00.476 i 24
+F "Punch Grit Wet Impact 05.wav" 294164 0 1488537072 0
+D s 96000 n 2 l 0:00.510 i 24
+F "Punch Heavy Huge Distorted 01.wav" 278738 0 1488537282 0
+D s 96000 n 2 l 0:00.483 i 24

@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" commit="4b5c7e47c5f7f4e2ad272178789a6b5260f07724" name="RCJacH Scripts">
+  <category name="Item Editing">
+    <reapack name="RCJacH_Delete content under mouse (contextual).lua" type="script" desc="Delete Content Under Mouse (Contextual)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Delete track/item/take/envelope depending on mouse position.\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Delete%20content%20under%20mouse%20(contextual).lua</source>
+      </version>
+    </reapack>
+    <reapack name="RCJacH_Glue Selected Items Preserve First Item Name.lua" type="script" desc="Glue selected items preserving first item name">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Glue selected items, and rename result to:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab The name of the first item If all item names are identical;\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab The name of each nonidentical items.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Remove the "Glued" in item name (but not the file name unfortunately)\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Glue%20Selected%20Items%20Preserve%20First%20Item%20Name.lua</source>
+      </version>
+    </reapack>
+    <reapack name="RCJacH_Quick add or edit take marker under mouse cursor.lua" type="script" desc="Quick add or edit take marker under mouse cursor">
+      <metadata>
+        <link rel="website" href="https://github.com/RCJacH/ReaScript">Github Repository</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Quick%20add%20or%20edit%20take%20marker%20under%20mouse%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="RCJacH_Select Tracks with Regex.lua" type="script" desc="Select Tracks with Regex">
+      <version name="1.0a" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <changelog><![CDATA[* v1.0a (2021-05-05)
+  + Initial Release.]]></changelog>
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Select%20Tracks%20with%20Regex.lua</source>
+      </version>
+    </reapack>
+    <reapack name="RCJacH_Split items under mouse cursor (obey snapping and selection).lua" type="script" desc="Split items under mouse (obey snapping and selection)">
+      <metadata>
+        <link rel="website" href="https://github.com/RCJacH/ReaScript">Github Repository</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Split%20items%20under%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua</source>
+      </version>
+    </reapack>
+    <reapack name="RCJacH_Spread Items Horizontally.lua" type="script" desc="Spread items horizontally">
+      <metadata>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Item%20Editing/RCJacH_Spread%20Items%20Horizontally.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="JSFX/Audio">
+    <reapack name="AB Comparison - 1INnOUT Stereo.jsfx" type="effect" desc="AB Comparison - 1INnOUT Stereo">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This JSFX alternates between signals from different channels for objective comparison purposes.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Set {\i # of Outputs} to number of stereo channels to compare.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Link plugin output to different track or hardware output.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Set desired switching beat length using {\i Switch Beat length}. Alternatively, set {\i Millisecond Mode} to > 0 for switching based on time\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Set switching mode using {\i Mode}: Manual = Switch by pressing channel trigger; Sequential = Switch to the next channel; Random = Switch to a random different channel; Guess = Switch to a random channel, press trigger to show answer.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.2" author="RCJacH" time="2018-03-09T07:48:41Z">
+        <changelog><![CDATA[+ Added a multiple output stereo version, reversed random input into random output.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/AB%20Comparison%20-%201INnOUT%20Stereo.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="AB Comparison.jsfx" type="effect" desc="AB Comparison">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This JSFX alternates between signals from different channels for objective comparison purposes.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Set different comparing items to sequential stereo channels.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Set {\b # of Inputs} to number of stereo channels to compare.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Set desired switching beat length using {\b Switch Beat length}. Alternatively, set {\b Millisecond Mode} to > 0 for switching based on time\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Set switching mode using {\b Mode}: Manual = Switch by pressing channel trigger; Sequential = Switch to the next channel; Random = Switch to a random different channel; Guess = Switch to a random channel, press trigger to show answer. {\b Output Channel Display}s the current output channel.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" time="2017-01-18T18:46:33Z">
+        <changelog><![CDATA[+ Initial Release
+
+Potential Addition:
+1. Switch in ms instead of beat division.
+2. Switch while not playing.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/6c435acc784b9ed67a126ba2701493b11679a95c/JSFX/Audio/AB%20Comparison.jsfx</source>
+      </version>
+      <version name="1.1" time="2017-01-19T15:30:08Z">
+        <changelog><![CDATA[+ Millisecond Mode.
++ Beat Mode works while not playing.
++ Guess Mode added Answer Display Time.
++ Limitation for user input.
++ Default channel initialization.
+# Triggers in Sequential/Random Mode changes to Manual Mode.
+# Clicking on time-line do not reset to output 1-2.
+# Guess Mode switches by triggering, rather than time.
+]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/225dcb55a806ad1775d90a767f9edae92d7100ce/JSFX/Audio/AB%20Comparison.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="NoiseBuzz.jsfx" type="effect" desc="NoiseBuzz">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Audio triggered dynamic noise generator with ASR and filter.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Set {\b Mix} slider to taste, use {\b Noise Gain} for additional volume control.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Select desired noise type.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab (Optional) Use {\b Threshold}, {\b Attack}, {\b Release} to shape the envelope of the noise, with AR triggered by input audio exceed or fall under the threshold.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab (Optional) Use {\b HPF}, {\b LPF}, and their {\b Resonance} controls to limit the frequency range of the generated noise.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab (Optional) Adjust the detector {\b RMS} of the input level to smooth out the level of the generated noise.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 6.\tx360\tab You can also route the noise audio to channel 3-4 to further shape the noise, voiding the {\b Mix} control.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" time="2017-01-31T07:13:16Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/6f8b317f9082e6e7313ad3f8c5050357279c6584/JSFX/Audio/NoiseBuzz.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="RCBitRangeGain.jsfx" type="effect" desc="RCBitRangeGain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Suedo bit based gain adjustment for float point audio. 1 bit ~= 6.0206 dB (doubling of distance).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 RCBitRangeGain solves two issues of the traditional dB-based gain plugin:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab When doing static gain alternation (meaning no automation) by twice/half of the sound pressure, we often adjust the signal by 6dB. However 6dB is around 1.9952623149688795, rather than the integer 2 which we desired, thus the signal will expand in number of digits, and truncate when it reaches the length of limit of the bit depth used for calculation, cause some sort of distortion, although likely inaudible. This is resolved by the AirWindows BitShiftGain algorithm, which adjusts volume by the exact number that represents bit shifting rather than dB.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab When doing dynamic gain alternation (with automation), there might occur a zipper noise, a sudden high frequency distortion like aliasing (like that of the digital square wave), when moving the volume slider too quickly. This is resolved by the AirWindows PurestGain algorithm, which does the volume change with smoothing effect. The result is no aliasing, but a bit slower reaction to changes. The original PurestGain fader has 4000 samples window of smooth effect, and I reduced it to 800, which in my opinion is a better balance between smoothness and reaction speed.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 By combining the two AirWindows algorithms, RCBitRangeGain can be used both statically and dynamically. Also I included other controls related to the basic concept so users can still break away from only doing 6dB gains, although when adjusting gains by anything other than bits will cause truncation.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Macro Shift} to increase or decrease audio input by 6.0206 dB per bit.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Micro Shift} to fine adjust audio within 1 bit.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Bit Ratio} to adjust the dB representation of one bit.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Fader} is used as a controller of output volume in percentage after bit shifting.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Fader Curve} to adjust the behavior of {\b Fader} slider.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Increase {\b Smooth Fader} if gain adjustment causes zipper noise.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Pan} is used to balanced the volume of L-R channels.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Pan Law (dB)} to determine whether the audio is attenuated or amplified when approaching center.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Increase {\b Smooth Pan} if pan adjustment causes zipper noise.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.1" author="RCJacH" time="2018-03-09T07:58:25Z">
+        <changelog><![CDATA[* v1.1 (2018-02-13)
+  + Implemented the actual algorithm of AirWindows OpenSourced PurestGain with variables.
+  * Changed fader action, NOT BACKWARD COMPATIBLE if you used fader
+  * Renamed to RCBitRangeGain
+* v1.0a (2017-01-31)
+  + Renamed to BitRangeGain
+* v1.0 (2017-01-11)
+  + Initial Release]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/3ec444f25cef1206d09bff82bbe48200da3ddb71/JSFX/Audio/RCBitRangeGain.jsfx</source>
+      </version>
+      <version name="1.3" author="RCJacH" time="2022-03-04T15:54:27Z">
+        <changelog><![CDATA[* v1.3 (2018-09-27)
+  + Using PurestGain Fader algorithm to change pan, so panning should be smoother now.
+* v1.2 (2018-04-12)
+  + Added Pan controls
+* v1.1 (2018-02-13)
+  + Implemented the actual algorithm of AirWindows OpenSourced PurestGain with variables.
+  * Changed fader action, NOT BACKWARD COMPATIBLE if you used fader
+  * Renamed to RCBitRangeGain
+* v1.0a (2017-01-31)
+  + Renamed to BitRangeGain
+* v1.0 (2017-01-11)
+  + Initial Release]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/bbea8c94c1061da0c55576e83dcc45338d78cc67/JSFX/Audio/RCBitRangeGain.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="RCEveryGain.jsfx" type="effect" desc="RCEveryGain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Suedo bit based gain adjustment for float point audio. 1 bit ~= 6.0206 dB (doubling of distance).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 RCEveryGain solves two issues of the traditional dB-based gain plugin:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab When doing static gain alternation (meaning no automation) by twice/half of the sound pressure, we often adjust the signal by 6dB. However 6dB is around 1.9952623149688795, rather than the integer 2 which we desired, thus the signal will expand in number of digits, and truncate when it reaches the length of limit of the bit depth used for calculation, cause some sort of distortion, although likely inaudible. This is resolved by the AirWindows BitShiftGain algorithm, which adjusts volume by the exact number that represents bit shifting rather than dB.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab When doing dynamic gain alternation (with automation), there might occur a zipper noise, a sudden high frequency distortion like aliasing (like that of the digital square wave), when moving the volume slider too quickly. This is resolved by the AirWindows PurestGain algorithm, which does the volume change with smoothing effect. The result is no aliasing, but a bit slower reaction to changes. The original PurestGain fader has 4000 samples window of smooth effect, and I reduced it to 800, which in my opinion is a better balance between smoothness and reaction speed.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 By combining the two AirWindows algorithms, RCBitRangeGain can be used both statically and dynamically. Also I included other controls related to the basic concept so users can still break away from only doing 6dB gains, although when adjusting gains by anything other than bits will cause truncation.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Macro Shift} to increase or decrease audio input by 6.0206 dB per bit.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Micro Shift} to fine adjust audio within 1 bit.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Bit Ratio} to adjust the dB representation of one bit.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Fader} is used as a controller of output volume in percentage after bit shifting.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use {\b Fader Curve} to adjust the behavior of {\b Fader} slider.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Increase {\b Smooth Fader} if gain adjustment causes zipper noise.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use Gain sliders for rough dialing.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Use Trim sliders for fine toning.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.5" author="RCJacH" time="2022-03-04T15:53:16Z">
+        <changelog><![CDATA[* v1.5 (2022-03-04)
+  + Add Trim controls
+  + Renamed to RCEveryGain
+* v1.3 (2018-09-27)
+  + Using PurestGain Fader algorithm to change pan, so panning should be smoother now.
+* v1.2 (2018-04-12)
+  + Added Pan controls
+* v1.1 (2018-02-13)
+  + Implemented the actual algorithm of AirWindows OpenSourced PurestGain with variables.
+  * Changed fader action, NOT BACKWARD COMPATIBLE if you used fader
+  * Renamed to RCBitRangeGain
+* v1.0a (2017-01-31)
+  + Renamed to BitRangeGain
+* v1.0 (2017-01-11)
+  + Initial Release]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/dc233c3cf6fd00e5e492a848c637b095a8634d5d/JSFX/Audio/RCEveryGain.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="RCInflator.jsfx" type="effect" desc="RCInflator">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 JSFX implementation of Sony Oxford Inflator algorithm, found on Gearspace.\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+        <link rel="website">https://forum.cockos.com/showthread.php?t=256286</link>
+      </metadata>
+      <version name="0.2" author="RCJacH" time="2021-08-08T16:23:02Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/d40d6a97a31250efee6b182e38ad1f74c80d3669/JSFX/Audio/RCInflator.jsfx</source>
+      </version>
+      <version name="0.4" author="RCJacH" time="2021-08-11T21:49:25Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/4568b3f76dd97aa687a5ef49d2b8a1ec459d4279/JSFX/Audio/RCInflator.jsfx</source>
+      </version>
+      <version name="0.5.2" author="RCJacH" time="2021-08-13T14:55:00Z">
+        <changelog><![CDATA[* v0.5.2 (2021-08-13)
+  + Applies in/output gain to dry signal
+  + Refactor for less CPU usage
+* v0.5.1 (2021-08-13)
+  * Fix unsymmetrical waveshaping
+* v0.5 (2021-08-13)
+  + Refactor code
+  + Add absolute clipping at 6dB.
+  + Add waveshapeOvershoot
+* v0.4 (2021-08-13)
+  + Accurate decibel to float conversion.
+  + Wrap waveshaper above 0dB.
+  + Refactor waveshaper into function.
+* v0.3 (2021-08-11)
+  + Apply waveshaper symmetrically.
+  * Fix sign Error.
+* v0.2 (2021-08-09)
+  * Cleaned up code.
+* v0.1 (2021-02-06)
+  + Initial alpha release.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/544e82e87f5c70c0d3869da3df2764833f7e0dee/JSFX/Audio/RCInflator.jsfx</source>
+      </version>
+      <version name="0.5.3" author="RCJacH" time="2021-08-15T09:36:17Z">
+        <changelog><![CDATA[* v0.5.3 (2021-08-15)
+  + Applies second clipping before output gain
+* v0.5.2 (2021-08-13)
+  + Applies in/output gain to dry signal
+  + Refactor for less CPU usage
+* v0.5.1 (2021-08-13)
+  * Fix unsymmetrical waveshaping
+* v0.5 (2021-08-13)
+  + Refactor code
+  + Add absolute clipping at 6dB.
+  + Add waveshapeOvershoot
+* v0.4 (2021-08-13)
+  + Accurate decibel to float conversion.
+  + Wrap waveshaper above 0dB.
+  + Refactor waveshaper into function.
+* v0.3 (2021-08-11)
+  + Apply waveshaper symmetrically.
+  * Fix sign Error.
+* v0.2 (2021-08-09)
+  * Cleaned up code.
+* v0.1 (2021-02-06)
+  + Initial alpha release.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/ae468ad9e84da8e3720ac0903f4de4b2b09f97d4/JSFX/Audio/RCInflator.jsfx</source>
+      </version>
+      <version name="0.5.4" author="RCJacH" time="2021-08-15T16:18:07Z">
+        <changelog><![CDATA[* v0.5.4 (2021-08-15)
+  + Match slider range and steps to the original
+* v0.5.3 (2021-08-15)
+  + Applies second clipping before output gain
+* v0.5.2 (2021-08-13)
+  + Applies in/output gain to dry signal
+  + Refactor for less CPU usage
+* v0.5.1 (2021-08-13)
+  * Fix unsymmetrical waveshaping
+* v0.5 (2021-08-13)
+  + Refactor code
+  + Add absolute clipping at 6dB.
+  + Add waveshapeOvershoot
+* v0.4 (2021-08-13)
+  + Accurate decibel to float conversion.
+  + Wrap waveshaper above 0dB.
+  + Refactor waveshaper into function.
+* v0.3 (2021-08-11)
+  + Apply waveshaper symmetrically.
+  * Fix sign Error.
+* v0.2 (2021-08-09)
+  * Cleaned up code.
+* v0.1 (2021-02-06)
+  + Initial alpha release.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/9133c2ae55d7482e15472352b74c745651a2ad86/JSFX/Audio/RCInflator.jsfx</source>
+      </version>
+      <version name="0.6" author="RCJacH" time="2021-08-15T16:22:23Z">
+        <changelog><![CDATA[* v0.6 (2021-08-15)
+  + Refactor integers to floats
+  + Clip dry signal before summing
+* v0.5.4 (2021-08-15)
+  + Match slider range and steps to the original
+* v0.5.3 (2021-08-15)
+  + Applies second clipping before output gain
+* v0.5.2 (2021-08-13)
+  + Applies in/output gain to dry signal
+  + Refactor for less CPU usage
+* v0.5.1 (2021-08-13)
+  * Fix unsymmetrical waveshaping
+* v0.5 (2021-08-13)
+  + Refactor code
+  + Add absolute clipping at 6dB.
+  + Add waveshapeOvershoot
+* v0.4 (2021-08-13)
+  + Accurate decibel to float conversion.
+  + Wrap waveshaper above 0dB.
+  + Refactor waveshaper into function.
+* v0.3 (2021-08-11)
+  + Apply waveshaper symmetrically.
+  * Fix sign Error.
+* v0.2 (2021-08-09)
+  * Cleaned up code.
+* v0.1 (2021-02-06)
+  + Initial alpha release.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/3da5db2a1c1d27ccf19c64dfd2d3fc9fbe39285e/JSFX/Audio/RCInflator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="RCNoiseBuzz.jsfx" type="effect" desc="RCNoiseBuzz">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Audio triggered dynamic noise generator with ADSR and filter.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Set {\b Mix} slider to taste, use {\b Noise Gain} for additional volume control.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Select desired noise type.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab (Optional) Use {\b Threshold}, {\b Attack}, {\b Decay}, {\b Sustain}, {\b Release} to shape the envelope of the noise, with AR triggered by input audio exceed or fall under the threshold.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab (Optional) Use {\b HPF}, {\b LPF}, and their {\b Resonance} controls to limit the frequency range of the generated noise.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 5.\tx360\tab (Optional) Adjust the detector {\b RMS} of the input level to smooth out the level of the generated noise.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 6.\tx360\tab You can also route the noise audio to channel 3-4 to further shape the noise, voiding the {\b Mix} control.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.1" author="RCJacH" time="2018-03-09T07:48:41Z">
+        <changelog><![CDATA[* v1.3 (2018-03-08)
+ + Brown Noise Type.
+ + MIDI Trigger.
+ * Fixed sustain.
+ * Renamed to RCNoiseBuzz since the update broke backward compatibility.
+* v1.2 (2017-04-08)
+ + Width Control.
+* v1.1 (2017-03-11)
+ + Decay & Sustain Control.
+* v1.0a (2017-01-31)
+ * Renamed to NoiseBuzz.
+* v1.0 (2017-01-22)
+ + Initial Release.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/dceb56a072678f61ae6a4b6f869c9e57de8d5563/JSFX/Audio/RCNoiseBuzz.jsfx</source>
+      </version>
+      <version name="1.3" author="RCJacH" time="2018-03-09T07:56:20Z">
+        <changelog><![CDATA[* v1.3 (2018-03-08)
+ + Brown Noise Type.
+ + MIDI Trigger.
+ * Fixed sustain.
+ * Renamed to RCNoiseBuzz since the update broke backward compatibility.
+* v1.2 (2017-04-08)
+ + Width Control.
+* v1.1 (2017-03-11)
+ + Decay & Sustain Control.
+* v1.0a (2017-01-31)
+ * Renamed to NoiseBuzz.
+* v1.0 (2017-01-22)
+ + Initial Release.]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/816dd1874831b2dc6b0ded3a6e6edf670973d0ed/JSFX/Audio/RCNoiseBuzz.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="JSFX/Game">
+    <reapack name="RCMShip Perfect Pitch.jsfx" type="effect" desc="RCMShip Perfect Pitch">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Description\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 RCMShip (MShip stands for musicianship) Perfect Pitch is a little game for exercising Perfect Pitch, the ability to recognize notes without any reference, using adaptive method of randomization.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 How to Play\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Click {\b START}, the synth will play a tone.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Guess the name of the tone by clicking on one of the note names.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Upon answering, you will be shown the correct answer, and your own answer if it differs.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Click {\b Next} to continue to next round.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Features\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Adaptive\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Upon answering, the chance of appearance for the current note will be changed based on whether you've answered correctly and the win stream of the note.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Selective\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Click on {\b Setup} to redirect to note setup page, where you can either manually select which note(s) to include in the game, or randomly generate a set number of notes based on currently selected ones.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 Configurative\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Click on {\b Config} for further preferences, such as Volume, note length, base octave, and octave span (octaves above base octave for note generation). You can also switch to MIDI mode so you can use samples or other synth as sound source. Right click on a button to return it to default value.\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0rc1" author="RCJacH" time="2018-03-27T17:18:13Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/80c1d40127f1b00cb2947e247bd2bd7c332f1b30/JSFX/Game/RCMShip%20Perfect%20Pitch.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="JSFX/MIDI">
+    <reapack name="midi_cc_eater.jsfx" type="effect" desc="Midi CC Eater">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This JS plugin filters all inputs of selected CC. Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Add as an input FX.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Select specific CC or all CCs to filter.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Win.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2017-03-07T12:19:42Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_cc_eater.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="midi_note_beat_repeater.jsfx" type="effect" desc="MIDI Note Beat Repeater">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script is made to emulate the note repeating function in Native Instrument Maschine hardware. I have never used Maschine myself, thus I do not know how it really works. However, I did watch some video that demonstrated great workflow for inputting hihat patterns. Instruction: You can use this script in two ways:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Insert as an input FX of your track. Assign MIDI CCs to all of the parameters, trigger slider11(On/Off) and press a note, the pressed note will repeat itself at an interval set using slider1(Rate), while slider2(Type) determines the type of rhythm it generates.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Insert as a normal FX before your sampler. Write the trigger note for the desired sample, and use envelop to control the parameters. You can even insert another track and record MIDI output of the original track, which allows you to edit the generated pattern. The Normal Type Lock slider(3) is great for drill type patterns where you have a steady 8th note groove with occasional 8th or 16th note triplet variations. This setting will free you from constantly alternating the type slider from triplet to normal. Channel Pressure is used to vary the velocity of repeated notes: output Velocity = Channel Pressure.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.1" author="RCJacH" time="2017-03-07T12:19:42Z">
+        <changelog><![CDATA[* v1.1 (2016-10-09)
+ + Renamed
+ + Added Gate Function (Note Length)
+ + Added Sync to grid function
+ # Fixed Note On accuracy
+* v1.0 (2016-07-24)
+ + Initial Release]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/bee92c21a11db6084007db0d7c233799a3017059/JSFX/MIDI/midi_note_beat_repeater.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="RC MIDI Channel Router.jsfx" type="effect" desc="RC MIDI Channel Router">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Description\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 RC MIDI Channel Router is a MIDI plugin to send each Note-On/Note-Off/CC event to assigned Channel(s) accordingly.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 How to Use\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Use Left Mouse Button to work with MIDI channel assignments; Use Right Mouse Button to work with MIDI Bus.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Select channel using channel select buttons number 1-16.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Press (and drag) Note button below to toggle note send state. Green means note will be send to selected Channel upon receiving input. Red means not send.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab You can switch to separate CCs assignment window by pressing the CC button at the top-right position.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 There are four extra buttons located at the top-center of the plugin. Reset: Reseting all notes and ccs of all channels to default setting. All: Turn all notes/cc of the current channel on (green). None: Turn all notes/cc of the current channel off (red). Flip: Invert all notes/cc of the current channel.\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2019-06-30T12:52:13Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/e20d37e5466383052909045840c87c9a45fedcd9/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx</source>
+      </version>
+      <version name="1.1" author="RCJacH" time="2022-03-07T07:53:37Z">
+        <changelog><![CDATA[+ Allow MIDI Bus output assignment]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/2efb05af6d7bf33f3940fcced2c8fe19dd290e5f/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx</source>
+      </version>
+      <version name="1.1.1" author="RCJacH" time="2022-03-07T10:47:41Z">
+        <changelog><![CDATA[* Fix Note button not working]]></changelog>
+        <source>https://github.com/RCJacH/ReaScripts/raw/42c6fc5541edc74a5afa87e484438a975e02ce5b/JSFX/MIDI/RC%20MIDI%20Channel%20Router.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="JSFX/Synth">
+    <reapack name="Tone Sweep.jsfx" type="effect" desc="Tone Sweep">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This JS plugin generates a sweeping tone base on settings Instruction:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 1.\tx360\tab Set starting and ending note, fine tuning in cents if desired.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 2.\tx360\tab Set sweeping time and envelope time.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 3.\tx360\tab Adjust envelope curves\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 4.\tx360\tab Select different wave shape if desired.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0rc2" author="RCJacH" time="2017-04-30T13:35:13Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/3d97d5dc89af96ba4a0313e68c272d69ab61ad4a/JSFX/Synth/Tone%20Sweep.jsfx</source>
+      </version>
+      <version name="1.0rc2a" author="RCJacH" time="2017-05-06T03:17:15Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/d0427d7f6fdeddd9f5ee2deac8068fb3d539e3ae/JSFX/Synth/Tone%20Sweep.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="JSFX/Synth/ReaModular">
+    <reapack name="RCAutoPanner.jsfx" type="effect" desc="ReaModular - RCAutoPanner">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Description\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 PRERELEASE, USE ONLY FOR TESTING PURPOSES. I might change the slider numbering later on.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 ReaModular - RCAutoPanner is an auto panning JSFX effect, supporting 6 types of sync method, also panning curves, cv input and other effects.\par}
+}
+]]></description>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0pre1" author="RCJacH" time="2018-04-04T12:03:53Z">
+        <source>https://github.com/RCJacH/ReaScripts/raw/a4adeb1a75ac1fda2bc37a2bd9a961911f38d464/JSFX/Synth/ReaModular/RCAutoPanner.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="MIDI Editor">
+    <reapack name="RCJacH_Split notes at mouse cursor (obey snapping and selection).lua" type="script" desc="Split notes at mouse cursor (obey snapping and selection)">
+      <metadata>
+        <link rel="website" href="https://github.com/RCJacH/ReaScript">Github Repository</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="midi_editor">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua</source>
+      </version>
+      <version name="1.1" author="RCJacH" time="2022-04-02T22:40:56Z">
+        <changelog><![CDATA[fix script occasionally freezing when splitting selected notes]]></changelog>
+        <source main="midi_editor">https://github.com/RCJacH/ReaScripts/raw/f808e471e087fe2e45ca21b18a13af9f4a51027b/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua</source>
+      </version>
+      <version name="1.1.1" author="RCJacH" time="2022-04-02T22:59:03Z">
+        <changelog><![CDATA[fix wrong note length after splitting]]></changelog>
+        <source main="midi_editor">https://github.com/RCJacH/ReaScripts/raw/d89e0a77f3a3b8974e489b461003e188b1bac166/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua</source>
+      </version>
+      <version name="1.1.2" author="RCJacH" time="2022-04-16T18:55:33Z">
+        <changelog><![CDATA[fix snapping to the wrong grid
+add snapping to swinged grid]]></changelog>
+        <source main="midi_editor">https://github.com/RCJacH/ReaScripts/raw/4b5c7e47c5f7f4e2ad272178789a6b5260f07724/MIDI%20Editor/RCJacH_Split%20notes%20at%20mouse%20cursor%20(obey%20snapping%20and%20selection).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Templating">
+    <reapack name="RCJacH_Set Airwindows Console TrackFX Pin Mapping.lua" type="script" desc="Setup the pin mapping of selected airwindows console summing track, with console bus as the last fx and console channel as all others.">
+      <version name="1.0a" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <changelog><![CDATA[* v1.0a (2021-05-06)
+  + Initial Release.]]></changelog>
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Templating/RCJacH_Set%20Airwindows%20Console%20TrackFX%20Pin%20Mapping.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Track Properties">
+    <reapack name="RCJacH_Set Parent Send Channel Offset of Selected Tracks.lua" type="script" desc="Set Channel Offset of All Selected Tracks with prompt input">
+      <version name="1.0a" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <changelog><![CDATA[* v1.0a (2021-05-05)
+  + Initial Release.]]></changelog>
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20of%20Selected%20Tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="RCJacH_Set Parent Send Channel Offset to Sequentially Stereos for Selected Tracks.lua" type="script" desc="Set the parent send channel offset for each of all selected tracks to a sequential stereo pair">
+      <version name="1.0a" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <changelog><![CDATA[* v1.0a (2021-05-06)
+  + Initial Release.]]></changelog>
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Track%20Properties/RCJacH_Set%20Parent%20Send%20Channel%20Offset%20to%20Sequentially%20Stereos%20for%20Selected%20Tracks.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Various">
+    <reapack name="RCJacH_Generate LRC Lyrics and Export to Clipboard.lua" type="script" desc="Generate LRC Lyrics and Export to Clipboard">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 What Does This Do\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This script generates the lyrics in {\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/LRC_(file_format)"}}{\fldrslt{\ul
+LRC
+}}}
+ format from the take name of all items on the first selected track, and export the result to the system clipboard.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Take name starting with # is cosidered as ID tag.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Empty take name is rendered with only time code, usually for spacing purposes.\sa180\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/RCJacH/ReaScripts">Github Repository</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Various/RCJacH_Generate%20LRC%20Lyrics%20and%20Export%20to%20Clipboard.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Various/Vimper Solo">
+    <reapack name="RCJacH_Vimper Solo.lua" type="script" desc="Vimper Solo">
+      <metadata>
+        <link rel="website">https://github.com/RCJacH/ReaScripts</link>
+      </metadata>
+      <version name="1.0" author="RCJacH" time="2022-02-26T12:15:26Z">
+        <changelog><![CDATA[v1.0 (2017-02-05)
++ Initial Release]]></changelog>
+        <source main="main">https://github.com/RCJacH/ReaScripts/raw/3ce64f2d072f75d0ab9a3681c71fff9f46dc2966/Various/Vimper%20Solo/RCJacH_Vimper%20Solo.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaScripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is a collection of JSFX and Lua Scripts that I have written for REAPER DAW.\par}
+}
+]]></description>
+  </metadata>
+</index>

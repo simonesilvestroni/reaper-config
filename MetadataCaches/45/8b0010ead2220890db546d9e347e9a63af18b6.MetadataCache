@@ -1,0 +1,23 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Strings/Single Samples"
+F "Cello Decay Sustain E2.aif" 1082186 0 1437740639 0
+D s 44100 n 2 l 0:06.119 i 16
+F "Cello Sustained B3.aif" 1991678 0 1437740639 0
+D s 44100 n 2 l 0:11.265 i 16
+F "Cello Sustained ff 1 C1.wav" 1479872 0 1436227745 0
+D s 44100 n 2 l 0:08.365 i 16
+F "Group String Stab.wav" 268696 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:01.500
+D i 16
+F "Strings High.wav" 882696 0 1436227745 0
+D y 2009-10-11 d "AME SD" s 44100 n 2
+D r 0:32.000 l 0:05.000 i 16
+F "Strings Mid.wav" 882696 0 1436227745 0
+D y 2009-10-11 d "AME SD" s 44100 n 2
+D r 0:32.000 l 0:05.000 i 16
+F "Sustained String A2.aif" 616138 0 1437740639 0
+D d "DUMY ќСА,[8" s 44100 n 2 l 0:03.480
+D i 16
+F "Violas Sustained ff 1 C2.wav" 1396536 0 1436227745 0
+D s 44100 n 2 l 0:07.893 i 16
+F "Violin Pizz G#5.aif" 208052 0 1655744613 0
+D s 44100 n 2 l 0:01.176 i 16

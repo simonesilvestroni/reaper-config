@@ -1,0 +1,109 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/EXPLOSION"
+F "C4 Explosion #2.mp3" 154644 0 1583931241 0
+D s 44100 n 2 l 0:04.781 i 259k
+F "C4 Explosion #3.mp3" 154644 0 1583931241 0
+D s 44100 n 2 l 0:04.781 i 259k
+F "C4 Explosion.mp3" 154644 0 1583931004 0
+D s 44100 n 2 l 0:04.781 i 259k
+F "EXPLOSION - large - 01.wav" 2964216 0 1299534632 0
+D s 48000 n 2 l 0:15.436 i 16
+F "EXPLOSION - large - 02.wav" 944852 0 1299534632 0
+D s 48000 n 2 l 0:04.919 i 16
+F "EXPLOSION - large - 03.wav" 2066652 0 1299534632 0
+D s 48000 n 2 l 0:10.762 i 16
+F "EXPLOSION - large - 04.wav" 689652 0 1299534632 0
+D s 48000 n 2 l 0:03.590 i 16
+F "EXPLOSION - large - 05.wav" 599892 0 1299534632 0
+D s 44100 n 2 l 0:03.400 i 16
+F "EXPLOSION - large - 06.wav" 688644 0 1299534632 0
+D s 44100 n 2 l 0:03.903 i 16
+F "EXPLOSION - large - 07.wav" 619456 0 1299534632 0
+D s 44100 n 2 l 0:03.510 i 16
+F "EXPLOSION - Med - 01.wav" 284420 0 1299534632 0
+D s 48000 n 1 l 0:02.961 i 16
+F "EXPLOSION - underground - 01.wav" 932524 0 1299534632 0
+D s 44100 n 2 l 0:05.284 i 16
+F "EXPLOSION - underground - 02.wav" 912784 0 1299534632 0
+D s 44100 n 2 l 0:05.172 i 16
+F "EXPLOSION - underground - 03.wav" 1559956 0 1299534632 0
+D s 44100 n 2 l 0:08.841 i 16
+F "EXPLOSION - underground - 04.wav" 1335576 0 1299534632 0
+D s 44100 n 2 l 0:07.569 i 16
+F "EXPLOSION - underground - 05.wav" 867160 0 1299534632 0
+D s 44100 n 2 l 0:04.914 i 16
+F "EXPLOSION - underground - 06.wav" 828296 0 1299534632 0
+D s 44100 n 2 l 0:04.693 i 16
+F "EXPLOSION - underground - 07.wav" 465784 0 1299534632 0
+D s 44100 n 2 l 0:02.638 i 16
+F "EXPLOSION - underground - 08.wav" 991116 0 1299534632 0
+D s 44100 n 2 l 0:05.616 i 16
+F "EXPLOSION - underground - 09.wav" 478744 0 1299534632 0
+D s 44100 n 2 l 0:02.712 i 16
+F "EXPLOSION - underground - 10.wav" 1042208 0 1299534632 0
+D s 44100 n 2 l 0:05.906 i 16
+F "Explosion 1.wav" 1656440 0 1439161649 0
+D a "Sound Ideas" s 44100 n 2 l 0:09.389
+D i 16
+F "Explosion 2.wav" 1273556 0 1439162177 0
+D a "Sound Ideas" s 44100 n 2 l 0:07.218
+D i 16
+F "Explosion 3.wav" 897396 0 1439162845 0
+D a "Sound Ideas" s 44100 n 2 l 0:05.086
+D i 16
+F "Explosion 4.wav" 974576 0 1439163614 0
+D a "Sound Ideas" s 44100 n 2 l 0:05.523
+D i 16
+F "Explosion 5.wav" 832624 0 1439161382 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.719
+D i 16
+F "Explosion 6.wav" 813412 0 1439162000 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.610
+D i 16
+F "Explosion Blast_01.wav" 3079036 0 1439162361 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:17.453
+D i 16
+F "Explosion Blast_02.wav" 2916636 0 1439163567 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:16.533
+D i 16
+F "Explosion Blast_03.wav" 2916636 0 1439161831 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:16.533
+D i 16
+F "Explosion Blast_04.wav" 2916636 0 1439162924 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:16.533
+D i 16
+F "Explosion Blast_05.wav" 2916636 0 1439161291 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:16.533
+D i 16
+F "Explosion Far Distant 02.wav" 2104862 0 1488537257 0
+D s 96000 n 2 l 0:03.654 i 24
+F "Explosion Glass_And_Debris_01.wav" 1724718 0 1439162756 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.776
+D i 16
+F "Explosion Glass_And_Debris_02.wav" 3727584 0 1439161826 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:21.130
+D i 16
+F "Explosion Glass_And_Debris_03.wav" 2945512 0 1439163746 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:16.697
+D i 16
+F "Explosion Large 08.wav" 2141840 0 1488536860 0
+D s 96000 n 2 l 0:03.718 i 24
+F "Explosion Large No Tail 03.wav" 751334 0 1488536821 0
+D s 96000 n 2 l 0:01.304 i 24
+F "Explosion Med Long Tail 01.wav" 1786232 0 1488537352 0
+D s 96000 n 2 l 0:03.101 i 24
+F "Explosion Metal_And_Debris_01.wav" 5703580 0 1439163183 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:32.332
+D i 16
+F "Explosion Metal_And_Debris_02.wav" 3332752 0 1439162153 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:18.892
+D i 16
+F "Explosioncomplex S011Wa.36.wav" 4129724 0 1372263244 0
+D y 2009-12-11 d '"WARFARE, EXPLOSION, BLAST, COMPLEX"' s 96000 n 2
+D r 1:27:40.519 l 0:07.031 i 24
+F "Explosives Sweetners 07.wav" 2169254 0 1481710491 0
+D d "Explosion, explosives, large, exterior, stereo, SWAT, battle, cinematic, impact, boom, dirt, debris" s 48000 n 2 l 0:04.688
+D i 24
+F "Grenade Impact Dirt.mp3" 86934 0 1583931014 0
+D s 44100 n 2 l 0:02.665 i 261k
+F "Grenade Multiple Explosions.mp3" 485667 0 1583931014 0
+D s 44100 n 2 l 0:15.125 i 257k

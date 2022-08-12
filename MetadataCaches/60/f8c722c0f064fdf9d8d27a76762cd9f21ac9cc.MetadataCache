@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - The Sound Keeper - Dark Sci-Fi UI Sounds"
+F "dark-ui computation analog 02.wav" 2400922 0 1583868724 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui analog computation telemetry" s 96000
+D n 2 r 1:35:07.008 l 0:04.154 i 24
+F "dark-ui glitch dark 05.wav" 12087064 0 1583868850 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui dark glitch error movement" s 96000
+D n 2 r 3:50:55.722 l 0:20.970 i 24
+F "dark-ui glitch light 04.wav" 4641746 0 1583869045 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui dark glitch error movement light" s 96000
+D n 2 r 3:55:21.130 l 0:08.044 i 24
+F "dark-ui power on off dark 02.wav" 8040602 0 1583869049 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui dark power on off whoosh bug" s 96000
+D n 2 r 2:57:22.432 l 0:13.945 i 24

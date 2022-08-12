@@ -1,0 +1,43 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - O"
+F "Okamoid Attacking   Dry.wav" 177396 0 1481710028 0
+D t "The word 'attacking', spoken by the robot/monster voice 'okamoid', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "okamoid - www.leevaudio.com" y 2015-10-03
+D g FX c "The word 'attacking', spoken by the robot/monster voice 'okamoid', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'attacking', spoken by the robot/monster voice 'okamoid', with a dry effect" s 44100
+D n 2 l 0:00.602 i 24
+F "Okamoid Killers   Dry.wav" 182928 0 1481710028 0
+D t "The word 'killers', spoken by the robot/monster voice 'okamoid', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "okamoid - www.leevaudio.com" y 2015-10-04
+D g FX c "The word 'killers', spoken by the robot/monster voice 'okamoid', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'killers', spoken by the robot/monster voice 'okamoid', with a dry effect" s 44100
+D n 2 l 0:00.623 i 24
+F "Okamoid Won   Dry.wav" 140592 0 1481710030 0
+D t "The word 'won', spoken by the robot/monster voice 'okamoid', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "okamoid - www.leevaudio.com" y 2015-10-04
+D g FX c "The word 'won', spoken by the robot/monster voice 'okamoid', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'won', spoken by the robot/monster voice 'okamoid', with a dry effect" s 44100
+D n 2 l 0:00.463 i 24
+F "Okamoid Yourself   Dry.wav" 188112 0 1481710029 0
+D t "The word 'yourself', spoken by the robot/monster voice 'okamoid', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "okamoid - www.leevaudio.com" y 2015-10-04
+D g FX c "The word 'yourself', spoken by the robot/monster voice 'okamoid', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'yourself', spoken by the robot/monster voice 'okamoid', with a dry effect" s 44100
+D n 2 l 0:00.642 i 24
+F "Old Lock Fiddling.wav" 564688 0 1488536013 0
+D y 2016-02-16 d "METAL TOOL HANDLING; Fiddling with an old iron lock." s 96000 n 2
+D r 0:19.761 l 0:00.979 i 24
+F "Oldelectricwoodplane 17.wav" 5624242 0 1488537449 0
+D y 2016-05-04 d "Tools, Old Electric Wood Plane, Start, Stop, Two short Bursts, Electric Motor" s 192000 n 2
+D r 10:10.282 l 0:04.880 i 24
+F "Oldradiotuningstaticnoise 001.wav" 4313996 0 1481710514 0
+D d "Old Radio, Tuning, Static, Noise" s 96000 n 1 l 0:14.975
+D i 24
+F One-Shot-B2.wav 1058444 0 1488537042 0
+D s 44100 n 2 l 0:04.000 i 24
+F One-Shot-C4.wav 1058444 0 1488537275 0
+D s 44100 n 2 l 0:04.000 i 24
+F One-Shot-F3.wav 1058444 0 1488537042 0
+D s 44100 n 2 l 0:04.000 i 24
+F Outdooramusementpark5.wav 59609530 0 1488537506 0
+D y 2015-10-12 s 96000 n 2 r 1:13:49.437
+D l 1:43.478 i 24
+F outsound.wav 721118 0 1129394602 0
+D y 2005-10-15 s 44100 n 2 l 0:04.086
+D i 16
+F outsound2.wav 944350 0 1129394718 0
+D y 2005-10-15 s 44100 n 2 l 0:05.352
+D i 16
+F "Overhand Serve.wav" 1152044 0 1488537366 0
+D s 96000 n 2 l 0:02.000 i 24

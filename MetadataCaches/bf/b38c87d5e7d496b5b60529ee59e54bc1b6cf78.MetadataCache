@@ -1,0 +1,167 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - FABRIC & CLOTH"
+F Arm_Release_Clothing_Movement_OCM-0011-776.wav 526510 0 1566570831 0
+D t Arm_Release_Clothing_Movement_OCM-0011-776 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Arm Release, Clothing Movement, Let Go of Strong Grip" d "Arm Release, Clothing Movement, Let Go of Strong Grip" s 48000
+D n 1 l 0:00.981 i 16 m 0
+F Cloth_Movement_Slides_Pulls_Rustle_OCP-1311-006-01.wav 4367906 0 1566570833 0
+D t Cloth_Movement_Slides_Pulls_Rustle_OCP-1311-006-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Cloth Movement, Slides, Pulls, Rustle, Possible Use: Pull Tissue from Box" d "Cloth Movement, Slides, Pulls, Rustle, Possible Use: Pull Tissue from Box" s 48000
+D n 1 r 0:00.425 l 0:40.992 i 16
+D m 0
+F Cotton_Clothes_Grab_Cloth_Rustle_and_Pat_OCP-1213-025-01.wav 3674542 0 1566570829 0
+D t Cotton_Clothes_Grab_Cloth_Rustle_and_Pat_OCP-1213-025-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Cotton Clothes Grab, Cloth Rustle and Pat, Rubbing Fabric" d "Cotton Clothes Grab, Cloth Rustle and Pat, Rubbing Fabric" s 48000
+D n 1 r 0:02.097 l 0:33.770 i 16
+D m 0
+F Cotton_Clothes_Grab_Cloth_Rustle_and_Pat_OCP-1213-025-04.wav 1383846 0 1566570829 0
+D t Cotton_Clothes_Grab_Cloth_Rustle_and_Pat_OCP-1213-025-04 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Cotton Clothes Grab, Cloth Rustle and Pat, Rubbing Fabric" d "Cotton Clothes Grab, Cloth Rustle and Pat, Rubbing Fabric" s 48000
+D n 1 r 0:25.963 l 0:09.909 i 16
+D m 0
+F "Creak Leather1.wav" 5738924 0 1502566313 0
+D s 44100 n 2 l 0:32.533 i 16
+F "Creak Leather2.wav" 6740876 0 1502566334 0
+D s 44100 n 2 l 0:38.213 i 16
+F "Creak Leather3.wav" 14220236 0 1502566334 0
+D s 44100 n 2 l 1:20.613 i 16
+F "Creak Leather4.wav" 3685628 0 1502565524 0
+D s 44100 n 2 l 0:20.893 i 16
+F "Creak Leather5.wav" 9415100 0 1502565615 0
+D s 44100 n 2 l 0:53.373 i 16
+F "Creak Leather6.wav" 8243804 0 1502565650 0
+D s 44100 n 2 l 0:46.733 i 16
+F Denim_Patting_Shaking_Foley-001.wav 4663678 0 1624884190 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, patting, shaking, movement"
+D d "Foley, clothes, fabric, denim, patting, shaking, movement" s 192000 n 1 r 1:48:42.820
+D l 0:08.069 i 24
+F Denim_Patting_Shaking_Foley-002.wav 4812092 0 1624884192 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, patting, shaking, movement"
+D d "Foley, clothes, fabric, denim, patting, shaking, movement" s 192000 n 1 r 1:48:51.418
+D l 0:08.326 i 24
+F Denim_Patting_Shaking_Foley-003.wav 7456888 0 1624884190 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, patting, shaking, movement"
+D d "Foley, clothes, fabric, denim, patting, shaking, movement" s 192000 n 1 r 1:49:00.256
+D l 0:12.918 i 24
+F Denim_Rubbing_Foley-001.wav 9957844 0 1624884192 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, rubbing, movement"
+D d "Foley, clothes, fabric, denim, rubbing, movement" s 192000 n 1 r 1:42:51.592
+D l 0:17.260 i 24
+F Denim_Rubbing_Foley-003.wav 6945958 0 1624884200 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, rubbing, movement"
+D d "Foley, clothes, fabric, denim, rubbing, movement" s 192000 n 1 r 1:43:26.798
+D l 0:12.031 i 24
+F Denim_Rubbing_Foley-005.wav 7492438 0 1624884200 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, rubbing, movement"
+D d "Foley, clothes, fabric, denim, rubbing, movement" s 192000 n 1 r 1:43:52.873
+D l 0:12.980 i 24
+F Denim_Rubbing_Foley-007.wav 8282854 0 1624884200 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, rubbing, movement"
+D d "Foley, clothes, fabric, denim, rubbing, movement" s 192000 n 1 r 1:44:23.762
+D l 0:14.352 i 24
+F Denim_Rubbing_Foley-009.wav 9231034 0 1624884208 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, denim, rubbing, movement"
+D d "Foley, clothes, fabric, denim, rubbing, movement" s 192000 n 1 r 1:44:44.132
+D l 0:15.998 i 24
+F Leather_Jacket_Movement_Rustle_Scrunches_OCP-1543-51.wav 8256834 0 1566570835 0
+D t Leather_Jacket_Movement_Rustle_Scrunches_OCP-1543-51 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Leather Jacket, Movement, Rustle, Scrunches, Impacts" d "Leather Jacket, Movement, Rustle, Scrunches, Impacts" s 48000
+D n 1 r 0:00.744 l 1:21.504 i 16
+D m 0
+F Leather_Scrunches_CU_Friction_Rubs_OCP-1545-31.wav 12787198 0 1566570830 0
+D t Leather_Scrunches_CU_Friction_Rubs_OCP-1545-31 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Leather Scrunches, CU Friction Rubs, Straining Material, Handling and Rustle" d "Leather Scrunches, CU Friction Rubs, Straining Material, Handling and Rustle" s 48000
+D n 1 l 2:08.693 i 16 m 0
+F "MOVES BulletProof Vest MOVE 01.wav" 1203648 0 1544622770 0
+D a "Michel Marchant" y 2018-05-07 g Foley c "Foley, Armor, Bulletproof vest, body moves, Cloth rustle 01"
+D d "Foley, Armor, Bulletproof vest, body moves, Cloth rustle 01" s 192000 n 2 l 0:00.732
+D i 24 m 0
+F "MOVES BulletProof Vest MOVE 02.wav" 1395662 0 1544622770 0
+D a "Michel Marchant" y 2018-05-07 g Foley c "Foley, Armor, Bulletproof vest, body moves, Cloth rustle heavy 02"
+D d "Foley, Armor, Bulletproof vest, body moves, Cloth rustle heavy 02" s 192000 n 2 r 0:01.732
+D l 0:00.899 i 24 m 0
+F "MOVES BulletProof Vest MOVE 03.wav" 1438778 0 1544622770 0
+D a "Michel Marchant" y 2018-05-07 g Foley c "Foley, Armor, Bulletproof vest, body moves, Cloth rustle 03"
+D d "Foley, Armor, Bulletproof vest, body moves, Cloth rustle 03" s 192000 n 2 r 0:03.631
+D l 0:00.936 i 24 m 0
+F Nylon_Rubbing_Foley-001.wav 12654390 0 1624884210 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, nylon, rubbing, movement"
+D d "Foley, clothes, fabric, nylon, rubbing, movement" s 192000 n 1 r 28:40.534
+D l 0:21.942 i 24
+F Nylon_Rubbing_Foley-003.wav 4011970 0 1624884212 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, nylon, rubbing, movement"
+D d "Foley, clothes, fabric, nylon, rubbing, movement" s 192000 n 1 r 29:17.650
+D l 0:06.938 i 24
+F Nylon_Rubbing_Foley-005.wav 7423158 0 1624884216 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, nylon, rubbing, movement"
+D d "Foley, clothes, fabric, nylon, rubbing, movement" s 192000 n 1 r 29:47.585
+D l 0:12.860 i 24
+F Nylon_Rubbing_Foley-007.wav 7270848 0 1624884218 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, nylon, rubbing, movement"
+D d "Foley, clothes, fabric, nylon, rubbing, movement" s 192000 n 1 r 30:18.621
+D l 0:12.595 i 24
+F Nylon_Rubbing_Foley-009.wav 9855646 0 1624884222 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, nylon, rubbing, movement"
+D d "Foley, clothes, fabric, nylon, rubbing, movement" s 192000 n 1 r 30:49.261
+D l 0:17.083 i 24
+F Patting_on_Chest_Cloth_Covered_Deep_Thumps_OCP-1180-044-01.wav 981270 0 1566570830 0
+D t Patting_on_Chest_Cloth_Covered_Deep_Thumps_OCP-1180-044-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Patting on Chest, Cloth Covered, Deep Thumps" d "Patting on Chest, Cloth Covered, Deep Thumps" s 48000
+D n 1 r 0:04.257 l 0:05.717 i 16
+D m 0
+F Plastic_Netting_Patting_Shaking_Foley-002.wav 5144196 0 1624884224 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, plastic, netting, patting, shaking, movement"
+D d "Foley, plastic, netting, patting, shaking, movement" s 192000 n 1 r 1:10:32.261
+D l 0:08.903 i 24
+F Plastic_Netting_Rubbing_Foley-001.wav 11390456 0 1624884228 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, plastic, netting, rubbing, movement"
+D d "Foley, plastic, netting, rubbing, movement" s 192000 n 1 r 1:04:07.990
+D l 0:19.747 i 24
+F Plastic_Netting_Rubbing_Foley-002.wav 9363494 0 1624884230 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, plastic, netting, rubbing, movement"
+D d "Foley, plastic, netting, rubbing, movement" s 192000 n 1 r 1:04:30.176
+D l 0:16.228 i 24
+F Plastic_Netting_Rubbing_Foley-003.wav 12066170 0 1624884236 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, plastic, netting, rubbing, movement"
+D d "Foley, plastic, netting, rubbing, movement" s 192000 n 1 r 1:04:48.351
+D l 0:20.920 i 24
+F Umbrella_Cloth_Rustle_Unraveling_Fabric_OCP-1517-048.wav 3071572 0 1566570837 0
+D t Umbrella_Cloth_Rustle_Unraveling_Fabric_OCP-1517-048 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Umbrella, Cloth Rustle, Unraveling Fabric, Snap Button Click, Many Versions" d "Umbrella, Cloth Rustle, Unraveling Fabric, Snap Button Click, Many Versions" s 48000
+D n 1 r 0:18.574 l 0:27.488 i 16
+D m 0
+F velcro-strap-1.wav 122952 0 1583930806 0
+D s 48000 n 2 l 0:00.640 i 16
+F velcro-strap-2.wav 94280 0 1583930806 0
+D s 48000 n 2 l 0:00.490 i 16
+F Wool_Clothing_Rubbing_Delicate_Foley-001.wav 1606888 0 1624884232 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement"
+D d "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement" s 192000 n 1 r 8:42.160
+D l 0:02.761 i 24
+F Wool_Clothing_Rubbing_Delicate_Foley-003.wav 1480700 0 1624884234 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement"
+D d "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement" s 192000 n 1 r 8:52.447
+D l 0:02.542 i 24
+F Wool_Clothing_Rubbing_Delicate_Foley-005.wav 2084152 0 1624884236 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement"
+D d "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement" s 192000 n 1 r 9:00.448
+D l 0:03.590 i 24
+F Wool_Clothing_Rubbing_Delicate_Foley-007.wav 2821758 0 1624884238 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement"
+D d "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement" s 192000 n 1 r 9:10.392
+D l 0:04.871 i 24
+F Wool_Clothing_Rubbing_Delicate_Foley-009.wav 2709756 0 1624884240 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement"
+D d "Foley, clothes, fabric, wool, clothing, rubbing, delicate, movement" s 192000 n 1 r 9:20.666
+D l 0:04.676 i 24
+F Wool_Clothing_Shaking_Foley-001.wav 2743642 0 1624884240 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, shaking, movement"
+D d "Foley, clothes, fabric, wool, clothing, shaking, movement" s 192000 n 1 r 12:46.543
+D l 0:04.735 i 24
+F Wool_Clothing_Shaking_Foley-002.wav 4768066 0 1624884242 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, shaking, movement"
+D d "Foley, clothes, fabric, wool, clothing, shaking, movement" s 192000 n 1 r 12:52.534
+D l 0:08.250 i 24
+F Wool_Clothing_Shaking_Foley-003.wav 2302912 0 1624884242 0
+D a "Andrew Dodds" b "Krotos Clothes and Materials Foley 2" y 2021-05-21 c "Foley, clothes, fabric, wool, clothing, shaking, movement"
+D d "Foley, clothes, fabric, wool, clothing, shaking, movement" s 192000 n 1 r 13:01.331
+D l 0:03.970 i 24

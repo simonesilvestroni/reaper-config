@@ -1,0 +1,60 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Synth/Analog/Distorted 5th"
+F "Distorted 5th A#0.wav" 235314 0 1436227745 0
+D s 44100 n 1 l 0:02.555 i 16
+F "Distorted 5th A#1.wav" 268734 0 1436227745 0
+D s 44100 n 1 l 0:02.925 i 16
+F "Distorted 5th A#2.wav" 315128 0 1436227745 0
+D s 44100 n 1 l 0:03.439 i 16
+F "Distorted 5th A#3.wav" 232606 0 1436227745 0
+D s 44100 n 1 l 0:02.525 i 16
+F "Distorted 5th C0.wav" 571046 0 1436227745 0
+D c "r8brain PRO NormGain: -1.22 dB" s 44100 n 1 l 0:06.274
+D i 16
+F "Distorted 5th C1.wav" 385954 0 1436227745 0
+D s 44100 n 1 l 0:04.223 i 16
+F "Distorted 5th C2.wav" 178294 0 1436227745 0
+D s 44100 n 1 l 0:01.923 i 16
+F "Distorted 5th C3.wav" 449262 0 1436227745 0
+D s 44100 n 1 l 0:04.925 i 16
+F "Distorted 5th C4.wav" 61832 0 1436227745 0
+D s 44100 n 1 l 0:00.633 i 16
+F "Distorted 5th D0.wav" 465686 0 1436227745 0
+D c "r8brain PRO NormGain: -1.23 dB" s 44100 n 1 l 0:05.107
+D i 16
+F "Distorted 5th D1.wav" 304958 0 1436227745 0
+D s 44100 n 1 l 0:03.326 i 16
+F "Distorted 5th D2.wav" 303020 0 1436227745 0
+D s 44100 n 1 l 0:03.305 i 16
+F "Distorted 5th D3.wav" 106440 0 1436227745 0
+D s 44100 n 1 l 0:01.127 i 16
+F "Distorted 5th D4.wav" 192640 0 1436227745 0
+D s 44100 n 1 l 0:02.082 i 16
+F "Distorted 5th E0.wav" 452120 0 1436227745 0
+D c "r8brain PRO NormGain: -1.23 dB" s 44100 n 1 l 0:04.956
+D i 16
+F "Distorted 5th E1.wav" 285188 0 1436227745 0
+D s 44100 n 1 l 0:03.107 i 16
+F "Distorted 5th E2.wav" 425688 0 1436227745 0
+D s 44100 n 1 l 0:04.664 i 16
+F "Distorted 5th E3.wav" 138278 0 1436227745 0
+D s 44100 n 1 l 0:01.480 i 16
+F "Distorted 5th E4.wav" 60586 0 1436227745 0
+D s 44100 n 1 l 0:00.619 i 16
+F "Distorted 5th F#0.wav" 676570 0 1436227745 0
+D s 44100 n 1 l 0:07.443 i 16
+F "Distorted 5th F#1.wav" 287984 0 1436227745 0
+D s 44100 n 1 l 0:03.138 i 16
+F "Distorted 5th F#2.wav" 107312 0 1436227745 0
+D s 44100 n 1 l 0:01.137 i 16
+F "Distorted 5th F#3.wav" 92842 0 1436227745 0
+D s 44100 n 1 l 0:00.976 i 16
+F "Distorted 5th F#4.wav" 308862 0 1436227745 0
+D s 44100 n 1 l 0:03.369 i 16
+F "Distorted 5th G#0.wav" 251074 0 1436227745 0
+D s 44100 n 1 l 0:02.729 i 16
+F "Distorted 5th G#1.wav" 377306 0 1436227745 0
+D s 44100 n 1 l 0:04.128 i 16
+F "Distorted 5th G#2.wav" 126724 0 1436227745 0
+D s 44100 n 1 l 0:01.352 i 16
+F "Distorted 5th G#3.wav" 151598 0 1436227745 0
+D s 44100 n 1 l 0:01.627 i 16

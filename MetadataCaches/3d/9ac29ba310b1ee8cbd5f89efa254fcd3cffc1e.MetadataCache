@@ -1,0 +1,31 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/EXS Factory Samples/03 Drums & Percussion/02 Electronic Drum Kits/Red Line Kit"
+F Clap_RedLine.aif 27374 0 1655744642 0
+D s 44100 n 1 l 0:00.205 i 24
+F Cowbell_RedLine.aif 33234 0 1655744642 0
+D s 44100 n 1 l 0:00.250 i 24
+F Crash_RedLine.aif 298136 0 1566299306 0
+D s 44100 n 2 l 0:01.125 i 24
+F Hi-Hat_Open_RedLine.aif 45444 0 1566299306 0
+D s 44100 n 1 l 0:00.342 i 24
+F Hi-Hat_Pedal_RedLine.aif 21836 0 1566299306 0
+D s 44100 n 1 l 0:00.164 i 24
+F Hi-Hat_RedLine.aif 31120 0 1566299306 0
+D s 44100 n 2 l 0:00.117 i 24
+F Kick_1_RedLine.aif 37380 0 1566299306 0
+D s 44100 n 1 l 0:00.281 i 24
+F Kick_2_RedLine.aif 47588 0 1566299306 0
+D s 44100 n 1 l 0:00.358 i 24
+F Kick_3_Sub_RedLine.aif 780984 0 1566299306 0
+D s 44100 n 1 l 0:05.887 i 24
+F Rim_RedLine.aif 24944 0 1655744642 0
+D s 44100 n 1 l 0:00.187 i 24
+F Shaker_RedLine.aif 24914 0 1655744642 0
+D s 44100 n 2 l 0:00.093 i 24
+F Snare_1_RedLine.aif 12510 0 1566299306 0
+D s 44100 n 1 l 0:00.093 i 24
+F Snare_2_RedLine.aif 26392 0 1566299306 0
+D s 44100 n 2 l 0:00.099 i 24
+F Tamborine_RedLine.aif 105178 0 1566299306 0
+D s 44100 n 2 l 0:00.396 i 24
+F Woodblock_RedLine.aif 29674 0 1566299306 0
+D s 44100 n 1 l 0:00.223 i 24

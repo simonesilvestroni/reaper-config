@@ -1,0 +1,33 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Natural/Water Drop"
+F "Bath Water Drops 01.wav" 3567412 0 1436227745 0
+D s 44100 n 2 l 0:20.219 i 16
+F "Bath Water Drops 02.wav" 3281268 0 1436227745 0
+D s 44100 n 2 l 0:18.597 i 16
+F "Bath Water Drops 03.wav" 2382456 0 1436227745 0
+D s 44100 n 2 l 0:13.502 i 16
+F "Droplets 01.wav" 213864 0 1436227745 0
+D s 96000 n 1 l 0:00.742 i 24
+F "Droplets 02.wav" 494060 0 1430418082 0
+D s 96000 n 1 l 0:01.715 i 24
+F "Droplets 03.wav" 823664 0 1436227745 0
+D s 96000 n 1 l 0:02.859 i 24
+F "Water Drop A 01.wav" 83256 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:00.042
+D l 0:00.467 i 16
+F "Water Drop A 05.wav" 92368 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:02.028
+D l 0:00.519 i 16
+F "Water Drop A 08.wav" 88540 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:03.562
+D l 0:00.497 i 16
+F "Water Drop A 11.wav" 94052 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:05.058
+D l 0:00.529 i 16
+F "Water Drop A 22.wav" 91412 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:10.592
+D l 0:00.514 i 16
+F "Water Drop B 30.wav" 118392 0 1436227745 0
+D y 2013-07-12 s 44100 n 2 r 0:19.582
+D l 0:00.666 i 16
+F "Water Drop In Metal Bowle.wav" 177016 0 1655728016 0
+D s 44100 n 2 l 0:01.000 i 16

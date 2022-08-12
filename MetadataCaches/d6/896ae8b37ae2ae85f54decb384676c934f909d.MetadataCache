@@ -1,0 +1,37 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Mallets/Synthetic Mallets/Chrono Chime"
+F "Chrono Chime ff C2.wav" 1769300 0 1436227745 0
+D s 44100 n 2 l 0:10.000 i 16
+F "Chrono Chime ff C3.wav" 1776732 0 1436227745 0
+D s 44100 n 2 l 0:10.042 i 16
+F "Chrono Chime ff C4.wav" 1776732 0 1436227745 0
+D s 44100 n 2 l 0:10.042 i 16
+F "Chrono Chime ff C5.wav" 1776732 0 1436227745 0
+D s 44100 n 2 l 0:10.042 i 16
+F "Chrono Chime mf C2.wav" 1756836 0 1436227745 0
+D s 44100 n 2 l 0:09.929 i 16
+F "Chrono Chime mf C3.wav" 1762580 0 1436227745 0
+D s 44100 n 2 l 0:09.961 i 16
+F "Chrono Chime mf C4.wav" 1776204 0 1436227745 0
+D s 44100 n 2 l 0:10.039 i 16
+F "Chrono Chime mf C5.wav" 1766452 0 1436227745 0
+D s 44100 n 2 l 0:09.983 i 16
+F "Chrono Chime pp C2.wav" 1763948 0 1436227745 0
+D s 44100 n 2 l 0:09.969 i 16
+F "Chrono Chime pp C3.wav" 1772432 0 1436227745 0
+D s 44100 n 2 l 0:10.017 i 16
+F "Chrono Chime pp C4.wav" 1772432 0 1436227745 0
+D s 44100 n 2 l 0:10.017 i 16
+F "Chrono Chime pp C5.wav" 1772432 0 1436227745 0
+D s 44100 n 2 l 0:10.017 i 16
+F "Chrono Chime Small ff.wav" 2487460 0 1655744568 0
+D y 2010 s 96000 n 1 l 0:12.934
+D i 16
+F "Chrono Chime Small pp.wav" 628460 0 1436227745 0
+D y 2009 s 44100 n 1 l 0:07.078
+D i 16
+F "Chrono Ratchet.wav" 372104 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:02.086
+D i 16
+F "Chrono Stop.wav" 190476 0 1655744568 0
+D y 2009 s 44100 n 2 l 0:01.056
+D i 16

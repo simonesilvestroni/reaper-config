@@ -1,0 +1,17 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Robotic Synthpop/Mini_Kits/Retro_Machine(125BPM)"
+F Bass.wav 338732 0 1191402358 0
+D s 44100 n 1 l 0:03.840 i 16
+F Drums.wav 677420 0 1191402324 0
+D s 44100 n 2 l 0:03.840 i 16
+F Full_Mix.wav 1354796 0 1191402316 0
+D s 44100 n 2 l 0:07.680 i 16
+F Juno_Bell.wav 677420 0 1191402296 0
+D s 44100 n 2 l 0:03.840 i 16
+F Machine.wav 677420 0 1191402286 0
+D s 44100 n 2 l 0:03.840 i 16
+F Noise_synth.wav 677420 0 1191402276 0
+D s 44100 n 2 l 0:03.840 i 16
+F Retro.wav 677420 0 1191401380 0
+D s 44100 n 2 l 0:03.840 i 16
+F Stylophone_riff.wav 677420 0 1191402384 0
+D s 44100 n 2 l 0:03.840 i 16

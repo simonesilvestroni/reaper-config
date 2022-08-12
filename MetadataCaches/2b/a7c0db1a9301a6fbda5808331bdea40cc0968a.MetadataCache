@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundMorph - MECHANISM"
+F "Mechanism -  Designed Mega Steam Lever-001.wav" 1246282 0 1583867358 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, steam, release, chunk, metal, latch" s 44100 n 2 l 0:05.911
+D i 16
+F "Mechanism - AssaultRifle_PickUp_004.wav" 319618 0 1583869046 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, foley, rifle, handle, handling, weapon" s 48000 n 2 r 9:48:59.423
+D l 0:00.604 i 16
+F "Mechanism - Source - Metallic Auto Gun.wav" 2558270 0 1583868818 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, gun, weapon, metal" s 96000 n 2 l 0:06.132
+D i 16
+F "Mechanism - WindUp_003.wav" 2884206 0 1583869077 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, wind, small, servo" s 48000 n 2 l 0:13.963
+D i 16

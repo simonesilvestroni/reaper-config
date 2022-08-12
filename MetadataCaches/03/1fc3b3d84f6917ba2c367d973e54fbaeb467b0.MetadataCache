@@ -1,0 +1,151 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Avid Loopmasters 1.0/Chilled Trap & Future Rnb"
+F CPCT_120_Atmos.wav 4239016 0 1548713901 0
+D g "Sound Effect, Ambience, Crowds, Atmosphere, Trap, RnB" p 120 s 44100 n 2
+D l 0:16.000 i 24
+F CPCT_120_Build.wav 1060684 0 1548713901 0
+D g "FX, Trap, Filter Sweep, Build Up, RnB" p 120 s 44100 n 2
+D l 0:04.000 i 24
+F CPCT_120_C_Arpeggiator_01.wav 2120572 0 1548713901 0
+D g "Processed, Relaxed, Melodic, Staccato, Arpeggiator, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_C_Arpeggiator_02.wav 2122972 0 1548713901 0
+D g "Processed, Relaxed, Melodic, Staccato, Arpeggiator, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_C_Kafzial.wav 4238824 0 1548713901 0
+D g "Processed, Relaxed, Melodic, Synthesizer, Trap, RnB" p 120 s 44100 n 2
+D l 0:16.000 i 24
+F CPCT_120_C_Ocean_Chords.wav 2119436 0 1548713901 0
+D g "Processed, Relaxed, Melodic, Synthesizer, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_C_Pad.wav 4262674 0 1548713901 0
+D g "Processed, Relaxed, Melodic, Pad, Trap, RnB" p 120.021603 s 44100 n 2
+D l 0:15.997 i 24
+F CPCT_120_C_Sub_Bass_01.wav 2131982 0 1548713899 0
+D g "Dry, Dark, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Sub-Bass, Digital, Trap, RnB" p 120 k Cm s 44100
+D n 2 l 0:08.000 i 24
+F CPCT_120_C_Sub_Bass_02.wav 1061118 0 1548713899 0
+D g "Dry, Dark, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Sub-Bass, Trap, Fuzz, RnB" p 120 k Cm s 44100
+D n 2 l 0:04.000 i 24
+F CPCT_120_C_Synth_Bass_01.wav 1060998 0 1548713899 0
+D g "Dry, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Digital, Trap, RnB" p 120 k Cm s 44100
+D n 2 l 0:04.000 i 24
+F CPCT_120_C_Synth_Bass_02.wav 1061562 0 1548713899 0
+D g "Dry, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Staccato, Digital, Trap, RnB" p 120 k Cm s 44100
+D n 2 l 0:04.000 i 24
+F CPCT_120_C_Vintage_Piano.wav 2119680 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Piano, Lo-Fi, Vintage, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_C_Vox_01.wav 2120658 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Vocals, Lo-Fi, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_C_Vox_02.wav 2122278 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Vocals, Lo-Fi, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_C_Wurly.wav 2122098 0 1548713902 0
+D g "Dry, Relaxed, Melodic, Electric Piano, Trap, Wurlitzer, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Drums_1.wav 2122208 0 1548713899 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Drums_2.wav 2123180 0 1548713899 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Drums_Percs.wav 2120256 0 1548713900 0
+D g "Processed, Relaxed, Drums, Percussion, Beats, Trap, Kick & Snare, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Drums_Tops.wav 2121812 0 1548713900 0
+D g "Drums, Dry, Hi-Hat, Relaxed, RnB, Tops, Trap, Cymbals" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_F_Mono_Synth.wav 2134866 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Synthesizer, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Fx.wav 2127108 0 1548713901 0
+D g "FX, Trap, Water, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Perc_01.wav 2120344 0 1548713900 0
+D g "Dry, Relaxed, Drums, Percussion, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_Perc_02.wav 2132598 0 1548713900 0
+D g "Dry, Relaxed, Drums, Percussion, Trap, RnB" p 120 s 44100 n 2
+D l 0:08.000 i 24
+F CPCT_120_White_Noise.wav 531836 0 1548713901 0
+D g "Sound Effect, Trap, White Noise, Radio, Static, RnB" p 120 s 44100 n 2
+D l 0:02.000 i 24
+F CPCT_140_Atmos.wav 3633808 0 1548713901 0
+D g "Sound Effect, Ambience, Crowds, Atmosphere, FX, Lo-Fi, Trap, Radio, Television, Television FX, Walla, RnB" p 140 s 44100 n 2
+D l 0:13.714 i 24
+F CPCT_140_Build.wav 1819064 0 1548713901 0
+D g "FX, Pitch Shift, Trap, Filter Sweep, Build Up, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_C_Arpeggiator_01.wav 911034 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Arpeggiator, Trap, RnB" p 140 s 44100 n 2
+D l 0:03.428 i 24
+F CPCT_140_C_Arpeggiator_02.wav 1819636 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Arpeggiator, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_C_Dotz.wav 910962 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Synthesizer, Trap, RnB" p 140 s 44100 n 2
+D l 0:03.428 i 24
+F CPCT_140_C_Elec_Piano_01.wav 1817782 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Electric Piano, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_C_Elec_Piano_02.wav 1817170 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Electric Piano, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_C_Lazor.wav 910506 0 1548713901 0
+D g "Electronic, Lasers, Trap, RnB" p 140 k Cm s 44100
+D n 2 l 0:03.428 i 24
+F CPCT_140_C_Mono_Synth.wav 3633570 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Synthesizer, Trap, RnB" p 140 s 44100 n 2
+D l 0:13.714 i 24
+F CPCT_140_C_Ninety.wav 1819330 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Staccato, Trap, Picked, RnB" p 140 k Cm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_C_Pad.wav 1817714 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Synthesizer, Pad, Trap, RnB" p 140 k Cm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_C_Synth_Bass_01.wav 1817534 0 1548713899 0
+D g "Dry, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Digital, Trap, RnB" p 140 k Cm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_C_Synth_Bass_02.wav 3652838 0 1548713899 0
+D g "Processed, Dark, Relaxed, Melodic, Bass, Synthetic Bass, Electronic, Digital, Trap, RnB" p 140 k Cm s 44100
+D n 2 l 0:13.714 i 24
+F CPCT_140_C_Vox_01.wav 1817730 0 1548713902 0
+D g "Processed, Relaxed, Melodic, Vocals, Trap, Pitch Correction, RnB" p 140 k Cm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_C_Vox_02.wav 1817930 0 1548713903 0
+D g "Processed, Relaxed, Melodic, Vocals, Trap, Pitch Correction, RnB" p 140 k Cm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_Drums_1.wav 3662270 0 1548713900 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, RnB" p 140 s 44100 n 2
+D l 0:13.714 i 24
+F CPCT_140_Drums_2.wav 3657014 0 1548713900 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, RnB" p 140 s 44100 n 2
+D l 0:13.714 i 24
+F CPCT_140_Drums_3.wav 1830634 0 1548713900 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_Drums_4.wav 1828586 0 1548713900 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_F_DX.wav 1818538 0 1548713903 0
+D g "Relaxed, Melodic, Electric Piano, Synthesizer, Trap, RnB" p 140 k Fm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_F_Mono_Synth_01.wav 1817362 0 1548713903 0
+D g "Relaxed, Melodic, Synthesizer, Trap, Pitch Bend, RnB" p 140 k Fm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_F_Mono_Synth_02.wav 1817842 0 1548713903 0
+D g "Relaxed, Melodic, Synthesizer, Trap, Pitch Bend, RnB" p 140 k Fm s 44100
+D n 2 l 0:06.857 i 24
+F CPCT_140_Fx.wav 3635276 0 1548713901 0
+D g "FX, RnB, Trap, Mechanical" p 140 s 44100 n 2
+D l 0:13.714 i 24
+F CPCT_140_Perc_01.wav 1819768 0 1548713900 0
+D g "Processed, Relaxed, Drums, Percussion, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_Perc_02.wav 1819968 0 1548713900 0
+D g "Processed, Relaxed, Drums, Percussion, Trap, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24
+F CPCT_140_Tops.wav 1817808 0 1548713900 0
+D g "Processed, Relaxed, Drums, Drum Kit, Beats, Trap, Tops, RnB" p 140 s 44100 n 2
+D l 0:06.857 i 24

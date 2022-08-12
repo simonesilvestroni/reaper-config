@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Eiravaein Sound - Grit"
+F Grit,course,hardsurface,dropping,scatter,alt1.wav 3167900 0 1583868323 0
+D y 2015-12-19 d VaeyanIII,grit,course,hardsurface,dropping,scatter,alt1 s 96000 n 1
+D r 3:54:21.456 l 0:10.992 i 24
+F Grit,course,hardsurface,throw,scatter.wav 194738 0 1583867182 0
+D y 2015-12-19 d VaeyanIII,grit,course,hardsurface,throw,scatter s 96000 n 1
+D r 3:56:48.414 l 0:00.668 i 24
+F Grit,medium,hardsurface,mortar,rolling,circles.wav 5995798 0 1583868599 0
+D y 2015-12-19 d Grit,medium,hardsurface,mortar,rolling,circles s 96000 n 1
+D r 3:42:35.542 l 0:20.810 i 24
+F Grit,ultrafine,hardsurface,palms,smearing,spilling,moderate.wav 2889702 0 1583868599 0
+D y 2015-12-19 d Grit,ultrafine,hardsurface,palms,smearing,spilling,moderate s 96000 n 1
+D r 2:04:00.524 l 0:10.026 i 24

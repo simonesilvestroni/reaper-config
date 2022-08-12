@@ -1,0 +1,70 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Instruments"
+F "Aqua Sonic Loops 0035.wav" 1280035 0 1436227745 0
+D s 44100 n 2 l 0:07.224 i 16
+F "Aqua Sonic Loops 0040.wav" 985767 0 1436227745 0
+D s 44100 n 2 l 0:05.555 i 16
+F "Cinematic Bell 02.wav" 1657848 0 1436227745 0
+D s 44100 n 2 l 0:09.375 i 16
+F "Cinematic Bell 03.wav" 2319348 0 1436227745 0
+D s 44100 n 2 l 0:13.125 i 16
+F "Cinematic Bell 04.wav" 1988596 0 1436227745 0
+D s 44100 n 2 l 0:11.250 i 16
+F "Cymbal Bowed FX 15.wav" 1144848 0 1436227745 0
+D s 44100 n 2 l 0:06.443 i 16
+F "Cymbal Bowed FX 20.wav" 759928 0 1436227745 0
+D s 44100 n 2 l 0:04.284 i 16
+F "Cymbal Bowed FX 36.wav" 953908 0 1436227745 0
+D s 44100 n 2 l 0:05.383 i 16
+F "Cymbal Bowed FX 48.wav" 1430304 0 1436227745 0
+D s 44100 n 2 l 0:08.084 i 16
+F "Cymbal Bowed Tr 7.wav" 515404 0 1436227745 0
+D s 44100 n 2 l 0:02.898 i 16
+F "Cymbal Knocks Tr 9.wav" 301972 0 1436227745 0
+D s 44100 n 2 l 0:01.688 i 16
+F "Eguitar Squeal E2.wav" 307654 0 1436227745 0
+D s 44100 n 1 l 0:03.440 i 16
+F "Eguitar Whammy 1.wav" 527874 0 1436227745 0
+D s 44100 n 1 l 0:05.937 i 16
+F "Eguitar Whammy 2.wav" 478414 0 1436227745 0
+D s 44100 n 1 l 0:05.376 i 16
+F "Grand Piano G1.wav" 1348320 0 1437740639 0
+D t "OMNIMAN Planet 3 Piano.GIG" s 44100 n 2 l 0:07.625
+D i 16
+F "Guitar Avantgarde I.wav" 3748544 0 1655744544 0
+D s 44100 n 2 l 0:21.250 i 16
+F "Guitar Avantgarde Ii.wav" 4101344 0 1436227745 0
+D s 44100 n 2 l 0:23.250 i 16
+F "Guitar Avantgarde Iii.wav" 5380244 0 1436227745 0
+D s 44100 n 2 l 0:30.500 i 16
+F "Guitar Avantgarde Iv.wav" 3566636 0 1436227745 0
+D s 44100 n 2 l 0:20.218 i 16
+F "Kathryn Toy Piano.wav" 1150828 0 1436227745 0
+D s 44100 n 2 l 0:06.522 i 16
+F "Mike Bowed Drone 01.wav" 537142 0 1436227745 0
+D y 2000-00-00 s 44100 n 1 l 0:06.078
+D i 16
+F "Mike Bowed Drone 02.wav" 705642 0 1436227745 0
+D y 2000-00-00 s 44100 n 1 l 0:07.989
+D i 16
+F "Mike Harmonic 01.wav" 248468 0 1655744544 0
+D y 2000-00-00 s 44100 n 1 l 0:02.806
+D i 16
+F "Nasty Bowing.wav" 894622 0 1655744544 0
+D y 2000-00-00 s 44100 n 1 l 0:10.134
+D i 16
+F "Pling Plong.wav" 2414520 0 1436227745 0
+D s 44100 n 2 l 0:13.687 i 16
+F "Stoned Zither.wav" 383476 0 1436227745 0
+D s 44100 n 1 l 0:04.345 i 16
+F "Thai Gongs+vox 6.wav" 1290926 0 1436227745 0
+D s 44100 n 2 l 0:07.317 i 16
+F "Treated Zither 42.wav" 93964 0 1655744544 0
+D s 44100 n 1 l 0:01.033 i 16
+F "Windchimes 03.wav" 1826494 0 1436748066 0
+D s 44100 n 2 l 0:06.887 i 24
+F "Zither Gliss Cluster.wav" 915310 0 1436227745 0
+D s 44100 n 1 l 0:10.330 i 16
+F "Zither Gliss Down.wav" 612944 0 1436227745 0
+D s 44100 n 1 l 0:06.902 i 16
+F "Zither Gliss Up.wav" 536594 0 1436227745 0
+D s 44100 n 1 l 0:06.036 i 16

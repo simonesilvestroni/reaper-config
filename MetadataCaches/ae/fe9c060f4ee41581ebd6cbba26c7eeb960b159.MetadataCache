@@ -1,0 +1,234 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - D"
+F "Da 03 Dock  16  Old, Industrial, Barrier, Creak  T16.wav" 6208898 0 1488537089 0
+D t DA c "sound effect, exterior,industrial, dock, barrier, old, creak, " d "sFILENAME=DA 03 Dock SFX_16_ Old, Industrial, Barrier, Creak_ T16.wav  sSCENE=DA 03 Dock SFX_16_ Old, Industrial, Barrier, Creak_   sTAPE=ORTF  sTAKE=16  sNOTE=sound effect, exterior,industrial, dock, barrier, old, creak,   sTRK1=L  sTRK2=R  " s 48000
+D n 2 l 0:21.520 i 24
+F "Da 03 Dock Ambience 02  Trucks, Cranes, Loading, Cargo Ship T02.wav" 100811138 0 1488537506 0
+D t DA c "ambience, exterior, dock, loading, truck, cargo, ship, industrial, big, cranes, chains, iron" d "sFILENAME=DA 03 Dock Ambience_02_ Trucks, Cranes, Loading, Cargo Ship_T02.wav  sSCENE=DA 03 Dock Ambience_02_ Trucks, Cranes, Loading, Cargo Ship_  sTAPE=XY  sTAKE=02  sTRK1=L  sTRK2=R  sSPEED=025.000-ND  " s 96000
+D n 2 r 0:00.000 l 2:55.000 i 24
+F "Da 03 Dock Ambience 05  Cranes, Chains, Loading, Iron, Cargo Ship  T05.wav" 77771230 0 1488537530 0
+D t DA c "ambience, exterior, dock, loading, cargo, ship, industrial, chains, iron, hitting, " d "sFILENAME=DA 03 Dock Ambience_05_ Cranes, Chains, Loading, Iron, Cargo Ship_ T05.wav  sSPEED=025.000-ND  sPROJECT=DA  sSCENE=DA 03 Dock Ambience_05_ Cranes, Chains, Loading, Iron, Cargo Ship_   sTAPE=XY  sTAKE=05  sTRK1=L  sTRK2=R  " s 96000
+D n 2 r 0:00.000 l 2:15.000 i 24
+F "Da 03 Dock Ambience 09  Boat, Berth, Creak, Port T09.wav" 14699146 0 1488537110 0
+D t DA c "sound effect, exterior, dock, ship, boat, berth, port, " d "sFILENAME=DA 03 Dock Ambience_09_ Boat, Berth, Creak, Port_T09.wav  sSPEED=025.000-ND  sPROJECT=DA  sSCENE=DA 03 Dock Ambience_09_ Boat, Berth, Creak, Port_  sTAPE=ORTF  sTAKE=09  sNOTE=sound effect, exterior, dock, ship, boat, berth, port,   sTRK1=L  " s 48000
+D n 2 r 0:00.000 l 0:51.000 i 24
+F "Dark Slide.wav" 981574 0 1439161865 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.563
+D i 16
+F "Dark-Ui Computation Analog 02.wav" 2400922 0 1488537430 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui analog computation telemetry" s 96000
+D n 2 r 1:35:07.008 l 0:04.154 i 24
+F "Dark-Ui Glitch Dark 05.wav" 12087064 0 1488537521 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui dark glitch error movement" s 96000
+D n 2 r 3:50:55.722 l 0:20.970 i 24
+F "Dark-Ui Glitch Light 04.wav" 4641746 0 1488537465 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui dark glitch error movement light" s 96000
+D n 2 r 3:55:21.130 l 0:08.044 i 24
+F "Dark-Ui Power On Off Dark 02.wav" 8040602 0 1488537350 0
+D y 2016-09-0 g "Dark Sci Fi UI" d "user interface ui dark power on off whoosh bug" s 96000
+D n 2 r 2:57:22.432 l 0:13.945 i 24
+F "De Lisle Carbine .45Acp Suppressed 1M Right Mkh8040 1 Clean Single Shots X 14.wav" 16487664 0 1481710432 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots. Wild foley and dedicated foley session included." s 96000 n 1 r 5:32.000
+D l 0:57.017 i 24
+F "De Lisle Carbine .45Acp Suppressed 55M In Front Off Axis Clean Single Shots X 14.L.wav" 16487840 0 1481710436 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots. Wild foley and dedicated foley session included." s 96000 n 1 r 5:32.000
+D l 0:57.017 i 24
+F "Debris Ice 001.wav" 438416 0 1481710520 0
+D y 2015-02-11 s 96000 n 2 r 1:01:42.000
+D l 0:00.758 i 24
+F "Detunized Urban-Crows 01.wav" 48228298 0 1481710489 0
+D y 2016-02-04 d "morning, tree, close starts and pass bys, light urban ambience" s 96000 n 2
+D l 1:23.728 i 24
+F "Detunized Urban-Crows 12C.wav" 95308876 0 1481710520 0
+D y 2016-02-04 d "morning, urban ambience, swarm approaching, crows pass by, distant calls" s 96000 n 2
+D l 2:45.465 i 24
+F Detunized-Infinite-North-38.wav 1951650 0 1488535942 0
+D s 48000 n 2 l 0:06.733 i 24
+F Detunized-Infinite-North-88.wav 1438104 0 1488536925 0
+D s 48000 n 2 l 0:04.950 i 24
+F Detunized-Infinite-South-10.wav 2119728 0 1488536701 0
+D s 48000 n 2 l 0:07.317 i 24
+F Detunized-Infinite-South-24.wav 1505112 0 1488536602 0
+D s 48000 n 2 l 0:05.183 i 24
+F "Dice 9.wav" 239204 0 1481710018 0
+D y 2015-02-06 s 44100 n 2 r 1:32.673
+D l 0:00.880 i 24
+F "Dice On Felt, Throw And Roll, Standard, 16 Sixteen Dice, V1.wav" 1486618 0 1488536650 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Felt, Sixteen (16) Standard Dice" s 96000 n 2
+D l 0:01.070 i 24
+F "Dice On Felt, Throw And Roll, Standard, 5 Five Dice, V2.wav" 1317556 0 1488536640 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Felt, Five (5) Standard Dice" s 96000 n 2
+D l 0:00.777 i 24
+F "Dice On Hard Wood, Throw And Roll , Standard, 2 Two Dice, V1.wav" 1296868 0 1488537304 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Hard Wood, Two (2) Standard Dice" s 96000 n 2
+D l 0:00.741 i 24
+F "Dice On Neoprene, Throw And Roll, Mini, 1 One Die, V2.wav" 1301064 0 1488537029 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Neoprene, One (1) Mini Die" s 96000 n 2
+D l 0:00.748 i 24
+F "Digital Ascend.wav" 670214 0 1439163356 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.798
+D i 16
+F "Digital Noise 01.wav" 207032 0 1425726618 0
+D s 44100 n 2 l 0:00.782 i 24
+F "Digital Noise 02.wav" 420716 0 1425726630 0
+D s 44100 n 2 l 0:01.589 i 24
+F "Digital Noise 03.wav" 370130 0 1425726664 0
+D s 44100 n 2 l 0:01.398 i 24
+F "Dog Team Travelling Onboard Intense.wav" 47739124 0 1481710548 0
+D y 2016-02-05 g Ambience d "Dog Team Travelling Onboard Intense Onboard Wood Creek And Squeak, Sledge Ride And Squeak" s 96000
+D n 2 r 0:15.666 l 1:22.708 i 24
+F "Domino Box 15.wav" 250844 0 1481710018 0
+D y 2015-02-06 s 44100 n 2 r 3:54.505
+D l 0:00.924 i 24
+F "Door - Medieval Open 16.wav" 3393480 0 1488537431 0
+D d "soundmorph, mechanism, door, medieval, open, close, portal, designed" s 96000 n 2 r 1:00:00.072
+D l 0:05.622 i 24
+F "Door - Sci-Fi - 04.wav" 2901968 0 1488537284 0
+D d "soundmorph, mechanism, door, sci fi, open, close, portal, designed, science fiction" s 96000 n 2 r 1:00:36.250
+D l 0:04.769 i 24
+F "Door - Spaceship Hatchway 06.wav" 2765526 0 1488536863 0
+D d "soundmorph, mechanism, door, sci fi, open, close, portal, designed, science fiction, solar sky, space, ship" s 96000 n 2 l 0:04.529
+D i 24
+F "Door - Stone Long 02.wav" 3223372 0 1488537028 0
+D d "soundmorph, mechanism, door, stone, open, close, portal, designed, medieval" s 96000 n 2 r 1:00:42.068
+D l 0:05.327 i 24
+F "DRAGON, Mythical creature, Extra Large, deep, large, single flap 01.wav" 2994726 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Design c "WING FLAP, deep; Large, heavy, powerful, very low, aggressive flap; Leathery, webbed wings; Single down stroke 01"
+D d "WING FLAP, deep; Large, heavy, powerful, very low, aggressive flap; Leathery, webbed wings; Single down stroke 01" s 192000 n 2 l 0:01.824
+D i 24 m 0
+F "DRAGON, Mythical creature, Extra Large, deep, large, single flap 02.wav" 2994726 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Design c "WING FLAP, deep; Large, heavy, powerful, very low, aggressive flap; Leathery, webbed wings; Single down stroke 02"
+D d "WING FLAP, deep; Large, heavy, powerful, very low, aggressive flap; Leathery, webbed wings; Single down stroke 02" s 192000 n 2 l 0:01.824
+D i 24 m 0
+F "DRAGON, Mythical creature, Extra Large, deep, large, single flap 03.wav" 2994726 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Design c "WING FLAP, deep; Large, heavy, powerful, very low, aggressive flap; Leathery, webbed wings; Single down stroke 03"
+D d "WING FLAP, deep; Large, heavy, powerful, very low, aggressive flap; Leathery, webbed wings; Single down stroke 03" s 192000 n 2 l 0:01.824
+D i 24 m 0
+F "Draining Sink 2.wav" 9603810 0 1481710380 0
+D y 2016-02-13 d "sSPEED=023.976-ND  sTAKE=145  sUBITS=$02131645  sSWVER=2.67  sPROJECT=  sSCENE=KEV-1  sFILENAME=KEV-1T145.WAV  sTAPE=16Y02M13  sTRK1=Track A  sTRK2=Track B  sNOTE=  " s 96000 n 2
+D r 15:02.495 l 0:16.662 i 24
+F "Draw Close 005.wav" 613544 0 1481710007 0
+D y 2015-06-01 s 96000 n 2 r 1:00:00.000
+D l 0:01.062 i 24
+F "Drawer Runner Slides Shake Short Medium Long.wav" 21813918 0 1488537529 0
+D a Antisample b "Shakes and rattles" y 2016-06-19 g "Sound effects"
+D c "Shakes and rattles sound effects. Various objects being shaken." d "drawer, runner slides, shake, rattle, short, medium, long, filter, close mic position, stereo  " s 96000 n 2
+D l 0:37.869 i 24
+F "Drill Drilling Woodblock Mono.wav" 5997044 0 1488537442 0
+D y 2016-03-24 d "drill, wood, industrial, machine, drilling, woodblock, working, construction, mono" s 48000 n 1
+D r 1:58:51.775 l 0:38.110 i 24
+F "Drone Air 01.wav" 4431366 0 1439161715 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:25.120
+D i 16
+F "Drone Air 02.wav" 11786820 0 1439162560 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:06.817
+D i 16
+F "Drone Atmosphere Mystery 06.wav" 100102738 0 1488537512 0
+D d "Drone, Atmosphere, Atmospheric Element, Mystery, Mystique, Wonder, Search, Suspense, Uncertainty, Doubt" s 96000 n 2 l 2:53.787
+D i 24
+F "Drone Atmosphere Sci-Fi 06.wav" 13595020 0 1488537496 0
+D d "Drone, Atmosphere, Atmospheric Element, Sci-fi, Science Fiction, Space, Tension" s 96000 n 2 l 0:23.600
+D i 24
+F "Drone Bells 01.wav" 6617436 0 1439162357 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:37.512
+D i 16
+F "Drone Dark 01.wav" 5722606 0 1439161680 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:32.440
+D i 16
+F "Drone Dark 02.wav" 10618532 0 1439163537 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:00.194
+D i 16
+F "Drone Dark 03.wav" 7982612 0 1439162454 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:45.251
+D i 16
+F "Drone Dark 04.wav" 5384208 0 1439161543 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:30.521
+D i 16
+F "Drone Dark 05.wav" 3981462 0 1439163391 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:22.569
+D i 16
+F "Drone Dark Rising.wav" 8713076 0 1439163445 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:49.392
+D i 16
+F "Drone Distortion 01.wav" 3820836 0 1439162458 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:21.659
+D i 16
+F "Drone Dungeonrumble 01.wav" 33680846 0 1481710513 0
+D y 2010-09-10 d "Dungeon Cymbal Airy Dark Eerie Scary Ominous Slow Fade To A Rumble  " s 96000 n 2
+D r 1:01:07.934 l 0:58.463 i 24
+F "Drone Evolving Version 04.wav" 34959296 0 1481710233 0
+D y 2010-09-10 d "Drone Dark Suspense Eerie High Strings Texture Bed Atmosphere Ambience Pulsing No Percussive Hits  " s 96000 n 2
+D r 1:24:34.874 l 1:00.682 i 24
+F "Drone Haunted Groan.wav" 2753762 0 1439163018 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:15.610
+D i 16
+F "Drone Horror Swirling Wind 01.wav" 34607190 0 1481710420 0
+D y 2010-09-10 d "Drone Pad Swirling Wind Whooshes Tonal Fantasy Desolate Lonely Atmosphere  " s 96000 n 2
+D r 1:16:45.806 l 1:00.071 i 24
+F "Drone Machine 02.wav" 16725076 0 1439162410 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:34.812
+D i 16
+F "Drone Scifi Tonalrumble 01.wav" 25102950 0 1481710454 0
+D y 2010-09-10 d "Drone SciFi Tonal Rumble Atmosphere Spacecraft Interior Ambience  " s 96000 n 2
+D r 1:56:18.494 l 0:43.570 i 24
+F "Drone Swirl Rising.wav" 9999824 0 1439162237 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:56.687
+D i 16
+F "Drone Wash 01.wav" 2686148 0 1439161508 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:15.226
+D i 16
+F "Drone, Dark, Eerie 08.wav" 74290290 0 1488537498 0
+D y 2016-03-2 d "Very low and deep, dully metallic, harmonically rich." s 96000 n 2
+D r 15:16.983 l 2:08.793 i 24
+F "Drone, Meditative, Metallic 02.wav" 73665706 0 1488537524 0
+D y 2016-03-2 d "Sustained, warm, rich, metallic tone." s 96000 n 2
+D r 12:39.990 l 2:07.709 i 24
+F "Drone, Pulsating, Metallic 01.wav" 73665754 0 1488537518 0
+D y 2016-03-2 d "Rapid, metallic pulsations with low, warm, underlying undulation." s 96000 n 2
+D r 4:18.463 l 2:07.709 i 24
+F "Drone, Pulsating, Quick 01.wav" 75419474 0 1488537533 0
+D y 2016-03-2 d "Rapid, low pulsations, with low, warm, underlying sustained undulation." s 96000 n 2
+D l 2:10.753 i 24
+F "Drop Soft - Single Plank, Drop 02.wav" 316354 0 1488537065 0
+D y 2016-03-09 d "WOOD DROP PLANK SOFT; One drop of hollow plank on floor. Bouncy. Bounces." s 96000 n 2
+D r 0:36.198 l 0:00.547 i 24
+F "Drop Trashbag With Bottles 002.wav" 289122 0 1481710479 0
+D y 2015-04-28 s 96000 n 2 r 1:00:02.000
+D l 0:00.500 i 24
+F "Dry Hard Metal Grind 09.wav" 1545918 0 1488536840 0
+D y 2015-11-17 d "metal, hard metal grind, close-up" s 48000 n 2
+D l 0:05.364 i 24
+F "Dry Hard Metal Impact With Rust Debris 20.wav" 1480620 0 1481710482 0
+D y 2015-11-17 d "metal impact, hard sheet metal with rust debris, close-up" s 48000 n 2
+D l 0:05.137 i 24
+F "Dry Hard Sheet Metal Movement 05.wav" 2536428 0 1488537152 0
+D y 2015-11-17 d "sheet metal movement, heavy, hard, close-up" s 48000 n 2
+D l 0:08.803 i 24
+F "Dry Rusty Metal Impact With Collapse 08.wav" 1465746 0 1481710482 0
+D y 2015-11-17 d "metal impact, rusty sheet metal impact with collapse, close-up" s 48000 n 2
+D l 0:05.086 i 24
+F "Dry,Ice,Bubbling,Medium,Intensity,Liquid,Loop 01.wav" 38249606 0 1488537518 0
+D y 2016-10-11 s 192000 n 2 r 0:51.618
+D l 0:33.198 i 24
+F "Ds Heavy 03 Noreverb Shot-2.wav" 1717164 0 1481710364 0
+D y 2015-§- d "sci-fi, futuristic, weapon, gun, cannon, launcher, blast, heavy, huge, massive" s 48000 n 2
+D l 0:02.100 i 24
+F Duck.wav 23014 0 1488537336 0
+D t TEXTROBOT a "GIORGIO RIOLO" b SOUNDFXWIZARD y 2016-07-0
+D s 48000 n 1 r 3:22.242 l 0:00.141
+D i 24
+F Dx,Diagnostic,Noise,Green,9624,10Sec.wav 2880934 0 1488536675 0
+D y 2016-04-23 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 96000 n 1
+D l 0:10.000 i 24
+F Dx,Sweep,Down,Audiometric,44116,1Sec.wav 89110 0 1488537336 0
+D y 2016-04-21 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 44100 n 1
+D l 0:01.000 i 16
+F Dx,Test,Phase,Alternating,Voice,4824,8Sec.wav 2304730 0 1488536653 0
+D y 2016-04-21 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 48000 n 2
+D r 21:31:09.803 l 0:08.000 i 24
+F Dx,Test,Spatialization,Stereo,Emerge,Movement,Fiddle,Through,4824.wav 3193956 0 1488537407 0
+D y 2016-04-24 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 48000 n 2
+D l 0:11.086 i 24

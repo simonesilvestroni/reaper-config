@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundBits - Computer Sound FX 2.0"
+F CSFX-2_Alarms_09.wav 6915972 0 1583868113 0
+D t "Computer Sound FX 2" y 2015-10-10 d "Computer, Interface, Digital, Alarm, Signal, Warning" s 96000
+D n 2 r 28:56.000 l 0:12.000 i 24
+F CSFX-2_Mechanics_45.wav 225526 0 1583867750 0
+D t "Computer Sound FX 2" y 2015-10-05 d "Computer, Interface, Mechanic, Robotic, Movement, Menu" s 96000
+D n 2 r 13:33.497 l 0:00.385 i 24
+F CSFX-2_Menu-AccessDenied_35.wav 252792 0 1583867753 0
+D t "Computer Sound FX 2" y 2015-10-05 d "Computer, GUI, Interface, Digital, Menu, Access Denied, Failure, Stop, Bad Input" s 96000
+D n 2 r 12:15.880 l 0:00.431 i 24
+F CSFX-2_Processing-Loop_26.wav 1689430 0 1583867755 0
+D t "Computer Sound FX 2" y 2015-10-07 d "Computer, Interface, Digital, Loop, Processing, Loading, Stutter" s 96000
+D n 2 r 1:01.645 l 0:02.926 i 24

@@ -1,0 +1,16 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - TS Sound - 12 Gauge Shotgun"
+F "Shell Load_Round Eject.wav" 3289170 0 1583868586 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Birdshot shell loaded into chamber and shell eject."
+D s 96000 n 2 r 0:04.235 l 0:05.708
+D i 24
+F "Shotgun_Fire_Round Eject_01.wav" 2537268 0 1583868587 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Shotgun, birdshot, single fire and shell eject."
+D s 96000 n 2 l 0:04.402 i 24
+F Shotgun_Fire_Slug_01.wav 3284436 0 1583868541 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Shotgun, slug, single fire."
+D s 96000 n 2 r 1:04.400 l 0:05.700
+D i 24
+F "Shotgun_Quick Pump_01.wav" 856140 0 1583868261 0
+D a "Tommy Sarioglou" y 2016-01-15 g Firearms d "Remington 870 Wingmaster, 12 Gauge: Shotgun quick pump x2. Dry."
+D s 96000 n 2 r 0:02.110 l 0:01.484
+D i 24

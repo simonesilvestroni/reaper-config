@@ -1,0 +1,257 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Synth"
+F "60s Synth FX 03.wav" 1994724 0 1436227745 0
+D s 44100 n 2 l 0:11.284 i 16
+F "60s Synth FX 05.wav" 7378460 0 1436227745 0
+D s 44100 n 2 l 0:41.781 i 16
+F "Aftershock Rumble.wav" 1583480 0 1436227745 0
+D s 44100 n 2 l 0:08.953 i 16
+F "Airvent Impact.wav" 1487976 0 1436227745 0
+D s 44100 n 2 l 0:08.412 i 16
+F Alarming.wav 4737346 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:26.827
+D i 16
+F "Alien Cattle.wav" 5708695 0 1436227745 0
+D s 44100 n 2 l 0:32.338 i 16
+F "Alien Winds.wav" 6778331 0 1436227745 0
+D s 44100 n 2 l 0:38.402 i 16
+F "Analog Hishimmer.wav" 1942920 0 1436227745 0
+D s 44100 n 2 l 0:10.990 i 16
+F "Analog Pulsations.wav" 2332060 0 1436227745 0
+D s 44100 n 1 l 0:26.393 i 16
+F "Analog Swimming 1.wav" 1862680 0 1436227745 0
+D s 44100 n 2 l 0:10.535 i 16
+F "Arctic Winds.wav" 6839239 0 1436227745 0
+D s 44100 n 2 l 0:38.747 i 16
+F Cauldron.wav 5487724 0 1436227745 0
+D s 44100 n 2 l 0:31.085 i 16
+F "Cave Troll Dreams.wav" 2207972 0 1436227745 0
+D s 44100 n 2 l 0:12.493 i 16
+F "City 1 Alien.wav" 2112140 0 1436227745 0
+D s 44100 n 2 l 0:11.943 i 16
+F "City 2 Armour.wav" 1308808 0 1436227745 0
+D s 44100 n 2 l 0:07.389 i 16
+F "City 3 Brass.wav" 2020684 0 1436227745 0
+D s 44100 n 2 l 0:11.425 i 16
+F "City 4 Chamber.wav" 1185912 0 1436227745 0
+D s 44100 n 2 l 0:06.692 i 16
+F "City 5 Arena.wav" 1093500 0 1436227745 0
+D s 44100 n 2 l 0:06.168 i 16
+F "City 6 Void.wav" 2168512 0 1436227745 0
+D s 44100 n 2 l 0:12.263 i 16
+F "City 7 Hazard.wav" 918612 0 1436227745 0
+D s 44100 n 2 l 0:05.177 i 16
+F "City 8 Gothic.wav" 807380 0 1436227745 0
+D s 44100 n 2 l 0:04.546 i 16
+F "Cloud Glimmers.wav" 3187712 0 1436227745 0
+D s 44100 n 2 l 0:12.016 i 24
+F Communications.wav 5718882 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:32.391
+D i 16
+F "Contrary Waves.wav" 3134580 0 1436227745 0
+D s 44100 n 2 l 0:17.723 i 16
+F "Creepy 101.wav" 1338640 0 1655744525 0
+D s 44100 n 2 l 0:07.565 i 16
+F "Creepy 103.wav" 585720 0 1436227745 0
+D s 44100 n 2 l 0:03.297 i 16
+F "Creepy 178.wav" 946168 0 1436227745 0
+D s 44100 n 2 l 0:05.340 i 16
+F "Creepy 179.wav" 2790172 0 1436227745 0
+D s 44100 n 2 l 0:15.794 i 16
+F "Dark Matter Convolved.wav" 1537232 0 1436227745 0
+D s 44100 n 2 l 0:08.690 i 16
+F "Decaying Coral.wav" 6626766 0 1436227745 0
+D s 44100 n 2 l 0:24.992 i 24
+F "Deep In The Sun.wav" 709780 0 1436227745 0
+D s 44100 n 2 l 0:04.000 i 16
+F "Deep Tension.wav" 1318724 0 1436227745 0
+D s 44100 n 2 l 0:07.452 i 16
+F "Deepdark A#2.wav" 847376 0 1436227745 0
+D y 2008-03-28 s 44100 n 2 r 1:03:50.400
+D l 0:04.800 i 16
+F "Deepdark G#0.wav" 850900 0 1436227745 0
+D s 44100 n 2 l 0:04.800 i 16
+F "Dirty Water B5.wav" 3280924 0 1436227745 0
+D s 44100 n 2 l 0:12.364 i 24
+F "Distant Winds.wav" 6823264 0 1436227745 0
+D s 44100 n 2 l 0:38.656 i 16
+F Distortosaurus.wav 5087984 0 1436227745 0
+D s 44100 n 2 l 0:28.819 i 16
+F "Drift With Me.wav" 4292022 0 1436227745 0
+D s 44100 n 2 l 0:16.180 i 24
+F Droplets.wav 7579959 0 1436227745 0
+D s 44100 n 2 l 0:42.946 i 16
+F "Eerie Drone C Eb Gb G.wav" 4487623 0 1436227745 0
+D s 44100 n 1 l 0:50.832 i 16
+F "Eerie Throb.wav" 3249089 0 1436227745 0
+D s 44100 n 1 l 0:36.790 i 16
+F "Egg Splitter.wav" 80206 0 1436227745 0
+D s 44100 n 2 l 0:00.299 i 24
+F "Electro Crabs.wav" 4751452 0 1436227745 0
+D s 44100 n 2 l 0:17.914 i 24
+F Extremis.wav 1415380 0 1436227745 0
+D s 44100 n 2 l 0:08.000 i 16
+F "Feedback Amoebas 2b.wav" 1663060 0 1436227745 0
+D s 44100 n 2 l 0:09.404 i 16
+F "Feedback Drone.wav" 3023869 0 1436227745 0
+D s 44100 n 1 l 0:34.236 i 16
+F "Found Circuits.wav" 1415380 0 1436227745 0
+D s 44100 n 2 l 0:08.000 i 16
+F "Freak Freq.wav" 3873440 0 1655744525 0
+D s 44100 n 2 l 0:21.958 i 16
+F "Gallery Warp B 8 Nt.wav" 3242968 0 1436227745 0
+D s 44100 n 2 l 0:18.360 i 16
+F "Glitch Demon 2.wav" 1663060 0 1436227745 0
+D s 44100 n 2 l 0:09.404 i 16
+F "Glitch Pulse 2.wav" 2339879 0 1436227745 0
+D s 44100 n 2 l 0:13.240 i 16
+F "Grill Perc 4.wav" 1941056 0 1436227745 0
+D y 2008-03-28 s 44100 n 2 r 1:03:41.000
+D l 0:11.000 i 16
+F Gritty.wav 6258287 0 1436227745 0
+D s 44100 n 2 l 0:35.454 i 16
+F "HM Bell.wav" 362972 0 1655744525 0
+D s 44100 n 2 l 0:02.027 i 16
+F "HM Cascade.wav" 522064 0 1436227745 0
+D s 44100 n 2 l 0:02.929 i 16
+F "HM Meanwhile.wav" 239788 0 1436227745 0
+D s 44100 n 2 l 0:01.329 i 16
+F "Imperial Destroyer.wav" 2236102 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:12.647
+D i 16
+F "Insect Tunnel.wav" 2832110 0 1436227745 0
+D s 44100 n 2 l 0:16.000 i 16
+F Landing.wav 3349976 0 1436227745 0
+D s 44100 n 1 l 0:37.106 i 16
+F "Liquid Droner 23.wav" 5865768 0 1436227745 0
+D s 44100 n 2 l 0:22.124 i 24
+F "Liquid Mind.wav" 8483486 0 1436227745 0
+D s 44100 n 2 l 0:32.000 i 24
+F "Max Fade Additive.wav" 2715732 0 1436227745 0
+D s 44100 n 2 l 0:15.371 i 16
+F "Metal Snow FX 2.wav" 1411856 0 1436227745 0
+D y 2008-03-28 s 44100 n 2 r 1:04:34.000
+D l 0:08.000 i 16
+F "Metalic Waves C1.wav" 1213780 0 1436227745 0
+D s 44100 n 2 l 0:06.857 i 16
+F "Microscopic Sea Beasties B5.wav" 7361924 0 1436227745 0
+D s 44100 n 2 l 0:27.771 i 24
+F "Midnight Lake Breeze.wav" 5818926 0 1436227745 0
+D s 44100 n 2 l 0:21.943 i 24
+F "Mirror Void.wav" 1415380 0 1436227745 0
+D s 44100 n 2 l 0:08.000 i 16
+F "Modulation Madness.wav" 6106591 0 1436227745 0
+D s 44100 n 2 l 0:34.594 i 16
+F "Modulation Rise And Fall C2.wav" 1881725 0 1436227745 0
+D s 44100 n 1 l 0:21.287 i 16
+F "Modulation Rise And Fall C4.wav" 1911379 0 1436227745 0
+D s 44100 n 1 l 0:21.623 i 16
+F "Modulation Rise And Fall C6.wav" 1893623 0 1436227745 0
+D s 44100 n 1 l 0:21.422 i 16
+F "Modulation Rise And Fall C8.wav" 1891097 0 1436227745 0
+D s 44100 n 1 l 0:21.393 i 16
+F "Mooziq Box.wav" 709532 0 1436227745 0
+D s 44100 n 2 l 0:03.998 i 16
+F "Morse Blips.wav" 2637183 0 1436227745 0
+D s 44100 n 1 l 0:29.852 i 16
+F "Motor Drone.wav" 4701700 0 1436227745 0
+D s 44100 n 2 l 0:26.629 i 16
+F "Moving Phase Synth.wav" 705644 0 1655744525 0
+D s 44100 n 2 l 0:04.000 i 16
+F "Nasty Creature.wav" 6809530 0 1436227745 0
+D s 44100 n 2 l 0:25.682 i 24
+F "Psi Fi.wav" 1020783 0 1436227745 0
+D s 44100 n 2 l 0:05.763 i 16
+F Quicksilver.wav 4716078 0 1436227745 0
+D s 44100 n 2 l 0:17.781 i 24
+F "Rain Chord.wav" 779712 0 1436227745 0
+D s 44100 n 2 l 0:04.396 i 16
+F "Retro Modular Sci Fi FX.wav" 1988964 0 1436227745 0
+D s 44100 n 2 l 0:11.228 i 16
+F "Retro Modular Shimmer.wav" 2465808 0 1436227745 0
+D s 44100 n 2 l 0:13.954 i 16
+F "Retro Modular Wnoise Atmos.wav" 2881880 0 1436227745 0
+D s 44100 n 2 l 0:16.313 i 16
+F "Ring Mod Drone Close.wav" 7043715 0 1436227745 0
+D s 44100 n 2 l 0:39.906 i 16
+F "Ring Mod Drone Distant.wav" 5586940 0 1436227745 0
+D s 44100 n 2 l 0:31.648 i 16
+F "Ring Mod Slow Howl 01.wav" 6203743 0 1436227745 0
+D s 44100 n 2 l 0:35.144 i 16
+F "Ring Mod Slow Howl 02.wav" 4560419 0 1436227745 0
+D s 44100 n 2 l 0:25.829 i 16
+F "RM Pad Atmos.wav" 4512819 0 1436227745 0
+D s 44100 n 2 l 0:25.559 i 16
+F Scrapyard.wav 1996464 0 1436227745 0
+D s 44100 n 2 l 0:11.294 i 16
+F "Screaming Fear.wav" 1415379 0 1436227745 0
+D s 44100 n 2 l 0:08.000 i 16
+F "Sea Cucumbers.wav" 4083652 0 1436227745 0
+D s 44100 n 2 l 0:15.394 i 24
+F Semblance.wav 970020 0 1436227745 0
+D s 44100 n 1 l 0:10.740 i 16
+F "Shimmering Clouds.wav" 3744504 0 1436227745 0
+D s 44100 n 2 l 0:14.117 i 24
+F "Sine Drips Falls.wav" 2269256 0 1436227745 0
+D s 44100 n 2 l 0:12.840 i 16
+F "Space Bubbles 1.wav" 1675172 0 1436227745 0
+D s 44100 n 2 l 0:09.450 i 16
+F "Space Throb.wav" 2826579 0 1436227745 0
+D s 44100 n 2 l 0:16.000 i 16
+F "Stereo Alarms.wav" 1448123 0 1436227745 0
+D s 44100 n 2 l 0:08.185 i 16
+F "Stereo Tinkles.wav" 7788919 0 1436227745 0
+D s 44100 n 2 l 0:44.131 i 16
+F "Stereo Vcs FX 01.wav" 4509043 0 1436227745 0
+D s 44100 n 2 l 0:25.537 i 16
+F "Stereo Vcs FX 02.wav" 5454187 0 1436227745 0
+D s 44100 n 2 l 0:30.895 i 16
+F Subsea.wav 8483628 0 1436227745 0
+D s 44100 n 2 l 0:32.000 i 24
+F "Subsonic Drone 01.wav" 6275132 0 1436227745 0
+D s 44100 n 2 l 0:35.549 i 16
+F "Subsonic Drone 02.wav" 6462404 0 1436227745 0
+D s 44100 n 2 l 0:36.611 i 16
+F "Swirling Mass 01.wav" 5017986 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:28.418
+D i 16
+F "Swirling Mass 02.wav" 6150855 0 1436227745 0
+D s 44100 n 2 l 0:34.845 i 16
+F "Synth FX Attack.wav" 869376 0 1437740639 0
+D s 44100 n 2 l 0:04.905 i 16
+F "Synth Kick Sustain C1.aif" 283986 0 1437740639 0
+D s 44100 n 2 l 0:01.603 i 16
+F "Synth Rain.wav" 4521039 0 1436227745 0
+D s 44100 n 2 l 0:25.605 i 16
+F "Tense Reveal.wav" 1084180 0 1436227745 0
+D s 44100 n 2 l 0:06.122 i 16
+F "Terminal Velocity C1.wav" 2984816 0 1436227745 0
+D s 44100 n 2 l 0:16.897 i 16
+F "Tidal Tunnel.wav" 5258720 0 1436227745 0
+D s 44100 n 2 l 0:19.829 i 24
+F Underwatersong.wav 1841128 0 1436227745 0
+D s 44100 n 2 l 0:06.929 i 24
+F "Vintage Synth Rainforest 1.wav" 1855604 0 1436227745 0
+D s 44100 n 2 l 0:10.495 i 16
+F Vtol.wav 1768180 0 1436227745 0
+D s 44100 n 2 l 0:10.000 i 16
+F "Walk On Water.wav" 5122080 0 1436227745 0
+D s 44100 n 2 l 0:19.313 i 24
+F "Wall Of Analogue FX 01.wav" 10236399 0 1436227745 0
+D s 44100 n 2 l 0:58.005 i 16
+F "Wall Of Analogue FX 02.wav" 7435495 0 1436227745 0
+D s 44100 n 2 l 0:42.127 i 16
+F "Wall Of Analogue FX 03.wav" 6911471 0 1436227745 0
+D s 44100 n 2 l 0:39.156 i 16
+F "Warp Field 01.wav" 5249254 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:29.729
+D i 16
+F "Warp Field 02.wav" 6899307 0 1436227745 0
+D s 44100 n 2 l 0:39.088 i 16
+F "Waterwarp 01.wav" 3607138 0 1436227745 0
+D s 44100 n 2 l 0:13.595 i 24
+F "Welcometo Room 101.wav" 1336808 0 1436227745 0
+D s 44100 n 2 l 0:07.554 i 16
+F "Where Are You.wav" 1309620 0 1436227745 0
+D s 44100 n 2 l 0:07.400 i 16
+F "Whistler B5.wav" 4739502 0 1436227745 0
+D s 44100 n 2 l 0:17.869 i 24

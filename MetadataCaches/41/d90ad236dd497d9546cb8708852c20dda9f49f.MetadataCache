@@ -1,0 +1,38 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Guitars/Single Samples"
+F "Acoustic Rglitch 180bpm 01.wav" 963576 0 1436227745 0
+D p 180 s 44100 n 2 l 0:05.333
+D i 16
+F "AM L Guitar E 140 01.wav" 1857648 0 1436227745 0
+D p 140 s 44100 n 2 l 0:10.285
+D i 16
+F "Bell Guitarpad.wav" 2818742 0 1436227745 0
+D s 44100 n 2 l 0:15.609 i 16
+F "Dulcimer Bowed G4.wav" 1234844 0 1655744821 0
+D s 44100 n 2 l 0:07.000 i 16
+F "Feedback Cut.wav" 5983888 0 1436227745 0
+D s 44100 n 2 l 0:22.594 i 24
+F "Guitar Harmonics C3.aif" 279676 0 1438273374 0
+D s 44100 n 1 l 0:03.166 i 16
+F "Guitar Stretch.wav" 3175244 0 1655146346 0
+D s 44100 n 2 l 0:18.000 i 16
+F "Guitar Wave 02.wav" 541844 0 1436227745 0
+D s 44100 n 2 l 0:03.048 i 16
+F "Gzcomb Evolving 02 E3.wav" 1945934 0 1436227745 0
+D s 44100 n 2 l 0:10.772 i 16
+F "High Harmonic D4.wav" 1280240 0 1655744821 0
+D y 2010-11-19 s 44100 n 1 l 0:14.042
+D i 16
+F "Smooth Guitarpad.wav" 1188306 0 1436227745 0
+D s 44100 n 2 l 0:06.578 i 16
+F "Soft Hammer Med C5.wav" 1155274 0 1655744821 0
+D s 44100 n 1 l 0:13.097 i 16
+F "Tex Nether Guitar Swell.wav" 3946686 0 1655744821 0
+D c "Recorded on 4/26/2011 in Edison." s 44100 n 2 l 0:21.857
+D i 16
+F "Tex Nether Guitar.wav" 2376414 0 1436227745 0
+D c "Recorded on 4/26/2011 in Edison." s 44100 n 2 l 0:13.158
+D i 16
+F "Ukulele Slot 59 C7.wav" 37784 0 1655744821 0
+D s 44100 n 1 l 0:00.427 i 16
+F "Wuthering Guitarpad.wav" 1721606 0 1436227745 0
+D s 44100 n 2 l 0:09.532 i 16

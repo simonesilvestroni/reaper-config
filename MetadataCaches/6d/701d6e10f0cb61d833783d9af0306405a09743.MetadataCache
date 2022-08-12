@@ -1,0 +1,356 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - MECHANICAL"
+F "CASSETTE TAPE PLAYER_3D8C7721.wav" 14998448 0 1584373534 0
+D t "CASSETTE TAPE PLAYER" a - b - y 2019-05-18
+D g Button|Switch c "CASSETTE TAPE PLAYER - Play and Stop - Plastic Momentary and Latch Buttons, Double and Singles, Snappy Plastic Click with Long Metalic Resonance, Sony Sound Finder" d "CASSETTE TAPE PLAYER - Play and Stop - Plastic Momentary and Latch Buttons, Double and Singles, Snappy Plastic Click with Long Metalic Resonance, Sony Sound Finder" p -
+D k - s 192000 n 2 r 2:32:49.310
+D l 0:12.338 i 24 m 0
+F cassette-close-1.wav 192584 0 1583930934 0
+D s 48000 n 2 l 0:01.002 i 16
+F cassette-eject-1.wav 204872 0 1583930934 0
+D s 48000 n 2 l 0:01.066 i 16
+F cassette-in-1.wav 217160 0 1583930934 0
+D s 48000 n 2 l 0:01.130 i 16
+F cassette-in-close-1.wav 413768 0 1583930934 0
+D s 48000 n 2 l 0:02.154 i 16
+F cassette-out-1.wav 151624 0 1583930930 0
+D s 48000 n 2 l 0:00.789 i 16
+F cassette-player-button-1.wav 135240 0 1583930930 0
+D s 48000 n 2 l 0:00.704 i 16
+F cassette-player-button-2.wav 237640 0 1583930930 0
+D s 48000 n 2 l 0:01.237 i 16
+F cassette-player-button-3.wav 151624 0 1583930930 0
+D s 48000 n 2 l 0:00.789 i 16
+F chainsaw-1.wav 11659704 0 1583930956 0
+D s 48000 n 2 l 1:00.727 i 16
+F chainsaw-pull-1.wav 1313388 0 1583930952 0
+D s 48000 n 2 l 0:06.840 i 16
+F "Drill Hammer.wav" 107473104 0 1583863067 0
+D y 2017-09-20 s 96000 n 2 r 10:45:59.913
+D l 3:06.515 i 24
+F "Electric Pencil Sharpener.mp3" 590157 0 1583931295 0
+D s 44100 n 2 l 0:18.391 i 257k
+F electric-drill-1.wav 884808 0 1583930881 0
+D s 48000 n 2 l 0:04.608 i 16
+F electric-drill-2.wav 184392 0 1583930881 0
+D s 48000 n 2 l 0:00.960 i 16
+F "Elevator Bell Ring.mp3" 163003 0 1583930910 0
+D s 44100 n 2 l 0:05.042 i 259k
+F "FOL - MECHANICAL - BUTTON - CLICK - 01.wav" 19870 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:00.407 l 0:00.188 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - 02.wav" 26422 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:03.912 l 0:00.256 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - 03.wav" 29190 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:11.087 l 0:00.285 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - 04.wav" 27620 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:18.973 l 0:00.268 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - 05.wav" 29726 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:14.754 l 0:00.290 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - 06.wav" 34272 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:22.674 l 0:00.337 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - 07.wav" 37272 0 1582743006 0
+D y 2006-01-0 d "1 Wood, DoorFrontE#1CD991" s 48000 n 1
+D r 0:30.201 l 0:00.368 i 16
+F "FOL - MECHANICAL - BUTTON - CLICK - TINY - 01.wav" 1044804 0 1582743006 0
+D y "	" d "GENERIC CLICK TINY METALLIC Snap" s 48000 n 2
+D l 0:03.293 i 24
+F "FOL - MECHANICAL - BUTTON - CLICK - TINY - 02.wav" 1393466 0 1582743006 0
+D y "	" d "GENERIC CLICK TINY METALLIC Lighter, use" s 48000 n 2
+D l 0:04.505 i 24
+F "FOL - MECHANICAL - BUTTON - CLICK - TINY - 03.wav" 1339820 0 1582743006 0
+D y "	" d "GENERIC CLICK TINY METALLIC Snap" s 48000 n 2
+D l 0:03.238 i 32
+F "FOL - MECHANICAL - BUTTON - CLICK - TINY - 04.wav" 2073762 0 1582743006 0
+D y "	" d "GENERIC CLICK TINY METALLIC Bell, hit, sustain" s 48000 n 2
+D l 0:06.865 i 24
+F "FOL - MECHANICAL - BUTTON - CLICK - TINY - 05.wav" 1632514 0 1582743006 0
+D y "	" d "GENERIC CLICK TINY METALLIC Hit, distant" s 48000 n 2
+D l 0:05.333 i 24
+F "FOL - MECHANICAL - CRANKING - 01.wav" 499820 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:34.458 l 0:00.861 i 24
+F "FOL - MECHANICAL - CRANKING - 02.wav" 545960 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:35.563 l 0:00.941 i 24
+F "FOL - MECHANICAL - CRANKING - 03.wav" 721504 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:37.087 l 0:01.246 i 24
+F "FOL - MECHANICAL - CRANKING - 04.wav" 508726 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:38.611 l 0:00.877 i 24
+F "FOL - MECHANICAL - CRANKING - 05.wav" 678952 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:39.581 l 0:01.172 i 24
+F "FOL - MECHANICAL - CRANKING - 06.wav" 617774 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:40.592 l 0:01.066 i 24
+F "FOL - MECHANICAL - CRANKING - 07.wav" 669644 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:41.589 l 0:01.156 i 24
+F "FOL - MECHANICAL - CRANKING - 08.wav" 636394 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Mechanism, Crank," s 96000
+D n 2 r 54:42.822 l 0:01.098 i 24
+F "FOL - MECHANICAL - drawbridge - chains.wav" 264788 0 1299534632 0
+D s 44100 n 1 l 0:03.000 i 16
+F "FOL - MECHANICAL - drawbridge - start.wav" 62064 0 1299534632 0
+D s 44100 n 1 l 0:00.700 i 16
+F "FOL - MECHANICAL - drawbridge - stop.wav" 81214 0 1299534632 0
+D s 44100 n 1 l 0:00.916 i 16
+F "FOL - MECHANICAL - GADGET - 01.wav" 43158 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.461
+D i 16
+F "FOL - MECHANICAL - GADGET - 02.wav" 10254 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.097
+D i 16
+F "FOL - MECHANICAL - GADGET - 03.wav" 34008 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.360
+D i 16
+F "FOL - MECHANICAL - GADGET - 04.wav" 52054 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.560
+D i 16
+F "FOL - MECHANICAL - GADGET - 05.wav" 47006 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.504
+D i 16
+F "FOL - MECHANICAL - GADGET - 06.wav" 745730 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:08.243
+D i 16
+F "FOL - MECHANICAL - GADGET - 07.wav" 194870 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.142
+D i 16
+F "FOL - MECHANICAL - GADGET - 08.wav" 148750 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.631
+D i 16
+F "FOL - MECHANICAL - GAS - LEAK - 01.wav" 270250 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:03.056
+D i 16
+F "FOL - MECHANICAL - GAS - LEAK - 02.wav" 151950 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.715
+D i 16
+F "FOL - MECHANICAL - lift - loop.wav" 360680 0 1299534632 0
+D s 44100 n 1 l 0:04.087 i 16
+F "FOL - MECHANICAL - lift - start.wav" 42214 0 1299534632 0
+D s 44100 n 1 l 0:00.474 i 16
+F "FOL - MECHANICAL - lift - stop.wav" 34506 0 1299534632 0
+D s 44100 n 1 l 0:00.387 i 16
+F "FOL - MECHANICAL - MACHINE - CLANKING - 01.wav" 3009458 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Factory machine clanking and steady clicks."
+D d drone, s 44100 n 2 l 0:16.160
+D i 16
+F "FOL - MECHANICAL - MACHINE - HUM - 01.wav" 2559428 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Loud machine hum with high pitched whines."
+D d machinery, s 44100 n 2 l 0:13.742
+D i 16
+F "FOL - MECHANICAL - MACHINE - HUM - 02.wav" 2643452 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Loud machine hum with high pitched whines."
+D d machinery, s 44100 n 2 l 0:14.193
+D i 16
+F "FOL - MECHANICAL - MECHANISM - UNLOCK - 01.wav" 2009654 0 1582743006 0
+D d MECHANISM_E_BIG_METAL_UNLOCK_RELEASE&WINDING s 96000 n 2 l 0:03.447
+D i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 01.wav" 1241920 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Press, old, grate" s 48000 n 2
+D l 0:03.978 i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 02.wav" 1807608 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Press, sustain" s 48000 n 2
+D l 0:05.942 i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 03.wav" 1408084 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Press, release, impact" s 48000 n 2
+D l 0:04.555 i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 04.wav" 1247342 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Close, snap, fast" s 48000 n 2
+D l 0:03.997 i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 05.wav" 1247350 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Press, old, squeak" s 48000 n 2
+D l 0:03.997 i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 06.wav" 1203400 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Sustain, overtones" s 48000 n 2
+D l 0:03.844 i 24
+F "FOL - MECHANICAL - METAL - BUTTON - 07.wav" 1248132 0 1582743006 0
+D y "	" d "GENERIC BUTTON MEDIUM METALLIC Overtones, rattle, mechanics" s 48000 n 2
+D l 0:04.000 i 24
+F "FOL - MECHANICAL - METAL - SWITCH - 01.wav" 163436 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Switch: Rotating switch clicks, various speeds, "
+D d "click, Rotary," s 44100 n 2 l 0:00.923
+D i 16
+F "FOL - MECHANICAL - METAL - SWITCH - 02.wav" 218732 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Switch: Rotating switch clicks, various speeds, "
+D d "click, Rotary," s 44100 n 2 l 0:01.237
+D i 16
+F "FOL - MECHANICAL - METAL - SWITCH - 03.wav" 157996 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Switch: Rotating switch clicks, various speeds, "
+D d "click, Rotary," s 44100 n 2 l 0:00.893
+D i 16
+F "FOL - MECHANICAL - METAL - SWITCH - 04.wav" 169300 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Switch: Rotating switch clicks, various speeds, "
+D d "click, Rotary," s 44100 n 2 l 0:00.957
+D i 16
+F "FOL - MECHANICAL - METAL - SWITCH - 06.wav" 109452 0 1582743006 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Switch: Rotating switch clicks, various speeds, "
+D d "click, Rotary," s 44100 n 2 l 0:00.617
+D i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 01.wav" 103530 0 1582743006 0
+D y 2001-10-1 s 48000 n 1 l 0:01.053
+D i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 02.wav" 45228 0 1582743006 0
+D y 1999-01-2 s 48000 n 1 l 0:00.450
+D i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 03.wav" 256900 0 1582743006 0
+D y 1999-01-2 s 48000 n 1 r 0:00.554
+D l 0:02.638 i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 04.wav" 56150 0 1582743006 0
+D y 1999-01-2 s 48000 n 1 r 0:03.290
+D l 0:00.563 i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 05.wav" 56632 0 1582743006 0
+D y 1999-01-2 s 48000 n 1 r 0:04.079
+D l 0:00.568 i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 06.wav" 515570 0 1582743006 0
+D y 1999-01-2 s 48000 n 1 r 0:04.647
+D l 0:05.311 i 16
+F "FOL - MECHANICAL - RATCHET - SCREW - 07.wav" 1212898 0 1582743006 0
+D y 2015-aQ- d "sci-fi, futuristic, weapon, gun, foley, mechanic, ratchet, click" s 48000 n 1
+D l 0:00.700 i 24
+F "FOL - MECHANICAL - RATCHET - SCREW - 08.wav" 1209050 0 1582743006 0
+D y 2015-á- d "sci-fi, futuristic, weapon, gun, foley, mechanic, ratchet, click" s 48000 n 1
+D l 0:00.672 i 24
+F "FOL - MECHANICAL - RATCHET - SCREW - 09.wav" 1271240 0 1582743006 0
+D y 2015- d "sci-fi, futuristic, weapon, gun, foley, mechanic, ratchet, click" s 48000 n 1
+D l 0:01.104 i 24
+F "FOL - MECHANICAL - RATCHET - SCREW - 10.wav" 1415358 0 1582743006 0
+D y 2015- d "sci-fi, futuristic, weapon, gun, foley, mechanic, ratchet, click" s 48000 n 1
+D l 0:02.105 i 24
+F "FOL - MECHANICAL - RATCHET - SCREW - 11.wav" 2787284 0 1582743006 0
+D y 2015- d "sci-fi, futuristic, weapon, gun, foley, mechanic, ratchet, click" s 48000 n 1
+D l 0:11.632 i 24
+F "FOL - MECHANICAL - ROBOT - MOVEMENTS - 01.wav" 1595272 0 1582743006 0
+D d "Robot, Robotic, Machines, Movement, Mechanical Parts" s 96000 n 2 l 0:02.767
+D i 24
+F "FOL - MECHANICAL - SCREW - SEQUENCE - 01.wav" 38641232 0 1582743006 0
+D s 48000 n 2 l 2:14.170 i 24
+F "FOL - MECHANICAL - SPARKS - 01.wav" 5377334 0 1582743006 0
+D s 48000 n 2 l 0:18.671 i 24
+F "FOL - MECHANICAL - SPIN - 01.wav" 4139736 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 51:45.412 l 0:07.181 i 24
+F "FOL - MECHANICAL - SPIN - 02.wav" 2080766 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 51:55.082 l 0:03.606 i 24
+F "FOL - MECHANICAL - SPIN - 03.wav" 2410422 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 53:47.066 l 0:04.178 i 24
+F "FOL - MECHANICAL - SPIN - 04.wav" 10673100 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 53:52.274 l 0:18.523 i 24
+F "FOL - MECHANICAL - SPIN - 05.wav" 7895538 0 1582743006 0
+D t "Toys Take 01" y 2015-09-23 d "Toys, Kids, Plastic, Play, Manipulation, Car, Wheel, Rotate, Roll, Spin, " s 96000
+D n 2 r 54:11.246 l 0:13.701 i 24
+F "FOL - MECHANICAL - SWITCH - 01.wav" 53600 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.600
+D i 16
+F "FOL - MECHANICAL - SWITCH - 02.wav" 16554 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.180
+D i 16
+F "FOL - MECHANICAL - SWITCH - 03.wav" 20600 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.226
+D i 16
+F "FOL - MECHANICAL - SWITCH - 04.wav" 7254 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.075
+D i 16
+F "FOL - MECHANICAL - SWITCH - 05.wav" 15884 0 1582743006 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.172
+D i 16
+F "FOL - MECHANICAL - TOASTER - LEVER - 01.wav" 3647094 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, pressed, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:03.163 i 24
+F "FOL - MECHANICAL - TOASTER - LEVER - 02.wav" 4282872 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, pressed, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:03.715 i 24
+F "FOL - MECHANICAL - TOASTER - LEVER - 03.wav" 4867554 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, pressed, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:04.223 i 24
+F "FOL - MECHANICAL - TOASTER - LEVER - 04.wav" 4819386 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, pressed, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:04.181 i 24
+F "FOL - MECHANICAL - TOASTER - RELEASE - 01.wav" 3186774 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, release, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:02.764 i 24
+F "FOL - MECHANICAL - TOASTER - RELEASE - 02.wav" 4276512 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, release, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:03.710 i 24
+F "FOL - MECHANICAL - TOASTER - RELEASE - 03.wav" 4276512 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, release, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:03.710 i 24
+F "FOL - MECHANICAL - TOASTER - RELEASE - 04.wav" 4008162 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, release, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:03.477 i 24
+F "FOL - MECHANICAL - TOASTER - RELEASE - 05.wav" 3955818 0 1582743006 0
+D y 2016-11-29 d "metal, toaster, lever, release, rattle, squeak, loose, sony D100, XY, stereo" s 192000 n 2
+D l 0:03.431 i 24
+F "FOL - MECHANICAL - TOOLBOX - MOVEMENT - 01.mp3" 279752 0 1582743006 0
+D s 44100 n 2 l 0:11.625 i 192k
+F "FOL - MECHANICAL - WRENCH - SHORT - 01.wav" 1239378 0 1582743006 0
+D y 2016-11-29 d "metal, wrench, socket, winding, turn, short, clicky, sony D100, XY, stereo" s 192000 n 2
+D l 0:01.073 i 24
+F "FOL - MECHANICAL - WRENCH - SHORT - 02.wav" 1339014 0 1582743006 0
+D y 2016-11-29 d "metal, wrench, socket, winding, turn, short, clicky, sony D100, XY, stereo" s 192000 n 2
+D l 0:01.160 i 24
+F "FOL - MECHANICAL - WRENCH - SHORT - 03.wav" 1303032 0 1582743006 0
+D y 2016-11-29 d "metal, wrench, socket, winding, turn, short, clicky, sony D100, XY, stereo" s 192000 n 2
+D l 0:01.128 i 24
+F "FOL - MECHANICAL - WRENCH - SHORT - 04.wav" 1234704 0 1582743006 0
+D y 2016-11-29 d "metal, wrench, socket, winding, turn, short, clicky, sony D100, XY, stereo" s 192000 n 2
+D l 0:01.069 i 24
+F "FOL - MECHANICAL - WRENCH - SHORT - 05.wav" 1198608 0 1582743006 0
+D y 2016-11-29 d "metal, wrench, socket, winding, turn, short, clicky, sony D100, XY, stereo" s 192000 n 2
+D l 0:01.038 i 24
+F "GEAR SHIFT CLUNKER_F9A1AFD0.wav" 14816414 0 1584373534 0
+D t "GEAR SHIFT CLUNKER" a - b - y 2019-05-25
+D g Machine c "GEAR SHIFT CLUNKER - Multi Impact Lock, Large, Heavy, Thumpy" d "GEAR SHIFT CLUNKER - Multi Impact Lock, Large, Heavy, Thumpy" p -
+D k - s 96000 n 2 r 2:42:41.460
+D l 0:24.362 i 24 m 0
+F "HEAVY MECH LEVER_F853DACD.wav" 12038574 0 1584373534 0
+D t "HEAVY MECH LEVER" a - b - y 2019-05-25
+D g Machine c "HEAVY MECH LEVER - Heavy Clattering Mechanical Clunk, Multiple Snapping Mechanisms" d "HEAVY MECH LEVER - Heavy Clattering Mechanical Clunk, Multiple Snapping Mechanisms" p -
+D k - s 96000 n 2 r 2:21:38.580
+D l 0:19.539 i 24 m 0
+F multi-plier-close-1.wav 327752 0 1583930828 0
+D s 48000 n 2 l 0:01.706 i 16
+F multi-plier-open-1.wav 327752 0 1583930873 0
+D s 48000 n 2 l 0:01.706 i 16
+F "Tape Player 01.wav" 619904 0 1247675070 0
+D y 2009-07-15 s 44100 n 2 l 0:02.342
+D i 24
+F "Tape Player 02.wav" 1471616 0 1247675124 0
+D y 2009-07-15 s 44100 n 2 l 0:05.561
+D i 24
+F "Tape Player 03.wav" 139520 0 1247675174 0
+D y 2009-07-15 s 44100 n 2 l 0:00.526
+D i 24
+F "Tape Player 04.wav" 831104 0 1247675214 0
+D y 2009-07-15 s 44100 n 2 l 0:03.140
+D i 24
+F "Tape Rewinding.mp3" 240743 0 1583931044 0
+D s 44100 n 2 l 0:07.472 i 258k
+F tape-recorder-close-1.wav 192584 0 1583930899 0
+D s 48000 n 2 l 0:01.002 i 16
+F tape-recorder-eject-1.wav 192584 0 1583930880 0
+D s 48000 n 2 l 0:01.002 i 16
+F Vacuum.mp3 460590 0 1583931241 0
+D s 44100 n 2 l 0:14.342 i 257k
+F "VCR Tape Rewind.mp3" 7830046 0 1583931244 0
+D s 44100 n 2 l 4:04.637 i 256k
+F "Vintage Film Camera Rolling.mp3" 1176136 0 1583931008 0
+D s 44100 n 2 l 0:36.703 i 256k
+F "Vintage Movie Countdown Beeps.mp3" 562572 0 1583931012 0
+D s 44100 n 2 l 0:17.529 i 257k
+F "Vintage Music Box.mp3" 937063 0 1583931012 0
+D s 44100 n 2 l 0:29.232 i 256k
+F "WHEAT THRESHER_791F03D2.wav" 21735950 0 1584373534 0
+D t "WHEAT THRESHER" a - b - y 2020-01-06
+D g Metal c "WHEAT THRESHER - Turning Rusty Hand Crank, Short Turns, Ronk, Creak" d CO100k p -
+D k - s 192000 n 1 r 4:42:24.909
+D l 0:37.706 i 24 m 0

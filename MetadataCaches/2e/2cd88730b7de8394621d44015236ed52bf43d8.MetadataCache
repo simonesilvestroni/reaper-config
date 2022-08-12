@@ -1,0 +1,114 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/AMBIENCE/AMB - ROOM TONE"
+F "ROOM TONE - AIR - HEAVY - 01.wav" 17283176 0 1547642566 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Room tone: Heavy air conditioner hum and buzz."
+D d "Air Fill, AC Hum,Industrial Refrigerator," s 44100 n 2 l 1:32.863
+D i 16
+F "ROOM TONE - AUDITORIUM - LIGHT - 01.wav" 22540258 0 1547642566 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Room tone: Large, reverberant, airy hall with light movement and city hum"
+D d "ambience,Library,Subway Station," s 44100 n 2 l 2:01.113
+D i 16
+F "ROOM TONE - CITY - HALL - 01.wav" 19004902 0 1547642566 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Lobby: Large, airy lobby area with very light movement,elevator bell, reverberant."
+D d "Air Fill,ambience,Reverb,Room Tone," s 44100 n 2 l 1:47.734
+D i 16
+F "ROOM TONE - HUM - HEAVY - 01.wav" 5472324 0 1547642566 0
+D y 2001-01-09 s 44100 n 2 l 0:30.295
+D i 16
+F "ROOM TONE - Large - Dead Quiet Ambience.aif" 43258926 0 1583932405 0
+D s 44100 n 2 l 4:04.973 i 16
+F "ROOM TONE - Large - Ventilation Noise Ambience.aif" 43263636 0 1583932508 0
+D s 44100 n 2 l 4:05.000 i 16
+F "ROOM TONE - Large - Ventilation Noise And Light Hum Ambience.aif" 43122530 0 1583932619 0
+D s 44100 n 2 l 4:04.200 i 16
+F "ROOM TONE - Large - Ventilation Noise And Rattle Ambience.aif" 43110768 0 1583932566 0
+D s 44100 n 2 l 4:04.133 i 16
+F "ROOM TONE - Large - Ventilation Noise And Rumble Ambience.aif" 42558048 0 1583932305 0
+D s 44100 n 2 l 4:01.000 i 16
+F "ROOM TONE - LIGHT - 01.wav" 19698842 0 1547642566 0
+D s 48000 n 2 l 1:08.398 i 24
+F "ROOM TONE - LIGHT - 02.wav" 5520672 0 1547642566 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Room tone: Small room with very light movement."
+D d "Air Fill," s 44100 n 2 l 0:29.654
+D i 16
+F "ROOM TONE - Medium - Ventilation Noise Ambience 1.aif" 43204836 0 1583932379 0
+D s 44100 n 2 l 4:04.666 i 16
+F "ROOM TONE - Medium - Ventilation Noise Ambience.aif" 43275396 0 1583932621 0
+D s 44100 n 2 l 4:05.066 i 16
+F "ROOM TONE - Medium - Ventilation Noise And Light Buzz Ambience.aif" 43251892 0 1583932598 0
+D s 44100 n 2 l 4:04.933 i 16
+F "ROOM TONE - Medium - Ventilation Noise And Light Hum Ambience 1.aif" 43211908 0 1583932587 0
+D s 44100 n 2 l 4:04.706 i 16
+F "ROOM TONE - Medium - Ventilation Noise And Light Hum Ambience.aif" 43204850 0 1583932303 0
+D s 44100 n 2 l 4:04.666 i 16
+F "ROOM TONE - Medium - Ventilation Noise And Rumble Ambience.aif" 43127232 0 1583932471 0
+D s 44100 n 2 l 4:04.226 i 16
+F "ROOM TONE - Medium - Ventilation Noise, Clock Ticking In B_G Ambience.aif" 43221322 0 1583932418 0
+D s 44100 n 2 l 4:04.760 i 16
+F "ROOM TONE - Small - Light Buzz Ambience.aif" 43033132 0 1583932379 0
+D s 44100 n 2 l 4:03.693 i 16
+F "ROOM TONE - Small - Ventilation Noise Ambience 1.aif" 43475316 0 1583932209 0
+D s 44100 n 2 l 4:06.200 i 16
+F "ROOM TONE - Small - Ventilation Noise Ambience 2.aif" 43247172 0 1583932630 0
+D s 44100 n 2 l 4:04.906 i 16
+F "ROOM TONE - Small - Ventilation Noise Ambience.aif" 43193076 0 1583932216 0
+D s 44100 n 2 l 4:04.600 i 16
+F "ROOM TONE - Small - Ventilation Noise And Light Buzz Ambience.aif" 43216610 0 1583932344 0
+D s 44100 n 2 l 4:04.733 i 16
+F "ROOM TONE - TOM'S - LAB.wav" 5757666 0 1571739938 0
+D y 2019-10-22 s 48000 n 2 r 10:05:58.480
+D l 0:19.880 i 24
+F "ROOM TONE - TRAFFIC - DISTANT - 01.wav" 15859360 0 1547642568 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Room tone: Office room with light traffic hum."
+D d "Air Fill, Distant," s 44100 n 2 l 1:27.814
+D i 16
+F "Room Tone 1.wav" 11010202 0 1439162837 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.415
+D i 16
+F "Room Tone 2.wav" 10632046 0 1439163608 0
+D a "Sound Ideas" s 44100 n 2 l 1:00.271
+D i 16
+F "Room Tone 3.wav" 10679850 0 1439161385 0
+D a "Sound Ideas" s 44100 n 2 l 1:00.542
+D i 16
+F "Room Tone 4.wav" 5240330 0 1439161993 0
+D a "Sound Ideas" s 44100 n 2 l 0:29.706
+D i 16
+F "Room Tone 5.wav" 10977410 0 1439162591 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.229
+D i 16
+F "Room Tone 6.wav" 10944670 0 1439163347 0
+D a "Sound Ideas" s 44100 n 2 l 1:02.043
+D i 16
+F "Room Tone 7.wav" 5344354 0 1439161195 0
+D a "Sound Ideas" s 44100 n 2 l 0:30.295
+D i 16
+F "Room Tone 8.wav" 5297618 0 1439161828 0
+D a "Sound Ideas" s 44100 n 2 l 0:30.030
+D i 16
+F "Room Tone 9.wav" 10968172 0 1439162421 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.176
+D i 16
+F "Room Tone Arena 01.wav" 10968172 0 1439161277 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.176
+D i 16
+F "Room Tone Basement 01.wav" 16397828 0 1439161026 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.957
+D i 16
+F "Room Tone Basement 02.wav" 16397828 0 1439161200 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:32.957
+D i 16
+F "Room Tone Factory 01.wav" 11006756 0 1439162439 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "Room Tone Factory 02.wav" 11729384 0 1439161043 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:06.492
+D i 16
+F "Room Tone Factory 03.wav" 11504204 0 1439162132 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:05.215
+D i 16
+F "Room Tone Factory 04.wav" 16090552 0 1439163525 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.215
+D i 16
+F "Room Tone Warehouse.wav" 11006756 0 1439162641 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16

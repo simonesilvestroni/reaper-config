@@ -1,0 +1,33 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - V"
+F "Vab T4 Exterior Fast Startup Away Passby Approach Stop Shutdown Css5.wav" 49727548 0 1488537490 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Military c "exterior fast startup away passby approach stop shutdown stop point exhaust FR2 Sanken CSS5 wav"
+D d "exterior fast startup away passby approach stop shutdown stop point exhaust FR2 Sanken CSS5 wav" s 96000 n 2 l 1:26.101
+D i 24 m 0
+F "Vab T5 Onboard Fast Driving Gearshifts Rear Compartment Interior Mkh8020.wav" 58310774 0 1488537521 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Military c "onboard fast driving gearshifts rear compartment interior Sound Devices 788 Sennheiser MKH8020 wav"
+D d "onboard fast driving gearshifts rear compartment interior Sound Devices 788 Sennheiser MKH8020 wav" s 96000 n 2 l 1:41.002
+D i 24 m 0
+F "Vab T8 Exterior Fast Distant Forward Reverse D50.wav" 38695486 0 1488537534 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Military c "exterior fast distant forward reverse front turn D50 wav"
+D d "exterior fast distant forward reverse front turn D50 wav" s 96000 n 2 l 1:06.949
+D i 24 m 0
+F Vaeyaniii,Massager,Osscilations,Switch,Hispeed,Mechanical,Electrical,50Hz,Hum,Vibration,Loopable.wav 13688976 0 1481710540 0
+D y 2015-11-14 d VaeyanIII,massager,osscilations,switch,hispeed,mechanical,electrical,50Hz,hum,vibration,loopable s 96000 n 1
+D r 2:47.860 l 0:47.522 i 24
+F Vaeyaniii,Medicaldevices,Insulinpump,Rewind,Beeps,Servo,Spinning.wav 8263896 0 1481710444 0
+D y 2015-12-23 d VaeyanIII,medicaldevices,insulinpump,rewind,beeps,servo,spinning s 96000 n 1
+D r 1:41:14.632 l 0:28.686 i 24
+F Vaeyaniii,Shockabsorber,Broken,Decompress,Oil,Bubbling,Scuffing,Flatulent.wav 704024 0 1481710263 0
+D y 2015-12-23 d VaeyanIII,shockabsorber,broken,decompress,oil,bubbling,scuffing,flatulent s 96000 n 1
+D r 11:19.733 l 0:02.436 i 24
+F Vaeyaniii,Tea,Leaves,Loose,Bag,Plastic,Foil,Rollup,Seal,Rustle,Crinkle.wav 4926806 0 1481710279 0
+D y 2015-12-19 d VaeyanIII,tea,leaves,loose,bag,plastic,foil,rollup,seal,rustle,crinkle s 96000 n 1
+D r 1:08:07.339 l 0:17.098 i 24
+F "Various Metal Handling 24.wav" 6195088 0 1488536758 0
+D y 2016-12-03 d "Blacksmith, Various Metal Handling, Random, Hits" s 192000 n 2
+D r 1:49.755 l 0:05.376 i 24
+F "Velcro 04 Unfastening.wav" 351806 0 1488537441 0
+D y 2015-11-17 s 48000 n 2 r 5:55.826
+D l 0:01.194 i 24
+F "Video Game Time Remaining Announcements.mp3" 920345 0 1583930958 0
+D s 44100 n 2 l 0:28.709 i 256k

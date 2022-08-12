@@ -1,0 +1,321 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Synth/Digital/Future Pluck"
+F "Future Pluck 0 127 A0.wav" 377944 0 1655744679 0
+D s 44100 n 2 l 0:02.118 i 16
+F "Future Pluck 0 127 A1.wav" 377948 0 1655744679 0
+D s 44100 n 2 l 0:02.118 i 16
+F "Future Pluck 0 127 A2.wav" 353692 0 1655744679 0
+D s 44100 n 2 l 0:01.981 i 16
+F "Future Pluck 0 127 A3.wav" 306660 0 1655744679 0
+D s 44100 n 2 l 0:01.714 i 16
+F "Future Pluck 0 127 A4.wav" 186540 0 1655744679 0
+D s 44100 n 2 l 0:01.033 i 16
+F "Future Pluck 0 127 D#1.wav" 313448 0 1655744679 0
+D s 44100 n 2 l 0:01.753 i 16
+F "Future Pluck 0 127 D#2.wav" 279892 0 1655744679 0
+D s 44100 n 2 l 0:01.562 i 16
+F "Future Pluck 0 127 D#3.wav" 326668 0 1655744679 0
+D s 44100 n 2 l 0:01.828 i 16
+F "Future Pluck 0 127 D#4.wav" 245324 0 1655744679 0
+D s 44100 n 2 l 0:01.367 i 16
+F "Future Pluck 0 127 D#5.wav" 106572 0 1655744679 0
+D s 44100 n 2 l 0:00.580 i 16
+F "Future Pluck 0 32 A0.wav" 187632 0 1655744679 0
+D s 44100 n 2 l 0:01.039 i 16
+F "Future Pluck 0 32 A1.wav" 335312 0 1655744679 0
+D s 44100 n 2 l 0:01.877 i 16
+F "Future Pluck 0 32 A2.wav" 317120 0 1655744679 0
+D s 44100 n 2 l 0:01.774 i 16
+F "Future Pluck 0 32 A3.wav" 378892 0 1655744679 0
+D s 44100 n 2 l 0:02.124 i 16
+F "Future Pluck 0 32 A4.wav" 177460 0 1655744679 0
+D s 44100 n 2 l 0:00.982 i 16
+F "Future Pluck 0 32 D#1.wav" 315200 0 1655744679 0
+D s 44100 n 2 l 0:01.763 i 16
+F "Future Pluck 0 32 D#2.wav" 246432 0 1655744679 0
+D s 44100 n 2 l 0:01.373 i 16
+F "Future Pluck 0 32 D#3.wav" 317228 0 1655744679 0
+D s 44100 n 2 l 0:01.774 i 16
+F "Future Pluck 0 32 D#4.wav" 303064 0 1655744679 0
+D s 44100 n 2 l 0:01.694 i 16
+F "Future Pluck 0 32 D#5.wav" 114852 0 1655744679 0
+D s 44100 n 2 l 0:00.627 i 16
+F "Future Pluck 0 64 A0.wav" 294952 0 1655744679 0
+D s 44100 n 2 l 0:01.648 i 16
+F "Future Pluck 0 64 A1.wav" 383068 0 1655744679 0
+D s 44100 n 2 l 0:02.147 i 16
+F "Future Pluck 0 64 A2.wav" 316216 0 1655744679 0
+D s 44100 n 2 l 0:01.768 i 16
+F "Future Pluck 0 64 A3.wav" 143988 0 1655744679 0
+D s 44100 n 2 l 0:00.792 i 16
+F "Future Pluck 0 64 A4.wav" 192328 0 1655744679 0
+D s 44100 n 2 l 0:01.066 i 16
+F "Future Pluck 0 64 D#1.wav" 378968 0 1655744679 0
+D s 44100 n 2 l 0:02.124 i 16
+F "Future Pluck 0 64 D#2.wav" 379996 0 1655744679 0
+D s 44100 n 2 l 0:02.130 i 16
+F "Future Pluck 0 64 D#3.wav" 388348 0 1655744679 0
+D s 44100 n 2 l 0:02.177 i 16
+F "Future Pluck 0 64 D#4.wav" 167168 0 1655744679 0
+D s 44100 n 2 l 0:00.923 i 16
+F "Future Pluck 0 64 D#5.wav" 159668 0 1655744679 0
+D s 44100 n 2 l 0:00.881 i 16
+F "Future Pluck 0 95 A0.wav" 330536 0 1655744679 0
+D s 44100 n 2 l 0:01.850 i 16
+F "Future Pluck 0 95 A1.wav" 326004 0 1655744679 0
+D s 44100 n 2 l 0:01.824 i 16
+F "Future Pluck 0 95 A2.wav" 385776 0 1655744679 0
+D s 44100 n 2 l 0:02.163 i 16
+F "Future Pluck 0 95 A3.wav" 374664 0 1655744679 0
+D s 44100 n 2 l 0:02.100 i 16
+F "Future Pluck 0 95 A4.wav" 140008 0 1655744679 0
+D s 44100 n 2 l 0:00.770 i 16
+F "Future Pluck 0 95 D#1.wav" 374296 0 1655744679 0
+D s 44100 n 2 l 0:02.098 i 16
+F "Future Pluck 0 95 D#2.wav" 328828 0 1655744679 0
+D s 44100 n 2 l 0:01.840 i 16
+F "Future Pluck 0 95 D#3.wav" 336784 0 1655744679 0
+D s 44100 n 2 l 0:01.885 i 16
+F "Future Pluck 0 95 D#4.wav" 269368 0 1655744679 0
+D s 44100 n 2 l 0:01.503 i 16
+F "Future Pluck 0 95 D#5.wav" 29472 0 1655744679 0
+D s 44100 n 2 l 0:00.143 i 16
+F "Future Pluck 1 127 A0.wav" 374552 0 1655744679 0
+D s 44100 n 2 l 0:02.099 i 16
+F "Future Pluck 1 127 A1.wav" 292412 0 1655744679 0
+D s 44100 n 2 l 0:01.633 i 16
+F "Future Pluck 1 127 A2.wav" 377584 0 1655744679 0
+D s 44100 n 2 l 0:02.116 i 16
+F "Future Pluck 1 127 A3.wav" 387084 0 1655744679 0
+D s 44100 n 2 l 0:02.170 i 16
+F "Future Pluck 1 127 A4.wav" 183192 0 1655744679 0
+D s 44100 n 2 l 0:01.014 i 16
+F "Future Pluck 1 127 D#1.wav" 386584 0 1655744679 0
+D s 44100 n 2 l 0:02.167 i 16
+F "Future Pluck 1 127 D#2.wav" 225004 0 1655744679 0
+D s 44100 n 2 l 0:01.251 i 16
+F "Future Pluck 1 127 D#3.wav" 266744 0 1655744679 0
+D s 44100 n 2 l 0:01.488 i 16
+F "Future Pluck 1 127 D#4.wav" 184704 0 1655744679 0
+D s 44100 n 2 l 0:01.023 i 16
+F "Future Pluck 1 127 D#5.wav" 184032 0 1655744679 0
+D s 44100 n 2 l 0:01.019 i 16
+F "Future Pluck 1 32 A0.wav" 318732 0 1655744679 0
+D s 44100 n 2 l 0:01.783 i 16
+F "Future Pluck 1 32 A1.wav" 225520 0 1655744679 0
+D s 44100 n 2 l 0:01.254 i 16
+F "Future Pluck 1 32 A2.wav" 377276 0 1655744679 0
+D s 44100 n 2 l 0:02.115 i 16
+F "Future Pluck 1 32 A3.wav" 251308 0 1655744679 0
+D s 44100 n 2 l 0:01.400 i 16
+F "Future Pluck 1 32 A4.wav" 173244 0 1655744679 0
+D s 44100 n 2 l 0:00.958 i 16
+F "Future Pluck 1 32 D#1.wav" 375892 0 1655744679 0
+D s 44100 n 2 l 0:02.107 i 16
+F "Future Pluck 1 32 D#2.wav" 378972 0 1655744679 0
+D s 44100 n 2 l 0:02.124 i 16
+F "Future Pluck 1 32 D#3.wav" 374512 0 1655744679 0
+D s 44100 n 2 l 0:02.099 i 16
+F "Future Pluck 1 32 D#4.wav" 376844 0 1655744679 0
+D s 44100 n 2 l 0:02.112 i 16
+F "Future Pluck 1 32 D#5.wav" 131152 0 1655744679 0
+D s 44100 n 2 l 0:00.719 i 16
+F "Future Pluck 1 64 A0.wav" 334488 0 1655744679 0
+D s 44100 n 2 l 0:01.872 i 16
+F "Future Pluck 1 64 A1.wav" 327748 0 1655744679 0
+D s 44100 n 2 l 0:01.834 i 16
+F "Future Pluck 1 64 A2.wav" 192556 0 1655744679 0
+D s 44100 n 2 l 0:01.067 i 16
+F "Future Pluck 1 64 A3.wav" 270740 0 1655744679 0
+D s 44100 n 2 l 0:01.511 i 16
+F "Future Pluck 1 64 A4.wav" 136076 0 1655744679 0
+D s 44100 n 2 l 0:00.747 i 16
+F "Future Pluck 1 64 D#1.wav" 377944 0 1655744679 0
+D s 44100 n 2 l 0:02.118 i 16
+F "Future Pluck 1 64 D#2.wav" 376924 0 1655744679 0
+D s 44100 n 2 l 0:02.113 i 16
+F "Future Pluck 1 64 D#3.wav" 233432 0 1655744679 0
+D s 44100 n 2 l 0:01.299 i 16
+F "Future Pluck 1 64 D#4.wav" 196976 0 1655744679 0
+D s 44100 n 2 l 0:01.092 i 16
+F "Future Pluck 1 64 D#5.wav" 127476 0 1655744679 0
+D s 44100 n 2 l 0:00.698 i 16
+F "Future Pluck 1 95 A0.wav" 307664 0 1655744679 0
+D s 44100 n 2 l 0:01.720 i 16
+F "Future Pluck 1 95 A1.wav" 314124 0 1655744679 0
+D s 44100 n 2 l 0:01.757 i 16
+F "Future Pluck 1 95 A2.wav" 250308 0 1655744679 0
+D s 44100 n 2 l 0:01.395 i 16
+F "Future Pluck 1 95 A3.wav" 284800 0 1655744679 0
+D s 44100 n 2 l 0:01.590 i 16
+F "Future Pluck 1 95 A4.wav" 134380 0 1655744679 0
+D s 44100 n 2 l 0:00.738 i 16
+F "Future Pluck 1 95 D#1.wav" 361920 0 1655744679 0
+D s 44100 n 2 l 0:02.028 i 16
+F "Future Pluck 1 95 D#2.wav" 385920 0 1655744679 0
+D s 44100 n 2 l 0:02.164 i 16
+F "Future Pluck 1 95 D#3.wav" 394252 0 1655744679 0
+D s 44100 n 2 l 0:02.211 i 16
+F "Future Pluck 1 95 D#4.wav" 310428 0 1655744679 0
+D s 44100 n 2 l 0:01.736 i 16
+F "Future Pluck 1 95 D#5.wav" 33784 0 1655744679 0
+D s 44100 n 2 l 0:00.167 i 16
+F "Future Pluck 2 127 A0.wav" 378968 0 1655744679 0
+D s 44100 n 2 l 0:02.124 i 16
+F "Future Pluck 2 127 A1.wav" 361692 0 1655744679 0
+D s 44100 n 2 l 0:02.026 i 16
+F "Future Pluck 2 127 A2.wav" 319956 0 1655744679 0
+D s 44100 n 2 l 0:01.790 i 16
+F "Future Pluck 2 127 A3.wav" 273160 0 1655744679 0
+D s 44100 n 2 l 0:01.524 i 16
+F "Future Pluck 2 127 A4.wav" 107128 0 1655744679 0
+D s 44100 n 2 l 0:00.583 i 16
+F "Future Pluck 2 127 D#1.wav" 340184 0 1655744679 0
+D s 44100 n 2 l 0:01.904 i 16
+F "Future Pluck 2 127 D#2.wav" 228940 0 1655744679 0
+D s 44100 n 2 l 0:01.274 i 16
+F "Future Pluck 2 127 D#3.wav" 387084 0 1655744679 0
+D s 44100 n 2 l 0:02.170 i 16
+F "Future Pluck 2 127 D#4.wav" 81856 0 1655744679 0
+D s 44100 n 2 l 0:00.440 i 16
+F "Future Pluck 2 127 D#5.wav" 137256 0 1655744679 0
+D s 44100 n 2 l 0:00.754 i 16
+F "Future Pluck 2 32 A0.wav" 383060 0 1655744679 0
+D s 44100 n 2 l 0:02.147 i 16
+F "Future Pluck 2 32 A1.wav" 378968 0 1655744679 0
+D s 44100 n 2 l 0:02.124 i 16
+F "Future Pluck 2 32 A2.wav" 246988 0 1655744679 0
+D s 44100 n 2 l 0:01.376 i 16
+F "Future Pluck 2 32 A3.wav" 388108 0 1655744679 0
+D s 44100 n 2 l 0:02.176 i 16
+F "Future Pluck 2 32 A4.wav" 123636 0 1655744679 0
+D s 44100 n 2 l 0:00.677 i 16
+F "Future Pluck 2 32 D#1.wav" 372004 0 1655744679 0
+D s 44100 n 2 l 0:02.085 i 16
+F "Future Pluck 2 32 D#2.wav" 338108 0 1655744679 0
+D s 44100 n 2 l 0:01.893 i 16
+F "Future Pluck 2 32 D#3.wav" 270300 0 1655744679 0
+D s 44100 n 2 l 0:01.508 i 16
+F "Future Pluck 2 32 D#4.wav" 72456 0 1655744679 0
+D s 44100 n 2 l 0:00.387 i 16
+F "Future Pluck 2 32 D#5.wav" 73480 0 1655744679 0
+D s 44100 n 2 l 0:00.392 i 16
+F "Future Pluck 2 64 A0.wav" 363412 0 1655744679 0
+D s 44100 n 2 l 0:02.036 i 16
+F "Future Pluck 2 64 A1.wav" 377948 0 1655744679 0
+D s 44100 n 2 l 0:02.118 i 16
+F "Future Pluck 2 64 A2.wav" 382704 0 1655744679 0
+D s 44100 n 2 l 0:02.145 i 16
+F "Future Pluck 2 64 A3.wav" 242588 0 1655744679 0
+D s 44100 n 2 l 0:01.351 i 16
+F "Future Pluck 2 64 A4.wav" 118848 0 1655744679 0
+D s 44100 n 2 l 0:00.650 i 16
+F "Future Pluck 2 64 D#1.wav" 377944 0 1655744679 0
+D s 44100 n 2 l 0:02.118 i 16
+F "Future Pluck 2 64 D#2.wav" 306416 0 1655744679 0
+D s 44100 n 2 l 0:01.713 i 16
+F "Future Pluck 2 64 D#3.wav" 187568 0 1655744679 0
+D s 44100 n 2 l 0:01.039 i 16
+F "Future Pluck 2 64 D#4.wav" 75600 0 1655744679 0
+D s 44100 n 2 l 0:00.404 i 16
+F "Future Pluck 2 64 D#5.wav" 97684 0 1655744679 0
+D s 44100 n 2 l 0:00.530 i 16
+F "Future Pluck 2 95 A0.wav" 376920 0 1655744679 0
+D s 44100 n 2 l 0:02.113 i 16
+F "Future Pluck 2 95 A1.wav" 304272 0 1655744679 0
+D s 44100 n 2 l 0:01.701 i 16
+F "Future Pluck 2 95 A2.wav" 316840 0 1655744679 0
+D s 44100 n 2 l 0:01.772 i 16
+F "Future Pluck 2 95 A3.wav" 197448 0 1655744679 0
+D s 44100 n 2 l 0:01.095 i 16
+F "Future Pluck 2 95 A4.wav" 126208 0 1655744679 0
+D s 44100 n 2 l 0:00.691 i 16
+F "Future Pluck 2 95 D#1.wav" 379416 0 1655744679 0
+D s 44100 n 2 l 0:02.127 i 16
+F "Future Pluck 2 95 D#2.wav" 375680 0 1655744679 0
+D s 44100 n 2 l 0:02.106 i 16
+F "Future Pluck 2 95 D#3.wav" 375820 0 1655744679 0
+D s 44100 n 2 l 0:02.106 i 16
+F "Future Pluck 2 95 D#4.wav" 198648 0 1655744679 0
+D s 44100 n 2 l 0:01.102 i 16
+F "Future Pluck 2 95 D#5.wav" 93360 0 1655744679 0
+D s 44100 n 2 l 0:00.505 i 16
+F "Future Pluck 3 127 A0.wav" 320336 0 1655744679 0
+D s 44100 n 2 l 0:01.792 i 16
+F "Future Pluck 3 127 A1.wav" 372828 0 1655744679 0
+D s 44100 n 2 l 0:02.089 i 16
+F "Future Pluck 3 127 A2.wav" 258936 0 1655744679 0
+D s 44100 n 2 l 0:01.444 i 16
+F "Future Pluck 3 127 A3.wav" 271164 0 1655744679 0
+D s 44100 n 2 l 0:01.513 i 16
+F "Future Pluck 3 127 A4.wav" 81848 0 1655744679 0
+D s 44100 n 2 l 0:00.440 i 16
+F "Future Pluck 3 127 D#1.wav" 370780 0 1655744679 0
+D s 44100 n 2 l 0:02.078 i 16
+F "Future Pluck 3 127 D#2.wav" 173976 0 1655744679 0
+D s 44100 n 2 l 0:00.962 i 16
+F "Future Pluck 3 127 D#3.wav" 277096 0 1655744679 0
+D s 44100 n 2 l 0:01.547 i 16
+F "Future Pluck 3 127 D#4.wav" 63528 0 1655744679 0
+D s 44100 n 2 l 0:00.336 i 16
+F "Future Pluck 3 127 D#5.wav" 76060 0 1655744679 0
+D s 44100 n 2 l 0:00.407 i 16
+F "Future Pluck 3 32 A0.wav" 377940 0 1655744679 0
+D s 44100 n 2 l 0:02.118 i 16
+F "Future Pluck 3 32 A1.wav" 382040 0 1655744679 0
+D s 44100 n 2 l 0:02.142 i 16
+F "Future Pluck 3 32 A2.wav" 322020 0 1655744679 0
+D s 44100 n 2 l 0:01.801 i 16
+F "Future Pluck 3 32 A3.wav" 216400 0 1655744679 0
+D s 44100 n 2 l 0:01.203 i 16
+F "Future Pluck 3 32 A4.wav" 82272 0 1655744679 0
+D s 44100 n 2 l 0:00.442 i 16
+F "Future Pluck 3 32 D#1.wav" 323676 0 1655744679 0
+D s 44100 n 2 l 0:01.811 i 16
+F "Future Pluck 3 32 D#2.wav" 367196 0 1655744679 0
+D s 44100 n 2 l 0:02.057 i 16
+F "Future Pluck 3 32 D#3.wav" 380156 0 1655744679 0
+D s 44100 n 2 l 0:02.131 i 16
+F "Future Pluck 3 32 D#4.wav" 62168 0 1655744679 0
+D s 44100 n 2 l 0:00.328 i 16
+F "Future Pluck 3 32 D#5.wav" 30412 0 1655744679 0
+D s 44100 n 2 l 0:00.148 i 16
+F "Future Pluck 3 64 A0.wav" 304428 0 1655744679 0
+D s 44100 n 2 l 0:01.702 i 16
+F "Future Pluck 3 64 A1.wav" 318984 0 1655744679 0
+D s 44100 n 2 l 0:01.784 i 16
+F "Future Pluck 3 64 A2.wav" 280832 0 1655744679 0
+D s 44100 n 2 l 0:01.568 i 16
+F "Future Pluck 3 64 A3.wav" 144172 0 1655744679 0
+D s 44100 n 2 l 0:00.793 i 16
+F "Future Pluck 3 64 A4.wav" 53120 0 1655744679 0
+D s 44100 n 2 l 0:00.277 i 16
+F "Future Pluck 3 64 D#1.wav" 389208 0 1655744679 0
+D s 44100 n 2 l 0:02.182 i 16
+F "Future Pluck 3 64 D#2.wav" 375680 0 1655744679 0
+D s 44100 n 2 l 0:02.106 i 16
+F "Future Pluck 3 64 D#3.wav" 232508 0 1655744679 0
+D s 44100 n 2 l 0:01.294 i 16
+F "Future Pluck 3 64 D#4.wav" 99228 0 1655744679 0
+D s 44100 n 2 l 0:00.538 i 16
+F "Future Pluck 3 64 D#5.wav" 81212 0 1655744679 0
+D s 44100 n 2 l 0:00.436 i 16
+F "Future Pluck 3 95 A0.wav" 384088 0 1655744679 0
+D s 44100 n 2 l 0:02.153 i 16
+F "Future Pluck 3 95 A1.wav" 299172 0 1655744679 0
+D s 44100 n 2 l 0:01.672 i 16
+F "Future Pluck 3 95 A2.wav" 383728 0 1655744679 0
+D s 44100 n 2 l 0:02.151 i 16
+F "Future Pluck 3 95 A3.wav" 275512 0 1655744679 0
+D s 44100 n 2 l 0:01.538 i 16
+F "Future Pluck 3 95 A4.wav" 72284 0 1655744679 0
+D s 44100 n 2 l 0:00.386 i 16
+F "Future Pluck 3 95 D#1.wav" 284712 0 1655744679 0
+D s 44100 n 2 l 0:01.590 i 16
+F "Future Pluck 3 95 D#2.wav" 379776 0 1655744679 0
+D s 44100 n 2 l 0:02.129 i 16
+F "Future Pluck 3 95 D#3.wav" 322392 0 1655744679 0
+D s 44100 n 2 l 0:01.803 i 16
+F "Future Pluck 3 95 D#4.wav" 104096 0 1655744679 0
+D s 44100 n 2 l 0:00.566 i 16
+F "Future Pluck 3 95 D#5.wav" 70864 0 1655744679 0
+D s 44100 n 2 l 0:00.378 i 16

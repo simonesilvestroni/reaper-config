@@ -1,0 +1,465 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - S"
+F "Safety Car Lap 1.wav" 42574010 0 1481710523 0
+D y 2014-08-28 s 96000 n 2 r 1:35:24.117
+D l 0:59.068 i 24
+F "Sally77 Cannons   Dry.wav" 181594 0 1481710029 0
+D t "The word 'cannons', spoken by the robot/monster voice 'sally77', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "sally77 - www.leevaudio.com" y 2015-09-03
+D g FX c "The word 'cannons', spoken by the robot/monster voice 'sally77', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'cannons', spoken by the robot/monster voice 'sally77', with a dry effect" s 44100
+D n 2 l 0:00.618 i 24
+F "Sally77 Fire   Dry.wav" 146318 0 1481710032 0
+D t "The word 'fire', spoken by the robot/monster voice 'sally77', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "sally77 - www.leevaudio.com" y 2015-09-03
+D g FX c "The word 'fire', spoken by the robot/monster voice 'sally77', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'fire', spoken by the robot/monster voice 'sally77', with a dry effect" s 44100
+D n 2 l 0:00.484 i 24
+F "Sally77 Game   Dry.wav" 149090 0 1481710031 0
+D t "The word 'game', spoken by the robot/monster voice 'sally77', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "sally77 - www.leevaudio.com" y 2015-09-03
+D g FX c "The word 'game', spoken by the robot/monster voice 'sally77', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'game', spoken by the robot/monster voice 'sally77', with a dry effect" s 44100
+D n 2 l 0:00.495 i 24
+F "Sally77 Trial   Dry.wav" 150022 0 1481710031 0
+D t "The word 'trial', spoken by the robot/monster voice 'sally77', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "sally77 - www.leevaudio.com" y 2015-09-03
+D g FX c "The word 'trial', spoken by the robot/monster voice 'sally77', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'trial', spoken by the robot/monster voice 'sally77', with a dry effect" s 44100
+D n 2 l 0:00.498 i 24
+F "Saw Ice 003.wav" 1864670 0 1481710520 0
+D y 2015-02-10 s 96000 n 2 r 1:00:08.000
+D l 0:03.231 i 24
+F "Sawblade Drop.wav" 541696 0 1488537048 0
+D y 2016-02-16 d "METAL TOOL HANDLING; A piece of sawblade being dropped on the ground." s 96000 n 2
+D r 0:16.471 l 0:00.939 i 24
+F "Scarab 34 T2 Ext Startup Approach Away Shutdown Shotgun M.wav" 32618914 0 1488537410 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Watercraft c "exterior startup approach away shutdown Neumann RSM191 shotgun wav"
+D d "exterior startup approach away shutdown Neumann RSM191 shotgun wav" s 96000 n 1 l 1:52.784
+D i 24 m 0
+F "Scarab 34 T2 Onbrd Startup Accels Shutdown Engine Back Wall.1.wav" 45307766 0 1488537405 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Watercraft c "onboard startup accelerations shutdown engine back wall wav"
+D d "onboard startup accelerations shutdown engine back wall wav" s 96000 n 1 l 2:36.842
+D i 24 m 0
+F "Scarab 34 T3 Onbrd Startup Blips Fast Accels Shutdown Floorboard Side.1.wav" 32144402 0 1488537523 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Watercraft c "onboard startup blips fast accels shutdown floorboard side wav"
+D d "onboard startup blips fast accels shutdown floorboard side wav" s 96000 n 2 l 0:55.568
+D i 24 m 0
+F "Scared Breath 12.wav" 663452 0 1488537046 0
+D s 96000 n 2 l 0:01.151 i 24
+F "Sci Fi - Starship Sub Amb.wav" 4245920 0 1488536465 0
+D s 44100 n 2 l 0:16.000 i 24
+F "Sci-Fi Metal Boiling Metal Spill 05.wav" 3378364 0 1481710513 0
+D y 2015-11-01 d "sci-fi metal, boiling molten metal spilled on hard surface" s 48000 n 2
+D l 0:11.727 i 24
+F "Sci-Fi Metal Deformation, Buckling And Melting 33.wav" 2526838 0 1481710512 0
+D y 2015-11-01 d "sci-fi metal deformation, destruction, buckling and melting" s 48000 n 2
+D l 0:08.770 i 24
+F "Sci-Fi Metal Destruction Tone, Vaporizing Metal, Cracking.wav" 1068292 0 1481710380 0
+D y 2015-11-01 d "sci-fi metal destruction tone, vaporizing metal plate, cracking" s 48000 n 2
+D l 0:03.706 i 24
+F "Sci-Fi Metal Impact, Steel Bulkhead Hit, Low 01.wav" 1510924 0 1481710488 0
+D y 2015-11-01 d "sci-fi metal impact, steel wall, bulkhead hit, low" s 48000 n 2
+D l 0:05.243 i 24
+F "Sci-Fi,Water,Hit,Punch,Impact,Bubbles,Granular,Set-B 16.wav" 4386396 0 1488537087 0
+D y 2016-10-13 s 96000 n 2 r 2:35.324
+D l 0:07.606 i 24
+F "Scifi Transition 11.wav" 899948 0 1481710364 0
+D y 2016-f÷-€“ d "whoosh, transition, fly by, pass by, movement, sci fi, futuristic, space ship" s 48000 n 2
+D r 5:12.048 l 0:02.533 i 24
+F "Scifi Transition 158.wav" 1439502 0 1481710259 0
+D y 2016- d "whoosh, transition, fly by, pass by, movement, sci fi, futuristic, space ship" s 48000 n 2
+D r 10:23.719 l 0:04.407 i 24
+F "Scifi Transition 172.wav" 1318480 0 1481710259 0
+D y 2016- d "whoosh, transition, fly by, pass by, movement, sci fi, futuristic, space ship" s 48000 n 2
+D r 4:53.647 l 0:03.986 i 24
+F "Scifi Transition 57.wav" 2142180 0 1481710502 0
+D y 2016- d "whoosh, transition, fly by, pass by, movement, sci fi, futuristic, space ship" s 48000 n 2
+D r 6:48.134 l 0:06.847 i 24
+F "Scream Frightened Male Bb 07 Scream Library Brfx-004.wav" 289156 0 1481710500 0
+D y 2010-12-22 d "Scream_Frightened_Male_BB_07_Scream Library_BRFX-004" s 96000 n 1
+D r 1:15:05.783 l 0:00.949 i 24
+F "Screwcap Plasticbottle 04 01.wav" 3885098 0 1488536818 0
+D y 2016-11-04 d "Screw Cap, Plastic Bottle, Open and Close, Screw the lid on and off" s 96000 n 2
+D r 7:24.535 l 0:06.741 i 24
+F "Screwdriver Screwing 4 Mono.wav" 1538404 0 1488537488 0
+D y 2016-03-21 d "screwdriver, servo, electric, wood, woodwork, screwing, working, mono" s 48000 n 1
+D r 23:30:09.751 l 0:07.148 i 24
+F "Screws Box Plastic Metal Shake Rattle Short Medium Long.wav" 38200290 0 1488537518 0
+D a Antisample b "Shakes and rattles" y 2016-06-19 g "Sound effects"
+D c "Shakes and rattles sound effects. Various objects being shaken." d "screw, screws, plastic box, full, shake, rattle, short, medium, long, close mic position, stereo  " s 96000 n 2
+D l 1:06.317 i 24
+F "Sculpture Edges Colinized St 114.wav" 8229808 0 1481710406 0
+D y 2015-07-0 s 96000 n 2 r 24:18.080
+D l 0:14.209 i 24
+F "Sculpture Edges Colinized St 19.wav" 6024010 0 1481710479 0
+D y 2015-07-0 s 96000 n 2 r 3:25.279
+D l 0:10.400 i 24
+F "Sculpture Protrusion Colinized St 95.wav" 7599824 0 1481710533 0
+D y 2015-07-0 s 96000 n 2 r 17:52.112
+D l 0:13.121 i 24
+F "Sculpture Springs Colinized St 58.wav" 8979418 0 1481710497 0
+D y 2015-07-0 s 96000 n 2 r 14:01.229
+D l 0:15.503 i 24
+F "Selection Ukelele Chord 04.wav" 2304730 0 1488536653 0
+D y 2016-02-05 s 96000 n 2 r 1:00:00.000
+D l 0:04.000 i 24
+F "Servo Motor Craftsman Drill 4.0V Small 04.wav" 298282 0 1481710437 0
+D d "Craftsman 4.0v Drill, Servo, Motor, Steady, Free Spin, Power, Electric, Small, Light, Tool" s 96000 n 1 l 0:01.010
+D i 24
+F "Sewing Machine 04 03.wav" 10944816 0 1488537305 0
+D t 160526_008 a "My Recording" y 2016-05-26 c 0000007D6750434D2D4431303000000000000000000102020001000101000000000000000000000001000000020000000000000000000000000102001401
+D d "Electric Sewing Machine, Idle, Start, Stop, Mechanics" s 96000 n 2 r 3:48.352
+D l 0:18.981 i 24
+F "Sf Sdb  Robot Electronic 01.wav" 4157062 0 1481710526 0
+D d "ROBOT activity" s 96000 n 2 l 0:01.764
+D i 24
+F "Sf Sdb  Spacecraft Landing 01.wav" 6857104 0 1481710526 0
+D d "SPACECRAFT reactor dark sub" s 96000 n 2 l 0:06.451
+D i 24
+F "Sf Sdb Atmo 10 Sci Fi Big Spaceship.wav" 22443742 0 1481710497 0
+D d "SCI FI LOW DRONE long low rumbling ramp noises atmosphere with magnetic stereo fields" s 96000 n 2 l 0:37.293
+D i 24
+F "Sf Sdb Whoosh 15 Space Vehicle.wav" 3976196 0 1481710501 0
+D y 02-1--2-15 d "whoosh robot vehicle" s 96000 n 2
+D l 0:03.976 i 24
+F "Sh101 Glass Break Pane 702T Fienup 004.wav" 581814 0 1488537056 0
+D t SH101_Glass_Break_Pane_702T_Fienup_004 a "David Fienup" c "glass, break, shatter, crash, smash, crack, drop, throw, impact, hit, window, pane, sheet, table, Soundopolis" d "glass, break, shatter, crash, smash, crack, drop, throw, impact, hit, window, pane, sheet, table, Soundopolis"
+D s 48000 n 2 l 0:02.016 i 24
+F "Sh101 Human Female Scream Alien Otherworldly Fienup 002.wav" 523516 0 1488537049 0
+D t SH101_Human_Female_Scream_Alien_OtherWorldly_Fienup_002 a "David Fienup" c "human, female, scream, terror, terrified, horror, scared, yell, shout, vocal, Soundopolis " d "human, female, scream, terror, terrified, horror, scared, yell, shout, vocal, Soundopolis "
+D s 48000 n 1 l 0:03.628 i 24
+F "Sh101 Sword Attack Hollywood Fienup 004.wav" 503930 0 1488537322 0
+D t "SH101_Sword Attack_Hollywood_Fienup_004" a "David Fienup" c "blade, axe, ax, hatchet, bayonet, machete, sword, knife, hit, impact, strike, metal, combat, fight, battle, war, body damage, Soundopolis" d "blade, axe, ax, hatchet, bayonet, machete, sword, knife, hit, impact, strike, metal, combat, fight, battle, war, body damage, Soundopolis"
+D s 48000 n 2 l 0:01.746 i 24
+F "Shake Clothing 001.wav" 353106 0 1481710477 0
+D y 2015-02-03 s 96000 n 2 r 1:00:00.000
+D l 0:00.610 i 24
+F Shaving,Electric,Differentpositions,Buzz,Close.wav 11825064 0 1481710537 0
+D a Soundreorganized b "Everyday Actions 1" y 2015-07-0 g "Sound Clip"
+D c www.soundreorganized.com d "This file is part of Everyday Actions 1 sound library produced by Soundreorganized, Mikko Kolehmainen in 2015" s 96000 n 1
+D r 25:20.307 l 0:40.992 i 24
+F "Short Bright 004.wav" 2367536 0 1481710373 0
+D y 2014-09-22 s 96000 n 2 r 1:00:18.000
+D l 0:04.103 i 24
+F "Short Crumple 02.wav" 901832 0 1481710526 0
+D t "Short Crumple 02" a "Nikhil Kamble" b "Paper Sounds" g "Sound effects"
+D s 48000 n 2 l 0:03.130 i 24
+F "Short Med 003.wav" 3352242 0 1481710481 0
+D y 2014-09-22 s 96000 n 2 r 1:00:00.000
+D l 0:05.811 i 24
+F "Sick6 Stinger Beast 15.wav" 635458 0 1481710415 0
+D a Soundiron y "October 24, 2015" g Horror d "gory ripping splattering glitch and degraded stingers stabs and impacts with creature growling"
+D s 48000 n 2 l 0:02.187 i 24
+F "Sick6 Stinger Cellone 02.wav" 2914300 0 1481710417 0
+D a Soundiron y "October 24, 2015" g Horror d "heavy slightly glitchified percussive boomers with a subterranean quality"
+D s 48000 n 2 l 0:10.100 i 24
+F "Sick6 Stinger Elder-Gods 04.wav" 3267328 0 1481710450 0
+D a Soundiron y "October 24, 2015" g Horror d "darkly ancient and foreboding boomers with gong horn and bell tones"
+D s 48000 n 2 l 0:11.326 i 24
+F "Sick6 Stinger Entropic Swell M 13.wav" 4896296 0 1481710450 0
+D a Soundiron y "October 24, 2015" g Horror d "medium - dark electronic sci-fi effects that swell in and fade out"
+D s 48000 n 2 r 0:00.016 l 0:16.981
+D i 24
+F "Sig P229 9Mm 1M Left On Ground Dpa4062 Clean Triple Shots X 2.wav" 1598882 0 1481709935 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, etc and wild foley." s 96000 n 1 r 2:21.066
+D l 0:05.270 i 24
+F "Sig P229 9Mm 50M Behind Ehrlund R1 Clean Triple Shots X 2.wav" 1598834 0 1481710256 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, etc and wild foley." s 96000 n 1 r 2:21.066
+D l 0:05.270 i 24
+F "Signal Interference 05.wav" 34898858 0 1488537498 0
+D t "Signal Interference 05" d "No-Input Mixer, Feedback Loop, Interference, Glitch, Malfunction" s 96000 n 2
+D l 1:00.586 i 24
+F "Signal Interference 14.wav" 34608736 0 1488537492 0
+D t "Signal Interference 14" d "No-Input Mixer, Feedback Loop, Interference, Glitch, Malfunction" s 96000 n 2
+D l 1:00.082 i 24 m 14
+F "Signal Interference 19.wav" 34618636 0 1488537505 0
+D t "Signal Interference 19" d "No-Input Mixer, Feedback Loop, Interference, Glitch, Malfunction" s 96000 n 2
+D l 1:00.099 i 24 m 19
+F "Signal Interference 38.wav" 34632622 0 1488537508 0
+D t "Signal Interference 38" d "No-Input Mixer, Feedback Loop, Interference, Glitch, Malfunction" s 96000 n 2
+D l 1:00.124 i 24 m 38
+F "Signum source composite impact 2.wav" 648850 0 1481710511 0
+D t "Signum Source Composite Impact 2" a PACEFX y 2015-09-15 g "Sound Design"
+D c "Future, Sci-fi, Glitch, Dark, Layer, Composite, Abstract, Sub" s 48000 n 2 l 0:03.375
+D i 16
+F "Signum source synth impact high-pitched 5.wav" 864882 0 1481710512 0
+D t "Signum Source Synth Impact High-pitched 5" a PACEFX y 2015-09-15 g "Sound Design"
+D c "Future, Sci-fi, Glitch, Dark, Layer, Synth, Abstract, Impact" s 48000 n 2 l 0:04.500
+D i 16
+F "Signum Value rjhy.wav" 1008764 0 1481710505 0
+D t "Signum Value Rjhy" a PACEFX y 2015-09-15 g "Sound Design"
+D c "Future, Sci-fi, Glitch, Dark, Designed, Synth, Abstract" s 48000 n 2 l 0:05.250
+D i 16
+F "Signum Value xzvz.wav" 1104764 0 1481710512 0
+D t "Signum Value Xzvz" a PACEFX y 2015-09-15 g "Sound Design"
+D c "Future, Sci-fi, Glitch, Dark, Designed, Synth, Abstract" s 48000 n 2 l 0:05.750
+D i 16
+F "Simple Tone 43.wav" 3086022 0 1481710491 0
+D y 2015-09-29 d "sci-fi, futuristic, interface, ui, hud, button, slider, switch, bleep" s 48000 n 1
+D l 0:00.749 i 24
+F "Sinister Moment 001.wav" 5292144 0 1488537522 0
+D s 44100 n 2 l 0:20.000 i 24
+F "Six Rally Shots.wav" 4032044 0 1488537277 0
+D s 96000 n 2 l 0:07.000 i 24
+F "Skoda Octavia 1.6 T1 Onboard Start Stop Idle Blip Steadies Exhaust Catalysator.wav" 54360454 0 1481710535 0
+D d "Skoda Octavia 1.6 liters 2008 4 cylinder 102 hp onboard start stop idle blip steadies Exhaust Catalysator Zaxcom wav" s 96000 n 1 r 2:53.506
+D l 3:08.392 i 24
+F skratchexplosion.wav 337014 0 1129393142 0
+D y 2005-10-15 s 44100 n 2 l 0:01.909
+D i 16
+F skratchexplosion2.wav 620766 0 1129393738 0
+D y 2005-10-15 s 44100 n 2 l 0:03.517
+D i 16
+F "Slaughter Swell 03.wav" 2324056 0 1488537383 0
+D d "Atmosphere, Soundscape, Horror, Tension, Haunted, Surreal, Swell" s 96000 n 2 l 0:04.033
+D i 24
+F "Slide Whistle Down 1.Wav" 302864 0 1200106162 0
+D s 44100 n 1 l 0:03.432 i 16
+F "Slide Whistle Down 2.Wav" 359524 0 1200106164 0
+D s 44100 n 1 l 0:04.074 i 16
+F "Slide Whistle Up 1.Wav" 161766 0 1200106164 0
+D s 44100 n 1 l 0:01.832 i 16
+F "Slide Whistle Up 2.Wav" 150272 0 1200106164 0
+D s 44100 n 1 l 0:01.702 i 16
+F "Slidewhistle Bwu.159.wav" 541210 0 1372263286 0
+D y 2011-12-05 d "Musical, Slide, Whistle, Ascend" s 96000 n 2
+D l 0:00.931 i 24
+F "Slidewhistle Bwu.162.wav" 488596 0 1372263288 0
+D y 2011-12-05 d "Musical, Slide, Whistle, Descend" s 96000 n 2
+D l 0:00.840 i 24
+F "Small Gear 13 Plastic Metal Slow.wav" 20895600 0 1488537507 0
+D d "small gear plastic metal slow mechanism cog ratchet pinion" s 96000 n 1 l 1:12.494
+D i 24
+F "Small Gear 15 Plastic Fast.wav" 15908944 0 1488537535 0
+D d "small gear plastic fast mechanism cog ratchet pinion creaky squeaky" s 96000 n 1 l 0:55.179
+D i 24
+F "Small Wood Pile, Smash.wav" 753496 0 1488536326 0
+D y 2016-02-16 d "WOOD PILE; A smashing hit, impact in a small pile of wooden sticks. Smash." s 96000 n 2
+D r 2:05.386 l 0:01.306 i 24
+F "Smoldering Metal In Water Bucket 08.wav" 8067018 0 1488537029 0
+D y 2016-12-16 d "Blacksmith, Smoldering Glowing Metal in Water Bucket" s 192000 n 2
+D r 0:40.598 l 0:06.993 i 24
+F "Sneaker Plastic Floor Mat Footstep Walking.wav" 9571330 0 1481710514 0
+D y 2015-05-08 s 48000 n 1 r 2:03:06.360
+D l 1:05.421 i 24
+F "Snow Ambience Wind Strong 08 Gusty.wav" 31155518 0 1481710515 0
+D g Nature d "Snow & Ice ambience wind strong 08 gusty Sound Devices 702 Schoeps CMC6 wav" s 96000 n 2
+D r 1:08:30.949 l 0:53.946 i 24
+F "Snow Details Ski Drop 02.wav" 711566 0 1481709478 0
+D g Nature d "Snow & Ice foley ski drop 02 wav" s 96000 n 2
+D r 1:12:15.378 l 0:01.093 i 24
+F "Snow Skiing Rougher Slalom Groomed Runs Harder Surface 03 Handheld.wav" 13373474 0 1481710535 0
+D g Nature d "Snow & Ice skiing rougher slalom groomed runs harder surface 03 Sound Devices 702 handheld wav" s 96000 n 2
+D r 1:02:34.570 l 0:23.074 i 24
+F "Socks Linoleum Foot Scrape Stomp Struggle Fighting Being Put In A Reversed Choke Hold Ground Work.wav" 4935394 0 1481710514 0
+D y 2015-05-08 s 48000 n 1 r 2:18:43.120
+D l 0:33.728 i 24
+F "Socks Wood Deck Footstep Sudden Fast Movement Fight Struggle Psych Out.wav" 7364742 0 1481710530 0
+D y 2015-05-08 s 48000 n 1 r 1:18:07.813
+D l 0:50.336 i 24
+F "Soda Siphon-2 01 Ntg-2.wav" 2896836 0 1481710506 0
+D d "siphon, liquid, pour, soda, shoot, sizzle" s 48000 n 1 l 0:20.098
+D i 24
+F "Son The Rustle 004 - Grass Rustling Heavy.wav" 45046838 0 1481710502 0
+D y 0000-00-0 d "Grass Rustling Heavy" s 96000 n 2
+D r 13:38:47.285 l 1:18.197 i 24
+F "Son The Rustle 018 - Bundle Of Large Dry Bamboo Leaves Shaken.wav" 23334142 0 1481710456 0
+D y 0000-00-0 d "Bundle Of Large Dry Bamboo Leaves Shaken" s 96000 n 2
+D r 14:01:54.272 l 0:40.501 i 24
+F "Son The Rustle 030 - Large Thick Hedge Leaves Slapped Against Each Other.wav" 45787382 0 1481710528 0
+D y 0000-00-0 d "Large Thick Hedge Leaves Slapped Against Each Other" s 96000 n 2
+D r 10:48:47.753 l 1:19.482 i 24
+F "Son The Rustle 054 - Bamboo Field In Wind.wav" 168400014 0 1481710536 0
+D y 2014-12-2 d "Bamboo Field In Wind" s 96000 n 2
+D r 14:27:12.661 l 4:52.352 i 24
+F "Sound Sculpture, Edge 44.wav" 14029806 0 1488537511 0
+D y 0000-00-0 d "A dragging metallic shriek." s 192000 n 1
+D r 1:15:42.045 l 0:18.140 i 32
+F "Sound Sculpture, Hanger 109.wav" 12884942 0 1488537504 0
+D y 2016-04-0 d "A dragging fluttering metallic groan." s 192000 n 1
+D r 1:41:56.220 l 0:16.650 i 32
+F "Sound Sculpture, Hanger 78.wav" 9636270 0 1488536884 0
+D y 2016-03-0 d "A strained metallic groan." s 192000 n 1
+D r 1:30:33.840 l 0:12.420 i 32
+F "Sound Sculpture, Spring 47.wav" 5923094 0 1488537081 0
+D y 2016-05-0 d "A dragging wandering metallic wail." s 192000 n 1
+D r 1:14:14.029 l 0:07.585 i 32
+F "South Pacific, Exterior, Atmosphere, Desert Island Sea Wash Light, Distant Crickets.wav" 20453454 0 1481710472 0
+D y 2014-07-1 s 48000 n 2 r 7:45:04.090
+D l 1:45.679 i 16
+F "Soviet Elevator Door Close 001.wav" 1586046 0 1488537279 0
+D y 2016-02-23 d "sNOTE=elevator, door, close, manual, mechanical, soviet, 1960s, 1960, 60s, retro, vintage,  " s 96000 n 2
+D r 1:00:00.753 l 0:02.730 i 24
+F "Space Lift Door 02.wav" 2046142 0 1488537382 0
+D t "Space Lift Door 02" a "The Sound Pack Tree" b "Futuristic Doors" y 2016-07-11
+D g "Sound Effects" d "5366 access admission atmosphere cargo dimension doorway down electric electronic elevate elevator entrance entry extraterrestrial fiction future futuristic gate infinity knob lift movement passage room sci-fi science transportation unlock up" s 96000 n 2
+D l 0:03.500 i 24 m 5366
+F "Spacecraft Bay Door Lock Down Large 01.wav" 2970386 0 1481710478 0
+D d "Spacecraft, Spaceship, Spacelock, Space Lock, Engine Bay Door, Lock Down, Latch, Couple Sequence, Close, Metallic, Science Fiction" s 96000 n 2 l 0:05.118
+D i 24
+F "Spaces - Alien Soundscape 02.wav" 37172098 0 1488537464 0
+D d "ambience, background, bg, sci-fi, space, spaces, drone, science fiction, amb, room tone, soundmorph, alien, soundscape" s 96000 n 2 r 1:06:40.000
+D l 1:04.326 i 24
+F "Spaces - Deep Space Rumble 01.wav" 32391748 0 1488537512 0
+D d "ambience, background, bg, sci-fi, space, spaces, drone, science fiction, amb, room tone, soundmorph, rumble, low" s 96000 n 2 r 1:16:16.196
+D l 0:56.027 i 24
+F "Spaces - Generator 08.wav" 41736064 0 1488537468 0
+D d "ambience, background, bg, sci-fi, space, spaces, drone, science fiction, amb, room tone, soundmorph, generator, power" s 96000 n 2 r 59:59.780
+D l 1:12.250 i 24
+F "Spaces - Space Explosions 01.wav" 54264192 0 1488537529 0
+D d "ambience, background, bg, sci-fi, space, spaces, drone, science fiction, amb, room tone, soundmorph, atmostphere, distant, explosion, explode" s 96000 n 2 r 1:07:44.000
+D l 1:34.000 i 24
+F "Spaceship Heavy Pass By.aif" 64507066 0 1505994829 0
+D s 96000 n 2 l 1:51.978 i 24
+F "Spas-12 12G Solid Slug 1M Right Mkh8040 1 Clean Double Shots X 1.wav" 845456 0 1481710447 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters,  big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, quintuple shots and wild foley." s 96000 n 1 l 0:02.653
+D i 24
+F "Spas-12 12G Solid Slug 50M Behind Ehrlund R1 Clean Double Shots X 1.wav" 845448 0 1481710447 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters,  big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, quintuple shots and wild foley." s 96000 n 1 l 0:02.653
+D i 24
+F "Spdr - Jupiter - Massive, Heavy Wind, Big.wav" 45148228 0 1488537486 0
+D y 2016-12-07 d "SPACE DRONES INTERSTELLAR; Jupiter, Massive, Heavy Wind, Big" s 44100 n 2
+D r 2:53.885 l 2:50.625 i 24
+F "Spdr - Mercury - Solar Wind, Eruption, Pulsating.wav" 31676794 0 1488537527 0
+D y 2016-12-07 d "SPACE DRONES INTERSTELLAR; Mercury, Solar Wind, Eruption, Pulsating" s 44100 n 2
+D r 36:19.350 l 1:59.712 i 24
+F "Spdr - Space Chatter 4 - Radio, Mission Control.wav" 24495418 0 1488537525 0
+D y 2016-12-07 d "SPACE DRONES INTERSTELLAR; Space Chatter 4, Radio, Mission Control" s 44100 n 2
+D r 28:19.159 l 1:32.572 i 24
+F "Spdr - Venus - Evil, Harsh Winds, Extreme Weather.wav" 33674302 0 1488537516 0
+D y 2016-12-07 d "SPACE DRONES INTERSTELLAR; Venus, Evil, Harsh Winds, Extreme Weather" s 44100 n 2
+D r 39:11.726 l 2:07.262 i 24
+F "Spitfire Mark Xix-03.wav" 49592770 0 1481710517 0
+D y 2016-02-12 d "Spitfire flys over head and performs maneuvers at a medium distance." s 96000 n 2
+D r 44:21.034 l 1:23.029 i 24
+F "Splatter Splat 153.wav" 511114 0 1481710448 0
+D y 2015-12-31 d "Flesh Splat, Splatter, Blood, Gore, Guts, Hit, Eating" s 96000 n 1
+D r 19:41.866 l 0:01.768 i 24
+F "Sprinkle Flour On Surface 001.wav" 2645716 0 1481710452 0
+D y 2014-08-21 s 96000 n 2 r 1:00:00.000
+D l 0:04.585 i 24
+F "SStethoscope Chest Heart Heartbeat Blood Flow A.wav" 18228668 0 1481710414 0
+D g Medical d "Isolated beating sounds of the human heart, recorded by placing a stethoscope on the lower chest." s 96000 n 1
+D l 1:02.982 i 24
+F "SStethoscope Chest Lungs Breathing Slow Low.wav" 9160752 0 1481710498 0
+D g Medical d "Slow breathing sounds of the human lungs, recorded by placing a stethoscope on the upper chest." s 96000 n 1
+D l 0:31.497 i 24
+F "Stab Dark Creak Groan.wav" 2809144 0 1439163210 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:15.923
+D i 16
+F "Stab Punch Hit 136.wav" 159390 0 1481710448 0
+D y 2015-12-30 d "Hit, Gore, Kill, Skull Smash, Bloody, Stabbing, Strike, Splat" s 96000 n 1
+D r 3:26.466 l 0:00.545 i 24
+F "Stab Scrape 01.wav" 1115266 0 1439161796 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.321
+D i 16
+F "Stab Scrape 02.wav" 2228292 0 1439161401 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.631
+D i 16
+F "Starburst Tinkle.wav" 2106964 0 1439161204 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.943
+D i 16
+F "Starship Door Access 04.wav" 1742730 0 1488536686 0
+D t "Starship Door Access 04" a "The Sound Pack Tree" b "Futuristic Doors" y 2016-07-11
+D g "Sound Effects" d "5382 accept access admission aliens card code doorway enter entrance entry fiction future futuristic gate grant knob open passage permission permit rocket room sci-fi space spacecraft spaceship starship unlock" s 96000 n 2
+D l 0:02.974 i 24 m 5382
+F "Start Go Away Megane Rs.wav" 1118990 0 1481710240 0
+D y 2014-09-09 s 48000 n 1 r 17:53:12.488
+D l 0:11.285 i 16
+F "Steel Frame Dragged Long 03.wav" 12589302 0 1488537293 0
+D y 2015-11-17 d "metal movement, steel frame dragged, continuous" s 48000 n 2
+D l 0:43.709 i 24
+F "Stepping On Ice 1.wav" 5616044 0 1481710487 0
+D s 96000 n 2 l 0:09.750 i 24
+F "Steyr Tmp 9Mm 1M Right Cs3 Clean Double Shots X 1.wav" 756200 0 1481709408 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 l 0:02.333
+D i 24
+F "Steyr Tmp 9Mm 30M In Front Off Axis Clean Double Shots X 1.wav" 1439480 0 1481710377 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 2 l 0:02.333
+D i 24
+F "Stick Hit-07 - Defend.M.wav" 123854 0 1481710515 0
+D y 2014-09-27 c "STICK - Fight - Wood - STICK HIT-07 - DEFEND" d "STICK - Fight - Wood - STICK HIT-07 - DEFEND" s 48000
+D n 1 r 1:10:42.476 l 0:00.800 i 24
+D m 0
+F "Stick Hit-13 - Wild.M.wav" 129972 0 1481710515 0
+D y 2014-09-27 c "STICK - Fight - Wood - STICK HIT-13 - WILD" d "STICK - Fight - Wood - STICK HIT-13 - WILD" s 48000
+D n 1 r 1:11:11.856 l 0:00.842 i 24
+D m 0
+F "Stick-07 - Slide.M.wav" 136072 0 1481710516 0
+D y 2014-09-27 c "STICK - Fight - Wood - STICK-07 - SLIDE" d "STICK - Fight - Wood - STICK-07 - SLIDE" s 48000
+D n 1 r 1:10:43.977 l 0:00.885 i 24
+D m 0
+F "Stinger Swell 01.wav" 1234158 0 1439161151 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.995
+D i 16
+F "Stinger Swell 02.wav" 1533514 0 1439161265 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.692
+D i 16
+F "Stinger Swell 03.wav" 2336488 0 1439161313 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:13.244
+D i 16
+F "Stream 4.wav" 139104044 0 1488537310 0
+D s 96000 n 2 l 4:01.500 i 24
+F "Styrofoam - Pile Of Styrofoam, Handling, Drop, Long Tail 07.wav" 873418 0 1488536904 0
+D y 2016-03-16 d "DEBRIS JUNK FOLEY; Pile of styrofoam, drop, dropping, handling, long tail." s 192000 n 1
+D r 5:02.454 l 0:01.515 i 24
+F "Sugar Into Cardboard Cup-012.wav" 692914 0 1488536717 0
+D y 2017-01-30 d "Foley, Groat" s 96000 n 1
+D l 0:02.402 i 24
+F "Sw001 8-Bit-Games-017 Explosion.wav" 190584 0 1481710442 0
+D y 2014-07-24 g Games c "Retro 8bit Game Lofi Explosion" d "Retro 8bit Game Lofi Explosion"
+D s 48000 n 1 l 0:00.736 i 24
+D m 0
+F "Sw001 8-Bit-Games-163 Pickup Coin.wav" 115346 0 1481710442 0
+D y 2014-07-24 g Games c "Retro 8bit Game Lofi Pickup Coin" d "Retro 8bit Game Lofi Pickup Coin"
+D s 48000 n 1 l 0:00.213 i 24
+D m 0
+F "Sw003 Robot Voices Creature 24 Robot Speaking Talking Gibberish Babbling Low Register Constant Pitch.wav" 30214682 0 1481710464 0
+D y 2014-09-06 g Creatures c "Robot Speaking, Talking Gibberish, Babbling, Low Register, Constant Pitch" d "Robot Speaking, Talking Gibberish, Babbling, Low Register, Constant Pitch"
+D s 96000 n 2 l 0:52.229 i 24
+D m 0
+F "Sw003 Robot Voices Creature 36 Robot Speaking Talking Gibberish Babbling Medium Register Cute Constant Pitch.wav" 26995316 0 1481710547 0
+D y 2014-09-06 g Creatures c "Robot Speaking, Talking Gibberish, Babbling, Medium Register, Cute, Constant Pitch" d "Robot Speaking, Talking Gibberish, Babbling, Medium Register, Cute, Constant Pitch"
+D s 96000 n 2 l 0:46.640 i 24
+D m 0
+F "Sw005 Planets 08 Imaginary Field Recording Made On A Distant Planet Buzzing Entrance Of Cave.wav" 60257366 0 1481710542 0
+D a "Shaping Waves - http://shapingwaves.com" d "Imaginary field recording made on a distant planet, buzzing, entrance of cave" s 96000 n 2
+D l 1:44.371 i 24
+F "Sw005 Planets 16 Imaginary Field Recording Made On A Distant Planet Distant Perspective Watery Sounds Low Frequency Eruptions.wav" 97956904 0 1481710547 0
+D a "Shaping Waves - http://shapingwaves.com" d "Imaginary field recording made on a distant planet, distant perspective, watery sounds, low frequency eruptions" s 96000 n 2
+D l 2:49.810 i 24
+F "Sw006 Quadcopter Engine Right Constant Coilmic.wav" 22610336 0 1481710537 0
+D y 2014-09-28 g Aircraft c "DJI Phantom 2 quadcopter drone, engine closeup, engine right, constant, coilmic" d "DJI Phantom 2 quadcopter drone, engine closeup, engine right, constant, coilmic"
+D s 48000 n 2 l 1:18.357 i 24
+D m 0
+F "Sw006 Quadcopter Engine Right Turn Constant Mkh8040.wav" 23866846 0 1481710464 0
+D y 2014-09-28 g Aircraft c "DJI Phantom 2 quadcopter drone, engine closeup, engine right turn, constant, MKH 8040" d "DJI Phantom 2 quadcopter drone, engine closeup, engine right turn, constant, MKH 8040"
+D s 48000 n 2 l 1:22.720 i 24
+D m 0
+F "Sw007 Circuits 006 Electric Hum Buzz Beeps.wav" 36752466 0 1481710473 0
+D d "Buzzy and noisy humming" s 96000 n 2 l 1:03.525
+D i 24
+F "Sw007 Circuits 009 Electric Hum Buzz Noisy.wav" 37145546 0 1481710548 0
+D d "Buzzing and humming sound of electricity, with medium frequency hum and high frequency noise." s 96000 n 2 l 1:04.208
+D i 24
+F "Sw008 Wendland Autumn Open Field Big Goose Swarm Passing Overhead Light Wind.wav" 70588136 0 1481710525 0
+D d "Open field ambience, Swarm of goose getting closer and passing closeup overhead,  Afternoon, With distant traffic, Recorded in the Wendland region of Germany in Autumn. " s 96000 n 2 l 2:02.411
+D i 24
+F "Sw008 Wendland Autumn Wind Storm Inside Undergrowth Bush.wav" 184683362 0 1481710530 0
+D d "Wind ambience, Inside bushes, Howling resonance, Stormy wind with closeup leaves and reeds rustling, low rumbling,  Recorded in the Wendland region of Germany in Autumn." s 96000 n 2 l 5:20.494
+D i 24
+F "Sw010 New York City Room Tone Lower Eastside Window.WAV" 242659960 0 1481710523 0
+D d "Afternoon roomtone in Lower Eastside appartment, Next to window, Loud traffic, AC running. " s 96000 n 2 l 7:00.945
+D i 24
+F "Sw011 Alarms Construction-Kit-Element 081.wav" 212726 0 1481710449 0
+D d "Construction kit: Loopable alarm sound element" s 96000 n 2 l 0:00.324
+D i 24
+F "Sw011 Alarms Siren High-Pitch Constant-Tone High-Rate 8.wav" 38601582 0 1481710524 0
+D d "Siren, Simple, High pitch, Constant tone, High rate, Pitch modulation upwards" s 96000 n 2 l 1:06.970
+D i 24
+F "Swell Metallic Ring 02.wav" 4567790 0 1481710542 0
+D y 2011-05-04 d "Stinger, Rise, Swell, Transition, Metallic Ring, SciFi, Horror, Bottle Rocket Fx, BRFX-005" s 96000 n 2
+D r 3:15:53.853 l 0:07.919 i 24
+F "Switch On 042.wav" 391856 0 1481710544 0
+D y 2015-06-02 s 96000 n 2 r 1:00:00.000
+D l 0:00.678 i 24
+F "Swoosh Rope Whip 075.wav" 1154540 0 1481710448 0
+D t "Short Whoosh Design-03" y 2016-01-14 d "Whoosh, Swoosh, Rope, Whip, Swing" s 192000
+D n 2 r 1:21:42.993 l 0:00.998 i 24
+F "Synth Zap_Impact.wav" 326436 0 1439161571 0
+D a "Apple Inc." s 44100 n 2 l 0:01.850
+D i 16
+F "Synthetic Hit 002.wav" 2646144 0 1488536993 0
+D s 44100 n 2 l 0:10.000 i 24

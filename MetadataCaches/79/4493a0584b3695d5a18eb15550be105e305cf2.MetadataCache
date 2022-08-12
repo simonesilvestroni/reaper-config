@@ -1,0 +1,12 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Alfa Romeo 4C 2016"
+F Alfa_4C_t11_ext_passbys_gearchanges_approach_stop_RSM191.wav 124036858 0 1583869094 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior passbys gearchanges approach stop Neumann RSM191 at car starting point wav"
+D d "exterior passbys gearchanges approach stop Neumann RSM191 at car starting point wav" s 96000 n 2 l 3:35.040
+D i 24 m 0
+F Alfa_4C_t16_onbrd_foley_horn_DPA4061_interior.wav 11217074 0 1583869059 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "onboard foley horn DPA4061 interior wav"
+D d "onboard foley horn DPA4061 interior wav" s 96000 n 2 l 0:19.173
+D i 24 m 0
+F Alfa_Romeo_159_SW_t1_onboard_startup_idle_blip_steadies_shutdown_Engine_1.wav 68810058 0 1583869095 0
+D d "Alfa Romeo 159 Sportwagon -10 3.2 liters V6 260 hp onboard startup idle blip steadies shutdown Engine 1 wav" s 96000 n 1 l 3:58.539
+D i 24

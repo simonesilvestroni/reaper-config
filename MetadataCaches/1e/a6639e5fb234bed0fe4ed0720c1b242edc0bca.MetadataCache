@@ -1,0 +1,37 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Berlin Beat/Kit05(130BPM)"
+F Kit05_Beat_Full(130BPM).wav 651460 0 1305242778 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Beat_Kick_Loop(130BPM).wav 651460 0 1305242770 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Beat_Loop(130BPM).wav 651460 0 1305242760 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Beat_NoKick(130BPM).wav 651460 0 1305242750 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Beat_NoLoop(130BPM).wav 651460 0 1305242738 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Beat_Stripped_NoLoop(130BPM).wav 651460 0 1305242732 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_FullMix(130BPM).wav 651460 0 1305242722 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Fx-Wobble.wav 285092 0 1305242686 0
+D a "The Groove Criminals" s 44100 n 2 l 0:01.615
+D i 16
+F Kit05_Mix_Kick(130BPM).wav 651460 0 1305242712 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Mix_Kick_Loop(130BPM).wav 651460 0 1305242704 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_Mix_NoDrums(130BPM).wav 651460 0 1305242676 0
+D a "The Groove Criminals" s 44100 n 2 l 0:03.692
+D i 16
+F Kit05_SynthAtmos.wav 816732 0 1305242796 0
+D a "The Groove Criminals" s 44100 n 2 l 0:04.629
+D i 16

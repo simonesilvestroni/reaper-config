@@ -1,0 +1,99 @@
+/*
+JSFX Name: RCInflator
+Author: RCJacH
+Release Date: Aug 2021
+Link:
+  https://github.com/RCJacH/ReaScripts
+  https://forum.cockos.com/showthread.php?t=256286
+Version: 0.6
+Reference:
+  tviler
+  sai'ke
+  Sony Oxford
+  samu4199
+About:
+  JSFX implementation of Sony Oxford Inflator algorithm,
+  found on Gearspace.
+Changelog:
+  * v0.6 (2021-08-15)
+    + Refactor integers to floats
+    + Clip dry signal before summing
+  * v0.5.4 (2021-08-15)
+    + Match slider range and steps to the original
+  * v0.5.3 (2021-08-15)
+    + Applies second clipping before output gain
+  * v0.5.2 (2021-08-13)
+    + Applies in/output gain to dry signal
+    + Refactor for less CPU usage
+  * v0.5.1 (2021-08-13)
+    * Fix unsymmetrical waveshaping
+  * v0.5 (2021-08-13)
+    + Refactor code
+    + Add absolute clipping at 6dB.
+    + Add waveshapeOvershoot
+  * v0.4 (2021-08-13)
+    + Accurate decibel to float conversion.
+    + Wrap waveshaper above 0dB.
+    + Refactor waveshaper into function.
+  * v0.3 (2021-08-11)
+    + Apply waveshaper symmetrically.
+    * Fix sign Error.
+  * v0.2 (2021-08-09)
+    * Cleaned up code.
+  * v0.1 (2021-02-06)
+    + Initial alpha release.
+*/
+
+desc:RCInflator
+
+slider1:0<-6, 12, 0.01>Input (dB)
+slider2:100<0, 100, 0.1>Effect (%)
+slider3:curve=0<-50, 50, 0.1>Curve
+slider4:clip=0<0,1,1{Off,On}>Clip
+slider5:0<-12, 0, 0.01>Output (dB)
+
+@init
+function process(in)
+local(s, s_2, s_3, out)
+global(curveA, curveB, curveC, curveD,
+    clip, dry, dry2, in_db, out_db, wet)
+(
+  in *= in_db;
+  s = abs(in);
+  clip && s > 1.0 ? s = 1.0;
+  s_2 = s * s;
+  s_3 = s_2 * s;
+  s = (s >= 2.0) ? (
+    0.0
+  ) : s > 1.0 ? (
+    2.0 * s - s_2
+  ) : (
+    curveA * s + curveB * s_2 + curveC * s_3 - curveD * (s_2 - 2.0 * s_3 + s_2 * s_2)
+  );
+
+  out = sign(in) * s * wet + min(max(in * dry, -dry2), dry2);
+  clip ? out = max(-1.0, min(1.0, out));
+  out * out_db
+);
+
+@slider
+in_db = exp(0.11512925464970229 * slider1);
+wet = slider2 * 0.01;
+dry = 1.0 - wet;
+dry2 = dry * 2.0;
+out_db = exp(0.11512925464970229 * slider5);
+
+curvepct = curve * 0.01;
+// 1 + (curve + 50) / 100
+curveA = 1.5 + curvepct;
+// - curve / 50
+curveB = -(curvepct + curvepct);
+// (curve - 50) / 100
+curveC = curvepct - 0.5;
+// 1 / 16 - curve / 400 + curve ^ 2 / (4 * 10 ^ 4)
+curveD = 0.0625 - curve * 0.0025 + (curve * curve) * 0.000025;
+
+@sample
+
+spl0 = process(spl0);
+spl1 = process(spl1);

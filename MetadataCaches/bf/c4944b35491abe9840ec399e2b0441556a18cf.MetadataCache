@@ -1,0 +1,16 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Wellcraft Scarab 34_"
+F Scarab_34_t2_ext_startup_approach_away_shutdown_shotgun_M.1.wav 32618914 0 1583869063 0
+F Scarab_34_t2_ext_startup_approach_away_shutdown_shotgun_M.wav 32618914 0 1583869095 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Watercraft c "exterior startup approach away shutdown Neumann RSM191 shotgun wav"
+D d "exterior startup approach away shutdown Neumann RSM191 shotgun wav" s 96000 n 1 l 1:52.784
+D i 24 m 0
+F Scarab_34_t2_onbrd_startup_accels_shutdown_engine_back_wall.1.wav 45307766 0 1583869010 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Watercraft c "onboard startup accelerations shutdown engine back wall wav"
+D d "onboard startup accelerations shutdown engine back wall wav" s 96000 n 1 l 2:36.842
+D i 24 m 0
+F Scarab_34_t2_onbrd_startup_accels_shutdown_engine_back_wall.wav 45307766 0 1583869023 0
+F Scarab_34_t3_onbrd_startup_blips_fast_accels_shutdown_floorboard_side.1.wav 32144402 0 1583869015 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Watercraft c "onboard startup blips fast accels shutdown floorboard side wav"
+D d "onboard startup blips fast accels shutdown floorboard side wav" s 96000 n 2 l 0:55.568
+D i 24 m 0
+F Scarab_34_t3_onbrd_startup_blips_fast_accels_shutdown_floorboard_side.wav 32144402 0 1583869093 0

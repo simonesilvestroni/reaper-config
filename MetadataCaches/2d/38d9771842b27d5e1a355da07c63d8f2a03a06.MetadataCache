@@ -1,0 +1,20 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Judd Madden acoustic kit/China"
+F "China 1.wav" 1199564 0 1417771190 0
+D s 44100 n 2 l 0:03.400 i 32
+F "China 2.wav" 1411244 0 1417771204 0
+D s 44100 n 2 l 0:04.000 i 32
+F "China 3.wav" 1764044 0 1417771216 0
+D s 44100 n 2 l 0:05.000 i 32
+F "China 4.wav" 1781316 0 1417771228 0
+D s 44100 n 2 l 0:05.048 i 32
+F "China Bell.wav" 882044 0 1417771174 0
+D s 44100 n 2 l 0:02.500 i 32
+F "China Mute 1.wav" 636790 0 1417769448 0
+D s 44100 n 2 r 10:26.768 l 0:01.800
+D i 32
+F "China Mute 2.wav" 707350 0 1417769454 0
+D s 44100 n 2 r 10:32.601 l 0:02.000
+D i 32
+F "China Mute 3.wav" 594604 0 1417769470 0
+D s 44100 n 2 r 10:37.816 l 0:01.680
+D i 32

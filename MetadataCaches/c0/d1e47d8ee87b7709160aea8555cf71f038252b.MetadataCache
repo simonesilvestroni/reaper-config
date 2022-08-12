@@ -1,0 +1,229 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - GORE"
+F "BELL PEPPERS_CAD89800.wav" 12646316 0 1584373534 0
+D t "BELL PEPPERS" a - b - y 2019-11-14
+D g Foley c "BELL PEPPERS - Crushing, Twisting Breaks, Smash, Gore, Bone Crunch, Break " d "BELL PEPPERS - Crushing, Twisting Breaks, Smash, Gore, Bone Crunch, Break " p -
+D k - s 96000 n 2 r 58:48.634
+D l 0:21.923 i 24 m 0
+F "Bone Break 1 1.wav" 137696 0 1439162508 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.779
+D i 16
+F "Bone Break 1.wav" 8213228 0 1502566299 0
+D s 44100 n 2 l 0:46.560 i 16
+F "Bone Break 10.wav" 4906316 0 1502563193 0
+D s 44100 n 2 l 0:27.813 i 16
+F "Bone Break 11.wav" 5802428 0 1502566319 0
+D s 44100 n 2 l 0:32.893 i 16
+F "Bone Break 12.wav" 7542908 0 1502563363 0
+D s 44100 n 2 l 0:42.760 i 16
+F "Bone Break 2 1.wav" 67892 0 1439161070 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.384
+D i 16
+F "Bone Break 2.wav" 6164636 0 1502563831 0
+D s 44100 n 2 l 0:34.946 i 16
+F "Bone Break 3 1.wav" 78824 0 1439162101 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.445
+D i 16
+F "Bone Break 3.wav" 6569180 0 1502566201 0
+D s 44100 n 2 l 0:37.240 i 16
+F "Bone Break 4.wav" 7260668 0 1502566206 0
+D s 44100 n 2 l 0:41.160 i 16
+F "Bone Break 5.wav" 6776156 0 1502564075 0
+D s 44100 n 2 l 0:38.413 i 16
+F "Bone Break 6.wav" 3062348 0 1502566315 0
+D s 44100 n 2 l 0:17.360 i 16
+F "Bone Break 7.wav" 3535100 0 1502564018 0
+D s 44100 n 2 l 0:20.040 i 16
+F "Bone Break 8.wav" 6587996 0 1502563946 0
+D s 44100 n 2 l 0:37.346 i 16
+F "Bone Break 9.wav" 4360652 0 1502563946 0
+D s 44100 n 2 l 0:24.720 i 16
+F "Bone Break.wav" 8526044 0 1502566181 0
+D s 44100 n 2 l 0:48.333 i 16
+F Cantaloupe_Rip_Pieces_Apart_Tear_OCM-0035-443-01.wav 23601396 0 1566570832 0
+D t Cantaloupe_Rip_Pieces_Apart_Tear_OCM-0035-443-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Cantaloupe, Rip Pieces Apart, Tear, Some Wet Squish" d "Cantaloupe, Rip Pieces Apart, Tear, Some Wet Squish" s 96000
+D n 2 l 0:40.224 i 24 m 1
+F Cantaloupe_Rip_Pieces_Apart_Tear_OCM-0035-443-03.wav 22437124 0 1566570832 0
+D t Cantaloupe_Rip_Pieces_Apart_Tear_OCM-0035-443-03 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Cantaloupe, Rip Pieces Apart, Tear, Some Wet Squish" d "Cantaloupe, Rip Pieces Apart, Tear, Some Wet Squish" s 96000
+D n 2 r 1:21.781 l 0:38.202 i 24
+D m 1
+F "GORE - Bone Breaking.mp3" 93622 0 1583930872 0
+D s 44100 n 2 l 0:02.874 i 261k
+F "GORE - Breaking Small Bones.mp3" 636133 0 1583931144 0
+D s 44100 n 2 l 0:19.827 i 257k
+F "Hit Bone 1.wav" 3944348 0 1502564124 0
+D s 44100 n 2 l 0:22.360 i 16
+F "Hit Bone 2.wav" 3130556 0 1502564125 0
+D s 44100 n 2 l 0:17.746 i 16
+F "Hit Bone 3.wav" 3238748 0 1502563067 0
+D s 44100 n 2 l 0:18.360 i 16
+F "Hit Bone 4.wav" 4598204 0 1502565535 0
+D s 44100 n 2 l 0:26.066 i 16
+F "Hit Bone 5.wav" 4419452 0 1502565535 0
+D s 44100 n 2 l 0:25.053 i 16
+F "Hit Bone 6.wav" 3556268 0 1502564117 0
+D s 44100 n 2 l 0:20.160 i 16
+F "Hit Bone 7.wav" 3610364 0 1502565049 0
+D s 44100 n 2 l 0:20.466 i 16
+F "Hit Bone 8.wav" 4292444 0 1502566075 0
+D s 44100 n 2 l 0:24.333 i 16
+F "Hit Bone.wav" 3869084 0 1502563151 0
+D s 44100 n 2 l 0:21.933 i 16
+F "Knife Scraping Against Plastic Chopping Board.mp3" 208978 0 1583931140 0
+D s 44100 n 2 l 0:06.479 i 258k
+F "Knife Slice Into Flesh.mp3" 81919 0 1583931140 0
+D s 44100 n 2 l 0:02.508 i 261k
+F "Knife Stab.mp3" 89442 0 1583931140 0
+D s 44100 n 2 l 0:02.743 i 261k
+F Meat_Chop_Chop_Pork_with_Axe_Big_Meaty_Impacts_OCP-1523-060-03.wav 1346630 0 1566570835 0
+D t Meat_Chop_Chop_Pork_with_Axe_Big_Meaty_Impacts_OCP-1523-060-03 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Meat Chop, Chop Pork With Axe, Big Meaty Impacts, Squishy, Whomp, Hit, Slap, Fight, Gore, Body, Many Versions" d "Meat Chop, Chop Pork With Axe, Big Meaty Impacts, Squishy, Whomp, Hit, Slap, Fight, Gore, Body, Many Versions" s 48000
+D n 1 l 0:09.514 i 16 m 0
+F Meat_Chop_Chop_Turkey_with_Axe_OCP-1523-064-01.wav 1826688 0 1566570835 0
+D t Meat_Chop_Chop_Turkey_with_Axe_OCP-1523-064-01 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Meat Chop, Chop Turkey With Axe, Big Meaty Impacts, Squishy, Whomp, Hit, Slap, Fight, Gore, Body, Many Versions" d "Meat Chop, Chop Turkey With Axe, Big Meaty Impacts, Squishy, Whomp, Hit, Slap, Fight, Gore, Body, Many Versions" s 48000
+D n 1 l 0:14.517 i 16 m 0
+F "Punch #2.mp3" 96965 0 1583931263 0
+D s 44100 n 2 l 0:02.979 i 260k
+F "Punch Swings.mp3" 974679 0 1583931263 0
+D s 44100 n 2 l 0:30.407 i 256k
+F "Punch, Arm Heavy Arm Block Of Punch.wav" 2170940 0 1502565960 0
+D s 44100 n 2 l 0:12.306 i 16
+F "Punch, Body Big Body Punch And Bone Crack.wav" 3775004 0 1502564961 0
+D s 44100 n 2 l 0:21.400 i 16
+F "Punch, Body Big, Crunchy Body Hit.wav" 4508828 0 1502565864 0
+D s 44100 n 2 l 0:25.560 i 16
+F "Punch, Body Big, Solid Body Punch.wav" 4899260 0 1502564903 0
+D s 44100 n 2 l 0:27.773 i 16
+F "Punch, Body Body And Cloth Hit.wav" 4130156 0 1502565750 0
+D s 44100 n 2 l 0:23.413 i 16
+F "Punch, Body Body Punch And Cloth Movement 1.wav" 4525292 0 1502566255 0
+D s 44100 n 2 l 0:25.653 i 16
+F "Punch, Body Body Punch And Cloth Movement.wav" 5306156 0 1502566255 0
+D s 44100 n 2 l 0:30.080 i 16
+F "Punch, Body Bony Body Hit 1.wav" 5063900 0 1502565922 0
+D s 44100 n 2 l 0:28.706 i 16
+F "Punch, Body Bony Body Hit.wav" 6642092 0 1502566194 0
+D s 44100 n 2 l 0:37.653 i 16
+F "Punch, Body Crunching Body Hit.wav" 4727564 0 1502565612 0
+D s 44100 n 2 l 0:26.800 i 16
+F "Punch, Body Deep, Solid Body Punch.wav" 4894556 0 1502565961 0
+D s 44100 n 2 l 0:27.746 i 16
+F "Punch, Body Fleshy Body Hit 1.wav" 5235596 0 1502565733 0
+D s 44100 n 2 l 0:29.680 i 16
+F "Punch, Body Fleshy Body Hit.wav" 5884748 0 1502565520 0
+D s 44100 n 2 l 0:33.360 i 16
+F "Punch, Body Fleshy, Bony Body Hit.wav" 4426508 0 1502566195 0
+D s 44100 n 2 l 0:25.093 i 16
+F "Punch, Body Hard Body Blow.wav" 4758140 0 1502565864 0
+D s 44100 n 2 l 0:26.973 i 16
+F "Punch, Body Hard Body Hit Through Clothes.wav" 4000796 0 1502565712 0
+D s 44100 n 2 l 0:22.680 i 16
+F "Punch, Body Hard Body Hit.wav" 6190508 0 1502566097 0
+D s 44100 n 2 l 0:35.093 i 16
+F "Punch, Body Hard, Crunchy Body Punch.wav" 6016460 0 1502565506 0
+D s 44100 n 2 l 0:34.106 i 16
+F "Punch, Body Hard, Fleshy Body Hit.wav" 5774204 0 1502566068 0
+D s 44100 n 2 l 0:32.733 i 16
+F "Punch, Body Heavy Body Blow.wav" 5844764 0 1502565964 0
+D s 44100 n 2 l 0:33.133 i 16
+F "Punch, Body Hollow Body Thump.wav" 4445324 0 1502565963 0
+D s 44100 n 2 l 0:25.200 i 16
+F "Punch, Body Large, Crunchy Body Hit.wav" 6148172 0 1502563646 0
+D s 44100 n 2 l 0:34.853 i 16
+F "Punch, Body Light Body Hit Through Cloth.wav" 4337132 0 1502563661 0
+D s 44100 n 2 l 0:24.586 i 16
+F "Punch, Body Light Body Hit.wav" 4873388 0 1502566269 0
+D s 44100 n 2 l 0:27.626 i 16
+F "Punch, Body Light, Slappy Body Hit 1.wav" 5216780 0 1502565520 0
+D s 44100 n 2 l 0:29.573 i 16
+F "Punch, Body Light, Slappy Body Hit.wav" 5169740 0 1502563754 0
+D s 44100 n 2 l 0:29.306 i 16
+F "Punch, Body Light, Thumpy Body Hit.wav" 4165436 0 1502565543 0
+D s 44100 n 2 l 0:23.613 i 16
+F "Punch, Body Light, Tight Body Hit.wav" 3582140 0 1502565543 0
+D s 44100 n 2 l 0:20.306 i 16
+F "Punch, Body Muted Body Punch.wav" 4607612 0 1502564996 0
+D s 44100 n 2 l 0:26.120 i 16
+F "Punch, Body Muted Body Thud.wav" 3130556 0 1502566078 0
+D s 44100 n 2 l 0:17.746 i 16
+F "Punch, Body Sharp Body Hit.wav" 6390428 0 1502563663 0
+D s 44100 n 2 l 0:36.226 i 16
+F "Punch, Body Slappy Body Hit.wav" 6112892 0 1502566078 0
+D s 44100 n 2 l 0:34.653 i 16
+F "Punch, Body Solid Body Punch.wav" 5887100 0 1502565463 0
+D s 44100 n 2 l 0:33.373 i 16
+F "Punch, Body Solid, Fleshy Body Hit.wav" 4478252 0 1502566126 0
+D s 44100 n 2 l 0:25.386 i 16
+F "Punch, Body Thin, Crunchy Body Hit.wav" 3810284 0 1502565612 0
+D s 44100 n 2 l 0:21.600 i 16
+F "Punch, Body Wet, Fleshy Body Hit.wav" 6195212 0 1502566270 0
+D s 44100 n 2 l 0:35.120 i 16
+F "Punch, Face Big, Crunching Face Punch.wav" 3951404 0 1502565838 0
+D s 44100 n 2 l 0:22.400 i 16
+F "Punch, Face Big, Hard Face Slap.wav" 6684428 0 1502565616 0
+D s 44100 n 2 l 0:37.893 i 16
+F "Punch, Face Big, Heavy, Solid Face Punch.wav" 4228940 0 1502566033 0
+D s 44100 n 2 l 0:23.973 i 16
+F "Punch, Face Big, Low, Crunchy Face Slap.wav" 6997244 0 1502565465 0
+D s 44100 n 2 l 0:39.666 i 16
+F "Punch, Face Bony Head Punch.wav" 3365756 0 1502566206 0
+D s 44100 n 2 l 0:19.080 i 16
+F "Punch, Face Fast Face Punch.wav" 3695036 0 1502565850 0
+D s 44100 n 2 l 0:20.946 i 16
+F "Punch, Face Hard, Bony Face Punch, Knocking Teeth Out.wav" 2845964 0 1502566206 0
+D s 44100 n 2 l 0:16.133 i 16
+F "Punch, Face Hard, Sharp Face Slap 1.wav" 4327724 0 1502566127 0
+D s 44100 n 2 l 0:24.533 i 16
+F "Punch, Face Hard, Sharp Face Slap 2.wav" 4245404 0 1502566127 0
+D s 44100 n 2 l 0:24.066 i 16
+F "Punch, Face Hard, Sharp Face Slap.wav" 4330076 0 1502565885 0
+D s 44100 n 2 l 0:24.546 i 16
+F "Punch, Face Hard, Smacking Face Slap.wav" 6630332 0 1502566223 0
+D s 44100 n 2 l 0:37.586 i 16
+F "Punch, Face Light, Crunchy Face Punch.wav" 3386924 0 1502562747 0
+D s 44100 n 2 l 0:19.200 i 16
+F "Punch, Face Light, Hollow Face Punch.wav" 4238348 0 1502564911 0
+D s 44100 n 2 l 0:24.026 i 16
+F "Punch, Face Light, Round Face Punch.wav" 3871436 0 1502564066 0
+D s 44100 n 2 l 0:21.946 i 16
+F "Punch, Face Light, Tight Face Punch.wav" 3669164 0 1502563944 0
+D s 44100 n 2 l 0:20.800 i 16
+F "Punch, Face Low, Heavy Face Punch.wav" 5583692 0 1502566245 0
+D s 44100 n 2 l 0:31.653 i 16
+F Punch.mp3 79411 0 1583931263 0
+D s 44100 n 2 l 0:02.430 i 261k
+F "Punching Bag Being Hit.mp3" 1291493 0 1583931263 0
+D s 44100 n 2 l 0:40.307 i 256k
+F "PURPLE SEAT CUSHION_EC2BE9DD.wav" 239729724 0 1584373534 0
+D t "PURPLE SEAT CUSHION" a - b - y 2019-05-07
+D g Slime c "PURPLE SEAT CUSHION - Single Steps - Squish, Squirt, Squelch, Ooze, Slime, Stepping on Elastic Polymer Seat Cushion Partially Submerged in Water" d "PURPLE SEAT CUSHION - Single Steps - Squish, Squirt, Squelch, Ooze, Slime, Stepping on Elastic Polymer Seat Cushion Partially Submerged in Water" p -
+D k - s 192000 n 2 r 58:16.701
+D l 3:28.082 i 24 m 0
+F SLIME_0CB00B2A.wav 128924684 0 1584373534 0
+D t SLIME a - b - y 2018-02-02
+D g Liquid c "SLIME - Shammy - Wet Chamois Cloth Towel, Continuous Handling, Slime, Slithering, Goop, Squishy" d "ShammySLIME - Shammy - Wet Chamois Cloth Towel, Continuous Handling, Slime, Slithering, Goop, Squishy" p -
+D k - s 192000 n 2 r 2:31:05.465
+D l 1:51.694 i 24 m 0
+F SLIME_3202409D.wav 114279420 0 1584373534 0
+D t SLIME a - b - y 2018-02-03
+D g Liquid c "SLIME - Large Gak - Continuous Movement, Rubbery Slithering, Plops, Pops, Creaking, Snaps, Tacky" d "GakLargeSLIME - Large Gak - Continuous Movement, Rubbery Slithering, Plops, Pops, Creaking, Snaps, Tacky" p -
+D k - s 192000 n 2 r 2:48:16.016
+D l 1:38.981 i 24 m 0
+F SLIME_5CCFB74E.wav 23841562 0 1584373534 0
+D t SLIME a - b - y 2018-02-03
+D g Liquid c "SLIME - Large Gak - Rubbery Peels with Wobbling, Soft Snaps, Popping" d "GakLargeSLIME - Large Gak - Rubbery Peels with Wobbling, Soft Snaps, Popping" p -
+D k - s 192000 n 2 r 2:46:41.871
+D l 0:20.476 i 24 m 0
+F SLIME_BBE39CDB.wav 22033786 0 1584373534 0
+D t SLIME a - b - y 2018-02-02
+D g Liquid c "SLIME - Jelly - Continuous Slithering, Very Slimey, Wet " d "JellySLIME - Jelly - Continuous Slithering, Very Slimey, Wet " p -
+D k - s 192000 n 2 r 1:33:05.937
+D l 0:18.907 i 24 m 0
+F "Stab, Flesh, Stab Into Flesh, Blood Dripping Various Stabs.wav" 14262572 0 1502566287 0
+D s 44100 n 2 l 1:20.853 i 16
+F Watermelon_Rips_Tears_Hits_Soft_and_Meaty_OCM-0035-431.wav 21229810 0 1566570838 0
+D t Watermelon_Rips_Tears_Hits_Soft_and_Meaty_OCM-0035-431 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Watermelon, Rips, Tears, Hits Soft and Meaty" d "Watermelon, Rips, Tears, Hits Soft and Meaty" s 96000
+D n 2 l 0:36.106 i 24 m 0

@@ -1,0 +1,147 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/DRUM SAMPLES/Mode Audio - Amplify - Driven Drum"
+F 505_CHat_Echo01.wav 121992 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.085 l 0:00.446
+D i 24
+F 505_Clap_Space02.wav 701502 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.083 l 0:02.603
+D i 24
+F 505_OHat_Drive01.wav 127084 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.084 l 0:00.465
+D i 24
+F 505_Ride_Amp01.wav 218894 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.084 l 0:00.807
+D i 24
+F 505_Snare_Amp02.wav 102836 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.085 l 0:00.375
+D i 24
+F 505_Tom_Echo02.wav 290236 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.085 l 0:01.072
+D i 24
+F 808_CHat_Drive03.wav 75664 0 1585063848 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.092 l 0:00.274
+D i 24
+F 808_Clap_Amp02.wav 176294 0 1585231833 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.088 l 0:00.647
+D i 24
+F 808_Kick_Amp03.wav 142090 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.082 l 0:00.520
+D i 24
+F 808_Kick_Space01.wav 455564 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.092 l 0:01.688
+D i 24
+F 808_Ride_Drive01.wav 262260 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.087 l 0:00.968
+D i 24
+F 808_Rim_Echo01.wav 138950 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.089 l 0:00.509
+D i 24
+F 808_Shaker_Amp01.wav 52458 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.094 l 0:00.188
+D i 24
+F 808_Snare_Amp02.wav 98354 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.085 l 0:00.358
+D i 24
+F 808_Tom_Drive03.wav 134904 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.087 l 0:00.494
+D i 24
+F 909_CHat_Drive03.wav 67824 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.086 l 0:00.244
+D i 24
+F 909_Conga_Amp02.wav 87296 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.088 l 0:00.317
+D i 24
+F 909_Kick_Drive01.wav 122752 0 1585063849 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.082 l 0:00.449
+D i 24
+F 909_Snare_Echo01.wav 142752 0 1585063850 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.082 l 0:00.524
+D i 24
+F 909_Tom_Drive03.wav 252378 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.908 i 24
+F Amplify_LayerCHat02.wav 59476 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.191 i 24
+F Amplify_LayerCHat04.wav 71806 0 1585239595 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 r 0:00.081 l 0:00.260
+D i 24
+F Amplify_LayerCHat08.wav 41688 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.125 i 24
+F Amplify_LayerClap04.wav 142472 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.500 i 24
+F Amplify_LayerKick02.wav 148092 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.520 i 24
+F Amplify_LayerKick08.wav 129324 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.451 i 24
+F Amplify_LayerKick13.wav 292672 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:01.058 i 24
+F Amplify_LayerOHat02.wav 205068 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.732 i 24
+F Amplify_LayerSnare01.wav 104412 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.358 i 24
+F Amplify_LayerSnare05.wav 114150 0 1585148399 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.394 i 24
+F HR16_CHat_Drive04.wav 82286 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.275 i 24
+F HR16_Clap_Amp03.wav 79602 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.265 i 24
+F HR16_CowBell_Drive03.wav 119818 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.415 i 24
+F HR16_Kick_Amp09.wav 105136 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.360 i 24
+F HR16_Ride_Drive03.wav 524624 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:01.921 i 24
+F HR16_Snare_Amp07.wav 158126 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.557 i 24
+F HR16_Snare_Drive05.wav 125874 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.437 i 24
+F HR16_Snare_Space01.wav 605376 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:02.222 i 24
+F HR16_Timbale_Amp01.wav 361414 0 1585063880 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:01.314 i 24
+F HR16_Tom_Drive03.wav 174276 0 1585063881 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.618 i 24
+F Volca_Clave_Drive01.wav 54582 0 1585063881 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.172 i 24
+F Volca_OHat_Amp02.wav 146198 0 1585063881 0
+D a ModeAudio y 2020-03-2 c www.modeaudio.com d www.modeaudio.com
+D s 44100 n 2 l 0:00.513 i 24

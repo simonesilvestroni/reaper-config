@@ -1,0 +1,65 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Transitions"
+F "Alien Skull Probe.wav" 2765748 0 1436227745 0
+D s 44100 n 2 l 0:15.655 i 16
+F "Breaker pp.wav" 953640 0 1655745203 0
+D c "r8brain PRO NormGain: -4.42 dB" s 44100 n 2 l 0:05.382
+D i 16
+F "Crackle Drop pp.wav" 1416568 0 1655745203 0
+D c "r8brain PRO NormGain: -1.75 dB" s 44100 n 2 l 0:08.007
+D i 16
+F "Crackle Drop Revrs pp.wav" 1416568 0 1655745203 0
+D c "r8brain PRO NormGain: -1.75 dB" s 44100 n 2 l 0:08.007
+D i 16
+F "Creepy 109.wav" 1841004 0 1436227745 0
+D s 44100 n 2 l 0:10.413 i 16
+F "Creepy 208.wav" 6468868 0 1436227745 0
+D s 44100 n 2 l 0:36.648 i 16
+F "Ddl Noise Burst 01.wav" 1072100 0 1436227745 0
+D s 44100 n 2 l 0:05.935 i 16
+F "Ddl Noise Burst 02.wav" 1078140 0 1436227745 0
+D s 44100 n 2 l 0:05.968 i 16
+F Elevateur.wav 1364980 0 1436227745 0
+D s 44100 n 2 l 0:07.714 i 16
+F "Excalibur pp.wav" 668796 0 1655745203 0
+D c "r8brain PRO NormGain: -2.18 dB" s 44100 n 2 l 0:03.768
+D i 16
+F "Excalibur Revrs pp.wav" 668796 0 1655745203 0
+D c "r8brain PRO NormGain: -2.18 dB" s 44100 n 2 l 0:03.768
+D i 16
+F "Filter Mod Sweep 01.wav" 1386416 0 1436227745 0
+D s 44100 n 1 l 0:15.353 i 16
+F "Filter Mod Sweep 03.wav" 941336 0 1436227745 0
+D s 44100 n 1 l 0:10.423 i 16
+F "Filter Mod Sweep 04.wav" 1074408 0 1436227745 0
+D s 44100 n 1 l 0:11.897 i 16
+F "Filter Mod Sweep 05.wav" 930510 0 1436227745 0
+D s 44100 n 1 l 0:10.303 i 16
+F "Filter Mod Sweep 08.wav" 796604 0 1436227745 0
+D s 44100 n 1 l 0:08.819 i 16
+F "Filter Mod Sweep 09.wav" 763296 0 1436227745 0
+D s 44100 n 1 l 0:08.450 i 16
+F "FM FX 03.wav" 698388 0 1436227745 0
+D s 44100 n 1 l 0:07.870 i 16
+F "FM FX 05.wav" 802646 0 1436227745 0
+D s 44100 n 1 l 0:09.052 i 16
+F "Magnet Accident 2.wav" 1588256 0 1436227745 0
+D y 2008-03-28 s 44100 n 2 r 1:05:34.000
+D l 0:09.000 i 16
+F "Mega Oscillations 01.wav" 1426400 0 1436227745 0
+D s 44100 n 2 l 0:07.897 i 16
+F "Mega Oscillations 02.wav" 1433860 0 1655745203 0
+D s 44100 n 2 l 0:07.939 i 16
+F "Mega Oscillations 03.wav" 900112 0 1436227745 0
+D s 44100 n 2 l 0:04.982 i 16
+F "Mega Oscillations 04.wav" 1023960 0 1436227745 0
+D s 44100 n 2 l 0:05.668 i 16
+F "Penderings pp B2.wav" 2192816 0 1436227745 0
+D c "Created by Patchen 2004-2010" s 44100 n 2 l 0:12.406
+D i 16
+F "SFX Waterscream.wav" 1028808 0 1436227745 0
+D y 2010-07-21 s 44100 n 2 r 0:02.500
+D l 0:05.826 i 16
+F "Transition 17.wav" 713792 0 1436227745 0
+D s 44100 n 2 l 0:04.000 i 16
+F "Transition 2.wav" 713792 0 1436227745 0
+D s 44100 n 2 l 0:04.000 i 16

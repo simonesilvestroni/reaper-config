@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - SAAB 99 GL 1976"
+F Saab_99_t15_foley_door_open_close_interior_onbrd_engine_right.wav 3806098 0 1583869015 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "foley door open close interior onboard DPA4061 engine right wav"
+D d "foley door open close interior onboard DPA4061 engine right wav" s 96000 n 1 l 0:12.597
+D i 24 m 0
+F Saab_99_t7_ext_fast_approach_stop_reversing_away_passbys_ORTF.wav 17504614 0 1583868572 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior fast approach stop reversing away passbys second position Sennheiser MKH8040 ORTF wav"
+D d "exterior fast approach stop reversing away passbys second position Sennheiser MKH8040 ORTF wav" s 96000 n 2 l 0:30.080
+D i 24 m 0
+F Saab_99_t9_ext_passbys_gearshifting_ORTF.wav 44175242 0 1583869002 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "exterior passbys gearshifting second position Sennheiser MKH8040 ORTF wav"
+D d "exterior passbys gearshifting second position Sennheiser MKH8040 ORTF wav" s 96000 n 2 l 1:16.384
+D i 24 m 0

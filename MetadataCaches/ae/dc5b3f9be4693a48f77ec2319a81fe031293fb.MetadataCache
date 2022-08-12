@@ -1,0 +1,7 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Monte Sound - Atmospheres of Hockenheimring"
+F 001_AMB_External_PitStop_HockenheimT.wav 39541726 0 1583868595 0
+D y 2015-11-06 c "Hockenheim, Germany. External Day" d "sSCENE=001_AMB_External_PitStop_Hockenheim  sTAKE=  sNOTE=Hockenheim, Germany. External Day  sFILENAME=001_AMB_External_PitStop_HockenheimT.wav  " s 48000
+D n 2 r 0:03.160 l 2:15.120 i 24
+F "006_AMB_Internal_PitStop_Hockenheim_Engine TestT.wav" 23788706 0 1583868687 0
+D y 2015-11-06 c "Hockenheim, Germany. Internal Day. Mechanic testing engine" d "sFILENAME=006_AMB_Internal_PitStop_Hockenheim_Engine TestT.wav  sNOTE=Hockenheim, Germany. Internal Day. Mechanic testing engine  sSCENE=006_AMB_Internal_PitStop_Hockenheim_Engine Test  sTAKE=  " s 48000
+D n 2 r 9:59:00.000 l 1:21.272 i 24

@@ -1,0 +1,71 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - F"
+F "FAIRY, Mythical creature, wispy, thick, hovering flight.wav" 13849824 0 1544622770 0
+D a "Michel Marchant" y 2014-10-16 g Source c "FLUTTERING FLIGHT, wispy; Thick, full bodied, pulsating, rapid flapping; Membranous, papery, wings; Hovering flight"
+D d "FLUTTERING FLIGHT, wispy; Thick, full bodied, pulsating, rapid flapping; Membranous, papery, wings; Hovering flight" s 192000 n 2 l 0:11.234
+D i 24 m 0
+F "Famas G2 5.56Mm 1M Left On Ground Dpa4062 Clean Four Shots X 1.wav" 697894 0 1481710400 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 r 13:10.000
+D l 0:02.183 i 24
+F "Famas G2 5.56Mm 55M In Front Off Axis Clean Six Shots X 1.L.wav" 875182 0 1481710256 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 r 13:34.413
+D l 0:02.798 i 24
+F Fireball.wav 990362 0 1439162092 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.613
+D i 16
+F "Firedrone - Firedrone 3.wav" 2922920 0 1488537470 0
+D s 44100 n 2 l 0:11.000 i 24
+F "Firework Spin Helicopter Spinner St.wav" 6022022 0 1488537263 0
+D t Rotation_Master_HQ y 2016-02-24 d "Fireworks - Spin - Helicopter spinner | Rocket, Hiss, Launch" s 192000
+D n 2 l 0:04.994 i 24
+F "Fireworks Dr05 01.wav" 3718894 0 1481710520 0
+D s 96000 n 2 l 0:04.580 i 24
+F "Fireworks Neumann Kmr81+Sd702 Slapbacks 13.wav" 7926830 0 1481710482 0
+D s 96000 n 1 l 0:23.541 i 24
+F "Fireworks Neumann Kmr81+Sd702+Dr40 03.wav" 36340742 0 1481710520 0
+D s 96000 n 2 l 1:00.333 i 24
+F "Flashback Of Fear 04.wav" 20157646 0 1488537079 0
+D d "Atmosphere, Soundscape, Horror, Tension, Haunted, Surreal" s 96000 n 2 l 0:34.994
+D i 24
+F "Flashbright Bwu.228.wav" 372562 0 1372263248 0
+D y 2006-10-30 d "Production, Element, Flash, Bright, Digital, Swell" s 96000 n 2
+D l 0:00.638 i 24
+F "Fn Fal 7.62X51Mm 1.5M Behind Right Clean 2 Shots.wav" 2105952 0 1481710535 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 2 l 0:03.488
+D i 24
+F "Fn Fal 7.62X51Mm 25M In Front Holophone Ls Clean 2 Shots.wav" 1084944 0 1481710535 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 55 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 l 0:03.488
+D i 24
+F "Fn Five-Seven 5.7X28Mm 1M Right Mkh8040 1 Clean Four Shots X 1.wav" 1138102 0 1481710471 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, etc, wild foley and foley session." s 96000 n 1 r 12:04.000
+D l 0:03.680 i 24
+F "Fn Five-Seven 5.7X28Mm 35M Behind 788 Dpa4021 L Clean Four Shots X 1.wav" 1138078 0 1481710543 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 50 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, etc, wild foley and foley session." s 96000 n 1 r 12:04.000
+D l 0:03.680 i 24
+F "Fn P90 5.7Mm 1M Left On Ground Dpa4062 Clean Double Shots X 1.wav" 915950 0 1481710542 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 r 15:13.433
+D l 0:02.933 i 24
+F "Fn P90 5.7Mm 75M Behind Ehrlund R1 Clean Double Shots X 1.wav" 915894 0 1481710543 0
+D d "About 40 channels with distances and perspectives ranging from 0 to 75 meters, big variation of microphones and recorders, firing sequences includes single shots, double shots, triple shots, bursts, etc, wild foley and foley session." s 96000 n 1 r 15:13.433
+D l 0:02.933 i 24
+F "Fourbit Approach   Dry.wav" 176114 0 1481709536 0
+D t "The word 'approach', spoken by the robot/monster voice 'fourbit', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "fourbit - www.leevaudio.com" y 2015-08-19
+D g FX c "The word 'approach', spoken by the robot/monster voice 'fourbit', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'approach', spoken by the robot/monster voice 'fourbit', with a dry effect" s 44100
+D n 2 l 0:00.597 i 24
+F "Fourbit Changed   Dry.wav" 176962 0 1481709536 0
+D t "The word 'changed', spoken by the robot/monster voice 'fourbit', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "fourbit - www.leevaudio.com" y 2015-08-19
+D g FX c "The word 'changed', spoken by the robot/monster voice 'fourbit', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'changed', spoken by the robot/monster voice 'fourbit', with a dry effect" s 44100
+D n 2 l 0:00.600 i 24
+F "Fourbit Hits   Dry.wav" 141194 0 1481709536 0
+D t "The word 'hits', spoken by the robot/monster voice 'fourbit', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "fourbit - www.leevaudio.com" y 2015-08-19
+D g FX c "The word 'hits', spoken by the robot/monster voice 'fourbit', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'hits', spoken by the robot/monster voice 'fourbit', with a dry effect" s 44100
+D n 2 l 0:00.465 i 24
+F "Fourbit Occurred   Dry.wav" 159884 0 1481710029 0
+D t "The word 'occurred', spoken by the robot/monster voice 'fourbit', with a dry effect" a "Luigi Bardelli - luigi@leevaudio.com" b "fourbit - www.leevaudio.com" y 2015-08-19
+D g FX c "The word 'occurred', spoken by the robot/monster voice 'fourbit', with a dry effect. Visit www.leevaudio.com for additional packages and custom sounds." d "The word 'occurred', spoken by the robot/monster voice 'fourbit', with a dry effect" s 44100
+D n 2 l 0:00.536 i 24
+F "Frst - Amb Forest 2.wav" 62116596 0 1488537529 0
+D y 2013-08-26 s 96000 n 2 r 16:18.409
+D l 1:46.154 i 24
+F "Frst - Cave River 1.wav" 27021664 0 1488537440 0
+D y 2015-11-2 s 96000 n 2 r 1:10:01.616
+D l 0:46.656 i 24

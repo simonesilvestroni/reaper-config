@@ -1,0 +1,2005 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - IMPACT"
+F "Axe hits the ground 01.mp3" 31179 0 1505996228 0
+D s 44100 n 2 l 0:00.471 i 355k
+F "Axe hits the ground 02.mp3" 42673 0 1505996228 0
+D s 44100 n 2 l 0:00.758 i 342k
+F "Axe hits the ground 03.mp3" 34314 0 1505996228 0
+D s 44100 n 2 l 0:00.549 i 350k
+F "Axe hits the ground 04.mp3" 25954 0 1505996228 0
+D s 44100 n 2 l 0:00.340 i 368k
+F "Axe hits the ground 05.mp3" 41628 0 1505996228 0
+D s 44100 n 2 l 0:00.732 i 342k
+F Back_Slaps_Impacts_Slappy_Various_Versions_OCP-1074-019.wav 2868484 0 1566570829 0
+D t Back_Slaps_Impacts_Slappy_Various_Versions_OCP-1074-019 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Back Slaps, Impacts, Slappy, Various Versions " d "Back Slaps, Impacts, Slappy, Various Versions " s 48000
+D n 1 l 0:25.376 i 16 m 0
+F "Bang On Barrel1.wav" 127954 0 1202004088 0
+D y 2008-01-31 s 44100 n 1 r 0:15.098
+D l 0:01.442 i 16
+F "Bang On Barrel2.wav" 440274 0 1202004088 0
+D y 2008-01-31 s 44100 n 1 r 0:16.541
+D l 0:04.983 i 16
+F "Bang On Barrel3.wav" 193234 0 1202004088 0
+D y 2008-01-31 s 44100 n 1 r 0:23.695
+D l 0:02.182 i 16
+F "Bang Tin 1.wav" 356752 0 1192130634 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:01.343 i 24
+F "Bang Tin 2.wav" 401680 0 1192130714 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:01.513 i 24
+F "Bang Wood On Metal1.wav" 266962 0 1202004088 0
+D y 2008-01-31 s 44100 n 1 r 0:21.455
+D l 0:03.018 i 16
+F "Bang Wood On Metal2.wav" 249042 0 1202004088 0
+D y 2008-01-31 s 44100 n 1 r 0:18.639
+D l 0:02.815 i 16
+F "Bang Wood On Metal3.wav" 244178 0 1202004090 0
+D y 2008-01-31 s 44100 n 1 r 0:15.879
+D l 0:02.760 i 16
+F "Bang Wood On Metal4.wav" 271058 0 1202004090 0
+D y 2008-01-31 s 44100 n 1 r 0:21.292
+D l 0:03.065 i 16
+F "Barrel Hit1.wav" 132818 0 1202004090 0
+D y 2008-01-31 s 44100 n 1 r 0:15.162
+D l 0:01.497 i 16
+F "Barrel Hit2.wav" 108242 0 1202004090 0
+D y 2008-01-31 s 44100 n 1 r 0:16.660
+D l 0:01.219 i 16
+F "Barrel Hit3.wav" 108242 0 1202004090 0
+D y 2008-01-31 s 44100 n 1 r 0:17.879
+D l 0:01.219 i 16
+F "Barrel Strike1.wav" 212178 0 1202004090 0
+D y 2008-01-31 s 44100 n 1 r 0:15.156
+D l 0:02.397 i 16
+F "Barrel Strike2.wav" 248530 0 1202004092 0
+D y 2008-01-31 s 44100 n 1 r 0:17.554
+D l 0:02.809 i 16
+F "Barrel Strike3.wav" 218194 0 1202004092 0
+D y 2008-01-31 s 44100 n 1 r 0:15.217
+D l 0:02.465 i 16
+F "Barrel Strike4.wav" 181842 0 1202004092 0
+D y 2008-01-31 s 44100 n 1 r 0:17.683
+D l 0:02.053 i 16
+F "Barrel Strike5.wav" 118604 0 1202004092 0
+D y 2008-01-31 s 44100 n 1 r 0:20.108
+D l 0:01.336 i 16
+F "Body Hit 01.wav" 74520 0 1439162642 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.421
+D i 16
+F "Body Hit 02.wav" 120984 0 1439162097 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.684
+D i 16
+F "Body Hit 03.wav" 126876 0 1439161573 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.718
+D i 16
+F "Body Hit 04.wav" 107164 0 1439161076 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.606
+D i 16
+F "Body Hit 05.wav" 90780 0 1439163199 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.513
+D i 16
+F "Body Hit 06.wav" 75928 0 1439162545 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.429
+D i 16
+F "Body Hit 07.wav" 78428 0 1439162011 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.443
+D i 16
+F "Body Hit 08.wav" 178264 0 1439161471 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.009
+D i 16
+F "Body Hit 09.wav" 127800 0 1439160977 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.723
+D i 16
+F "Body Hit 10.wav" 77084 0 1439162434 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.436
+D i 16
+F "Body Hit 11.wav" 99352 0 1439161894 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.562
+D i 16
+F "Body Hit 12.wav" 93336 0 1439161327 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.528
+D i 16
+F Body_Impact_Bump_Grab_OCP-1547-41-02.wav 673476 0 1566570829 0
+D t Body_Impact_Bump_Grab_OCP-1547-41-02 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Body Impact, Bump, Grab" d "Body Impact, Bump, Grab" s 48000
+D n 1 l 0:02.517 i 16 m 0
+F "Can Crush.wav" 424076 0 1248523222 0
+D y 2009-07-25 s 44100 n 2 l 0:01.602
+D i 24
+F "Can Hit 1.wav" 143436 0 1200106064 0
+D s 44100 n 1 l 0:01.624 i 16
+F "Can Hit 1B.wav" 47884 0 1201974244 0
+D s 44100 n 1 l 0:00.541 i 16
+F "Can Hit 2.wav" 136882 0 1200106064 0
+D s 44100 n 1 l 0:01.550 i 16
+F "Can Hit 2B.wav" 97898 0 1201974244 0
+D s 44100 n 1 l 0:01.108 i 16
+F clong-1.wav 1556552 0 1583930962 0
+D s 48000 n 2 l 0:08.106 i 16
+F clong-2.wav 958536 0 1583930813 0
+D s 48000 n 2 l 0:04.992 i 16
+F "Coin Drop 1.aiff" 284204 0 1505997469 0
+D a "Sound Ideas" d www.sound-ideas.com p 84.3746 s 48000
+D n 2 l 0:01.422 i 16
+F "Coin Drop 2.aiff" 283272 0 1505997469 0
+D a "Sound Ideas" d www.sound-ideas.com p 84.6561 s 48000
+D n 2 l 0:01.417 i 16
+F "Crash Airy.wav" 2229740 0 1502564121 0
+D s 44100 n 2 l 0:12.640 i 16
+F "Crash Cardboard 1.wav" 315108 0 1439162487 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.785
+D i 16
+F "Crash Cardboard 2.wav" 94036 0 1439161573 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.532
+D i 16
+F "Crash Ceramic.wav" 3770300 0 1502566321 0
+D s 44100 n 2 l 0:21.373 i 16
+F "Crash Computer Monitor 01.wav" 1060322 0 1439162041 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.010
+D i 16
+F "Crash Computer Monitor 02.wav" 1213030 0 1439162149 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.875
+D i 16
+F "Crash Glass And Metal 01.wav" 671090 0 1439163680 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.803
+D i 16
+F "Crash Glass And Metal 02.wav" 682694 0 1439162639 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.869
+D i 16
+F "Crash Glass And Metal 03.wav" 904210 0 1439161846 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.125
+D i 16
+F "Crash Glass Bottle 01.wav" 865386 0 1439163431 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.904
+D i 16
+F "Crash Glass.wav" 460392 0 1439161194 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.609
+D i 16
+F "Crash Junk 01.wav" 1260194 0 1439160973 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.143
+D i 16
+F "Crash Junk 02.wav" 1440310 0 1439161083 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.164
+D i 16
+F "Crash Junk 03.wav" 1281286 0 1439161189 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.262
+D i 16
+F "Crash Junk 04.wav" 973178 0 1439161311 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.515
+D i 16
+F "Crash Junk 05.wav" 1060322 0 1439161449 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.010
+D i 16
+F "Crash Lamp&Metal.wav" 5089772 0 1502564123 0
+D s 44100 n 2 l 0:28.853 i 16
+F "Crash Lamp.wav" 820938 0 1439162204 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.652
+D i 16
+F "Crash Metal 1.wav" 989584 0 1439162481 0
+D a "Sound Ideas" s 44100 n 2 l 0:05.609
+D i 16
+F "Crash Metal 2.wav" 1170508 0 1439162580 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.634
+D i 16
+F "Crash Metal 3.wav" 936004 0 1439162768 0
+D a "Sound Ideas" s 44100 n 2 l 0:05.305
+D i 16
+F "Crash Metal 4.wav" 578260 0 1439162919 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.277
+D i 16
+F "Crash Metal 5.wav" 615712 0 1439163046 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.489
+D i 16
+F "Crash Metal And Debris 01.wav" 2704668 0 1439162792 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:15.331
+D i 16
+F "Crash Metal And Debris 02.wav" 2241484 0 1439162636 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.705
+D i 16
+F "Crash Metal And Debris 03.wav" 1353914 0 1439162548 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.674
+D i 16
+F "Crash Metal And Debris 04.wav" 1204490 0 1439162469 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.827
+D i 16
+F "Crash Metal And Debris 05.wav" 2243652 0 1439162393 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.718
+D i 16
+F "Crash Metal And Debris 06.wav" 2040040 0 1439162269 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.563
+D i 16
+F "Crash Metal And Debris 07.wav" 1515798 0 1439162163 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.592
+D i 16
+F "Crash Metal And Debris 08.wav" 2266228 0 1439162080 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.846
+D i 16
+F "Crash Metal And Debris 09.wav" 1865656 0 1439162001 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.575
+D i 16
+F "Crash Metal And Glass.wav" 267100 0 1439163467 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.513
+D i 16
+F "Crash Metal And Tumble 01.wav" 1209470 0 1439162790 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.855
+D i 16
+F "Crash Metal And Tumble 02.wav" 1415834 0 1439162669 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.025
+D i 16
+F "Crash Metal And Wood 1.wav" 496232 0 1439163101 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.812
+D i 16
+F "Crash Metal And Wood 2.wav" 661584 0 1439161072 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.749
+D i 16
+F "Crash Metal Cans 01.wav" 1983588 0 1439161704 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.243
+D i 16
+F "Crash Metal Cans 02.wav" 1983588 0 1439162506 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.243
+D i 16
+F "Crash Plastic 01.wav" 860902 0 1439162049 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.879
+D i 16
+F "Crash Plastic 02.wav" 1206350 0 1439162997 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.837
+D i 16
+F "Crash Rock 01.wav" 857310 0 1439162346 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.859
+D i 16
+F "Crash Rock 02.wav" 673282 0 1439163026 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.815
+D i 16
+F "Crash Rock And Glass 01.wav" 802658 0 1439162527 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.549
+D i 16
+F "Crash Rock And Wood 01.wav" 857310 0 1439162921 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.859
+D i 16
+F "Crash Spray Paint Cans 01.wav" 1439606 0 1439162954 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.160
+D i 16
+F "Crash Spray Paint Cans 02.wav" 1919664 0 1439162844 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.881
+D i 16
+F "Crash Wood 01.wav" 1140806 0 1439162251 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.466
+D i 16
+F "Crash Wood 02.wav" 1070098 0 1439162401 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.065
+D i 16
+F "Crash Wood 03.wav" 1210038 0 1439162510 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.858
+D i 16
+F "Crash Wood 04.wav" 709162 0 1439162637 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.019
+D i 16
+F "Crash Wood 05.wav" 802658 0 1439162813 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.549
+D i 16
+F "Crash Wood And Glass 01.wav" 802658 0 1439162090 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.549
+D i 16
+F "Crash Wood And Plastic 01.wav" 1089218 0 1439162921 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.173
+D i 16
+F "Crash Wood And Plastic Small 01.wav" 1308290 0 1439161007 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.415
+D i 16
+F "Crash Wood And Plastic Small 02.wav" 1208146 0 1439162153 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.848
+D i 16
+F "Crash Wood Large 01.wav" 1134322 0 1439161055 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.429
+D i 16
+F "Crash Wood.wav" 3883196 0 1502566313 0
+D s 44100 n 2 l 0:22.013 i 16
+F Crash.aif 150068 0 1505997469 0
+D s 44100 n 1 l 0:01.578 i 16
+F "Debris Dirt And Dust 01.wav" 2489068 0 1439162945 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:14.109
+D i 16
+F "Debris Dirt And Dust 02.wav" 1052530 0 1439163067 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.965
+D i 16
+F "Debris Dirt And Dust 03.wav" 951122 0 1439163258 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.390
+D i 16
+F "Debris Dirt And Dust 04.wav" 951122 0 1439163439 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.390
+D i 16
+F "Debris Dirt And Earth 01.wav" 736558 0 1439162131 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.174
+D i 16
+F "Debris Earth And Hay 01.wav" 1396506 0 1439163614 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.915
+D i 16
+F "Debris Fall.wav" 1044704 0 1439161823 0
+D a "Sound Ideas" s 44100 n 2 l 0:05.921
+D i 16
+F "Debris Glass 01.wav" 970226 0 1439162436 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.499
+D i 16
+F "Debris Glass 02.wav" 877570 0 1439163170 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.973
+D i 16
+F "Debris Glass 04.wav" 1578310 0 1439161792 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.946
+D i 16
+F "Debris Glass 05.wav" 983850 0 1439162416 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.576
+D i 16
+F "Debris Glass 06.wav" 736558 0 1439163110 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.174
+D i 16
+F "Debris Glass 07.wav" 735894 0 1439161104 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.170
+D i 16
+F "Debris Glass 08.wav" 735894 0 1439161780 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.170
+D i 16
+F "Debris Glass 09.wav" 914722 0 1439162402 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.184
+D i 16
+F "Debris Junk 01.wav" 1232962 0 1439161565 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.988
+D i 16
+F "Debris Junk 02.wav" 1649430 0 1439162077 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.349
+D i 16
+F "Debris Junk 03.wav" 1349554 0 1439162607 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.649
+D i 16
+F "Debris Metal 01.wav" 1515366 0 1439161778 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.589
+D i 16
+F "Debris Metal 02.wav" 1151894 0 1439162393 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.529
+D i 16
+F "Debris Metal 03.wav" 1151894 0 1439163081 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.529
+D i 16
+F "Debris Metal 04.wav" 701698 0 1439161084 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.976
+D i 16
+F "Debris On Wood 01.wav" 709162 0 1439161839 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.019
+D i 16
+F "Debris On Wood 02.wav" 913026 0 1439163561 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.174
+D i 16
+F "Debris On Wood 03.wav" 917046 0 1439162347 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.197
+D i 16
+F "Debris On Wood 04.wav" 917046 0 1439161268 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.197
+D i 16
+F "Debris On Wood 05.wav" 979818 0 1439162844 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.553
+D i 16
+F "Debris On Wood 06.wav" 1014810 0 1439161787 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.751
+D i 16
+F "Debris Rocks And Wood 01.wav" 793202 0 1439163556 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.495
+D i 16
+F "Debris Rocks Bricks 01.wav" 1134322 0 1439163311 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.429
+D i 16
+F "Debris Rocks Bricks 02.wav" 722726 0 1439163738 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.096
+D i 16
+F "Debris Rocks Bricks 03.wav" 768678 0 1439163027 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.356
+D i 16
+F "Debris Rocks Bricks 04.wav" 918850 0 1439163456 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.208
+D i 16
+F "Debris Rocks Bricks 06.wav" 929514 0 1439163104 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.268
+D i 16
+F "Debris Rocks Bricks 07.wav" 1024306 0 1439162519 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.805
+D i 16
+F "Debris Wood 01.wav" 955654 0 1439161321 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.416
+D i 16
+F "Debris Wood 02.wav" 1052530 0 1439161883 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.965
+D i 16
+F "Debris Wood 03.wav" 1014810 0 1439162403 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.751
+D i 16
+F "Debris Wood 04.wav" 1014810 0 1439162989 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.751
+D i 16
+F "FOL - IMPACT - Aquaphone_Harsh.wav" 25445996 0 1308243862 0
+D y  d "IMPACT - METAL - MID - Dry, hit aquaphone" s 96000 n 2
+D l 0:43.872 i 24
+F "FOL - IMPACT - BALL - GROUND - 01.wav" 853532 0 1582742330 0
+D s 48000 n 2 l 0:02.963 i 24
+F "FOL - IMPACT - BALL - KICK - 01.wav" 4573796 0 1582742330 0
+D s 48000 n 2 l 0:15.881 i 24
+F "FOL - IMPACT - BALL - NET - 01.mp3" 191354 0 1582742330 0
+D s 44100 n 2 l 0:07.942 i 193k
+F "FOL - IMPACT - BALL - NET - 02.wav" 365858 0 1582742330 0
+D s 48000 n 2 l 0:01.270 i 24
+F "FOL - IMPACT - bicycle - 03.wav" 960460 0 1275327830 0
+D y 2010-05-31 d "Impact - Metal - Soft - Mid - Med. Metal debris. Dry" s 96000 n 1
+D l 0:02.938 i 24
+F "FOL - IMPACT - BOARD - HIT - 01.wav" 182596 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Board impacts, dull"
+D d "wood impact, hits," s 44100 n 2 l 0:01.032
+D i 16
+F "FOL - IMPACT - BOARD - HIT - 02.wav" 212692 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Board impacts, dull"
+D d "wood impact, hits," s 44100 n 2 l 0:01.203
+D i 16
+F "FOL - IMPACT - BOARD - HIT - 03.wav" 122184 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Board impacts, dull"
+D d "wood impact, hits," s 44100 n 2 l 0:00.690
+D i 16
+F "FOL - IMPACT - BODY - METAL - 01.wav" 343676 0 1582742330 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:01.939 i 16
+F "FOL - IMPACT - BODY - METAL - 02.wav" 381886 0 1582742330 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:02.155 i 16
+F "FOL - IMPACT - BODY - METAL - 03.wav" 415102 0 1582742330 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:02.343 i 16
+F "FOL - IMPACT - BODY - METAL - 04.wav" 311990 0 1582742330 0
+D y 2007-09-22 d "Heavy Body Impact On Metal With Hollow Ring-Out. - Fight Impacts" s 44100 n 2
+D l 0:01.759 i 16
+F "FOL - IMPACT - BODY - PUNCH - 01.wav" 244466 0 1582742330 0
+D s 96000 n 2 l 0:00.424 i 24
+F "FOL - IMPACT - BODY - PUNCH - 02.wav" 265004 0 1582742330 0
+D s 96000 n 2 l 0:00.460 i 24
+F "FOL - IMPACT - BODY - PUNCH - 03.wav" 274286 0 1582742330 0
+D s 96000 n 2 l 0:00.476 i 24
+F "FOL - IMPACT - BODY - PUNCH - 04.wav" 261848 0 1582742330 0
+D s 96000 n 2 l 0:00.454 i 24
+F "FOL - IMPACT - Boom 04.wav" 5308540 0 1374505964 0
+D d "HIT BOOM Generic, soft and clean low impact." s 96000 n 2 l 0:09.042
+D i 24
+F "FOL - IMPACT - Boom 14.wav" 13123996 0 1374497142 0
+D d "HIT BOOM Low sub bass, tight impact, processed recording of an old metal cellar door. Slight rattling. Reverberant." s 96000 n 2 l 0:22.600
+D i 24
+F "FOL - IMPACT - brass - bell - 05.wav" 823484 0 1275327590 0
+D y 2010-05-31 d "Impact - Metal - Soft - High - Small. Brass bells. Dry." s 96000 n 1
+D l 0:02.464 i 24
+F "FOL - IMPACT - break - glass - small - 01.wav" 51562 0 1299534630 0
+D s 44100 n 1 l 0:00.580 i 16
+F "FOL - IMPACT - break - glass - small - 02.wav" 63094 0 1299534630 0
+D s 44100 n 1 l 0:00.711 i 16
+F "FOL - IMPACT - break - glass - small - 03.wav" 89942 0 1299534630 0
+D s 44100 n 1 l 0:01.016 i 16
+F "FOL - IMPACT - break - glass - small - 04.wav" 83098 0 1299534630 0
+D s 44100 n 1 l 0:00.938 i 16
+F "FOL - IMPACT - break - glass - small - 05.wav" 46976 0 1299534630 0
+D s 44100 n 1 l 0:00.528 i 16
+F "FOL - IMPACT - break - glass - small - 06.wav" 78668 0 1299534630 0
+D s 44100 n 1 l 0:00.888 i 16
+F "FOL - IMPACT - break - glass - small - 07.wav" 98898 0 1299534630 0
+D s 44100 n 1 l 0:01.117 i 16
+F "FOL - IMPACT - break - glass - small - 08.wav" 52498 0 1299534630 0
+D s 44100 n 1 l 0:00.591 i 16
+F "FOL - IMPACT - break - glass - small - 09.wav" 78858 0 1299534630 0
+D s 44100 n 1 l 0:00.890 i 16
+F "FOL - IMPACT - break - glass - small - 10.wav" 77496 0 1299534630 0
+D s 44100 n 1 l 0:00.874 i 16
+F "FOL - IMPACT - BUCKET - METAL.wav" 3874706 0 1582742330 0
+D s 48000 n 2 l 0:13.453 i 24
+F "FOL - IMPACT - CAR - CRASH - 01.wav" 906962 0 1582742330 0
+D s 48000 n 2 l 0:03.149 i 24
+F "FOL - IMPACT - CAR - CRASH - 02.wav" 1230242 0 1582742330 0
+D s 48000 n 2 l 0:04.271 i 24
+F "FOL - IMPACT - car - hood - outside - 06.wav" 371196 0 1275327620 0
+D y 2010-05-31 d "Impact - Metal - Hard - Mid - Med. Landrover Defender, close car hood inside. Dump. Dry" s 96000 n 1
+D l 0:00.896 i 24
+F "FOL - IMPACT - CARDBOARD - 01.mp3" 409472 0 1582742330 0
+D s 48000 n 2 l 0:12.744 i 257k
+F "FOL - IMPACT - CARDBOARD - 02.wav" 426578 0 1582742330 0
+D y 2016-05-1 s 48000 n 2 l 0:02.194
+D i 16
+F "FOL - IMPACT - CERAMIC - POTTERY - 01.wav" 248950 0 1582742330 0
+D y 2007-09-22 d "Ceramic Pieces Break And Rattle. - Pottery Smash" s 44100 n 2
+D l 0:01.403 i 16
+F "FOL - IMPACT - CERAMIC - POTTERY - 02.wav" 277738 0 1582742330 0
+D y 2007-09-22 d "Ceramic Pieces Break And Rattle. - Pottery Smash" s 44100 n 2
+D l 0:01.566 i 16
+F "FOL - IMPACT - CERAMIC - POTTERY - 03.wav" 295288 0 1582742330 0
+D y 2007-09-22 d "Ceramic Pieces Break And Rattle. - Pottery Smash" s 44100 n 2
+D l 0:01.665 i 16
+F "FOL - IMPACT - CHAINS - 01.wav" 148268 0 1582742330 0
+D s 44100 n 1 l 0:01.680 i 16
+F "FOL - IMPACT - CHAINS - 02.wav" 155678 0 1582742330 0
+D s 44100 n 1 l 0:01.764 i 16
+F "FOL - IMPACT - CHAINS - 03.wav" 193580 0 1582742330 0
+D s 44100 n 1 l 0:02.194 i 16
+F "FOL - IMPACT - CHAINS - 04.wav" 253484 0 1582742330 0
+D s 44100 n 1 l 0:02.873 i 16
+F "FOL - IMPACT - CLOTH - PUNCH - 01.wav" 137112 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Cloth whoosh with snap for impact."
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.748
+D i 16
+F "FOL - IMPACT - CLOTH - PUNCH - 02.wav" 159848 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Cloth whoosh with snap for impact."
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.874
+D i 16
+F "FOL - IMPACT - CLOTH - PUNCH - 03.wav" 156252 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Cloth whoosh with snap for impact."
+D d "impacts, hit,hits," s 44100 n 2 l 0:00.854
+D i 16
+F "FOL - IMPACT - container - door - 10.wav" 914700 0 1275327640 0
+D y 2010-05-31 d "Impact - Metal - Medium - Mid - Large. Open container door, inside. Reverberant" s 96000 n 1
+D l 0:02.778 i 24
+F "FOL - IMPACT - container - hollow - 04.wav" 1827836 0 1275328208 0
+D y 2010-05-31 d "Impact - Metal - Medium - Low - Large. Container. Dull, inside. Dry." s 96000 n 1
+D l 0:05.941 i 24
+F "FOL - IMPACT - crate - hammer - 11.wav" 1526060 0 1275329040 0
+D y 2010-05-31 d "Crash - Metal - Medium - Mid - Med. Axe on crate filled with metal elements. Dry." s 96000 n 1
+D l 0:04.896 i 24
+F "FOL - IMPACT - distorted - door - 04 2.wav" 960748 0 1275327924 0
+D y 2010-05-31 d "Impact - Metal - Hard - Mid - Med. Container door. Distorted. Dry." s 96000 n 1
+D l 0:02.938 i 24
+F "FOL - IMPACT - distorted - door - 04.wav" 537244 0 1275327676 0
+D y 2010-05-31 d "Impact - Metal - Hard - High - Med. Container door. Distorted. Dry." s 96000 n 1
+D l 0:01.472 i 24
+F "FOL - IMPACT - distorted - poles - 02.wav" 518668 0 1275327676 0
+D y 2010-05-31 d "Crash - Metal - Hard - High - Med. Poles. Distorted. Dry." s 96000 n 1
+D l 0:01.408 i 24
+F "FOL - IMPACT - Distorted 02.wav" 5947706 0 1374505966 0
+D d "HIT DISTORTED Heavy drum hit with high cymbals, reverberant tail. Tonal low frequencies." s 96000 n 2 l 0:10.151
+D i 24
+F "FOL - IMPACT - DOG - FOOD - SPLAT - 01.wav" 430204 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Food Drops at 45,260 Samples at 44.1 Khz.Wet suction movement as dog food slides out of can slowly with plop impact at end."
+D d "impacts, hit,hits," s 44100 n 2 l 0:02.435
+D i 16
+F "FOL - IMPACT - DOG - FOOD - SPLAT - 02.wav" 247428 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Wet suction movement as dog food slides out of can slowly with plop impact at end."
+D d "impacts, hit,hits," s 44100 n 2 l 0:01.400
+D i 16
+F "FOL - IMPACT - DOG - FOOD - SPLAT - 03.wav" 1881526 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Food Drops at 459,000 Samples at 44.1 Khz.Wet suction movement as dog food slides out of can slowly with plop impact at end."
+D d "impacts, hit,hits," s 44100 n 2 l 0:10.663
+D i 16
+F "FOL - IMPACT - Drum Mid Loose 06.wav" 13832478 0 1374497144 0
+D d "HIT DRUM MID LOOSE Ethnic percussion ensemble hit, softly smacking. Taikos, handdrum and indian drum plus textile hand hits. Reverberant." s 96000 n 2 l 0:23.829
+D i 24
+F "FOL - IMPACT - Element Fire 01.wav" 6103672 0 1374497146 0
+D d "ELEMENT FIRE MID Short burst of fire by blowing into a torch. Dry." s 96000 n 2 l 0:10.412
+D i 24
+F "FOL - IMPACT - EXPLOSION - SOFT.wav" 896216 0 1582742330 0
+D s 48000 n 2 l 0:03.111 i 24
+F "FOL - IMPACT - FRUIT - WATERMELON.wav" 19023482 0 1582742330 0
+D s 48000 n 2 l 1:06.053 i 24
+F "FOL - IMPACT - FRUITS - MUTLI.wav" 6997286 0 1582742330 0
+D s 48000 n 2 l 0:24.295 i 24
+F "FOL - IMPACT - GLASS - SMASHED - LARGE - 01.wav" 1403770 0 1582742330 0
+D y 2017-04-27 s 96000 n 2 r 58:23.917
+D l 0:02.435 i 24
+F "FOL - IMPACT - GLASS - SMASHED - LARGE - 02.wav" 667294 0 1582742330 0
+D y 2017-04-26 s 96000 n 2 r 58:09.802
+D l 0:01.156 i 24
+F "FOL - IMPACT - GLASS - SMASHED - LARGE - 03.wav" 586072 0 1582742330 0
+D y 2017-04-26 s 96000 n 2 r 58:03.725
+D l 0:01.015 i 24
+F "FOL - IMPACT - Glass_Debris.wav" 4779824 0 1308243866 0
+D t Boom_t3_glas y  d "IMPACT - GLASS - HIGH - Dry, dropping glass debris" s 96000
+D n 2 l 0:07.990 i 24
+F "FOL - IMPACT - hammer - rattle - 01.wav" 448012 0 1275328286 0
+D y 2010-05-31 d "Impact - Metal - Hard - Mid - Med. Hammer on cast iron barbell weights. Dry" s 96000 n 1
+D l 0:01.162 i 24
+F "FOL - IMPACT - HIGH - WOBBLER.WAV" 2705864 0 1276526720 0
+D y  d "Tight - High - Metal - Reverberant. Fast woosh in." s 96000 n 2
+D l 0:04.610 i 24
+F "FOL - IMPACT - impact - arrow - target - 01.wav" 167028 0 1299534630 0
+D s 44100 n 1 l 0:01.890 i 16
+F "FOL - IMPACT - impact - arrow - target - 02.wav" 152464 0 1299534630 0
+D s 44100 n 1 l 0:01.724 i 16
+F "FOL - IMPACT - impact - arrow - target - 03.wav" 167904 0 1299534630 0
+D s 44100 n 1 l 0:01.900 i 16
+F "FOL - IMPACT - impact - arrow - target - 04.wav" 185544 0 1299534630 0
+D s 44100 n 1 l 0:02.100 i 16
+F "FOL - IMPACT - impact - arrow - target - 05.wav" 239428 0 1299534630 0
+D s 44100 n 1 l 0:02.710 i 16
+F "FOL - IMPACT - impact - flesh - 01.wav" 29584 0 1299534630 0
+D s 44100 n 1 l 0:00.331 i 16
+F "FOL - IMPACT - impact - flesh - 02.wav" 39194 0 1299534630 0
+D s 44100 n 1 l 0:00.440 i 16
+F "FOL - IMPACT - impact - flesh - 03.wav" 38834 0 1299534630 0
+D s 44100 n 1 l 0:00.436 i 16
+F "FOL - IMPACT - impact - flesh - 04.wav" 46668 0 1299534630 0
+D s 44100 n 1 l 0:00.525 i 16
+F "FOL - IMPACT - impact - flesh - 05.wav" 36870 0 1299534630 0
+D s 44100 n 1 l 0:00.414 i 16
+F "FOL - IMPACT - impact - flesh - 06.wav" 55816 0 1299534630 0
+D s 44100 n 1 l 0:00.629 i 16
+F "FOL - IMPACT - impact - flesh - 07.wav" 90130 0 1299534630 0
+D s 44100 n 1 l 0:01.018 i 16
+F "FOL - IMPACT - impact - flesh - 08.wav" 70884 0 1299534630 0
+D s 44100 n 1 l 0:00.800 i 16
+F "FOL - IMPACT - impact - flesh - 09.wav" 70884 0 1299534630 0
+D s 44100 n 1 l 0:00.800 i 16
+F "FOL - IMPACT - impact - flesh - 10.wav" 104040 0 1299534630 0
+D s 44100 n 1 l 0:01.175 i 16
+F "FOL - IMPACT - impact - glass - large - 01.wav" 126450 0 1299534630 0
+D s 44100 n 1 l 0:01.430 i 16
+F "FOL - IMPACT - impact - glass - large - 02.wav" 147380 0 1299534630 0
+D s 44100 n 1 l 0:01.667 i 16
+F "FOL - IMPACT - impact - glass - large - 03.wav" 216374 0 1299534630 0
+D s 44100 n 1 l 0:02.449 i 16
+F "FOL - IMPACT - impact - glass - large - 04.wav" 201102 0 1299534630 0
+D s 44100 n 1 l 0:02.276 i 16
+F "FOL - IMPACT - impact - glass - large - 05.wav" 164884 0 1299534630 0
+D s 44100 n 1 l 0:01.865 i 16
+F "FOL - IMPACT - impact - glass - large - 06.wav" 119056 0 1299534630 0
+D s 44100 n 1 l 0:01.346 i 16
+F "FOL - IMPACT - impact - glass - large - 07.wav" 139446 0 1299534630 0
+D s 44100 n 1 l 0:01.577 i 16
+F "FOL - IMPACT - impact - glass - large - 08.wav" 126834 0 1299534630 0
+D s 44100 n 1 l 0:01.434 i 16
+F "FOL - IMPACT - impact - glass - large - 09.wav" 215950 0 1299534630 0
+D s 44100 n 1 l 0:02.444 i 16
+F "FOL - IMPACT - impact - glass - large - 10.wav" 205500 0 1299534630 0
+D s 44100 n 1 l 0:02.326 i 16
+F "FOL - IMPACT - impact - glass - large - 11.wav" 111872 0 1299534630 0
+D s 44100 n 1 l 0:01.264 i 16
+F "FOL - IMPACT - impact - metal - debris - small - 01.wav" 50974 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.563
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 02.wav" 41390 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.454
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 03.wav" 24740 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.265
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 04.wav" 38062 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.416
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 05.wav" 42832 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.470
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 06.wav" 54498 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.603
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 07.wav" 45874 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.505
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 08.wav" 44906 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.494
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 09.wav" 49812 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.550
+D i 16
+F "FOL - IMPACT - impact - metal - debris - small - 10.wav" 47046 0 1299534630 0
+D y 2010-12-04 s 44100 n 1 l 0:00.518
+D i 16
+F "FOL - IMPACT - impact - metal - hard - 01.wav" 100048 0 1299534630 0
+D s 44100 n 1 l 0:01.130 i 16
+F "FOL - IMPACT - impact - metal - hard - 02.wav" 104766 0 1299534630 0
+D s 44100 n 1 l 0:01.184 i 16
+F "FOL - IMPACT - impact - metal - hard - 03.wav" 110574 0 1299534630 0
+D s 44100 n 1 l 0:01.250 i 16
+F "FOL - IMPACT - impact - metal - hard - 04.wav" 114984 0 1299534630 0
+D s 44100 n 1 l 0:01.300 i 16
+F "FOL - IMPACT - impact - metal - hard - 05.wav" 104418 0 1299534630 0
+D s 44100 n 1 l 0:01.180 i 16
+F "FOL - IMPACT - impact - metal - hard - 06.wav" 89426 0 1299534630 0
+D s 44100 n 1 l 0:01.010 i 16
+F "FOL - IMPACT - impact - metal - hard - 07.wav" 131388 0 1299534630 0
+D s 44100 n 1 l 0:01.485 i 16
+F "FOL - IMPACT - impact - metal - hard - 08.wav" 85014 0 1299534630 0
+D s 44100 n 1 l 0:00.960 i 16
+F "FOL - IMPACT - impact - metal - hard - 09.wav" 97344 0 1299534630 0
+D s 44100 n 1 l 0:01.100 i 16
+F "FOL - IMPACT - impact - metal - hard - 10.wav" 82682 0 1299534630 0
+D s 44100 n 1 l 0:00.933 i 16
+F "FOL - IMPACT - impact - metal - hard - 11.wav" 79704 0 1299534630 0
+D s 44100 n 1 l 0:00.900 i 16
+F "FOL - IMPACT - impact - metal - hard - 12.wav" 72666 0 1299534630 0
+D s 44100 n 1 l 0:00.820 i 16
+F "FOL - IMPACT - impact - metal - hard - 13.wav" 82138 0 1299534630 0
+D s 44100 n 1 l 0:00.927 i 16
+F "FOL - IMPACT - impact - metal - hard - 14.wav" 88524 0 1299534630 0
+D s 44100 n 1 l 0:01.000 i 16
+F "FOL - IMPACT - impact - metal - hard - 15.wav" 82908 0 1299534630 0
+D s 44100 n 1 l 0:00.936 i 16
+F "FOL - IMPACT - impact - metal - heavy - 01.wav" 123804 0 1299534630 0
+D s 44100 n 1 l 0:01.400 i 16
+F "FOL - IMPACT - impact - metal - heavy - 02.wav" 168356 0 1299534630 0
+D s 44100 n 1 l 0:01.905 i 16
+F "FOL - IMPACT - impact - metal - heavy - 03.wav" 216256 0 1299534630 0
+D s 44100 n 1 l 0:02.448 i 16
+F "FOL - IMPACT - impact - metal - heavy - 04.wav" 200738 0 1299534630 0
+D s 44100 n 1 l 0:02.272 i 16
+F "FOL - IMPACT - impact - metal - heavy - 05.wav" 256212 0 1299534630 0
+D s 44100 n 1 l 0:02.901 i 16
+F "FOL - IMPACT - impact - metal - heavy - 06.wav" 206404 0 1299534630 0
+D s 44100 n 1 l 0:02.336 i 16
+F "FOL - IMPACT - impact - metal - heavy - 07.wav" 333484 0 1299534630 0
+D s 44100 n 1 l 0:03.777 i 16
+F "FOL - IMPACT - impact - metal - heavy - 08.wav" 141542 0 1299534630 0
+D s 44100 n 1 l 0:01.600 i 16
+F "FOL - IMPACT - impact - metal - heavy - 09.wav" 307694 0 1299534630 0
+D s 44100 n 1 l 0:03.484 i 16
+F "FOL - IMPACT - impact - metal - heavy - 10.wav" 257434 0 1299534630 0
+D s 44100 n 1 l 0:02.915 i 16
+F "FOL - IMPACT - impact - metal - heavy - 11.wav" 170166 0 1299534630 0
+D s 44100 n 1 l 0:01.925 i 16
+F "FOL - IMPACT - impact - metal - heavy - 12.wav" 200272 0 1299534630 0
+D s 44100 n 1 l 0:02.266 i 16
+F "FOL - IMPACT - impact - metal - heavy - 13.wav" 129328 0 1299534630 0
+D s 44100 n 1 l 0:01.462 i 16
+F "FOL - IMPACT - impact - metal - heavy - 14.wav" 128294 0 1299534630 0
+D s 44100 n 1 l 0:01.450 i 16
+F "FOL - IMPACT - impact - metal - light - 01.wav" 20818 0 1299534630 0
+D s 44100 n 1 l 0:00.232 i 16
+F "FOL - IMPACT - impact - metal - light - 02.wav" 33362 0 1299534630 0
+D s 44100 n 1 l 0:00.374 i 16
+F "FOL - IMPACT - impact - metal - light - 03.wav" 33556 0 1299534630 0
+D s 44100 n 1 l 0:00.376 i 16
+F "FOL - IMPACT - impact - metal - light - 04.wav" 20348 0 1299534630 0
+D s 44100 n 1 l 0:00.227 i 16
+F "FOL - IMPACT - impact - metal - light - 05.wav" 24304 0 1299534630 0
+D s 44100 n 1 l 0:00.271 i 16
+F "FOL - IMPACT - impact - metal - light - 06.wav" 28548 0 1299534630 0
+D s 44100 n 1 l 0:00.320 i 16
+F "FOL - IMPACT - impact - metal - light - 07.wav" 21194 0 1299534630 0
+D s 44100 n 1 l 0:00.236 i 16
+F "FOL - IMPACT - impact - metal - light - 08.wav" 30576 0 1299534630 0
+D s 44100 n 1 l 0:00.342 i 16
+F "FOL - IMPACT - impact - metal - light - 09.wav" 28416 0 1299534630 0
+D s 44100 n 1 l 0:00.318 i 16
+F "FOL - IMPACT - impact - metal - light - 10.wav" 35064 0 1299534630 0
+D s 44100 n 1 l 0:00.393 i 16
+F "FOL - IMPACT - impact - metal - light - 11.wav" 41990 0 1299534630 0
+D s 44100 n 1 l 0:00.472 i 16
+F "FOL - IMPACT - impact - metal - light - 12.wav" 37876 0 1299534630 0
+D s 44100 n 1 l 0:00.425 i 16
+F "FOL - IMPACT - impact - metal - light - 13.wav" 35604 0 1299534630 0
+D s 44100 n 1 l 0:00.400 i 16
+F "FOL - IMPACT - impact - metal - light - 14.wav" 24138 0 1299534630 0
+D s 44100 n 1 l 0:00.270 i 16
+F "FOL - IMPACT - impact - metal - light - 15.wav" 28204 0 1299534630 0
+D s 44100 n 1 l 0:00.316 i 16
+F "FOL - IMPACT - impact - metal - medium - 01.wav" 70884 0 1299534630 0
+D s 44100 n 1 l 0:00.800 i 16
+F "FOL - IMPACT - impact - metal - medium - 02.wav" 67300 0 1299534630 0
+D s 44100 n 1 l 0:00.759 i 16
+F "FOL - IMPACT - impact - metal - medium - 03.wav" 97344 0 1299534630 0
+D s 44100 n 1 l 0:01.100 i 16
+F "FOL - IMPACT - impact - metal - medium - 04.wav" 109636 0 1299534630 0
+D s 44100 n 1 l 0:01.239 i 16
+F "FOL - IMPACT - impact - metal - medium - 05.wav" 102522 0 1299534630 0
+D s 44100 n 1 l 0:01.158 i 16
+F "FOL - IMPACT - impact - metal - medium - 06.wav" 127594 0 1299534630 0
+D s 44100 n 1 l 0:01.442 i 16
+F "FOL - IMPACT - impact - metal - medium - 07.wav" 115198 0 1299534630 0
+D s 44100 n 1 l 0:01.302 i 16
+F "FOL - IMPACT - impact - metal - medium - 08.wav" 137204 0 1299534630 0
+D s 44100 n 1 l 0:01.551 i 16
+F "FOL - IMPACT - impact - metal - medium - 09.wav" 99738 0 1299534630 0
+D s 44100 n 1 l 0:01.127 i 16
+F "FOL - IMPACT - impact - metal - medium - 10.wav" 109582 0 1299534630 0
+D s 44100 n 1 l 0:01.238 i 16
+F "FOL - IMPACT - impact - metal - medium - 11.wav" 103602 0 1299534630 0
+D s 44100 n 1 l 0:01.170 i 16
+F "FOL - IMPACT - impact - metal - medium - 12.wav" 102904 0 1299534630 0
+D s 44100 n 1 l 0:01.163 i 16
+F "FOL - IMPACT - impact - metal - medium - 13.wav" 91354 0 1299534630 0
+D s 44100 n 1 l 0:01.032 i 16
+F "FOL - IMPACT - impact - metal - medium - 14.wav" 155412 0 1299534630 0
+D s 44100 n 1 l 0:01.758 i 16
+F "FOL - IMPACT - impact - punch - 01.wav" 42536 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 l 0:00.467
+D i 16
+F "FOL - IMPACT - impact - punch - 02.wav" 70306 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:04.510
+D l 0:00.782 i 16
+F "FOL - IMPACT - impact - punch - 03.wav" 58232 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:09.322
+D l 0:00.645 i 16
+F "FOL - IMPACT - impact - punch - 04.wav" 74018 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:13.732
+D l 0:00.824 i 16
+F "FOL - IMPACT - impact - punch - 05.wav" 51144 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:17.819
+D l 0:00.565 i 16
+F "FOL - IMPACT - impact - punch - 06.wav" 47824 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:22.632
+D l 0:00.527 i 16
+F "FOL - IMPACT - impact - punch - 07.wav" 55724 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:26.981
+D l 0:00.617 i 16
+F "FOL - IMPACT - impact - punch - 08.wav" 51770 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:31.069
+D l 0:00.572 i 16
+F "FOL - IMPACT - impact - punch - 09.wav" 59482 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:35.740
+D l 0:00.659 i 16
+F "FOL - IMPACT - impact - punch - 10.wav" 50694 0 1299534630 0
+D y 2010-12-27 s 44100 n 1 r 0:40.573
+D l 0:00.560 i 16
+F "FOL - IMPACT - impact - rock - dust - 01.wav" 297668 0 1299534630 0
+D s 44100 n 1 l 0:03.371 i 16
+F "FOL - IMPACT - impact - rock - dust - 02.wav" 264924 0 1299534630 0
+D s 44100 n 1 l 0:03.000 i 16
+F "FOL - IMPACT - impact - rock - dust - 03.wav" 296804 0 1299534630 0
+D s 44100 n 1 l 0:03.361 i 16
+F "FOL - IMPACT - impact - rock - dust - 04.wav" 289544 0 1299534630 0
+D s 44100 n 1 l 0:03.279 i 16
+F "FOL - IMPACT - impact - rock - large - 01.wav" 62064 0 1299534630 0
+D s 44100 n 1 l 0:00.700 i 16
+F "FOL - IMPACT - impact - rock - large - 02.wav" 80748 0 1299534630 0
+D s 44100 n 1 l 0:00.911 i 16
+F "FOL - IMPACT - impact - rock - large - 03.wav" 74402 0 1299534630 0
+D s 44100 n 1 l 0:00.839 i 16
+F "FOL - IMPACT - impact - rock - large - 04.wav" 108218 0 1299534630 0
+D s 44100 n 1 l 0:01.223 i 16
+F "FOL - IMPACT - impact - rock - large - 05.wav" 72702 0 1299534630 0
+D s 44100 n 1 l 0:00.820 i 16
+F "FOL - IMPACT - impact - rock - large - 06.wav" 40014 0 1299534630 0
+D s 44100 n 1 l 0:00.450 i 16
+F "FOL - IMPACT - impact - rock - large - 07.wav" 79044 0 1299534630 0
+D s 44100 n 1 l 0:00.892 i 16
+F "FOL - IMPACT - impact - rock - large - 08.wav" 60256 0 1299534630 0
+D s 44100 n 1 l 0:00.679 i 16
+F "FOL - IMPACT - impact - rock - large - 09.wav" 82390 0 1299534630 0
+D s 44100 n 1 l 0:00.930 i 16
+F "FOL - IMPACT - impact - rock - large - 10.wav" 60828 0 1299534630 0
+D s 44100 n 1 l 0:00.685 i 16
+F "FOL - IMPACT - impact - rock - medium - 01.wav" 79704 0 1299534630 0
+D s 44100 n 1 l 0:00.900 i 16
+F "FOL - IMPACT - impact - rock - medium - 02.wav" 85052 0 1299534630 0
+D s 44100 n 1 l 0:00.960 i 16
+F "FOL - IMPACT - impact - rock - medium - 03.wav" 81164 0 1299534630 0
+D s 44100 n 1 l 0:00.916 i 16
+F "FOL - IMPACT - impact - rock - medium - 04.wav" 113506 0 1299534630 0
+D s 44100 n 1 l 0:01.283 i 16
+F "FOL - IMPACT - impact - rock - medium - 05.wav" 102812 0 1299534630 0
+D s 44100 n 1 l 0:01.161 i 16
+F "FOL - IMPACT - impact - rock - medium - 06.wav" 68252 0 1299534630 0
+D s 44100 n 1 l 0:00.770 i 16
+F "FOL - IMPACT - impact - rock - medium - 07.wav" 94864 0 1299534630 0
+D s 44100 n 1 l 0:01.071 i 16
+F "FOL - IMPACT - impact - rock - medium - 08.wav" 210038 0 1299534630 0
+D s 44100 n 1 l 0:02.377 i 16
+F "FOL - IMPACT - impact - rock - medium - 09.wav" 66258 0 1299534630 0
+D s 44100 n 1 l 0:00.747 i 16
+F "FOL - IMPACT - impact - rock - medium - 10.wav" 60134 0 1299534630 0
+D s 44100 n 1 l 0:00.678 i 16
+F "FOL - IMPACT - impact - rock - medium - 11.wav" 88140 0 1299534630 0
+D s 44100 n 1 l 0:00.995 i 16
+F "FOL - IMPACT - impact - rock - medium - 12.wav" 84202 0 1299534630 0
+D s 44100 n 1 l 0:00.950 i 16
+F "FOL - IMPACT - impact - rock - small - 01.wav" 66486 0 1299534630 0
+D s 44100 n 1 l 0:00.750 i 16
+F "FOL - IMPACT - impact - rock - small - 02.wav" 118748 0 1299534630 0
+D s 44100 n 1 l 0:01.342 i 16
+F "FOL - IMPACT - impact - rock - small - 03.wav" 109194 0 1299534630 0
+D s 44100 n 1 l 0:01.234 i 16
+F "FOL - IMPACT - impact - rock - small - 04.wav" 121766 0 1299534630 0
+D s 44100 n 1 l 0:01.376 i 16
+F "FOL - IMPACT - impact - rock - vsmall - 01.wav" 242594 0 1299534630 0
+D s 44100 n 1 l 0:02.746 i 16
+F "FOL - IMPACT - impact - rock - vsmall - 02.wav" 81266 0 1299534630 0
+D s 44100 n 1 l 0:00.917 i 16
+F "FOL - IMPACT - impact - rock - vsmall - 03.wav" 65404 0 1299534630 0
+D s 44100 n 1 l 0:00.737 i 16
+F "FOL - IMPACT - impact - rock - vsmall - 04.wav" 116600 0 1299534630 0
+D s 44100 n 1 l 0:01.318 i 16
+F "FOL - IMPACT - impact - rock - vsmall - 05.wav" 86328 0 1299534630 0
+D s 44100 n 1 l 0:00.975 i 16
+F "FOL - IMPACT - impact - sword - 01.wav" 34260 0 1299534630 0
+D s 44100 n 1 l 0:00.384 i 16
+F "FOL - IMPACT - impact - sword - 02.wav" 37740 0 1299534630 0
+D s 44100 n 1 l 0:00.424 i 16
+F "FOL - IMPACT - impact - sword - 03.wav" 42660 0 1299534630 0
+D s 44100 n 1 l 0:00.480 i 16
+F "FOL - IMPACT - impact - sword - 04.wav" 45406 0 1299534630 0
+D s 44100 n 1 l 0:00.511 i 16
+F "FOL - IMPACT - impact - sword - 05.wav" 44424 0 1299534630 0
+D s 44100 n 1 l 0:00.500 i 16
+F "FOL - IMPACT - impact - sword - 06.wav" 43708 0 1299534630 0
+D s 44100 n 1 l 0:00.491 i 16
+F "FOL - IMPACT - impact - sword - 07.wav" 34228 0 1299534630 0
+D s 44100 n 1 l 0:00.384 i 16
+F "FOL - IMPACT - impact - sword - 08.wav" 45030 0 1299534630 0
+D s 44100 n 1 l 0:00.506 i 16
+F "FOL - IMPACT - impact - sword - 09.wav" 32998 0 1299534630 0
+D s 44100 n 1 l 0:00.370 i 16
+F "FOL - IMPACT - impact - sword - 10.wav" 40204 0 1299534630 0
+D s 44100 n 1 l 0:00.452 i 16
+F "FOL - IMPACT - impact - sword - 11.wav" 33490 0 1299534630 0
+D s 44100 n 1 l 0:00.376 i 16
+F "FOL - IMPACT - impact - sword - 12.wav" 31522 0 1299534630 0
+D s 44100 n 1 l 0:00.353 i 16
+F "FOL - IMPACT - impact - sword - 13.wav" 31168 0 1299534630 0
+D s 44100 n 1 l 0:00.349 i 16
+F "FOL - IMPACT - impact - sword - 14.wav" 37368 0 1299534630 0
+D s 44100 n 1 l 0:00.420 i 16
+F "FOL - IMPACT - impact - wood - break - 01.wav" 34406 0 1299534630 0
+D y 2011-01-06 s 44100 n 1 r 0:19.319
+D l 0:00.375 i 16
+F "FOL - IMPACT - impact - wood - break - 02.wav" 42520 0 1299534630 0
+D y 2011-01-06 s 44100 n 1 r 0:15.696
+D l 0:00.467 i 16
+F "FOL - IMPACT - impact - wood - break - 03.wav" 25480 0 1299534630 0
+D y 2011-01-06 s 44100 n 1 r 0:11.331
+D l 0:00.274 i 16
+F "FOL - IMPACT - impact - wood - break - 04.wav" 33692 0 1299534630 0
+D y 2011-01-06 s 44100 n 1 r 0:06.687
+D l 0:00.367 i 16
+F "FOL - IMPACT - impact - wood - break - 05.wav" 18534 0 1299534630 0
+D y 2011-01-06 s 44100 n 1 r 0:02.600
+D l 0:00.195 i 16
+F "FOL - IMPACT - impact - wood - break - 06.wav" 20604 0 1299534630 0
+D y 2011-01-06 s 44100 n 1 l 0:00.218
+D i 16
+F "FOL - IMPACT - impact - wood - large - 01.wav" 37058 0 1299534630 0
+D s 44100 n 1 l 0:00.416 i 16
+F "FOL - IMPACT - impact - wood - large - 02.wav" 56080 0 1299534630 0
+D s 44100 n 1 l 0:00.632 i 16
+F "FOL - IMPACT - impact - wood - large - 03.wav" 31696 0 1299534630 0
+D s 44100 n 1 l 0:00.355 i 16
+F "FOL - IMPACT - impact - wood - large - 04.wav" 30748 0 1299534630 0
+D s 44100 n 1 l 0:00.344 i 16
+F "FOL - IMPACT - impact - wood - large - 05.wav" 58302 0 1299534630 0
+D s 44100 n 1 l 0:00.657 i 16
+F "FOL - IMPACT - impact - wood - large - 06.wav" 44972 0 1299534630 0
+D s 44100 n 1 l 0:00.506 i 16
+F "FOL - IMPACT - impact - wood - large - 07.wav" 44424 0 1299534630 0
+D s 44100 n 1 l 0:00.500 i 16
+F "FOL - IMPACT - impact - wood - large - 08.wav" 37088 0 1299534630 0
+D s 44100 n 1 l 0:00.416 i 16
+F "FOL - IMPACT - impact - wood - large - 09.wav" 45268 0 1299534630 0
+D s 44100 n 1 l 0:00.509 i 16
+F "FOL - IMPACT - impact - wood - large - 10.wav" 40648 0 1299534630 0
+D s 44100 n 1 l 0:00.457 i 16
+F "FOL - IMPACT - impact - wood - large - 11.wav" 51184 0 1299534630 0
+D s 44100 n 1 l 0:00.576 i 16
+F "FOL - IMPACT - impact - wood - large - 12.wav" 43350 0 1299534630 0
+D s 44100 n 1 l 0:00.487 i 16
+F "FOL - IMPACT - impact - wood - large - 13.wav" 47068 0 1299534630 0
+D s 44100 n 1 l 0:00.529 i 16
+F "FOL - IMPACT - impact - wood - large - 14.wav" 43256 0 1299534630 0
+D s 44100 n 1 l 0:00.486 i 16
+F "FOL - IMPACT - LEAVES - 01.wav" 79476 0 1582742330 0
+D s 44100 n 1 l 0:00.900 i 16
+F "FOL - IMPACT - LEAVES - 02.wav" 81964 0 1582742330 0
+D s 44100 n 1 l 0:00.928 i 16
+F "FOL - IMPACT - LEAVES - 03.wav" 53002 0 1582742330 0
+D s 44100 n 1 l 0:00.600 i 16
+F "FOL - IMPACT - LEAVES - 04.wav" 68126 0 1582742330 0
+D s 44100 n 1 l 0:00.771 i 16
+F "FOL - IMPACT - LEAVES - 05.wav" 50088 0 1582742330 0
+D s 44100 n 1 l 0:00.567 i 16
+F "FOL - IMPACT - LEAVES - 06.wav" 61784 0 1582742330 0
+D s 44100 n 1 l 0:00.700 i 16
+F "FOL - IMPACT - LEAVES - 07.wav" 65710 0 1582742330 0
+D s 44100 n 1 l 0:00.744 i 16
+F "FOL - IMPACT - LEAVES - 08.wav" 81776 0 1582742330 0
+D s 44100 n 1 l 0:00.926 i 16
+F "FOL - IMPACT - LOW - CAVERN - HIT.WAV" 4667802 0 1276526718 0
+D y  d "Tight - Low - Metal - Reverberant. Tonal." s 96000 n 2
+D l 0:08.017 i 24
+F "FOL - IMPACT - MASSIVE - ANVIL.WAV" 3947880 0 1276526720 0
+D y  d "Tight - High - Metal - Reverberant. Iron anvil." s 96000 n 2
+D l 0:06.767 i 24
+F "FOL - IMPACT - Massive 01.wav" 5751356 0 1374505968 0
+D d "HIT MASSIVE Tight metallic impact with high metal ring out and reverb tail." s 96000 n 2 l 0:09.811
+D i 24
+F "FOL - IMPACT - METAL - DROP - LIGHT.wav" 208864 0 1582742330 0
+D y 0000-00-0 s 48000 n 1 l 0:02.142
+D i 16
+F "FOL - IMPACT - METAL - JUNK - 01.wav" 36394 0 1582742330 0
+D s 44100 n 1 l 0:00.412 i 16
+F "FOL - IMPACT - METAL - JUNK - 02.wav" 33772 0 1582742330 0
+D s 44100 n 1 l 0:00.382 i 16
+F "FOL - IMPACT - METAL - JUNK - 03.wav" 58796 0 1582742330 0
+D s 44100 n 1 l 0:00.666 i 16
+F "FOL - IMPACT - METAL - MECHANICS - 01.wav" 6883980 0 1582742330 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Low, short, snappy metal impact. " s 96000 n 2
+D l 0:11.584 i 24
+F "FOL - IMPACT - METAL - MECHANICS - 02.wav" 6877980 0 1582742330 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Short metal impact, lock hitting a metal box. " s 96000 n 2
+D l 0:11.573 i 24
+F "FOL - IMPACT - METAL - MECHANICS - 03.wav" 10852348 0 1582742330 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Short metal impact of closing metal door with twangy spring." s 96000 n 2
+D l 0:18.464 i 24
+F "FOL - IMPACT - METAL - MECHANICS - 04.wav" 5915356 0 1582742330 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Short metal impact, metal door closing. Soft twangy spring." s 96000 n 2
+D l 0:09.904 i 24
+F "FOL - IMPACT - METAL - MECHANICS - 05.wav" 9019004 0 1582742330 0
+D y 2012-10-18 d "SCI FI MECHANICS METAL IMPACT Low, heavy impact, metal door slamming shut. Rumbling end." s 96000 n 2
+D l 0:15.285 i 24
+F "FOL - IMPACT - METAL - RUSTLE - 01.wav" 149880 0 1582742330 0
+D s 44100 n 1 l 0:01.698 i 16
+F "FOL - IMPACT - METAL - RUSTLE - 02.wav" 186410 0 1582742330 0
+D s 44100 n 1 l 0:02.112 i 16
+F "FOL - IMPACT - METAL - RUSTLE - 03.wav" 246512 0 1582742330 0
+D s 44100 n 1 l 0:02.794 i 16
+F "FOL - IMPACT - METAL - WOOD - 01.wav" 262038 0 1582742330 0
+D y 2005-10-07 s 44100 n 2 r 1:11:23.922
+D l 0:01.426 i 16
+F "FOL - IMPACT - METAL - WOOD - 02.wav" 408130 0 1582742330 0
+D y 2005-10-07 s 44100 n 2 r 1:11:23.922
+D l 0:02.235 i 16
+F "FOL - IMPACT - METAL - WOOD - 03.wav" 564658 0 1582742330 0
+D y 2005-10-07 s 44100 n 2 r 1:11:23.922
+D l 0:03.102 i 16
+F "FOL - IMPACT - METAL - WOOD - 04.wav" 322538 0 1582742330 0
+D y 2005-10-07 s 44100 n 2 r 1:11:23.922
+D l 0:01.761 i 16
+F "FOL - IMPACT - Metal Crash 17.wav" 5321602 0 1374505972 0
+D d "HIT METAL CRASH Short and tight metal impact. Rumbling tail." s 96000 n 2 l 0:09.065
+D i 24
+F "FOL - IMPACT - Metal Crash Large Boxes.wav" 14262418 0 1374497148 0
+D d "HIT METAL CRASH LARGE LOW Large metal pieces and boxes falling on ground. Reverberant." s 96000 n 2 l 0:24.576
+D i 24
+F "FOL - IMPACT - Metal Crash Medium Chain Smash.wav" 6447406 0 1374497150 0
+D d "HIT METAL CRASH MEDIUM MID Various massive metal pieces and chain smashing against each other,flamming hits. Reverberant." s 96000 n 2 l 0:11.008
+D i 24
+F "FOL - IMPACT - Metal Hit Large Damper.wav" 9101836 0 1374497150 0
+D d "HIT METAL LARGE LOW Abrupt closing of a large damper. Reverberant." s 96000 n 2 l 0:15.617
+D i 24
+F "FOL - IMPACT - Metal Massive Gas Bottle Low.wav" 12465562 0 1374497154 0
+D d "HIT METAL MASSIVE LOW Massive impact of an empty metal gas bottle on a concrete floor. Tonal ring out. Dry." s 96000 n 2 l 0:21.456
+D i 24
+F "FOL - IMPACT - MID - FLAME - BREATH.WAV" 2483408 0 1276526720 0
+D y  d "Loose - Mid - Flame - Reverberant. Door impact sounding like flame. Medium woosh in." s 96000 n 2
+D l 0:04.224 i 24
+F "FOL - IMPACT - MID - METEORITE.WAV" 4478034 0 1276526720 0
+D y  d "Tight - Mid - Metal - Reverberant. Chain elements woosh in." s 96000 n 2
+D l 0:07.687 i 24
+F "FOL - IMPACT - MILK - CARTON - 01.wav" 125594 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Stamping on milk carton, cardboard and plastic."
+D d "crush, hits, impact,impacts," s 44100 n 2 l 0:00.709
+D i 16
+F "FOL - IMPACT - MILK - CARTON - 02.wav" 138762 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Stamping on milk carton, cardboard and plastic."
+D d "crush, hits, impact,impacts," s 44100 n 2 l 0:00.784
+D i 16
+F "FOL - IMPACT - MILK - CARTON - 03.wav" 110210 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Stamping on milk carton, cardboard and plastic."
+D d "crush, hits, impact,impacts," s 44100 n 2 l 0:00.622
+D i 16
+F "FOL - IMPACT - MILK - CARTON - 04.wav" 94846 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Stamping on milk carton, cardboard and plastic."
+D d "crush, hits, impact,impacts," s 44100 n 2 l 0:00.535
+D i 16
+F "FOL - IMPACT - MILK - CARTON - 05.wav" 131514 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Stamping on milk carton, cardboard and plastic."
+D d "crush, hits, impact,impacts," s 44100 n 2 l 0:00.743
+D i 16
+F "FOL - IMPACT - NUTSHELLS - DROP - 01.wav" 78627 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Dropping nutshells on floor."
+D d "wood impact, impacts, hit,hits," s 44100 n 2 l 0:00.443
+D i 16
+F "FOL - IMPACT - NUTSHELLS - DROP - 02.wav" 103999 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Dropping nutshells on floor."
+D d "wood impact, impacts, hit,hits," s 44100 n 2 l 0:00.587
+D i 16
+F "FOL - IMPACT - NUTSHELLS - DROP - 03.wav" 173887 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Dropping nutshells on floor."
+D d "wood impact, impacts, hit,hits," s 44100 n 2 l 0:00.983
+D i 16
+F "FOL - IMPACT - Orchestra_Grancassa_Wood.wav" 14873790 0 1308243868 0
+D y  d "IMPACT - DRUM - LOW - Reverberant, hit Grancassa drum" s 96000 n 2
+D l 0:25.517 i 24
+F "FOL - IMPACT - PAINT - CAN - 01.wav" 94402 0 1582742330 0
+D s 44100 n 1 l 0:01.069 i 16
+F "FOL - IMPACT - PAINT - CAN - 02.wav" 116894 0 1582742330 0
+D s 44100 n 1 l 0:01.324 i 16
+F "FOL - IMPACT - PAINT - CAN - 03.wav" 121188 0 1582742330 0
+D s 44100 n 1 l 0:01.373 i 16
+F "FOL - IMPACT - PAINT - SPLATTER - 01.wav" 376446 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Paint slosh and plastic bucket movement"
+D d "impact, splats,splash, impacts, hit,hits," s 44100 n 2 l 0:02.131
+D i 16
+F "FOL - IMPACT - piano - sustained - 07.wav" 8277276 0 1275328002 0
+D y 2010-05-31 d "Hit - Metal - Soft - Mid - Large. Piano string. Sustained. Dry" s 96000 n 1
+D l 0:28.277 i 24
+F "FOL - IMPACT - PIPE - 01.wav" 264684 0 1582742330 0
+D y 2007-09-22 d "Pipe Impact With Ring Out. - Construction" s 44100 n 2
+D l 0:01.492 i 16
+F "FOL - IMPACT - PIPE - 02.wav" 203408 0 1582742330 0
+D y 2007-09-22 d "Pipe Impact With Ring Out. - Construction" s 44100 n 2
+D l 0:01.145 i 16
+F "FOL - IMPACT - PIPE - 03.wav" 265140 0 1582742330 0
+D y 2007-09-22 d "Pipe Impact With Ring Out. - Construction" s 44100 n 2
+D l 0:01.494 i 16
+F "FOL - IMPACT - plate - long - 06.wav" 1319340 0 1275328008 0
+D y 2010-05-31 d "Crash - Metal - Medium - Mid - Med. Sheets. Reverberant" s 96000 n 1
+D l 0:04.181 i 24
+F "FOL - IMPACT - ROCK - EARTHQUAKE - 01.wav" 2593168 0 1582742330 0
+D y 2017-05-23 s 96000 n 2 r 58:45.165
+D l 0:04.500 i 24
+F "FOL - IMPACT - ROCK - EARTHQUAKE - 02.wav" 1584874 0 1582742330 0
+D y 2017-05-23 s 96000 n 2 r 58:45.165
+D l 0:02.749 i 24
+F "FOL - IMPACT - ROCK - HEAVY - 01.wav" 749968 0 1582742330 0
+D y 2017-05-09 s 96000 n 2 r 1:12:37.272
+D l 0:01.300 i 24
+F "FOL - IMPACT - ROCK - HEAVY - 02.wav" 783304 0 1582742330 0
+D y 2017-05-09 s 96000 n 2 r 1:12:37.272
+D l 0:01.357 i 24
+F "FOL - IMPACT - ROCK - HEAVY - 03.wav" 749392 0 1582742330 0
+D y 2017-05-09 s 96000 n 2 r 1:12:37.272
+D l 0:01.299 i 24
+F "FOL - IMPACT - ROCK - HEAVY - 04.wav" 603946 0 1582742330 0
+D y 2017-05-09 s 96000 n 2 r 1:12:37.272
+D l 0:01.046 i 24
+F "FOL - IMPACT - ROCK - LANDSLIDE - DEBRIS - 01.wav" 3729334 0 1582742330 0
+D y 2017-05-09 s 96000 n 2 r 1:12:22.317
+D l 0:06.472 i 24
+F "FOL - IMPACT - ROCK - LANDSLIDE - DEBRIS - 02.wav" 2684542 0 1582742330 0
+D y 2017-05-09 s 96000 n 2 r 1:12:22.317
+D l 0:04.658 i 24
+F "FOL - IMPACT - ROCK - SMALL - HIT - 01.wav" 425350 0 1582742330 0
+D y 2017-05-07 s 96000 n 2 r 1:11:43.256
+D l 0:00.736 i 24
+F "FOL - IMPACT - ROCK - SMALL - HIT - 02.wav" 498646 0 1582742330 0
+D y 2017-05-07 s 96000 n 2 r 1:11:43.256
+D l 0:00.863 i 24
+F "FOL - IMPACT - ROCK - SMALL - HIT - 03.wav" 377944 0 1582742330 0
+D y 2017-05-07 s 96000 n 2 r 1:11:43.256
+D l 0:00.654 i 24
+F "FOL - IMPACT - ROCK - SMASHED - DEBRIS - 01.wav" 1687666 0 1582742330 0
+D y 2017-05-07 s 96000 n 2 r 1:12:00.557
+D l 0:02.927 i 24
+F "FOL - IMPACT - ROCK - SMASHED - DEBRIS - 02.wav" 1786768 0 1582742330 0
+D y 2017-05-07 s 96000 n 2 r 1:12:00.557
+D l 0:03.100 i 24
+F "FOL - IMPACT - ROCK - SMASHED - DEBRIS - 03.wav" 1432102 0 1582742330 0
+D y 2017-05-07 s 96000 n 2 r 1:12:00.557
+D l 0:02.484 i 24
+F "FOL - IMPACT - ROCKS - FALLING - DEBRIS - 01.wav" 925666 0 1582742330 0
+D y 2016-05-1 s 48000 n 2 l 0:04.773
+D i 16
+F "FOL - IMPACT - ROCKS - FALLING - DEBRIS - 02.wav" 164584 0 1582742330 0
+D y 2008-12-0 s 48000 n 1 l 0:01.684
+D i 16
+F "FOL - IMPACT - SCIFI - ANGRY - PC.WAV" 3412272 0 1276526722 0
+D y  d "Loose - High - Synthesized - Reverberant. Tonal. Breathy woosh in, distorted. High tone tail." s 96000 n 2
+D l 0:05.836 i 24
+F "FOL - IMPACT - SciFi 08.wav" 11690126 0 1374505974 0
+D d "HIT SCI FI Soft, low and tonal hit with damped synthesized, sustained tone." s 96000 n 2 l 0:20.121
+D i 24
+F "FOL - IMPACT - sheet - dark - 03.wav" 853554 0 1275390540 0
+D y 2010-05-31 d "Impact - Metal - Medium - Low - Med. Single metal sheet, dull. Dry." s 96000 n 1
+D l 0:02.378 i 24
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 01.wav" 71068 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.760
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 02.wav" 79176 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.852
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 03.wav" 71338 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.763
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 04.wav" 73848 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.791
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 05.wav" 58776 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.620
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 06.wav" 61206 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.648
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 07.wav" 68208 0 1299534630 0
+D y 2010-08-05 p 86.2 k C s 44100
+D n 1 l 0:00.696 i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 08.wav" 71884 0 1299534630 0
+D y 2010-08-05 p 81.3 k C s 44100
+D n 1 l 0:00.737 i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 09.wav" 68556 0 1299534630 0
+D y 2010-08-05 p 85.7 k C s 44100
+D n 1 l 0:00.700 i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - concrete - 10.wav" 62408 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.662
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 01.wav" 53946 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.566
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 02.wav" 51818 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.542
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 03.wav" 35754 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.359
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 04.wav" 69476 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.742
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 05.wav" 55586 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.584
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 06.wav" 59840 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.633
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 07.wav" 73496 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.787
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 08.wav" 57642 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.608
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 09.wav" 74568 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.800
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - hollowwood - 10.wav" 81600 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.879
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 01.wav" 34788 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.348
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 02.wav" 21648 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.200
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 03.wav" 45756 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.473
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 04.wav" 45300 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.468
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 05.wav" 28704 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.280
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 06.wav" 27258 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.263
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 07.wav" 50332 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.525
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 08.wav" 19338 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.173
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 09.wav" 37524 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.380
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - metal - 10.wav" 32024 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.317
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 01.wav" 44416 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.458
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 02.wav" 31656 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.313
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 03.wav" 45276 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.467
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 04.wav" 56928 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.600
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 05.wav" 43698 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.450
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 06.wav" 55006 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.578
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 07.wav" 57402 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.605
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 08.wav" 44942 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.464
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 09.wav" 54684 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.574
+D i 16
+F "FOL - IMPACT - shellcasing - assaultrifle - wood - 10.wav" 54624 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.573
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 01.wav" 35686 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.359
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 02.wav" 109848 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.200
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 03.wav" 61916 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.656
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 04.wav" 75616 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.811
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 05.wav" 56928 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.600
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 06.wav" 77020 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.827
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 07.wav" 58496 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.617
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 08.wav" 291982 0 1299534630 0
+D y 2010-08-05 s 96000 n 1 l 0:00.750
+D i 32
+F "FOL - IMPACT - shellcasing - pistol - concrete - 09.wav" 50424 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.526
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - concrete - 10.wav" 27132 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.262
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 01.wav" 45094 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.465
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 02.wav" 56928 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.600
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 03.wav" 62682 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.665
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 04.wav" 46576 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.482
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 05.wav" 58164 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.614
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 06.wav" 62500 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.663
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 07.wav" 69634 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.744
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 08.wav" 52518 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.550
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 09.wav" 62702 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.665
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - hollowwood - 10.wav" 69170 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.738
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 01.wav" 34820 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.349
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 02.wav" 33996 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.340
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 03.wav" 34610 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.346
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 04.wav" 48108 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.500
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 05.wav" 43596 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.448
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 06.wav" 26364 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.253
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 07.wav" 22372 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.208
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 08.wav" 48550 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.505
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 09.wav" 32758 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.325
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - metal - 10.wav" 32232 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.320
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 01.wav" 45726 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.472
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 02.wav" 50618 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.528
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 03.wav" 64902 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.690
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 04.wav" 82056 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.884
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 05.wav" 35224 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.353
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 06.wav" 62902 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.667
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 07.wav" 61786 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.655
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 08.wav" 70158 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.750
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 09.wav" 161342 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:01.783
+D i 16
+F "FOL - IMPACT - shellcasing - pistol - wood - 10.wav" 59666 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.631
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 01.wav" 94216 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.022
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 02.wav" 85584 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.924
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 03.wav" 216256 0 1299534630 0
+D y 2010-08-05 s 96000 n 1 l 0:01.105
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 04.wav" 98106 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.066
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 05.wav" 59670 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.631
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 06.wav" 156856 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.732
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 07.wav" 98906 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.075
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 08.wav" 100274 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.091
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 09.wav" 69904 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.747
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - concrete - 10.wav" 88496 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.957
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 01.wav" 65104 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.692
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 02.wav" 67144 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.715
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 03.wav" 65748 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.700
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 04.wav" 71144 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.761
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 05.wav" 91524 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.992
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 06.wav" 65748 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.700
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 07.wav" 81746 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.881
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 08.wav" 65748 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.700
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 09.wav" 55290 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.581
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - hollowwood - 10.wav" 51976 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.543
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 01.wav" 33428 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.333
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 02.wav" 59038 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.623
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 03.wav" 79482 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.855
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 04.wav" 87798 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.950
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 05.wav" 77430 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.832
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 06.wav" 58788 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.621
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 07.wav" 55296 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.581
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 08.wav" 27698 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.268
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 09.wav" 56928 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.600
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - metal - 10.wav" 29636 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.290
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 01.wav" 65748 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.700
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 02.wav" 58154 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.613
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 03.wav" 78978 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.850
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 04.wav" 79530 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.856
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 05.wav" 93854 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:01.018
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 06.wav" 96452 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:01.048
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 07.wav" 92208 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:01.000
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 08.wav" 64490 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.685
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 09.wav" 74052 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.794
+D i 16
+F "FOL - IMPACT - shellcasing - shotgun - wood - 10.wav" 70158 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.750
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 01.wav" 105530 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.151
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 02.wav" 105438 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.150
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 03.wav" 105326 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.148
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 04.wav" 46372 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.480
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 05.wav" 71316 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.763
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 06.wav" 94136 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.021
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 07.wav" 96042 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:01.043
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 08.wav" 65748 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.700
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 09.wav" 73450 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.787
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - concrete - 10.wav" 78438 0 1299534630 0
+D y 2010-08-05 s 44100 n 1 l 0:00.843
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 01.wav" 48904 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.509
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 02.wav" 32028 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.317
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 03.wav" 42224 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.433
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 04.wav" 46514 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.481
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 05.wav" 50362 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.525
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 06.wav" 59134 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.625
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 07.wav" 55198 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.580
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 08.wav" 38804 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.394
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 09.wav" 48108 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.500
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - hollowwood - 10.wav" 56278 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.592
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 01.wav" 31390 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.310
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 02.wav" 34116 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.341
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 03.wav" 25540 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.244
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 04.wav" 35108 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.352
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 05.wav" 30916 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.305
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 06.wav" 34878 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.350
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 07.wav" 33996 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.340
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 08.wav" 90500 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.980
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 09.wav" 32050 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.317
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - metal - 10.wav" 28704 0 1299534630 0
+D y 2010-08-11 s 44100 n 1 l 0:00.280
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 01.wav" 63206 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.671
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 02.wav" 46028 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.476
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 03.wav" 51142 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.534
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 04.wav" 36590 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.369
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 05.wav" 52518 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.550
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 06.wav" 55710 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.586
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 07.wav" 47538 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.493
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 08.wav" 37524 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.380
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 09.wav" 52518 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.550
+D i 16
+F "FOL - IMPACT - shellcasing - sniperrifle - wood - 10.wav" 52518 0 1299534630 0
+D y 2010-08-10 s 44100 n 1 l 0:00.550
+D i 16
+F "FOL - IMPACT - SHOVEL - 01.wav" 890364 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Metal shovel hits with long, resonant ring out.."
+D d "impacts, impact," s 44100 n 2 l 0:05.044
+D i 16
+F "FOL - IMPACT - SHOVEL - 02.wav" 688100 0 1582742330 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" III' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Metal shovel hits with long, resonant ring out.."
+D d "impacts, impact," s 44100 n 2 l 0:03.898
+D i 16
+F "FOL - IMPACT - SIZZLE - BURN - 01.wav" 840852 0 1582742330 0
+D y 2017-04-06T21:06:35+10:00 s 96000 n 2 l 0:01.450
+D i 24
+F "FOL - IMPACT - SIZZLE - BURN - 02.wav" 899910 0 1582742330 0
+D y 2017-04-06T21:09:12+10:00 s 96000 n 2 l 0:01.552
+D i 24
+F "FOL - IMPACT - SIZZLE - BURN - 03.wav" 812052 0 1582742330 0
+D y 2017-04-06T21:08:32+10:00 s 96000 n 2 l 0:01.400
+D i 24
+F "FOL - IMPACT - Slam 10.wav" 4199394 0 1374505976 0
+D d "HIT SLAM Big drum impact with chain element. Short with high reverb and rumbling tail." s 96000 n 2 l 0:07.117
+D i 24
+F "FOL - IMPACT - slidedoor - open - 01.wav" 586476 0 1275328042 0
+D y 2010-05-31 d "Crash - Metal - Soft - Mid - Med. Open metal sliding door. Dry" s 96000 n 1
+D l 0:01.642 i 24
+F "FOL - IMPACT - small - iron - hammer - 07.wav" 500316 0 1275327770 0
+D y 2010-05-31 d "Hit - Metal - Hard - High - Small. Iron on concrete. Reverberant" s 96000 n 1
+D l 0:01.344 i 24
+F "FOL - IMPACT - SUB - NOISE - 01.wav" 8225914 0 1582742330 0
+D d "Sub drum impact. Rumbling character." s 96000 n 2 l 0:14.100
+D i 24
+F "FOL - IMPACT - SUB - THUNDER - 01.wav" 10184364 0 1582742330 0
+D d "Sub drum impact with filter cutoff modulation." s 96000 n 2 l 0:17.500
+D i 24
+F "FOL - IMPACT - SUBSONIC - BASS - 01.wav" 4864772 0 1582742330 0
+D a "Fox Audio Post-Production" y 2017-09-1 g Cinematic c "cinematic, bass, drop, sub, low end, lfe, trailer"
+D d "cinematic, bass, drop, sub, low end, lfe, trailer" s 96000 n 2 r 1:03:18.122
+D l 0:05.875 i 24 m 0
+F "FOL - IMPACT - SUBSONIC - BASS - 02.wav" 4216292 0 1582742330 0
+D a "Fox Audio Post-Production" y 2017-09-1 g Cinematic c "cinematic, bass, drop, sub, low end, lfe, trailer"
+D d "cinematic, bass, drop, sub, low end, lfe, trailer" s 96000 n 2 r 1:04:59.541
+D l 0:04.749 i 24 m 0
+F "FOL - IMPACT - Synth_Low_Boom.wav" 8239656 0 1308243868 0
+D y  d "IMPACT - PROCESSED - LOW - Reverberant, low synthesizer impact" s 96000 n 2
+D l 0:14.000 i 24
+F "FOL - IMPACT - TOMAHAWK - 01.wav" 150390 0 1582742330 0
+D y 2005-10-07 s 44100 n 1 r 1:07:43.942
+D l 0:01.660 i 16
+F "FOL - IMPACT - TOMAHAWK - 02.wav" 172196 0 1582742330 0
+D y 2005-10-07 s 44100 n 1 r 1:07:43.942
+D l 0:01.906 i 16
+F "FOL - IMPACT - TOMAHAWK - 03.wav" 165796 0 1582742330 0
+D y 2005-10-07 s 44100 n 1 r 1:07:43.942
+D l 0:01.834 i 16
+F "FOL - IMPACT - trash - rattle - 05.wav" 3580396 0 1275328080 0
+D y 2010-05-31 d "Crash - Metal - Hard - Mid - Med. Scrap and diverse metal elements. Reverberant" s 96000 n 1
+D l 0:12.010 i 24
+F "FOL - IMPACT - VINE - TREE - 01.wav" 684532 0 1582742330 0
+D y 2017-05-25 s 96000 n 2 r 1:06:51.842
+D l 0:01.186 i 24
+F "FOL - IMPACT - VINE - TREE - 02.wav" 505978 0 1582742330 0
+D y 2017-05-25 s 96000 n 2 r 1:06:51.842
+D l 0:00.876 i 24
+F "FOL - IMPACT - VINE - TREE - 03.wav" 721168 0 1582742330 0
+D y 2017-05-25 s 96000 n 2 r 1:06:51.842
+D l 0:01.250 i 24
+F "FOL - IMPACT - Voice_Choir_Male_Whisper.wav" 5935680 0 1308243870 0
+D y  d "IMPACT - VOICE - MID - Dry, male choir whispering" s 96000 n 2
+D l 0:10.000 i 24
+F "FOL - IMPACT - WET - GRIT - 01.wav" 294164 0 1582742330 0
+D s 96000 n 2 l 0:00.510 i 24
+F "FOL - IMPACT - WET - GRIT - 02.wav" 385706 0 1582742330 0
+D s 96000 n 2 l 0:00.669 i 24
+F "FOL - IMPACT - WET - GRIT - 03.wav" 300560 0 1582742330 0
+D s 96000 n 2 l 0:00.521 i 24
+F "FOL - IMPACT - wood - creak - 01.wav" 32690 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:00.325
+D i 16
+F "FOL - IMPACT - wood - creak - 02.wav" 20564 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:00.187
+D i 16
+F "FOL - IMPACT - wood - creak - 03.wav" 121118 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:01.327
+D i 16
+F "FOL - IMPACT - wood - creak - 04.wav" 85378 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:00.922
+D i 16
+F "FOL - IMPACT - wood - creak - 05.wav" 29280 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:00.286
+D i 16
+F "FOL - IMPACT - wood - creak - 06.wav" 124080 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:01.361
+D i 16
+F "FOL - IMPACT - wood - creak - 07.wav" 37098 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:00.375
+D i 16
+F "FOL - IMPACT - wood - creak - 08.wav" 72928 0 1299534630 0
+D y 2010-07-02 s 44100 n 1 l 0:00.781
+D i 16
+F "FOL - IMPACT - WOOD - HEAVY - 01.wav" 341668 0 1582742330 0
+D y 2007-09-22 d "Heavy Wood Impact And Crash With Boards And Debris. - Explosion Sweetener" s 44100 n 2
+D l 0:01.927 i 16
+F "FOL - IMPACT - WOOD - HEAVY - 02.wav" 218078 0 1582742330 0
+D y 2007-09-22 d "Heavy Wood Impact And Crash With Boards And Debris. - Explosion Sweetener" s 44100 n 2
+D l 0:01.228 i 16
+F "FOL - IMPACT - WOOD - HEAVY - 03.wav" 217694 0 1582742330 0
+D y 2007-09-22 d "Heavy Wood Impact And Crash With Boards And Debris. - Explosion Sweetener" s 44100 n 2
+D l 0:01.226 i 16
+F "FOL - IMPACT - Wood Hit Large Table.wav" 14851426 0 1374497160 0
+D d "HIT WOOD LARGE LOW Huge impact of a wooden table on a hollow concrete floor. Reverberant." s 96000 n 2 l 0:25.599
+D i 24
+F "HAL9K - A Simple One.wav" 5038316 0 1404340100 0
+D s 44100 n 2 l 0:14.280 i 32
+F "HAL9K - Brassy.wav" 4064692 0 1404052170 0
+D s 44100 n 2 l 0:11.521 i 32
+F "HAL9K - Buzz.wav" 8696572 0 1403976860 0
+D s 44100 n 2 l 0:24.650 i 32
+F "HAL9K - Cajon-ish.wav" 3531812 0 1403949284 0
+D s 44100 n 2 l 0:10.010 i 32
+F "HAL9K - Crunchy String.wav" 4139100 0 1403949678 0
+D s 44100 n 2 l 0:11.732 i 32
+F "HAL9K - Deep Growl.wav" 8118508 0 1403962284 0
+D s 44100 n 2 l 0:23.011 i 32
+F "HAL9K - Deep Metallic.wav" 6091948 0 1403962828 0
+D s 44100 n 2 l 0:17.267 i 32
+F "HAL9K - Deep Scifi.wav" 5352316 0 1404335980 0
+D s 44100 n 2 l 0:15.170 i 32
+F "HAL9K - Distorted Sqweak.wav" 6765508 0 1403963166 0
+D s 44100 n 2 l 0:19.176 i 32
+F "HAL9K - Distorted Tail.wav" 5279676 0 1403963596 0
+D s 44100 n 2 l 0:14.964 i 32
+F "HAL9K - Distorted Thump.wav" 4699964 0 1403963894 0
+D s 44100 n 2 l 0:13.321 i 32
+F "HAL9K - Disturbed 1.wav" 7809652 0 1403964268 0
+D s 44100 n 2 l 0:22.136 i 32
+F "HAL9K - Disturbed 2.wav" 8164940 0 1404336416 0
+D s 44100 n 2 l 0:23.143 i 32
+F "HAL9K - Duel.wav" 6508980 0 1404336660 0
+D s 44100 n 2 l 0:18.449 i 32
+F "HAL9K - Far Hit 1.wav" 5644844 0 1403965190 0
+D s 44100 n 2 l 0:16.000 i 32
+F "HAL9K - Far Hit 2.wav" 4176844 0 1403964872 0
+D s 44100 n 2 l 0:11.839 i 32
+F "HAL9K - Far Long.wav" 3543012 0 1403966144 0
+D s 44100 n 2 l 0:10.042 i 32
+F "HAL9K - Glass Hit 1.wav" 3876108 0 1403968246 0
+D s 44100 n 2 l 0:10.986 i 32
+F "HAL9K - Glass Hit 2.wav" 3166788 0 1403967978 0
+D s 44100 n 2 l 0:08.976 i 32
+F "HAL9K - Glitchy Tail.wav" 7626484 0 1404336896 0
+D s 44100 n 2 l 0:21.616 i 32
+F "HAL9K - Glitchy Wind.wav" 4478212 0 1403978414 0
+D s 44100 n 2 l 0:12.693 i 32
+F "HAL9K - Iron Sky.wav" 3722620 0 1404337240 0
+D s 44100 n 2 l 0:10.551 i 32
+F "HAL9K - Kaiju.wav" 4565372 0 1403968668 0
+D s 44100 n 2 l 0:12.940 i 32
+F "HAL9K - Long Drone 1.wav" 7319916 0 1404337808 0
+D s 44100 n 2 l 0:20.747 i 32
+F "HAL9K - Long Drone 2.wav" 9172684 0 1404337558 0
+D s 44100 n 2 l 0:25.999 i 32
+F "HAL9K - Long Evolving.wav" 4102788 0 1403968894 0
+D s 44100 n 2 l 0:11.629 i 32
+F "HAL9K - Long Sustained Note.wav" 3902612 0 1403969132 0
+D s 44100 n 2 l 0:11.061 i 32
+F "HAL9K - Lost Soul.wav" 2829476 0 1404338066 0
+D s 44100 n 2 l 0:08.019 i 32
+F "HAL9K - Low Long Tail.wav" 7761644 0 1404052230 0
+D s 44100 n 2 l 0:22.000 i 32
+F "HAL9K - Low Short.wav" 3971876 0 1403969882 0
+D s 44100 n 2 l 0:11.258 i 32
+F "HAL9K - Low Thump.wav" 4728964 0 1403969368 0
+D s 44100 n 2 l 0:13.403 i 32
+F "HAL9K - Lute 1.wav" 4761508 0 1404339142 0
+D s 44100 n 2 l 0:13.496 i 32
+F "HAL9K - Lute 2.wav" 7976764 0 1404338378 0
+D s 44100 n 2 l 0:22.609 i 32
+F "HAL9K - Mechatronic.wav" 5130348 0 1403977076 0
+D s 44100 n 2 l 0:14.541 i 32
+F "HAL9K - Metal + Delay.wav" 2468268 0 1403975482 0
+D s 44100 n 2 l 0:06.996 i 32
+F "HAL9K - Metallic Hiss.wav" 5019436 0 1403975724 0
+D s 44100 n 2 l 0:14.227 i 32
+F "HAL9K - Mysterious Revelation.wav" 5909356 0 1403976206 0
+D s 44100 n 2 l 0:16.749 i 32
+F "HAL9K - Piercing.wav" 5904316 0 1404339098 0
+D s 44100 n 2 l 0:16.735 i 32
+F "HAL9K - Room 237.wav" 2078852 0 1403976428 0
+D s 44100 n 2 l 0:05.892 i 32
+F "HAL9K - SciFi 1.wav" 2763508 0 1403976636 0
+D s 44100 n 2 l 0:07.832 i 32
+F "HAL9K - SciFi 2.wav" 4216492 0 1403977338 0
+D s 44100 n 2 l 0:11.951 i 32
+F "HAL9K - Scream.wav" 4612388 0 1403977742 0
+D s 44100 n 2 l 0:13.073 i 32
+F "HAL9K - Secrecy.wav" 2500500 0 1403975964 0
+D s 44100 n 2 l 0:07.087 i 32
+F "HAL9K - Shit in your pants.wav" 4233644 0 1404339444 0
+D s 44100 n 2 l 0:12.000 i 32
+F "HAL9K - Sinister Chord.wav" 4443228 0 1403978020 0
+D s 44100 n 2 l 0:12.594 i 32
+F "HAL9K - Sinking.wav" 4424556 0 1404339648 0
+D s 44100 n 2 l 0:12.541 i 32
+F "HAL9K - The Beast.wav" 2996220 0 1404339848 0
+D s 44100 n 2 l 0:08.492 i 32
+F "HAL9K - The Deepest Boom.wav" 1441060 0 1403978818 0
+D s 44100 n 2 l 0:04.084 i 32
+F "HAL9K - The Wave.wav" 3159940 0 1403978206 0
+D s 44100 n 2 l 0:08.956 i 32
+F "HAL9K - Valve.wav" 7814564 0 1404340332 0
+D s 44100 n 2 l 0:22.150 i 32
+F "Impact - Crash Distant A.wav" 2868388 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, crash, long, distant, metallic."
+D s 96000 n 2 r 1:36.282 l 0:04.978
+D i 24
+F "Impact - Crash Distant B.wav" 2893108 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, crash, long, distant, metallic."
+D s 96000 n 2 r 1:41.442 l 0:05.021
+D i 24
+F "Impact - Crash Distant C.wav" 4418356 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, crash, long, distant, metallic."
+D s 96000 n 2 r 1:46.464 l 0:07.669
+D i 24
+F "Impact - Crash Distant D.wav" 3568870 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, crash, long, distant, metallic."
+D s 96000 n 2 r 1:55.952 l 0:06.194
+D i 24
+F "Impact - Massive A.wav" 3236020 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact huge, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 34:10.177 l 0:05.616
+D i 24
+F "Impact - Massive B.wav" 2969188 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact huge, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 34:19.148 l 0:05.153
+D i 24
+F "Impact - Massive C.wav" 2693620 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact huge, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 34:25.562 l 0:04.675
+D i 24
+F "Impact - Massive D.wav" 3371194 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact huge, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 34:39.282 l 0:05.851
+D i 24
+F "Impact - Medium Iron Vibe A.wav" 1124260 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, crash into metal. Perceived from the material resonation perspective. Deep, muffled."
+D s 96000 n 2 r 2:09:11.992 l 0:01.950
+D i 24
+F "Impact - Medium Iron Vibe B.wav" 877174 0 1522131514 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, crash into metal. Perceived from the material resonation perspective. Deep, muffled."
+D s 96000 n 2 r 2:09:17.624 l 0:01.521
+D i 24
+F "Impact - Quakerish A.wav" 5430886 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact huge, vibrant, stylized, atmospheric, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 23:37.166 l 0:09.427
+D i 24
+F "Impact - Quakerish B.wav" 2935132 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact huge, vibrant, stylized, atmospheric, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 35:02.094 l 0:05.094
+D i 24
+F "Impact - Soft Shot A.wav" 2823550 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 9:51.666 l 0:04.900
+D i 24
+F "Impact - Soft Shot B.wav" 2615674 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Impact, blast, boom, crash, explosion. Material resonation, vibration."
+D s 96000 n 2 r 10:01.625 l 0:04.539
+D i 24
+F "Lfe Hit Impact 01.wav" 1880488 0 1439162571 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.659
+D i 16
+F "Lfe Hit Impact 02.wav" 1621062 0 1439163479 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.188
+D i 16
+F "Lfe Hit Impact 03.wav" 1592722 0 1439162253 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.028
+D i 16
+F "Lfe Hit Impact 04.wav" 1439442 0 1439161199 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.159
+D i 16
+F "Lfe Hit Impact 05.wav" 1046726 0 1439162791 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.932
+D i 16
+F "Lfe Hit Impact 06.wav" 1046726 0 1439161729 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.932
+D i 16
+F "Lfe Hit Impact 07.wav" 2562404 0 1439163407 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:14.525
+D i 16
+F Pig_Hits_Body_Impacts_with_2x4_Wood_OCP-1033-049.wav 3101118 0 1566570830 0
+D t Pig_Hits_Body_Impacts_with_2x4_Wood_OCP-1033-049 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Pig Hits, Body Impacts with 2x4 Wood, Clapping Smacks, Many Versions" d "Pig Hits, Body Impacts with 2x4 Wood, Clapping Smacks, Many Versions" s 48000
+D n 2 r 0:03.702 l 0:13.898 i 16
+D m 0
+F "STOMPS Android WALK 01.wav" 1215010 0 1544622770 0
+D a "Michel Marchant" y 2017-02-05 g Design c "FOOTSTEPS, Android | WALK, heavy, loose, crisp impact, clunky rattle | Single step_01"
+D d "FOOTSTEPS, Android | WALK, heavy, loose, crisp impact, clunky rattle | Single step_01" s 192000 n 2 r 35:40.326
+D l 0:00.880 i 24 m 0
+F "STOMPS Android WALK 02.wav" 1215010 0 1544622770 0
+D a "Michel Marchant" y 2017-02-05 g Design c "FOOTSTEPS, Android | WALK, heavy, loose, crisp impact, clunky rattle | Single step_02"
+D d "FOOTSTEPS, Android | WALK, heavy, loose, crisp impact, clunky rattle | Single step_02" s 192000 n 2 r 35:41.706
+D l 0:00.880 i 24 m 0
+F "STOMPS Android WALK 03.wav" 1215178 0 1544622770 0
+D a "Michel Marchant" y 2017-02-13 g Design c "FOOTSTEPS, Android | WALK, heavy, loose, crisp impact, clunky rattle | Single step_03"
+D d "FOOTSTEPS, Android | WALK, heavy, loose, crisp impact, clunky rattle | Single step_03" s 192000 n 2 r 35:43.086
+D l 0:00.880 i 24 m 0
+F "STOMPS Dino Tyrannosaurus Distant WALK 01.wav" 5385596 0 1544622770 0
+D a "Michel Marchant" y 2017-02-04 g Design c "FOOTSTEPS, Dinosaur, Tyrannosaurus | WALK, immense, deep, ominous impact, huge echo and reverberation | Single step_01"
+D d "FOOTSTEPS, Dinosaur, Tyrannosaurus | WALK, immense, deep, ominous impact, huge echo and reverberation | Single step_01" s 192000 n 2 r 26:10.966
+D l 0:04.500 i 24 m 0
+F "STOMPS Dino Tyrannosaurus Distant WALK 02.wav" 5431772 0 1544622770 0
+D a "Michel Marchant" y 2017-02-04 g Design c "FOOTSTEPS, Dinosaur, Tyrannosaurus | WALK, immense, deep, ominous impact, huge echo and reverberation | Single step_02"
+D d "FOOTSTEPS, Dinosaur, Tyrannosaurus | WALK, immense, deep, ominous impact, huge echo and reverberation | Single step_02" s 192000 n 2 r 26:15.666
+D l 0:04.540 i 24 m 0
+F "STOMPS Dino Tyrannosaurus Distant WALK 03.wav" 5431772 0 1544622770 0
+D a "Michel Marchant" y 2017-02-04 g Design c "FOOTSTEPS, Dinosaur, Tyrannosaurus | WALK, immense, deep, ominous impact, huge echo and reverberation | Single step_03"
+D d "FOOTSTEPS, Dinosaur, Tyrannosaurus | WALK, immense, deep, ominous impact, huge echo and reverberation | Single step_03" s 192000 n 2 r 26:20.406
+D l 0:04.540 i 24 m 0
+F "STOMPS Galactic Ice WALK 01.wav" 902738 0 1544622770 0
+D a "Michel Marchant" y 2017-02-04 g Design c "FOOTSTEPS, Galactic ice | WALK, crisp, crunchy ice impact, sharp, particular friction | Single step_01"
+D d "FOOTSTEPS, Galactic ice | WALK, crisp, crunchy ice impact, sharp, particular friction | Single step_01" s 192000 n 1 r 27:42.409
+D l 0:01.217 i 24 m 0
+F "STOMPS Galactic Ice WALK 02.wav" 902738 0 1544622770 0
+D a "Michel Marchant" y 2017-02-04 g Design c "FOOTSTEPS, Galactic ice | WALK, crisp, crunchy ice impact, sharp, particular friction | Single step_02"
+D d "FOOTSTEPS, Galactic ice | WALK, crisp, crunchy ice impact, sharp, particular friction | Single step_02" s 192000 n 1 r 27:44.127
+D l 0:01.217 i 24 m 0
+F "STOMPS Galactic Ice WALK 03.wav" 902738 0 1544622770 0
+D a "Michel Marchant" y 2017-02-04 g Design c "FOOTSTEPS, Galactic ice | WALK, crisp, crunchy ice impact, sharp, particular friction | Single step_03"
+D d "FOOTSTEPS, Galactic ice | WALK, crisp, crunchy ice impact, sharp, particular friction | Single step_03" s 192000 n 1 r 27:45.844
+D l 0:01.217 i 24 m 0
+F "STOMPS MetalNail Tiny Concrete 2Legs Double WALK 01.wav" 351512 0 1544622770 0
+D a "Michel Marchant" y 2017-02-15 g Source c "FOOTSTEPS, robotic critter, concrete | WALK, tiny, light, delicate, frictioney steps, clack | Double step_01"
+D d "FOOTSTEPS, robotic critter, concrete | WALK, tiny, light, delicate, frictioney steps, clack | Double step" s 192000 n 1 r 0:00.676
+D l 0:00.260 i 24 m 0
+F "STOMPS MetalNail Tiny Concrete 2Legs Double WALK 02.wav" 351512 0 1544622770 0
+D a "Michel Marchant" y 2017-02-15 g Source c "FOOTSTEPS, robotic critter, concrete | WALK, tiny, light, delicate, frictioney steps, clack | Double step_02"
+D d "FOOTSTEPS, robotic critter, concrete | WALK, tiny, light, delicate, frictioney steps, clack | Double step" s 192000 n 1 r 0:01.437
+D l 0:00.260 i 24 m 0
+F "STOMPS MetalNail Tiny Concrete 2Legs Double WALK 03.wav" 351512 0 1544622770 0
+D a "Michel Marchant" y 2017-02-15 g Source c "FOOTSTEPS, robotic critter, concrete | WALK, tiny, light, delicate, frictioney steps, clack | Double step_03"
+D d "FOOTSTEPS, robotic critter, concrete | WALK, tiny, light, delicate, frictioney steps, clack | Double step" s 192000 n 1 r 0:02.197
+D l 0:00.260 i 24 m 0
+F "STOMPS Textures Shell Concrete SCRAP 01.wav" 485632 0 1544622770 0
+D a "Michel Marchant" y 2017-02-16 g Textures c "Sliding texture, concrete, fast | Rough, light, gritty scrape | Friction_01"
+D d "Siiding texture, concrete, fast | Rough, light, gritty scrape | Friction_01" s 192000 n 1 r 11:33.123
+D l 0:00.493 i 24 m 0
+F "STOMPS Textures Shell Concrete SCRAP 02.wav" 435952 0 1544622770 0
+D a "Michel Marchant" y 2017-02-16 g Textures c "Sliding texture, concrete, fast | Rough, light, gritty scrape | Friction_02"
+D d "Siiding texture, concrete, fast | Rough, light, gritty scrape | Friction_02" s 192000 n 1 r 11:33.817
+D l 0:00.407 i 24 m 0
+F "STOMPS Textures Shell Concrete SCRAP 03.wav" 428942 0 1544622770 0
+D a "Michel Marchant" y 2017-02-16 g Textures c "Sliding texture, concrete, fast | Rough, light, gritty scrape | Friction_03"
+D d "Siiding texture, concrete, fast | Rough, light, gritty scrape | Friction_03" s 192000 n 1 r 11:34.424
+D l 0:00.395 i 24 m 0

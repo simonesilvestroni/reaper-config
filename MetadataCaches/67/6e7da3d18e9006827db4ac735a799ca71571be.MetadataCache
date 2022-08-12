@@ -1,0 +1,80 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Radiosonics/Loops"
+F "Delayed radio loop 01.wav" 1856506 0 1532853373 0
+D s 44100 n 2 l 0:07.016 i 24
+F "Delayed radio loop 02.wav" 1276234 0 1532868513 0
+D s 44100 n 2 l 0:04.823 i 24
+F "Delayed radio loop 03.wav" 1333606 0 1532868593 0
+D s 44100 n 2 l 0:05.039 i 24
+F "Delayed radio loop 04.wav" 1083514 0 1532868703 0
+D s 44100 n 2 l 0:04.094 i 24
+F "Fake loop 01 (95BPM).wav" 1314394 0 1532936021 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.129
+D l 0:04.923 i 24
+F "Fake loop 02 (95BPM).wav" 2685468 0 1532936039 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.000
+D l 0:10.105 i 24
+F "Fake loop 03 (95BPM).wav" 2646804 0 1532936065 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.073
+D l 0:09.959 i 24
+F "Fake loop 04 (95BPM).wav" 1339822 0 1532936266 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.000
+D l 0:05.052 i 24
+F "Fake loop 05 (95BPM).wav" 1348540 0 1532936456 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.000
+D l 0:05.052 i 24
+F "Fake loop 06 (95BPM).wav" 1333696 0 1532936476 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.000
+D l 0:04.996 i 24
+F "Fake loop 07 (95BPM).wav" 1311810 0 1532936664 0
+D y 2018-07-30 s 44100 n 2 r 1:00:00.000
+D l 0:04.913 i 24
+F "L R reversing Loop 01.wav" 3655222 0 1532606470 0
+D s 44100 n 2 l 0:13.813 i 24
+F "L R reversing Loop 02.wav" 2424388 0 1532881538 0
+D s 44100 n 2 l 0:09.162 i 24
+F "L R reversing Loop 03.wav" 1252252 0 1532938778 0
+D s 44100 n 2 l 0:04.732 i 24
+F "Processed Tape delay Loop 01.wav" 1561366 0 1532606607 0
+D s 44100 n 2 l 0:05.900 i 24
+F "Ring Mod loop 01.wav" 1615174 0 1532876251 0
+D s 44100 n 2 l 0:06.104 i 24
+F "Ring Mod loop 02.wav" 471460 0 1532876292 0
+D s 44100 n 2 l 0:01.781 i 24
+F "Ring Mod loop 03.wav" 2255350 0 1532878020 0
+D s 44100 n 2 l 0:08.523 i 24
+F "Ring Mod loop 04.wav" 1085122 0 1532878356 0
+D s 44100 n 2 l 0:04.100 i 24
+F "Ring Mod loop 05.wav" 2968138 0 1532878476 0
+D s 44100 n 2 l 0:11.217 i 24
+F "Simple Osc Loop 01.wav" 1723606 0 1532766635 0
+D s 44100 n 2 l 0:06.513 i 24
+F "Simple Osc Loop 02.wav" 2683894 0 1532766679 0
+D s 44100 n 2 l 0:10.143 i 24
+F "Tape delay FB Loop 01.wav" 1747450 0 1532605708 0
+D s 44100 n 2 l 0:06.603 i 24
+F "Tape delay FB Loop 02.wav" 2181514 0 1532605769 0
+D s 44100 n 2 l 0:08.244 i 24
+F "Tape delay FB Loop 03.wav" 3243334 0 1532605921 0
+D s 44100 n 2 l 0:12.257 i 24
+F "Tape delay FB Loop 04.wav" 2333086 0 1532605978 0
+D s 44100 n 2 l 0:08.817 i 24
+F "Tape delay FB Loop 05.wav" 1944286 0 1532606100 0
+D s 44100 n 2 l 0:07.347 i 24
+F "Tape delay FB Loop 06.wav" 1608238 0 1532606257 0
+D s 44100 n 2 l 0:06.077 i 24
+F "Tape Loop 01.wav" 1312102 0 1532881678 0
+D s 44100 n 2 l 0:04.958 i 24
+F "Tape Loop 02.wav" 1819636 0 1532881731 0
+D s 44100 n 2 l 0:06.876 i 24
+F "Tape Loop 03.wav" 736696 0 1532882245 0
+D s 44100 n 2 l 0:02.784 i 24
+F "Tape Loop 04.wav" 1406626 0 1532882341 0
+D s 44100 n 2 l 0:05.315 i 24
+F "Tape Loop 05.wav" 1940554 0 1532882501 0
+D s 44100 n 2 l 0:07.333 i 24
+F "Tape Loop 06.wav" 1055236 0 1532885317 0
+D s 44100 n 2 l 0:03.987 i 24
+F "Tape Loop 07.wav" 1320748 0 1532885439 0
+D s 44100 n 2 l 0:04.991 i 24
+F "Tape Loop 08.wav" 3069322 0 1532885546 0
+D s 44100 n 2 l 0:11.599 i 24

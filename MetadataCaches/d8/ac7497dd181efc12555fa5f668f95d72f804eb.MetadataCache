@@ -1,0 +1,36 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/EXS Factory Samples/03 Drums & Percussion/02 Electronic Drum Kits/Hacienda Kit"
+F Clap_Hacienda.aif 159396 0 1512169034 0
+D s 44100 n 2 l 0:00.602 i 24
+F Crash_Hacienda.aif 384024 0 1512169034 0
+D s 44100 n 2 l 0:01.451 i 24
+F Hi-Hat_1_Hacienda.aif 21132 0 1512169034 0
+D s 44100 n 2 l 0:00.079 i 24
+F Hi-Hat_2_Hacienda.aif 160986 0 1655744740 0
+D s 44100 n 2 l 0:00.608 i 24
+F Hi-Hat_3_Hacienda.aif 254934 0 1512169034 0
+D s 44100 n 2 l 0:00.963 i 24
+F Kick_1_Hacienda.aif 254852 0 1592605768 0
+D s 44100 n 2 l 0:00.960 i 24
+F Kick_2_Hacienda.aif 255714 0 1512169034 0
+D s 44100 n 2 l 0:00.966 i 24
+F Perc_1_Hacienda.aif 254220 0 1512169034 0
+D s 44100 n 2 l 0:00.960 i 24
+F Perc_2_Hacienda.aif 190488 0 1512169034 0
+D s 44100 n 2 l 0:00.719 i 24
+F Perc_3_Hacienda.aif 132360 0 1512169034 0
+D s 44100 n 2 l 0:00.500 i 24
+F Perc_4_Hacienda.aif 160554 0 1655744740 0
+D p 99.5523 s 44100 n 2 l 0:00.602
+D i 24
+F Ride_Hacienda.aif 224460 0 1512169034 0
+D s 44100 n 2 l 0:00.848 i 24
+F Rim_Hacienda.aif 191070 0 1512169034 0
+D s 44100 n 2 l 0:00.721 i 24
+F Snare_1_Hacienda.aif 159528 0 1512169034 0
+D s 44100 n 2 l 0:00.602 i 24
+F Snare_2_Hacienda.aif 158130 0 1512169034 0
+D s 44100 n 2 l 0:00.596 i 24
+F Snare_3_Hacienda.aif 192730 0 1512169034 0
+D s 44100 n 2 l 0:00.727 i 24
+F Tom_Hacienda.aif 99166 0 1512169034 0
+D s 44100 n 1 l 0:00.718 i 24

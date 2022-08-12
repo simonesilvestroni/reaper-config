@@ -1,0 +1,236 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - PAPER & CARDBOARD"
+F "Draw 01.wav" 1425536 0 1247653656 0
+D y 2009-07-15 s 44100 n 2 l 0:05.387
+D i 24
+F "Draw 02.wav" 897152 0 1247654000 0
+D y 2009-07-15 s 44100 n 2 l 0:03.390
+D i 24
+F "Paper Tear.mp3" 216502 0 1583931154 0
+D s 44100 n 2 l 0:06.714 i 258k
+F paper-rip-1.wav 327752 0 1583930905 0
+D s 48000 n 2 l 0:01.706 i 16
+F paper-rip-10.wav 208968 0 1583930905 0
+D s 48000 n 2 l 0:01.088 i 16
+F paper-rip-11.wav 73800 0 1583930905 0
+D s 48000 n 2 l 0:00.384 i 16
+F paper-rip-12.wav 352428 0 1583930905 0
+D s 48000 n 2 l 0:01.835 i 16
+F paper-rip-13.wav 493340 0 1583930844 0
+D s 48000 n 2 l 0:02.569 i 16
+F paper-rip-14.wav 301176 0 1583930844 0
+D s 48000 n 2 l 0:01.568 i 16
+F paper-rip-15.wav 155720 0 1583930886 0
+D s 48000 n 2 l 0:00.810 i 16
+F paper-rip-16.wav 172104 0 1583930886 0
+D s 48000 n 2 l 0:00.896 i 16
+F paper-rip-17.wav 135240 0 1583930886 0
+D s 48000 n 2 l 0:00.704 i 16
+F paper-rip-18.wav 110664 0 1583930886 0
+D s 48000 n 2 l 0:00.576 i 16
+F paper-rip-19.wav 159816 0 1583930887 0
+D s 48000 n 2 l 0:00.832 i 16
+F paper-rip-2.wav 172104 0 1583930887 0
+D s 48000 n 2 l 0:00.896 i 16
+F paper-rip-20.wav 115388 0 1583930887 0
+D s 48000 n 2 l 0:00.600 i 16
+F paper-rip-3.wav 98376 0 1583930887 0
+D s 48000 n 2 l 0:00.512 i 16
+F paper-rip-4.wav 163912 0 1583930901 0
+D s 48000 n 2 l 0:00.853 i 16
+F paper-rip-5.wav 114760 0 1583930901 0
+D s 48000 n 2 l 0:00.597 i 16
+F paper-rip-6.wav 172104 0 1583930901 0
+D s 48000 n 2 l 0:00.896 i 16
+F paper-rip-7.wav 135240 0 1583930901 0
+D s 48000 n 2 l 0:00.704 i 16
+F paper-rip-8.wav 135240 0 1583930901 0
+D s 48000 n 2 l 0:00.704 i 16
+F paper-rip-9.wav 288364 0 1583930901 0
+D s 48000 n 2 l 0:01.501 i 16
+F paper-rustle-1.wav 922568 0 1583930962 0
+D s 48000 n 2 l 0:04.804 i 16
+F paper-rustle-2.wav 651336 0 1583930962 0
+D s 48000 n 2 l 0:03.392 i 16
+F paper-rustle-3.wav 1069916 0 1583930919 0
+D s 48000 n 2 l 0:05.572 i 16
+F paper-rustle-4.wav 401480 0 1583930919 0
+D s 48000 n 2 l 0:02.090 i 16
+F paper-rustle-5.wav 364616 0 1583930950 0
+D s 48000 n 2 l 0:01.898 i 16
+F paper-rustle-6.wav 651336 0 1583930951 0
+D s 48000 n 2 l 0:03.392 i 16
+F paper-rustle-7.wav 595840 0 1583930951 0
+D s 48000 n 2 l 0:03.103 i 16
+F paper-rustle-8.wav 344136 0 1583930846 0
+D s 48000 n 2 l 0:01.792 i 16
+F paper-rustle-9.wav 512560 0 1583930952 0
+D s 48000 n 2 l 0:02.669 i 16
+F paper-throw-1.wav 288336 0 1583930952 0
+D s 48000 n 2 l 0:01.501 i 16
+F "PM ABB MKH8040 104 BOX CARDBOARD FOLD UNFOLD.wav" 1052040 0 1575126058 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_104_BOX_CARDBOARD_FOLD_UNFOLD
+D d http://pmsfx.com s 192000 n 1 l 0:01.427
+D i 24 m 0
+F "PM ABB MKH8040 136 BOX CARDBOARD FOLD UNFOLD AGGRESSIVE.wav" 1278870 0 1575126058 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_136_BOX_CARDBOARD_FOLD_UNFOLD_AGGRESSIVE
+D d http://pmsfx.com s 192000 n 1 l 0:01.821
+D i 24 m 0
+F "PM ABB MKH8040 147 BOX CARDBOARD TEARING.wav" 2468582 0 1575126059 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_147_BOX_CARDBOARD_TEARING
+D d http://pmsfx.com s 192000 n 1 l 0:03.887
+D i 24 m 0
+F "PM ABB MKH8040 155 BOX CARDBOARD STAB KNIFE PULLOUT.wav" 1423600 0 1575126059 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_155_BOX_CARDBOARD_STAB_KNIFE_PULLOUT
+D d http://pmsfx.com s 192000 n 1 l 0:02.072
+D i 24 m 0
+F "PM ABB MKH8040 187 BOX CARDBOARD STEP ON FOOTSTEP.wav" 1351882 0 1575126060 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_187_BOX_CARDBOARD_STEP_ON_FOOTSTEP
+D d http://pmsfx.com s 192000 n 1 l 0:01.948
+D i 24 m 0
+F "PM ABB MKH8040 194 BOX CARDBOARD SLIDE ACROSS.wav" 858362 0 1575126060 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_194_BOX_CARDBOARD_SLIDE_ACROSS
+D d http://pmsfx.com s 192000 n 1 l 0:01.091
+D i 24 m 0
+F "PM ABB MKH8040 3 BOX DROP IMPACT BOOMY CLOSE HOLLOW LFE.wav" 1426944 0 1575126055 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_3_BOX_DROP_IMPACT_BOOMY_CLOSE_HOLLOW_LFE
+D d http://pmsfx.com s 192000 n 1 l 0:02.078
+D i 24 m 0
+F "PM ABB MKH8040 72 BOX OPEN CLOSE CARDBOARD.wav" 1056820 0 1575126057 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_72_BOX_OPEN_CLOSE_CARDBOARD
+D d http://pmsfx.com s 192000 n 1 l 0:01.436
+D i 24 m 0
+F "PM ABB MKH8040 85 BOX CARDBOARD TOUCH GRAB.wav" 805604 0 1575126057 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8040_85_BOX_CARDBOARD_TOUCH_GRAB
+D d http://pmsfx.com s 192000 n 1 l 0:01.000
+D i 24 m 0
+F "PM ABB MKH8060 17 BOX DROP IMPACT BOOMY BRIGHT.wav" 635286 0 1575126061 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8060_17_BOX_DROP_IMPACT_BOOMY_BRIGHT
+D d http://pmsfx.com s 192000 n 1 l 0:00.704
+D i 24 m 0
+F "PM ABB MKH8060 95 BOX CARDBOARD TOUCH GRAB.wav" 1150828 0 1575126063 0
+D a "Phil Michalski PMSFX.COM" y 2019-11-30 g Household c MKH8060_95_BOX_CARDBOARD_TOUCH_GRAB
+D d http://pmsfx.com s 192000 n 1 l 0:01.599
+D i 24 m 0
+F "PM BA BOOK 0 1 Book, Paper, Page Turn.wav" 939038 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Page Turn"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.269
+D i 24 m 0
+F "PM BA BOOK 0 20 Book, Paper, Pages, Flip Through, Flippi.wav" 983998 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Pages, Flip Through, Flipping"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.346
+D i 24 m 0
+F "PM BA BOOK 1 20 Book, Paper, Page Turn.wav" 961856 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Page Turn"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.309
+D i 24 m 0
+F "PM BA BOOK 1 41 Book, Slide Across, Movement, Handling.w.wav" 1022262 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Slide Across, Movement, Handling"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.413
+D i 24 m 0
+F "PM BA BOOK 3 27 Book, Slide Across, Movement, Handling.w.wav" 844934 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Slide Across, Movement, Handling"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.106
+D i 24 m 0
+F "PM BA BOOK 3 4 Book, Paper, Page Turn.wav" 1423418 0 1528411302 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Page Turn"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:02.106
+D i 24 m 0
+F "PM BA BOOK 3 50 Book, Open, Paper.wav" 1106616 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Open, Paper"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.559
+D i 24 m 0
+F "PM BA BOOK 4 28 Book, Paper, Pages, Flip Through, Flippi.wav" 1468048 0 1528411302 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Pages, Flip Through, Flipping"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:02.182
+D i 24 m 0
+F "PM BA BOOK 4 7 Book, Paper, Page Turn.wav" 1816880 0 1528411302 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Page Turn"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:02.785
+D i 24 m 0
+F "PM BA BOOK 5 36 Book, Open, Paper.wav" 849706 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Open, Paper"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.115
+D i 24 m 0
+F "PM BA BOOK 5 6 Book, Paper, Page Turn.wav" 1638594 0 1528411302 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Paper, Page Turn"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:02.477
+D i 24 m 0
+F "PM BA BOOK 6 25 Book, Slide Across, Movement, Handling.w.wav" 1153010 0 1528411302 0
+D t "Marker 31" a "Phil Michalski" y 2018-06-07 g Foley
+D c "Book, Slide Across, Movement, Handling" d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dFRAMERATE=30.000ND  dSPEED=030.000-NDF  dTRK3=MKH8060  dNOTE=PM Books Alive  " s 192000 n 1
+D r 8:54:25.085 l 0:01.623 i 24 m 0
+F "PM BA BOOK 7 10 Book, Paper, Page Turn, Book Binding Cra.wav" 914524 0 1528411303 0
+D t "Marker 17" a "Phil Michalski" y 2018-06-07 g Foley
+D c "Book, Paper, Page Turn, Book Binding Cracking " d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dFRAMERATE=30.000ND  dSPEED=030.000-NDF  dTRK3=MKH8060  dNOTE=PM Books Alive  " s 192000 n 1
+D r 8:58:21.747 l 0:01.211 i 24 m 0
+F "PM BA BOOK 7 41 Book, Close, Paper.wav" 910538 0 1528411303 0
+D t "Marker 49" a "Phil Michalski" y 2018-06-07 g Foley
+D c "Book, Close, Paper" d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dFRAMERATE=30.000ND  dSPEED=030.000-NDF  dTRK3=MKH8060  dNOTE=PM Books Alive  " s 192000 n 1
+D r 9:02:06.325 l 0:01.204 i 24 m 0
+F "PM BA BOOK 8 48 Book, Close, Paper.wav" 929198 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Close, Paper"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.252
+D i 24 m 0
+F "PM BA BOOK 8 49 Book, Open, Paper.wav" 1010914 0 1528411303 0
+D a "Phil Michalski" y 2018-06-08 g Foley c "Book, Open, Paper"
+D d "dSCENE=PM Books Alive  dTAKE=PM Books Alive  dTAPE=PM Books Alive  dNOTE=PM Books Alive  " s 192000 n 1 l 0:01.393
+D i 24 m 0
+F "Tear Index Card 01.wav" 42290 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.472
+D i 16
+F "Tear Index Card 02.wav" 26944 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.298
+D i 16
+F "Tear Index Card 03.wav" 37928 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.422
+D i 16
+F "Tear Index Card 04.wav" 16228 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.176
+D i 16
+F "Tear Index Card 05.wav" 40152 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.448
+D i 16
+F "Tear Paper 01.wav" 29240 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.324
+D i 16
+F "Tear Paper 02.wav" 31266 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.347
+D i 16
+F "Tear Paper 03.wav" 25278 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.279
+D i 16
+F "Tear Paper 04.wav" 27704 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.306
+D i 16
+F "Tear Paper 05.wav" 31106 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.345
+D i 16
+F "Tear Paper 06.wav" 41108 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.458
+D i 16
+F "Tear Paper 07.wav" 22978 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.253
+D i 16
+F "Tear Paper 08.wav" 47690 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.533
+D i 16
+F "Tear Paper 09.wav" 87976 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.990
+D i 16
+F "Tear Paper 10.wav" 22348 0 986672972 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.246
+D i 16
+F "Tear Paper 11.wav" 66286 0 986672972 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.744
+D i 16
+F "Tear Wrapper.wav" 56946 0 986672972 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.638
+D i 16
+F "Writing On Paper With Pencil.mp3" 208978 0 1583931079 0
+D s 44100 n 2 l 0:06.479 i 258k
+F writing-signature-1.wav 262216 0 1583930837 0
+D s 48000 n 2 l 0:01.365 i 16
+F writing-signature-2.wav 548936 0 1583930837 0
+D s 48000 n 2 l 0:02.858 i 16
+F writing-signature-3.wav 371644 0 1583930878 0
+D s 48000 n 2 l 0:01.935 i 16

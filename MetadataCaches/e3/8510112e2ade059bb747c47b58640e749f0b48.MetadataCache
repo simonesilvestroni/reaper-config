@@ -1,0 +1,30 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - N"
+F "Nails On Ceramic Tile Single 001.wav" 1895010 0 1481710541 0
+D y 2015-09-08 s 96000 n 2 r 1:00:00.090
+D l 0:03.284 i 24
+F "Nails On Metal Single 001.wav" 1131718 0 1481710541 0
+D y 2015-09-08 s 96000 n 2 r 1:00:00.000
+D l 0:01.960 i 24
+F "Nails On Towel Single 003.wav" 1406876 0 1481710542 0
+D y 2015-09-08 s 96000 n 2 r 1:00:00.000
+D l 0:02.438 i 24
+F "Nails On Velvet Single 002.wav" 840038 0 1481710441 0
+D y 2015-09-07 s 96000 n 2 r 1:00:00.000
+D l 0:01.455 i 24
+F "Navigation Button 19.wav" 2219120 0 1481710492 0
+D d "navigation, button, click, ui, interface, short, single" s 48000 n 2 l 0:00.541
+D i 24
+F "Nighttime, Countryside, Village Life, Cicades, Females Work In Kitchen Inside, Recorded From Porch, Background Talking In Amharic, Shashamene Motherland Ethiopia 19.WAV" 52307108 0 1488537493 0
+D t "MOTHERLAND ETHIOPIA" d "NIGHTTIME, COUNTRYSIDE, VILLAGE LIFE, CICADES, FEMALES WORK IN KITCHEN INSIDE, RECORDED FROM PORCH, BACKGROUND TALKING IN AMHARIC, SHASHAMENE_MOTHERLAND ETHIOPIA" s 48000 n 2
+D r 9:50:40.555 l 3:01.616 i 24
+F "Notification Bridge Operation 01.wav" 360730 0 1488537441 0
+D y 2015-05-09 s 96000 n 2 r 1:00:00.000
+D l 0:00.625 i 24
+F "Ns01 002 Nature Ambience With Seaguls.wav" 69119488 0 1488537536 0
+D t "NS01_002_Nature ambience with seaguls" a wolf_sfx b "nature sounds" g "sound effects"
+D c "nature ambience_forest_exterior_seaside_birds_seaguls" s 96000 n 2 l 1:59.998
+D i 24
+F "Ns01 007 Forest Birds.wav" 56448238 0 1488537518 0
+D t "NS01_007_ Forest birds" a wolf_sfx b "nature sounds" g "sound effects"
+D c "nature ambience_forest_exterior_birds_summer_bugs" s 96000 n 2 l 1:38.000
+D i 24

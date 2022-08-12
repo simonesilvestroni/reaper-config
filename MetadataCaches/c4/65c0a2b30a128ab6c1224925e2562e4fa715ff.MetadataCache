@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Tone Manufacture - Cassette Tone"
+F "TM_CASSETTE TONE_Buttons, play, motor on, long, interior perspective.wav" 11006086 0 1583868783 0
+D y 2016-08-0 d "motor, machine, tape, rhythmic, smooth, static, old, analogue" s 96000 n 1
+D r 21:40.229 l 0:36.295 i 24
+F "TM_CASSETTE TONE_Motor only, pause, counter perspective.wav" 9131534 0 1583868825 0
+D y 2016-08-0 d "motor, machine, tape, rhythmic, rattle, smooth, whine, old, analogue" s 96000 n 1
+D r 43:40.053 l 0:29.786 i 24
+F "TM_CASSETTE TONE_Motor only, rewind, button perspective.wav" 6721518 0 1583868999 0
+D y 2016-08-0 d "motor, machine, tape, rhythmic, click, rattle, old, analogue" s 96000 n 1
+D r 42:01.514 l 0:21.418 i 24
+F "TM_CASSETTE TONE_Tape in out case, with paper, close perspective.wav" 18659382 0 1583869072 0
+D y 2016-08-0 d "box, case, plastic, handling, open, shut, squeak, click, rattle" s 96000 n 1
+D r 8:34.000 l 1:02.869 i 24

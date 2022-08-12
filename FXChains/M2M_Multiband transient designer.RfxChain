@@ -1,0 +1,43 @@
+REQUIRED_CHANNELS 6
+BYPASS 0 0
+<JS loser/3BandSplitter ""
+  200.000000 2000.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+>
+<JS_PINMAP
+  6AMAABwAAADoAwAABgAAAAIAAAABAAAAAAAAAAIAAAAAAAAAPAAAAOgDAAAGAAAABgAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAA
+  AAAAAA==
+>
+WAK 0
+BYPASS 0 0
+<JS loser/TransientController "JS: Transient Controller LOW"
+  0.000000 0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+>
+<JS_PINMAP
+  6AMAABwAAADoAwAABgAAAAIAAAABAAAAAAAAAAIAAAAAAAAAHAAAAOgDAAAGAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA=
+>
+WAK 0
+BYPASS 0 0
+<JS loser/TransientController "JS: Transient Controller MID"
+  0.000000 0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+>
+<JS_PINMAP
+  6AMAABwAAADoAwAABgAAAAIAAAAEAAAAAAAAAAgAAAAAAAAAHAAAAOgDAAAGAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA=
+>
+WAK 0
+BYPASS 0 0
+<JS loser/TransientController "JS: Transient Controller HI"
+  0.000000 0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+>
+<JS_PINMAP
+  6AMAABwAAADoAwAABgAAAAIAAAAQAAAAAAAAACAAAAAAAAAAHAAAAOgDAAAGAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA=
+>
+WAK 0
+BYPASS 0 0
+<JS loser/3BandJoiner ""
+  0.000000 0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+>
+<JS_PINMAP
+  6AMAADwAAADoAwAABgAAAAYAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAcAAAA6AMAAAYAAAACAAAAAQAAAAAAAAACAAAA
+  AAAAAA==
+>
+WAK 0

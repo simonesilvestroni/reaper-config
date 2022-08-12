@@ -1,0 +1,20 @@
+C10017 "/Volumes/LIBRARY/Decidedly/DecentSampler/Lullaby (DS)/Samples"
+F "classic spring sine.wav" 314 0 1610569203 0
+D t TR-808 s 12212 n 1 l 0:00.004
+D i 16
+F CZ1000.wav 1938924 0 1610569203 0
+D s 48000 n 2 l 0:10.072 i 16
+F "long hum higher-[1].wav" 251148 0 1610671453 0
+D s 44100 n 1 l 0:02.846 i 16
+F "long hum.wav" 251144 0 1610569203 0
+D s 44100 n 1 l 0:02.846 i 16
+F "me sample higher.wav" 672504 0 1610671059 0
+D s 44100 n 1 l 0:03.780 i 32
+F "me sample.wav" 667004 0 1610569203 0
+D s 44100 n 1 l 0:03.780 i 32
+F meHigh.wav 1932632 0 1610569203 0
+D s 48000 n 2 l 0:10.039 i 16
+F meHighHum.wav 1933876 0 1610569203 0
+D s 48000 n 2 l 0:10.045 i 16
+F sine.wav 108 0 1610569203 0
+D s 44100 n 1 l 0:00.001 i 8

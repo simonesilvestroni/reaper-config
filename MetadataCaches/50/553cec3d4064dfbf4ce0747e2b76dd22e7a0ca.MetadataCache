@@ -1,0 +1,74 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - W"
+F "W 04 Water 05 Cave, Ambience, Water Drops, River T05.wav" 12286746 0 1488536991 0
+D t WATER c "water, cave, ambience, water drops, river, stereo, ortf" d "sFILENAME=W 04 Water_05_Cave, Ambience, Water Drops, River_T05.wav  sTRK1=L  sTRK2=R  sNOTE=water, cave, ambience, water drops, river, stereo, ortf  sPROJECT=WATER  sSCENE=W 04 Water_05_Cave, Ambience, Water Drops, River_  sTAPE=ORTF  sTAKE=05  " s 48000
+D n 2 l 0:42.623 i 24
+F "W 04 Water 10 City, Rain, Roof T04.wav" 17003042 0 1488537530 0
+D t WATER c "water, city, rain, roof, raindrops, diferent surfaces, stereo, xy, " d "sFILENAME=W 04 Water_10_City, Rain, Roof_T04.wav  sSCENE=W 04 Water_10_City, Rain, Roof_  sTAPE=XY  sTAKE=04  sTRK1=L  sTRK2=R  sNOTE=water, city, rain, roof, raindrops, diferent surfaces, stereo, xy,   " s 48000
+D n 2 l 0:59.000 i 24
+F "W 04 Water 19 Splashing, Sailing, Ship T03.wav" 36529728 0 1488537529 0
+D t WATER y 2016-11-25 c "water, splashing, sailing, ship, stereo, " d "sPROJECT=WATER  sSCENE=W 04 Water_19_Splashing, Sailing, Ship_  sTAPE=ORTF  sTAKE=03  sNOTE=water, splashing, sailing, ship, stereo,   sTRK1=L  sTRK2=R  sFILENAME=W 04 Water_19_Splashing, Sailing, Ship_T03.wav  "
+D s 48000 n 2 l 2:06.800 i 24
+F "W 04 Water 24 Splashing, Sailing, Small, Fishing, Ship T03.wav" 31403226 0 1488537520 0
+D t WATER c "water, splashing,sailing, small, fishing, ship, stereo, " d "sFILENAME=W 04 Water_24_Splashing, Sailing, Small, Fishing, Ship_T03.wav  sSCENE=W 04 Water_24_Splashing, Sailing, Small, Fishing, Ship_  sTAPE=ORTF  sTAKE=03  sNOTE=water, splashing,sailing, small, fishing, ship, stereo,   sTRK1=L  sTRK2=R  " s 48000
+D n 2 l 1:49.000 i 24
+F "Warfare T1B Cannon Firing Forest Distant Mkh8060 2.wav" 13888746 0 1488537177 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Guns c "40mm cannon firing forest distant Sennheiser MKH8060 Zaxcom"
+D d "40mm cannon firing forest distant Sennheiser MKH8060 Zaxcom" s 96000 n 1 l 0:48.000
+D i 24 m 0
+F "Warfare T2 Mg Firing Close Projectile Tail Large Field Telinga W Mkh8020 Or Mkh8060.wav" 16377890 0 1488537492 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Guns c "7.62mm machine gun firing close projectile tail large field Zaxcom Telinga Sennheiser MKH8020 or Sennheiser MKH8060"
+D d "7.62mm machine gun firing close projectile tail large field Zaxcom Telinga Sennheiser MKH8020 or Sennheiser MKH8060" s 96000 n 1 l 0:56.640
+D i 24 m 0
+F "Washbasin Sounds.wav" 14426388 0 1481710507 0
+D a www.thesoundpacktree.com b "The Big Pack" y 2013-04-27 d "-0065 dispenser hands knock off public soap toilet wash washbasin water"
+D s 96000 n 1 l 0:50.087 i 24
+F "Water Dam White Noise And Bass Rumble Closer Perspective Stereom10.wav" 39680930 0 1488537439 0
+D y 2016-04-1 d "water, dam, noise, white, wide, flow, falling, waterfall, big, rumble, close, stereo" s 96000 n 2
+D l 1:07.250 i 24
+F "Water Tunnel 2.wav" 16752060 0 1488537531 0
+D y 2016-09-13 d "sSPEED=023.976-ND  sTAKE=83  sUBITS=$01251683  sSWVER=2.67  sPROJECT=  sSCENE=KEV-1  sFILENAME=KEV-1T83.WAV  sTAPE=16Y01M25  sTRK1=Track A  sTRK2=Track B  sNOTE=  " s 96000 n 2
+D r 2:49:07.802 l 0:29.072 i 24
+F Whirlwind.wav 30216722 0 1481710476 0
+D d "drone, texture, synth, electronic, ambience, wind, gate, pulsing, rumble" s 48000 n 2 l 1:43.885
+D i 24
+F "Whistle Med R To L 001.wav" 1772522 0 1481710240 0
+D y 2014-09-29 s 96000 n 2 r 1:00:06.000
+D l 0:03.072 i 24
+F "Wind Haunted.wav" 11006756 0 1439161200 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:02.395
+D i 16
+F "Window,Small,Break,Medium Impact,Large Amount Of Clinking Pieces.wav" 406142 0 1488537323 0
+D t "Shards / Skyes Audio" y 2016-12-0 c "Window,Small,Break,Medium Impact,Large Amount of Clinking Pieces" d "Window,Small,Break,Medium Impact,Large Amount of Clinking Pieces"
+D s 96000 n 1 r 0:58.144 l 0:01.386
+D i 24
+F "Window,Small,Crack,Medium Impact,Bright.wav" 323988 0 1488537261 0
+D t "Shards / Skyes Audio" y 2016-12-0 c "Window,Small,Crack,Medium Impact,Bright" d "Window,Small,Crack,Medium Impact,Bright"
+D s 96000 n 1 r 1:13.198 l 0:01.103
+D i 24
+F "Wine Glass Hit Higher Pitch.wav" 1939868 0 1481710402 0
+D y 2015-04-13 s 44100 n 2 l 0:07.307
+D i 24
+F "Wood Creak Doppler 1.aif" 27811970 0 1505994829 0
+D s 96000 n 2 l 0:48.272 i 24
+F "Woodshed - Rock And Wood Large Impacts - 1 Meter. Rock,Wood,Large,Impact,Roll,Various 02.wav" 7230768 0 1481710537 0
+D y 2015-09-19 s 96000 n 2 r 46:45.194
+D l 0:12.089 i 24
+F woof.wav 149622 0 1129211444 0
+D y 2005-10-13 s 44100 n 2 l 0:00.847
+D i 16
+F "Wr Ext Start And Away Fast Semi-Distant Pov Stereo.wav" 21050282 0 1488537507 0
+D y 2016-07-1 s 48000 n 2 r 1:03:28.300
+D l 1:12.700 i 24
+F "Wr Ext Troop Door Open Mono.wav" 10195180 0 1488537421 0
+D y 2016-08-12 s 48000 n 1 r 59:56.400
+D l 1:10.792 i 24
+F "Wr Int Turret Movements Short Troop Area Pov Mono.wav" 4325956 0 1488536960 0
+D y 2016-08-0 s 48000 n 1 r 59:56.400
+D l 0:30.033 i 24
+F "Wr Onbd Const Int Driver Posn Pov Slow Stereo.wav" 46887556 0 1488537522 0
+D y 2016-08-1 s 48000 n 2 r 59:56.400
+D l 2:42.800 i 24
+F "Wt Pee 01 .wav" 5144576 0 1488537074 0
+D y 2013-12-22 g FOLEY c "Misc, Vomits, Spits, Chokes" d "Misc, Vomits, Spits, Chokes"
+D s 48000 n 2 r 1:02:20.653 l 0:17.781
+D i 24 m 0

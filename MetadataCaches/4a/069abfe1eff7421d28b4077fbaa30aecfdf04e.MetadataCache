@@ -1,0 +1,29 @@
+C10017 /Volumes/LIBRARY/AudioThing/Presets/FogConvolver/M2M/Bathrooms
+F "Bathroom 1 L.wav" 164444 0 1616672393 0
+D y 2004-07-18 s 48000 n 1 r 10:34.998
+D l 0:01.130 i 24
+F "Bathroom 1 R.wav" 164444 0 1616672394 0
+D y 2004-07-18 s 48000 n 1 r 10:34.998
+D l 0:01.130 i 24
+F "Bathroom 2 L.wav" 164444 0 1616672393 0
+D y 2004-07-18 s 48000 n 1 r 10:34.998
+D l 0:01.130 i 24
+F "Bathroom 2 R.wav" 164444 0 1616672394 0
+D y 2004-07-18 s 48000 n 1 r 10:34.998
+D l 0:01.130 i 24
+F "Bathroom L.wav" 220400 0 1616672402 0
+D s 48000 n 1 l 0:01.147 i 32
+F "Bathroom R.wav" 216100 0 1616672402 0
+D s 48000 n 1 l 0:01.125 i 32
+F Bathroom.wav 126514 0 1616672393 0
+D y 2004-07-06 s 48000 n 2 l 0:00.435
+D i 24
+F "Big bathroom.wav" 215116 0 1616672393 0
+D y 2004-07-06 s 48000 n 2 l 0:00.742
+D i 24
+F "From corner bath.wav" 428384 0 1616672402 0
+D s 48000 n 2 l 0:01.487 i 24
+F "From corner door.wav" 564236 0 1616672402 0
+D s 48000 n 2 l 0:01.959 i 24
+F "Inside bathtub.wav" 599930 0 1616672402 0
+D s 48000 n 2 l 0:02.082 i 24

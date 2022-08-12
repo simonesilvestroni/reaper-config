@@ -1,0 +1,9 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - West Wolf - Nature Sounds"
+F "NS01_002_Nature ambience with seaguls.wav" 69119488 0 1583869019 0
+D t "NS01_002_Nature ambience with seaguls" a wolf_sfx b "nature sounds" g "sound effects"
+D c "nature ambience_forest_exterior_seaside_birds_seaguls" s 96000 n 2 l 1:59.998
+D i 24
+F "NS01_007_Forest birds.wav" 56448238 0 1583869081 0
+D t "NS01_007_ Forest birds" a wolf_sfx b "nature sounds" g "sound effects"
+D c "nature ambience_forest_exterior_birds_summer_bugs" s 96000 n 2 l 1:38.000
+D i 24

@@ -1,0 +1,29 @@
+C10017 /Volumes/LIBRARY/AudioThing/Presets/FogConvolver/M2M/Church
+F "Big Empty Church.wav" 967756 0 1616672393 0
+D y 2004-06-04 s 48000 n 2 l 0:03.356
+D i 24
+F "Church 1 L.wav" 1444942 0 1616672396 0
+D y 2004-07-18 s 48000 n 1 r 5:04.998
+D l 0:10.000 i 24
+F "Church 1 R.wav" 1444942 0 1616672394 0
+D y 2004-07-18 s 48000 n 1 r 5:04.998
+D l 0:10.000 i 24
+F "Church 2 L.wav" 1444942 0 1616672395 0
+D y 2004-07-18 s 48000 n 1 r 5:04.998
+D l 0:10.000 i 24
+F "Church 2 R.wav" 1444942 0 1616672395 0
+D y 2004-07-18 s 48000 n 1 r 5:04.998
+D l 0:10.000 i 24
+F "Church L.wav" 1003222 0 1616672392 0
+D y 2004-07-02 s 48000 n 1 l 0:06.940
+D i 24
+F "Church R.wav" 1003768 0 1616672392 0
+D y 2004-07-02 s 48000 n 1 l 0:06.944
+D i 24
+F "Church Schellingwoude L.wav" 478460 0 1616672397 0
+D s 44100 n 1 l 0:02.712 i 32
+F "Church Schellingwoude R.wav" 481680 0 1616672397 0
+D s 44100 n 1 l 0:02.730 i 32
+F "Large Church.wav" 856486 0 1616672393 0
+D y 2004-06-04 s 48000 n 2 l 0:02.969
+D i 24

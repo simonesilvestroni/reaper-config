@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Eiravaein Sound - Vaeyan III"
+F VaeyanIII,massager,osscilations,switch,hispeed,mechanical,electrical,50Hz,hum,vibration,loopable.wav 13688976 0 1583868104 0
+D y 2015-11-14 d VaeyanIII,massager,osscilations,switch,hispeed,mechanical,electrical,50Hz,hum,vibration,loopable s 96000 n 1
+D r 2:47.860 l 0:47.522 i 24
+F VaeyanIII,medicaldevices,insulinpump,rewind,beeps,servo,spinning.wav 8263896 0 1583868631 0
+D y 2015-12-23 d VaeyanIII,medicaldevices,insulinpump,rewind,beeps,servo,spinning s 96000 n 1
+D r 1:41:14.632 l 0:28.686 i 24
+F VaeyanIII,shockabsorber,broken,decompress,oil,bubbling,scuffing,flatulent.wav 704024 0 1583868546 0
+D y 2015-12-23 d VaeyanIII,shockabsorber,broken,decompress,oil,bubbling,scuffing,flatulent s 96000 n 1
+D r 11:19.733 l 0:02.436 i 24
+F VaeyanIII,tea,leaves,loose,bag,plastic,foil,rollup,seal,rustle,crinkle.wav 4926806 0 1583867841 0
+D y 2015-12-19 d VaeyanIII,tea,leaves,loose,bag,plastic,foil,rollup,seal,rustle,crinkle s 96000 n 1
+D r 1:08:07.339 l 0:17.098 i 24

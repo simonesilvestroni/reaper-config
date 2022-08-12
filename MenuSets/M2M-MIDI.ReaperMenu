@@ -1,0 +1,23 @@
+[MIDI piano roll toolbar]
+icon_12=text_wide_tt
+icon_13=toolbar_misc_phones.png
+item_0=1005 Save (.mid source only)
+item_1=1013 Revert (.mid source only)
+item_2=40042 Piano roll
+item_3=40043 Named notes
+item_4=40056 Event list
+item_5=40954 Musical notation
+item_6=40449 Rectangular notes (normal mode)
+item_7=40448 Triangular notes (drum mode)
+item_8=40450 Diamond notes (drum mode)
+item_9=40471 Filter
+item_10=40818 Track List
+item_11=40009 Quantize
+item_12=40457 HUMANIZE
+item_13=40041 Options: Preview notes when inserting or editing
+item_14=1215 CC selection follows note selection
+item_15=1017 Show grid
+item_16=1014 Snap to grid
+item_17=40481 Step sequencing: use all MIDI inputs for step recording
+item_18=40018 Dock editor
+

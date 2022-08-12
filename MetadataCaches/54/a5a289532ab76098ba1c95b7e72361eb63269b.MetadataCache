@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Qbsound Studio - Bar Effects"
+F "Glasses handle 03 NTG-2.wav" 866500 0 1583867456 0
+D d "glass, clink, clank, chink, drink, handling" s 48000 n 1 l 0:06.000
+D i 24
+F "Ice filling glass 01 NT1-A.wav" 1454908 0 1583868418 0
+D d "ice, fill, glass, clank, digging, throw, dropping, prepare" s 48000 n 1 l 0:10.085
+D i 24
+F "Soda Siphon-2 01 NTG-2.wav" 2896836 0 1583868467 0
+D d "siphon, liquid, pour, soda, shoot, sizzle" s 48000 n 1 l 0:20.098
+D i 24
+F "Tin Cola Open 02 NT1-A.wav" 1192098 0 1583868469 0
+D d "open, cap, sizzle, handling, clink, metal, can, tin" s 48000 n 1 l 0:08.260
+D i 24

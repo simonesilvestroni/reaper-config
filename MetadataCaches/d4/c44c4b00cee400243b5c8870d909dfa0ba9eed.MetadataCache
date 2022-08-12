@@ -1,0 +1,49 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/EXS Factory Samples/03 Drums & Percussion/02 Electronic Drum Kits/Compact Kit"
+F BoomFX_Compact.aif 662070 0 1512169034 0
+D s 44100 n 2 l 0:02.500 i 24
+F CharacteristicFX_Compact.aif 1058970 0 1512169034 0
+D s 44100 n 2 l 0:04.000 i 24
+F Clap_1_Compact.aif 340410 0 1512169034 0
+D s 44100 n 2 l 0:01.284 i 24
+F Clap_2_Compact.aif 360258 0 1655745131 0
+D s 44100 n 2 l 0:01.359 i 24
+F Conga_Low_Compact.aif 548508 0 1655745131 0
+D s 44100 n 2 l 0:02.070 i 24
+F Conga_Mid_Compact.aif 548508 0 1655745131 0
+D s 44100 n 2 l 0:02.070 i 24
+F Cymbal_Compact.aif 548508 0 1512169034 0
+D s 44100 n 2 l 0:02.070 i 24
+F Hi-Hat_Compact.aif 148960 0 1512169034 0
+D s 44100 n 2 l 0:00.547 i 24
+F Hi-Hat_Open_Compact.aif 1058970 0 1655745131 0
+D s 44100 n 2 l 0:04.000 i 24
+F Hi-Hat_Pedal_Compact.aif 548508 0 1655745131 0
+D s 44100 n 2 l 0:02.070 i 24
+F Kick_1_Compact.aif 1058970 0 1512169034 0
+D s 44100 n 2 l 0:04.000 i 24
+F Kick_2_Sub_Compact.aif 513234 0 1655745131 0
+D s 44100 n 2 l 0:01.937 i 24
+F PercFX_1_Compact.aif 425820 0 1655745131 0
+D s 44100 n 2 l 0:01.607 i 24
+F PercFX_2_Compact.aif 794370 0 1655745131 0
+D s 44100 n 2 l 0:03.000 i 24
+F Ride_Compact.aif 317262 0 1512169034 0
+D s 44100 n 2 l 0:01.196 i 24
+F Rim_Compact.aif 514062 0 1655745131 0
+D s 44100 n 2 l 0:01.940 i 24
+F Shaker_1_Compact.aif 464172 0 1655745131 0
+D s 44100 n 2 l 0:01.752 i 24
+F Shaker_2_Compact.aif 368118 0 1655745131 0
+D s 44100 n 2 l 0:01.389 i 24
+F Snare_1_Compact.aif 430542 0 1512169034 0
+D s 44100 n 2 l 0:01.624 i 24
+F Snare_2_Compact.aif 1058970 0 1655745131 0
+D s 44100 n 2 l 0:04.000 i 24
+F Snare_3_Compact.aif 430542 0 1512169034 0
+D s 44100 n 2 l 0:01.624 i 24
+F Tom_High_Compact.aif 555684 0 1512169034 0
+D s 44100 n 2 l 0:02.097 i 24
+F Tom_Low_Compact.aif 1058970 0 1512169034 0
+D s 44100 n 2 l 0:04.000 i 24
+F Tom_Mid_Compact.aif 662070 0 1655745131 0
+D s 44100 n 2 l 0:02.500 i 24

@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - West Wolf - Dock Ambiences and SFX"
+F "DA 03 Dock Ambience_02_ Trucks, Cranes, Loading, Cargo Ship_T02.wav" 100811138 0 1583869063 0
+D t DA c "ambience, exterior, dock, loading, truck, cargo, ship, industrial, big, cranes, chains, iron" d "sFILENAME=DA 03 Dock Ambience_02_ Trucks, Cranes, Loading, Cargo Ship_T02.wav  sSCENE=DA 03 Dock Ambience_02_ Trucks, Cranes, Loading, Cargo Ship_  sTAPE=XY  sTAKE=02  sTRK1=L  sTRK2=R  sSPEED=025.000-ND  " s 96000
+D n 2 r 0:00.000 l 2:55.000 i 24
+F "DA 03 Dock Ambience_05_ Cranes, Chains, Loading, Iron, Cargo Ship_ T05.wav" 77771230 0 1583869090 0
+D t DA c "ambience, exterior, dock, loading, cargo, ship, industrial, chains, iron, hitting, " d "sFILENAME=DA 03 Dock Ambience_05_ Cranes, Chains, Loading, Iron, Cargo Ship_ T05.wav  sSPEED=025.000-ND  sPROJECT=DA  sSCENE=DA 03 Dock Ambience_05_ Cranes, Chains, Loading, Iron, Cargo Ship_   sTAPE=XY  sTAKE=05  sTRK1=L  sTRK2=R  " s 96000
+D n 2 r 0:00.000 l 2:15.000 i 24
+F "DA 03 Dock Ambience_09_ Boat, Berth, Creak, Port_T09.wav" 14699146 0 1583868952 0
+D t DA c "sound effect, exterior, dock, ship, boat, berth, port, " d "sFILENAME=DA 03 Dock Ambience_09_ Boat, Berth, Creak, Port_T09.wav  sSPEED=025.000-ND  sPROJECT=DA  sSCENE=DA 03 Dock Ambience_09_ Boat, Berth, Creak, Port_  sTAPE=ORTF  sTAKE=09  sNOTE=sound effect, exterior, dock, ship, boat, berth, port,   sTRK1=L  " s 48000
+D n 2 r 0:00.000 l 0:51.000 i 24
+F "DA 03 Dock SFX_16_ Old, Industrial, Barrier, Creak_ T16.wav" 6208898 0 1583868930 0
+D t DA c "sound effect, exterior,industrial, dock, barrier, old, creak, " d "sFILENAME=DA 03 Dock SFX_16_ Old, Industrial, Barrier, Creak_ T16.wav  sSCENE=DA 03 Dock SFX_16_ Old, Industrial, Barrier, Creak_   sTAPE=ORTF  sTAKE=16  sNOTE=sound effect, exterior,industrial, dock, barrier, old, creak,   sTRK1=L  sTRK2=R  " s 48000
+D n 2 l 0:21.520 i 24

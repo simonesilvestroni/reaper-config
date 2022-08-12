@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - Car Debris, Impacts & Crashes"
+F mercedes_benz_dropped_1m_on_concrete_ls-5_2.wav 3625460 0 1583869069 0
+D t car_drop_mercedes_benz_1m_on_concrete_002 a "Pole Position Production www.pole.se" y 2017-02-25 g Cars
+D c "mercedes benz dropped on concrete ls-5 wav chassi crash metal impact debris car vehicle" d "mercedes benz dropped on concrete ls-5 wav chassi crash metal impact debris car vehicle" s 96000 n 2
+D l 0:05.984 i 24 m 0
+F peugeot_106_dropped_10m_on_metal_plates_zaxcom_191_1_S.wav 3083464 0 1583868566 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "peugeot 106 dropped on metal plates zaxcom neumann rsm191 wav chassi crash metal impact debris car vehicle"
+D d "peugeot 106 dropped on metal plates zaxcom neumann rsm191 wav chassi crash metal impact debris car vehicle" s 96000 n 1 l 0:10.085
+D i 24 m 0
+F peugeot_106_dropped_5m_on_metal_plates_zaxcom_holophone_1.wav 5404406 0 1583868881 0
+D t car_drop_peugeot_106_5m_on_metal_plates_001 a "Pole Position Production www.pole.se" y 2017-02-25 g Cars
+D c "peugeot 106 dropped on metal plates zaxcom holophone wav chassi crash metal impact debris car vehicle" d "peugeot 106 dropped on metal plates zaxcom holophone wav chassi crash metal impact debris car vehicle" s 96000 n 2
+D l 0:09.072 i 24 m 0

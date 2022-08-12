@@ -1,0 +1,56 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Fog Convolver Factory Bank/Samples/Synths"
+F "Analog Modular Synth (flat).wav" 793 0 1427482437 0
+D t "Eurorack Modular Synth (flat)" s 48000 n 1 l 0:00.004
+D i 24
+F "Analog Modular Synth (kalimba hit).wav" 950510 0 1425579058 0
+D s 48000 n 1 l 0:06.600 i 24
+F "Analog Modular Synth (noise sequence 1).wav" 364142 0 1425574132 0
+D s 48000 n 1 l 0:02.528 i 24
+F "Analog Modular Synth (noise sequence 2).wav" 504728 0 1425574207 0
+D s 48000 n 1 l 0:03.504 i 24
+F "Analog Modular Synth (pulsing 1).wav" 277010 0 1425571972 0
+D s 48000 n 1 l 0:01.923 i 24
+F "Analog Modular Synth (pulsing 2).wav" 597323 0 1425572304 0
+D s 48000 n 1 l 0:04.147 i 24
+F "Analog Modular Synth (pulsing 3).wav" 610718 0 1425574021 0
+D s 48000 n 1 l 0:04.240 i 24
+F "Analog Modular Synth (pulsing 4).wav" 183800 0 1425574363 0
+D s 48000 n 1 l 0:01.276 i 24
+F "Analog Modular Synth (under water 1).wav" 342106 0 1426110195 0
+D t "Analog Modular Synth (under water)" s 48000 n 1 l 0:02.375
+D i 24
+F "Analog Modular Synth (under water 2).wav" 352581 0 1426110195 0
+D t "Analog Modular Synth (under water 2)" s 48000 n 1 l 0:02.447
+D i 24
+F "Analog Modular Synth (valve).wav" 795 0 1427482461 0
+D t "Eurorack Modular Synth (valve)" s 48000 n 1 l 0:00.004
+D i 24
+F "BassStation (kick).wav" 57851 0 1431887020 0
+D s 48000 n 1 l 0:00.401 i 24
+F Otamatone.wav 297674 0 1433159594 0
+D s 48000 n 2 l 0:01.033 i 24
+F "Soviet Drum Machine (kick 1).wav" 53215 0 1427482517 0
+D t "Soviet Drum Machine (kick 1)" s 48000 n 1 l 0:00.368
+D i 24
+F "Soviet Drum Machine (kick 2).wav" 53215 0 1427482517 0
+D t "Soviet Drum Machine (kick 2)" s 48000 n 1 l 0:00.368
+D i 24
+F "Soviet Drum Machine (noise 1).wav" 144025 0 1427482517 0
+D t "Soviet Drum Machine (noise 1)" s 48000 n 1 l 0:00.999
+D i 24
+F "Soviet Drum Machine (noise 2).wav" 144025 0 1427482517 0
+D t "Soviet Drum Machine (noise 2)" s 48000 n 1 l 0:00.999
+D i 24
+F "Soviet Drum Machine (noise 3).wav" 144025 0 1427482518 0
+D t "Soviet Drum Machine (noise 3)" s 48000 n 1 l 0:00.999
+D i 24
+F "Volca (closed hat).wav" 20884 0 1431885496 0
+D t "Output 1-2_1" s 48000 n 1 l 0:00.144
+D i 24
+F "Volca (kick).wav" 194452 0 1431885496 0
+D t "Output 1-2_1" s 48000 n 1 l 0:01.349
+D i 24
+F "Volca (open hat).wav" 130297 0 1431885496 0
+D s 48000 n 1 l 0:00.903 i 24
+F "Volca (snare).wav" 35923 0 1431885496 0
+D s 48000 n 1 l 0:00.248 i 24

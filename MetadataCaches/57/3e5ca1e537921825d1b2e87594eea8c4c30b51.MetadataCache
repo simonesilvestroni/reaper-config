@@ -1,0 +1,12 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundMorph - ENERGY"
+F "Energy - defense barrier activation idle&stop.wav" 22743832 0 1583869053 0
+D s 96000 n 2 l 0:39.314 i 24
+F "Energy - electric_fuse-08.wav" 3525072 0 1583869071 0
+D d "soundmorph, energy, electricity, power, hum, buzz, zap, activate, spark, discharge, fuse" s 96000 n 2 l 0:05.947
+D i 24
+F "Energy - force_field_5_loop.wav" 22459258 0 1583869031 0
+D d "soundmorph, energy, electricity, power, hum, buzz, zap, activate, shield, force field, device, drone, loop" s 96000 n 2 l 0:38.819
+D i 24
+F "Energy - handheld generators 6.wav" 2655446 0 1583867996 0
+D d "soundmorph, energy, electricity, power, hum, buzz, zap, armor, activate, shield, force field, device, generator" s 96000 n 2 r 3:20.042
+D l 0:04.437 i 24

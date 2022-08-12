@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Pole Position - The Warfare Library"
+F warfare_t1b_cannon_firing_forest_distant_MKH8060_2.wav 13888746 0 1583868999 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Guns c "40mm cannon firing forest distant Sennheiser MKH8060 Zaxcom"
+D d "40mm cannon firing forest distant Sennheiser MKH8060 Zaxcom" s 96000 n 1 l 0:48.000
+D i 24 m 0
+F warfare_t2_mg_firing_close_projectile_tail_large_field_Telinga_w_MKH8020_or_MKH8060.wav 16377890 0 1583868961 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Guns c "7.62mm machine gun firing close projectile tail large field Zaxcom Telinga Sennheiser MKH8020 or Sennheiser MKH8060"
+D d "7.62mm machine gun firing close projectile tail large field Zaxcom Telinga Sennheiser MKH8020 or Sennheiser MKH8060" s 96000 n 1 l 0:56.640
+D i 24 m 0
+F warfare_t3_mg_whizzes_ricochets_bullet_cracks_M10.wav 104589538 0 1583869041 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Guns c "7.62mm machine gun whizzes ricochets bullet cracks Sony M10"
+D d "7.62mm machine gun whizzes ricochets bullet cracks Sony M10" s 96000 n 2 l 3:01.466
+D i 24 m 0

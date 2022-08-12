@@ -1,0 +1,61 @@
+C10017 "/Volumes/LIBRARY/LOOPS & ONE SHOTS/Mode Audio - Music Loops & Drones/Amber - Ambient Loops"
+F Caffeine_120_FilterDrums.wav 2153248 0 1572558765 0
+D c www.modeaudio.com p 120 s 44100 n 2
+D l 0:08.000 i 24
+F Chasm_122_Am_Chords.wav 8461516 0 1572559060 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 121.999875 s 44100 n 2 l 0:31.475
+D i 24
+F Chasm_122_Am_Sub.wav 8461516 0 1572559060 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 121.999875 s 44100 n 2 l 0:31.475
+D i 24
+F Chasm_122_FilterDrums.wav 2117948 0 1572558718 0
+D c www.modeaudio.com p 121.999787 s 44100 n 2
+D l 0:07.868 i 24
+F Chasm_122_Perc.wav 2117948 0 1572558718 0
+D c www.modeaudio.com p 121.999787 s 44100 n 2
+D l 0:07.868 i 24
+F Exoplanet_120_Fm_Granular.wav 8601752 0 1572559040 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Exoplanet_120_NoiseField.wav 8601688 0 1572558939 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Hydro_120_F_Drone.wav 8601770 0 1572559040 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 119.999745 s 44100 n 2 l 0:32.000
+D i 24
+F Kingdom_120_Fm_Chords.wav 8601752 0 1572559040 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Kingdom_120_NoiseCrackle.wav 8612730 0 1572558939 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Sweep_120_Cm_Granular.wav 8601752 0 1572559040 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Sweep_120_FilterDrums.wav 2153248 0 1572558765 0
+D c www.modeaudio.com p 120 s 44100 n 2
+D l 0:08.000 i 24
+F Sweep_120_NoiseCrackle.wav 8612730 0 1572558939 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Vertex_120_Gm_Chords.wav 8601752 0 1572559040 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Vertex_120_Gm_Sub.wav 8601752 0 1572559040 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24
+F Vertex_120_NoiseField.wav 8601688 0 1572558939 0
+D t ModeAudio a ModeAudio c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:32.000
+D i 24

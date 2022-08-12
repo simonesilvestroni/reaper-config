@@ -1,0 +1,141 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - T"
+F "T-34 T2 Onboard Startup Driving Idle Int.wav" 135287790 0 1481710536 0
+D d "T-34-85 World War II Russian tank onboard startup driving idle interior LS-11" s 96000 n 2 r 12:59:00.781
+D l 3:54.709 i 24
+F "T019 0830 On Cc On Lr.wav" 113188942 0 1481710542 0
+D d "830am, close birds, police siren at 0:15, distant building lot, crackling from the forrest" s 96000 n 2 l 3:16.500
+D i 24
+F "T019 0830 On Cc On M.wav" 56596934 0 1481710544 0
+D d "830am, close birds, police siren at 0:15, distant building lot, crackling from the forrest" s 96000 n 1 l 3:16.500
+D i 24
+F "T102 1930 Ow Oc Ow Lr.wav" 142852990 0 1481710531 0
+D d "1930pm, wide dark city ambience, distant train pass at 1:00, sirens, very distant noises from soccer training" s 96000 n 2 l 4:08.000
+D i 24
+F "T102 1930 Ow Oc Ow M.wav" 71428982 0 1481710508 0
+D d "1930pm, wide dark city ambience, distant train pass at 1:00, sirens, very distant noises from soccer training" s 96000 n 1 l 4:08.000
+D i 24
+F "Table Saw Starts And Stops Contact.wav" 39527580 0 1481710448 0
+D y 2015-03-25 d "Table saw, On - Off x3, Solid metal, Electric motor, Spinning blade, Rattle, Power tool" s 192000 n 2
+D l 0:34.261 i 24
+F "Taj - Jas Gripen Repeated Flyover [Xy Stereo]-005.wav" 127002496 0 1488537526 0
+D y 2016-10-25 d "JET WAR PLANE; Jas Gripen Repeated Flyover. Recorded in XY Stereo." s 96000 n 2
+D r 9:24.665 l 3:40.489 i 24
+F "Take Your Sits Vox.wav" 2304044 0 1488537289 0
+D s 96000 n 2 l 0:04.000 i 24
+F Tambores.wav 6010704 0 1488537077 0
+D s 48000 n 2 l 0:19.375 i 24
+F "Tearing 05.wav" 331562 0 1481710526 0
+D a "Nikhil Kamble" b "Paper Sounds" g "Sound effects" s 48000
+D n 2 l 0:01.150 i 24
+F Tearing,Gaffertape,Bigpiece,Close.wav 222564 0 1481710537 0
+D a Soundreorganized b "Everyday Actions 1" y 2015-07-0 g "Sound Clip"
+D c www.soundreorganized.com d "This file is part of Everyday Actions 1 sound library produced by Soundreorganized, Mikko Kolehmainen in 2015" s 96000 n 1
+D r 29:32.529 l 0:00.706 i 24
+F "Telemetry 13.wav" 2989578 0 1481710459 0
+D d "telemetry, transmission, upload, download, signal, motion, ui, interface" s 48000 n 2 l 0:03.233
+D i 24
+F "Temple Hinduism Indoor Song Singer And Bells 120504 09.wav" 73750326 0 1488537518 0
+D y 2012-06-18 s 48000 n 2 r 10:00:54.549
+D l 3:59.688 i 24
+F "Tension - Future War 2 Ambience Desolate Dispairing And Inevitable.wav" 103887302 0 1481710549 0
+D d "tension, anxiety, ominous, eerie, horror, anxious, distress, strain, unease, terror, dread, drama, ambient, experimental, amb, ambience, soundmorph" s 96000 n 2 r 1:46:24.009
+D l 3:00.180 i 24
+F "Tension - Low Oscillating Distortion 3.wav" 10176102 0 1481710529 0
+D d "tension, anxiety, ominous, eerie, horror, anxious, distress, strain, unease, terror, dread, drama, ambient, experimental, amb, ambience, soundmorph" s 96000 n 2 r 2:58:43.921
+D l 0:17.487 i 24
+F "Tension - Sizzle Drips 1.wav" 18435054 0 1481710530 0
+D d "tension, anxiety, ominous, eerie, horror, anxious, distress, strain, unease, terror, dread, drama, dark, experimental, soundmorph, distortion, noise" s 96000 n 2 r 3:43:38.863
+D l 0:31.825 i 24
+F "Tension - Warbley Burning Tone 1.wav" 14325954 0 1481710490 0
+D d "tension, anxiety, ominous, eerie, horror, anxious, distress, strain, unease, terror, dread, drama, dark, experimental, soundmorph, distortion, noise" s 96000 n 2 r 5:22:45.471
+D l 0:24.691 i 24
+F "Terror Approach 03.wav" 10079266 0 1488536970 0
+D d "Atmosphere, Soundscape, Horror, Tension, Haunted, Surreal" s 96000 n 2 l 0:17.496
+D i 24
+F "Textureglassdebris 008.wav" 9726952 0 1481710408 0
+D d "Texture, Glass, Debris, Low frequency" s 96000 n 2 l 0:16.885
+D i 24
+F "Texturemetalglassscratch 004.wav" 374488 0 1481710375 0
+D d "Texture, Metal, Glass, Scratch" s 96000 n 1 l 0:01.297
+D i 24
+F "Textures And Drones - High - Mecha Insects Swarm 01.wav" 23040984 0 1488537511 0
+D c http://lesser-vibes.com d "Rustling and creaking metallic texture, reminding of crawling insects." s 96000 n 2
+D l 0:30.000 i 32
+F "Texturethunderdrum 008.wav" 2964208 0 1481710383 0
+D d "Texture, Thunder Drum, Musical Instrument, Spring Steel, Resonance" s 96000 n 2 l 0:05.144
+D i 24
+F "Texturewindchimekeys 003.wav" 4964194 0 1481710474 0
+D d "Texture, Wind Chime, Keys, Reverb" s 96000 n 2 l 0:08.616
+D i 24
+F "The Calling 03.wav" 8426632 0 1488537291 0
+D d "Atmosphere, Soundscape, Horror, Tension, Haunted, Surreal, Ghost" s 96000 n 2 l 0:14.627
+D i 24
+F "Thick Ice Hits Impacts Debris Bright 03.wav" 2571952 0 1488537076 0
+D g Ice c "thick ice snow rocks hits impacts debris bits" d "thick ice snow rocks hits impacts debris bits" s 96000
+D n 1 l 0:08.560 i 24 m 1
+F "Thin Ice Cracks Crunchy 06.wav" 9333272 0 1488537519 0
+D d "thin ice cracks break crunchy crackly crackle crusty glassy" s 96000 n 1 l 0:32.037
+D i 24
+F "Thin Ice Creaks.wav" 1699936 0 1488537384 0
+D s 96000 n 1 l 0:05.516 i 24
+F "Tm Cassette Tone Buttons, Play, Motor On, Long, Interior Perspective.wav" 11006086 0 1488537410 0
+D y 2016-08-0 d "motor, machine, tape, rhythmic, smooth, static, old, analogue" s 96000 n 1
+D r 21:40.229 l 0:36.295 i 24
+F "Tm Cassette Tone Motor Only, Pause, Counter Perspective.wav" 9131534 0 1488537520 0
+D y 2016-08-0 d "motor, machine, tape, rhythmic, rattle, smooth, whine, old, analogue" s 96000 n 1
+D r 43:40.053 l 0:29.786 i 24
+F "Tm Cassette Tone Motor Only, Rewind, Button Perspective.wav" 6721518 0 1488537043 0
+D y 2016-08-0 d "motor, machine, tape, rhythmic, click, rattle, old, analogue" s 96000 n 1
+D r 42:01.514 l 0:21.418 i 24
+F "Tm Cassette Tone Tape In Out Case, With Paper, Close Perspective.wav" 18659382 0 1488537539 0
+D y 2016-08-0 d "box, case, plastic, handling, open, shut, squeak, click, rattle" s 96000 n 1
+D r 8:34.000 l 1:02.869 i 24
+F Toothbrush(Basic).wav 27775284 0 1481710513 0
+D y 2016-02-12 d "sSPEED=023.976-ND  sTAKE=24  sUBITS=$01231624  sSWVER=2.67  sPROJECT=  sSCENE=KEV-1  sFILENAME=KEV-1T24.WAV  sTAPE=16Y01M22  sTRK1=Track A  sTRK2=Track B  sNOTE=  " s 96000 n 2
+D r 30:29.569 l 0:48.210 i 24
+F "Touba Amb Night 2.wav" 80349128 0 1488537492 0
+D y 2016-05-30 c "ambience, chants, crowd, car alarm, cheering, bicycle, bells, senegal, touba" d "ambience, chants, crowd, car alarm, cheering, bicycle, bells, senegal, touba  " p 120
+D k C s 48000 n 2 r 13:30.000
+D l 4:38.907 i 24
+F Trill.wav 557508 0 1439162017 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.159
+D i 16
+F "Troll Monster Death 01.wav" 1829390 0 1488537317 0
+D s 96000 n 2 l 0:03.175 i 24
+F "Troll Monster Growl Long 05.wav" 2361644 0 1488536905 0
+D s 96000 n 2 l 0:04.100 i 24
+F "Troll Monster Hurt Pain 01.wav" 611270 0 1488537056 0
+D s 96000 n 2 l 0:01.061 i 24
+F "Troll Monster Taunt 03.wav" 2937644 0 1488537410 0
+D s 96000 n 2 l 0:05.100 i 24
+F "Tumble Down.wav" 291020 0 1439163386 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.648
+D i 16
+F "Tuning Laser Beam.wav" 530524 0 1439161040 0
+D a "Apple Inc." s 44100 n 2 l 0:03.006
+D i 16
+F "Tunturi External Passby 1.wav" 15050294 0 1481710538 0
+D a Soundreorganized b "Tunturi Maxi Pappatunturi Sound Effects Library" y 2015-07-2 g "Sound Clip"
+D c www.soundreorganized.com d "96KHz,24-Bit,TunturiMaxiPappatunturi-SoundEffectsLibrary,Soundreorganized 2015" s 96000 n 2
+D r 17:44.149 l 0:26.095 i 24
+F "Tunturi Onboard Driving Fullspeed Exhaust.wav" 27049676 0 1481710499 0
+D a Soundreorganized b "Tunturi Maxi Pappatunturi Sound Effects Library" y 2015-07-2 g "Sound Clip"
+D c www.soundreorganized.com d "96KHz,24-Bit,TunturiMaxiPappatunturi-SoundEffectsLibrary,Soundreorganized 2015" s 96000 n 1
+D r 9:34.392 l 1:33.856 i 24
+F "Tunturi Onboard Startup Idle Shutdown Engine1.wav" 5743148 0 1481710535 0
+D a Soundreorganized b "Tunturi Maxi Pappatunturi Sound Effects Library" y 2015-07-1 g "Sound Clip"
+D c www.soundreorganized.com d "96KHz,24-Bit,TunturiMaxiPappatunturi-SoundEffectsLibrary,Soundreorganized 2015" s 96000 n 1
+D r 0:02.773 l 0:19.875 i 24
+F "Tunturi Onboard Startupfail Engine2.wav" 742604 0 1481710535 0
+D a Soundreorganized b "Tunturi Maxi Pappatunturi Sound Effects Library" y 2015-07-1 g "Sound Clip"
+D c www.soundreorganized.com d "96KHz,24-Bit,TunturiMaxiPappatunturi-SoundEffectsLibrary,Soundreorganized 2015" s 96000 n 1
+D r 0:23.189 l 0:02.512 i 24
+F "Twisting Ice Tray 1.wav" 2727614 0 1481710487 0
+D s 96000 n 2 l 0:04.735 i 24
+F "Tympani drum hit Bwu.175.wav" 2721434 0 1372263294 0
+D y 2011-12-05 d "Musical, Tympani, Drum, Hit, Small, Size, Ascend" s 96000 n 2
+D l 0:04.716 i 24
+F "Typewriter 02.wav" 46272 0 1488537336 0
+D t TEXTROBOT a "GIORGIO RIOLO" b SOUNDFXWIZARD y 2011-04-0
+D s 48000 n 1 r 3:37:00.468 l 0:00.302
+D i 24

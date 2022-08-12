@@ -1,0 +1,32 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Sound Effects/Natural"
+F "Cat Eating.wav" 1473808 0 1655728017 0
+D s 44100 n 2 l 0:08.331 i 16
+F "Cat Purrs 1.wav" 1455180 0 1436227745 0
+D s 44100 n 2 l 0:08.225 i 16
+F "Desert Rock Walk.wav" 674512 0 1436227745 0
+D s 44100 n 1 l 0:07.600 i 16
+F "Dog Yelps.wav" 287532 0 1436227745 0
+D s 44100 n 1 l 0:03.212 i 16
+F "Dripping Rev.wav" 2530292 0 1655728017 0
+D s 44100 n 2 l 0:14.343 i 16
+F Dripping.wav 2530288 0 1655728016 0
+D s 44100 n 2 l 0:14.343 i 16
+F "Fire Roar.wav" 1306068 0 1436227745 0
+D s 44100 n 2 l 0:07.380 i 16
+F "Forest 1.wav" 599114 0 1436227745 0
+D s 44100 n 1 l 0:06.745 i 16
+F "Frog Night Solo.caf" 444062 0 1437740639 0
+D a "Apple Inc." g "Other Genre" s 44100 n 2
+D l 0:13.697
+F "Ice Stoch Loop.wav" 5821930 0 1436227745 0
+D y 2013-06-13 s 44100 n 2 r 1:00:00.000
+D l 0:22.000 i 24
+F "Noisy Whistle D#2.aif" 329596 0 1437740639 0
+D s 44100 n 2 l 0:01.864 i 16
+F Puppies.wav 4762844 0 1436227745 0
+D s 44100 n 2 l 0:27.000 i 16
+F "Snow Walk 2.wav" 1365374 0 1436227745 0
+D y 2010-11-30 s 44100 n 2 r 1:07.898
+D l 0:07.706 i 16
+F "Stream Woods 1.wav" 674332 0 1436227745 0
+D s 44100 n 1 l 0:07.598 i 16

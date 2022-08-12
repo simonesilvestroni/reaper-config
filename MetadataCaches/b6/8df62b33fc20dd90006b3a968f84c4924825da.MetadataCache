@@ -1,0 +1,14 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Mallets/Single Samples"
+F "Bell Attack C2.wav" 345800 0 1437740639 0
+D s 44100 n 2 l 0:01.933 i 16
+F "Cut 9.wav" 317464 0 1655744676 0
+D s 48000 n 2 l 0:01.083 i 24
+F "Door Bell.wav" 3029300 0 1655744676 0
+D t "21 Celesta.gig" s 44100 n 2 l 0:17.170
+D i 16
+F "Tibetan Bowl 01.wav" 4330640 0 1655744676 0
+D s 44100 n 2 l 0:24.549 i 16
+F "Tibetan Bowl 02.wav" 3954746 0 1438707436 0
+D s 44100 n 2 l 0:22.374 i 16
+F "Tibetan Bowl 03.wav" 3662432 0 1438707436 0
+D s 44100 n 2 l 0:20.761 i 16

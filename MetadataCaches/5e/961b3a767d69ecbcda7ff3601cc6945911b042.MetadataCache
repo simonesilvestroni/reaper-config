@@ -1,0 +1,342 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - M"
+F "M1 Corbitt T1 Onbrd Startup Idle Shutdown Interior Rsm191 Xy.wav" 10735010 0 1488536867 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Military truck" c "onboard startup idle shutdown interior Sound Devices 788 Neumann RSM191 XY wav"
+D d "onboard startup idle shutdown interior Sound Devices 788 Neumann RSM191 XY wav" s 96000 n 2 l 0:18.432
+D i 24 m 0
+F "M1 Corbitt T11 Ext Passby Dpa4011.wav" 35365806 0 1488537526 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Military truck" c "exterior passby right turning point FR2 DPA4011 wav"
+D d "exterior passby right turning point FR2 DPA4011 wav" s 96000 n 2 l 1:01.194
+D i 24 m 0
+F "M1 Corbitt T2 Onbrd Startup Blips Shutdown Flatbed Mkh418S S.wav" 20642466 0 1488537473 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Military truck" c "onboard startup blips shutdown flatbed metal rattle vibrations Sound Devices 744 Sennheiser MKH418 S wav"
+D d "onboard startup blips shutdown flatbed metal rattle vibrations Sound Devices 744 Sennheiser MKH418 S wav" s 96000 n 1 l 1:11.264
+D i 24 m 0
+F "M16 Int B Distant.wav" 24869720 0 1481710446 0
+D d "source layer, rifle, shot, weapon, intervention, tactical, SWAT, gun, automatic, semi automatic" s 96000 n 2 l 0:41.216
+D i 24
+F "M3 Submachine Grease Gun .45Cal 0.3M To Side Triple Shots X 1.wav" 2633016 0 1481710466 0
+D d "M3 Submachine Grease Gun .45cal from World War II triple shots 0.3m to side close up SD722 MKH8040 ORTF" s 96000 n 2 l 0:04.362
+D i 24
+F "M3 Submachine Grease Gun .45Cal 300M In Front Burst Of Thirteen X 1.wav" 3806408 0 1481710507 0
+D d "M3 Submachine Grease Gun .45cal from World War II burst of thirteen 300m in front far distance Zoom H4n" s 96000 n 2 l 0:06.368
+D i 24
+F "M8 T2 Onbrd Startup Blips Steady Rpms In Neutral Shutdown Engine Pzm.1.wav" 33849940 0 1488537513 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Armored Car" c "onboard startup blips steady rpm in neutral shutdown engine Zaxcom PZM wav"
+D d "onboard startup blips steady rpm in neutral shutdown engine Zaxcom PZM wav" s 96000 n 1 l 1:57.120
+D i 24 m 0
+F "M8 T3 Ext Passby Stop Turnaround Away Var Speeds Schoeps.1.wav" 69101080 0 1488537513 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Armored Car" c "exterior passby stop turnaround away various speeds Fostex FR2 Schoeps CMC6 wav"
+D d "exterior passby stop turnaround away various speeds Fostex FR2 Schoeps CMC6 wav" s 96000 n 2 l 1:59.760
+D i 24 m 0
+F "M8 T8 Onbrd Var Driving Engine Dpa4061.wav" 55622136 0 1488537488 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g "Armored Car" c "onboard various driving engine Zaxcom DPA4061 wav"
+D d "onboard various driving engine Zaxcom DPA4061 wav" s 96000 n 1 l 3:12.720
+D i 24 m 0
+F "Machine 2 Mono 02.wav" 522358 0 1488536658 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Machines c "Plastic Moulding Machine workshop pneumatics hydraulics noise Sennheiser MKH8060 mono"
+D d "Plastic Moulding Machine workshop pneumatics hydraulics noise Sennheiser MKH8060 mono" s 96000 n 1 l 0:01.770
+D i 24 m 0
+F "Machine 6 Mono 06.wav" 3721826 0 1488537196 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Machines c "Material Feeding Hall workshop pneumatics hydraulics noise Sennheiser MKH8060 mono"
+D d "Material Feeding Hall workshop pneumatics hydraulics noise Sennheiser MKH8060 mono" s 96000 n 1 l 0:12.880
+D i 24 m 0
+F "Madrid Food Market Busy 001.wav" 57495442 0 1488537517 0
+D y 2016-02-08 d "sNOTE=market, food, madrid, busy, people, food, space, ambience, crowd, public, chatter, talking, noise, movement,  " s 96000 n 2
+D r 1:00:16.000 l 1:39.669 i 24
+F "Mafx001 Dew Drops Wind Birds Woodpecker.wav" 69417066 0 1481710519 0
+D d "march afternoon woodland forest birds dew drops wind birds woodpecker tweet chirp d100" s 96000 n 2 l 2:00.171
+D i 24
+F "Mafx001 Soft Wind Chaffinch Wren Bees.wav" 53109240 0 1481710407 0
+D d "july dawn woodland forest birds soft wind chaffinch wren bees tweet chirp birdsong d100" s 96000 n 2 l 1:31.859
+D i 24
+F "Mafx001 Wind Robin Blackbird 01.wav" 117813180 0 1481710535 0
+D d "july dawn woodland forest birds wind robin blackbird tweet chirp birdsong 4060" s 96000 n 2 l 3:24.192
+D i 24
+F "Mafx002 Backpack Large Coil Zipper - Short Fast Zips.wav" 9830724 0 1481710540 0
+D g Foley c "Backpack, large coil zipper, short fast zips, rip, tear, unzip, fasten, slide, luggage" d "Backpack, large coil zipper, short fast zips, rip, tear, unzip, fasten, slide, luggage" s 96000
+D n 1 l 0:33.693 i 24 m 1
+F "Mafx002 Jeans Metal Zipper - Fast Zips.wav" 11085024 0 1481710502 0
+D g Foley c "Jeans, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" d "Jeans, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" s 96000
+D n 1 l 0:38.066 i 24 m 1
+F "Mafx002 Small Backpack Plastic Zipper - Slow Zips.wav" 17671004 0 1481710432 0
+D d "Small Backpack, plastic zipper, slow zips, rip, tear, unzip, fasten, slide, luggage" s 96000 n 1 l 1:00.916
+D i 24
+F "Mafx002 Wool Coat Metal Zipper - Fast Zips.wav" 12752436 0 1481710404 0
+D g Foley c "Wool Coat, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" d "Wool Coat, metal zipper, fast zips, rip, tear, unzip, fasten, slide, cloth" s 96000
+D n 1 l 0:43.855 i 24 m 1
+F "Mafx005 Wire Fence Contact Mic Wind 19.WAV" 85627936 0 1488537521 0
+D d "contact mic metal rails wind hits impacts tonal ambience" s 96000 n 2 l 2:28.470
+D i 24
+F "Mafx005 Wire Fence Contact Mic Wind 23.WAV" 76105598 0 1488537490 0
+D d "contact mic metal rails wind gusts hits impacts ambience" s 96000 n 2 l 2:11.950
+D i 24
+F "Magic Effect-000.wav" 2811874 0 1488536607 0
+D y 2017-01-30 d "Foley, Groat" s 96000 n 2
+D l 0:04.880 i 24
+F "Magicaltwinkle S08Ct.107.wav" 2549188 0 1372263272 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"CARTOON, MAGICAL, TWINKLE, ASCEND"'
+D d '"CARTOON, MAGICAL, TWINKLE, ASCEND"' s 96000 n 2 l 0:04.402
+D i 24
+F "Malaysia, Exterior, Atmosphere, Cave In Niah, Waterfall, Bats, Swiftlets.wav" 13464554 0 1481710491 0
+D y 2014-07-1 s 48000 n 2 r 9:58:17.447
+D l 1:09.565 i 16
+F "Male Grunt-Shout 317.wav" 282258 0 1481710399 0
+D t "Screams and Shouts 2 - Humans" y 2015-12-11 d "Human, Male, Shout, Attack, Angry, Struggle, Fight, Grunt" s 96000
+D n 1 r 23:55.757 l 0:00.972 i 24
+F "Male Shout-Of-Pain 132.wav" 275724 0 1481710399 0
+D t "Screams and Shouts 2 - Humans" y 2015-12-11 d "Human, Male, Shout, Grunt, Pain, Getting Hit, Dying" s 96000
+D n 1 r 1:51.840 l 0:00.950 i 24
+F "Malfunction Glitch Long Brsound-02.wav" 8369986 0 1481710454 0
+D y 2015-07-28 d "Glitch, Long, Digital, Malfunction" s 96000 n 2
+D r 2:06:17.570 l 0:10.767 i 32
+F "Malfunction Glitch Medium Brsound-19.wav" 3474226 0 1481710382 0
+D y 2015-07-28 d "Glitch, Medium, Digital, Malfunction" s 96000 n 2
+D r 2:05:57.550 l 0:04.467 i 32
+F "Malfunction Glitch Rise Brsound-05.wav" 6428010 0 1481710385 0
+D y 2015-07-29 d "Glitch, Rise, Digital, Malfunction" s 96000 n 2
+D r 0:50.050 l 0:08.268 i 32
+F "Malfunction Glitch Short Brsound-106.wav" 1626818 0 1481710386 0
+D y 2015-07-27 d "Glitch, Short, Digital, Malfunction" s 96000 n 2
+D r 1:34:02.294 l 0:02.090 i 32
+F "Manifest Drone 002.wav" 26032788 0 1481710502 0
+D y 2015-10-01 d "sNOTE=drone, scifi, sci-fi, sound design, designed, sfx, texture, ambience, ambient, bed, alien, ufo, space, spacecraft, spaceship, slow, moving,  " s 96000 n 2
+D r 1:00:00.000 l 0:45.176 i 24
+F "Maracas Doppler Fx.aif" 66156690 0 1505994829 0
+D s 96000 n 2 l 1:54.842 i 24
+F "Market Big Bazard Indoor Street Voices And Light Activity 140711 05.wav" 33167488 0 1488537501 0
+D y 2014-07-18 s 48000 n 2 r 10:00:30.618
+D l 1:54.979 i 24
+F "Market For Chicken Hen And Bird Outdoor, Voices And Activity 160612 004.wav" 37453512 0 1488537535 0
+D y 2016-06-30 s 48000 n 2 r 2:26.432
+D l 2:09.200 i 24
+F "Market Souk Medium Voices Activity And Vendor Shout  160818 005.wav" 26529630 0 1488537505 0
+D y 2016-10-20 s 48000 n 2 r 6:04.032
+D l 1:32.077 i 24
+F "Massey Ext Passby Faded Short.wav" 17284930 0 1488537398 0
+D a Soundreorganized b "Massey-Ferguson 3060E, Sound Effects Library" y 2016 g "Sound Clip"
+D c www.soundreorganized.com d "96kHz, 24-Bit, Massey-Ferguson_3060E_SoundEffectsLibrary,Soundreorganized 2016" s 96000 n 2
+D l 0:30.004 i 24
+F "Massey Ext Startup Driveaway.wav" 29961634 0 1488537518 0
+D a Soundreorganized b "Massey-Ferguson 3060E, Sound Effects Library" y 2016 g "Sound Clip"
+D c www.soundreorganized.com d "96kHz, 24-Bit, Massey-Ferguson_3060E_SoundEffectsLibrary,Soundreorganized 2016" s 96000 n 2
+D l 0:52.012 i 24
+F "Massey Onboard Static Idle Revving Shutdown Engine2.wav" 23880398 0 1488537523 0
+D a Soundreorganized b "Massey-Ferguson 3060E, Sound Effects Library" y 2016 g "Sound Clip"
+D c www.soundreorganized.com d "96kHz, 24-Bit, Massey-Ferguson_3060E_SoundEffectsLibrary,Soundreorganized 2016" s 96000 n 1
+D l 1:22.909 i 24
+F "Mechanical Metal Morph Agressive Sharp 01.wav" 6788696 0 1481710515 0
+D d "Robot, Morph, Transform, Mechanical, Metal, Agressive, Sharp, Large, Heavy, Science Fiction" s 96000 n 2 l 0:11.713
+D i 24
+F "Mechanism - Assaultrifle Pickup 004.wav" 319618 0 1488537261 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, foley, rifle, handle, handling, weapon" s 48000 n 2 r 9:48:59.423
+D l 0:00.604 i 16
+F "Mechanism - Designed Mega Steam Lever-001.wav" 1246282 0 1488536776 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, steam, release, chunk, metal, latch" s 44100 n 2 l 0:05.911
+D i 16
+F "Mechanism - Source - Metallic Auto Gun.wav" 2558270 0 1488537139 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, gun, weapon, metal" s 96000 n 2 l 0:06.132
+D i 16
+F "Mechanism - Windup 003.wav" 2884206 0 1488537284 0
+D d "soundmorph, mechanism, gear, crank, rust, steampunk, wind, small, servo" s 48000 n 2 l 0:13.963
+D i 16
+F "Med Dark 001.wav" 2769146 0 1481710396 0
+D y 2014-09-22 s 96000 n 2 r 1:00:40.800
+D l 0:04.800 i 24
+F "Medieval, Smithy - 08 - Anvil Hits - Tree Hits.wav" 1577650 0 1488536839 0
+D d "Medieval, smithy - anvil hits - hammer, resonance, loud, metal, fast, distant approx 1m, three hits" s 96000 n 2 l 0:02.737
+D i 24
+F "Medieval, Smithy - 24 - Bellows - Fire, Oven Accent.wav" 42768046 0 1488537508 0
+D d "Medieval, smithy - bellows - fire, close, accent on oven, distant approx 1m" s 96000 n 2 l 1:14.248
+D i 24
+F "Medium Distance - Machine Hall, Ambiance, Air Compressor, Hydraulics 01.wav" 17771488 0 1488537493 0
+D y 2016-03-18 d "INDUSTRY MACHINE AMBIENCE CALM; Air pressure release valves with general machine ambiance in background. Hydraulic lifts in background." s 96000 n 2
+D r 24:27.097 l 0:30.852 i 24
+F "Medium Distance - Machine, Clicking, Air Compressor 01.wav" 18694624 0 1488537539 0
+D y 2016-03-18 d "INDUSTRY MACHINE AMBIENCE CALM; Calm industry floor ambience with air clanking machinery, hydraulics and air pressure release valves." s 96000 n 2
+D r 15:01.328 l 0:32.454 i 24
+F "Megane Rs U Turn.wav" 1243214 0 1481710503 0
+D y 2014-09-09 s 48000 n 1 r 20:00:14.976
+D l 0:12.552 i 16
+F Meridian,Asmr,Loop,Breathing,Mouth,Inhale,Exhale,Rumble,Varyingstrength,Mono.wav 37732214 0 1488537535 0
+D y YYYY-MM-DD d Meridian,ASMR,loop,breathing,mouth,inhale,exhale,rumble,varyingstrength,mono s 96000 n 1
+D r 21:33:09.296 l 2:09.960 i 24
+F Meridian,Asmr,Loop,Buzzing,Clippers,Hum,Moving,Bare,Extended,Mono.wav 34634728 0 1488537533 0
+D y YYYY-MM-DD d Meridian,ASMR,loop,buzzing,clippers,hum,moving,bare,extended,mono s 96000 n 1
+D r 19:03:29.583 l 1:58.996 i 24
+F Meridian,Asmr,Loop,Pageturning,Book,Standardweight,Paper,Medium,Stiff,Crispy,Peeling,Sliding,Flip,Mono.wav 39478472 0 1488537530 0
+D y YYYY-MM-DD d Meridian,ASMR,loop,pageturning,book,standardweight,paper,medium,stiff,crispy,peeling,sliding,flip,mono s 96000 n 1
+D r 21:10:51.590 l 2:16.090 i 24
+F Meridian,Asmr,Loop,Scratching,Matches,Wood,Flint,Flicks,Scrapes,Snap,Ignite,Burn,Brief,Sudden,Mono.wav 36077440 0 1488537529 0
+D y YYYY-MM-DD d Meridian,ASMR,loop,scratching,matches,wood,flint,flicks,scrapes,snap,ignite,burn,brief,sudden,mono s 96000 n 1
+D r 20:34:25.855 l 2:00.787 i 24
+F "Metal Bang Collins Axe + Chains Mk4 Fienup 002.wav" 8603482 0 1488537408 0
+D t "Metal Bang_Collins Axe + Chains_MK4_Fienup_002" a "David Fienup" c "chain, collins axe, hammer, sledge, bang, hit, impact, rattle, metal, car door, Soundopolis" d "Recorded with Schoeps MK4g matched pair. chain, collins axe, hammer, sledge, bang, hit, impact, rattle, metal, car door, Soundopolis"
+D s 96000 n 2 l 0:14.934 i 24
+F "Metal Chain Hit 10.wav" 2788052 0 1488537419 0
+D y 2016-12-02 d "Blacksmith, Metal Chain Hit, Clank of Chain, Impact" s 192000 n 2
+D r 1:01.371 l 0:02.418 i 24
+F "Metal Creak 13.wav" 6247354 0 1488537052 0
+D y 2016-03-16 d "Creak, Squeak, Rubbing Metal Plate" s 192000 n 2
+D r 4:23.429 l 0:05.421 i 24
+F "Metal Door Squeak Creak 03.wav" 2488408 0 1488537044 0
+D t 160311_009 a "My Recording" y 2016-03-16 c 0000007D6750434D2D44313030000000000000000001020200010001010000000000000000000000020103E8020000000000000000000000000102001401
+D d "Creak, Squeak, Heavy Creaking and Squeaking Metal Door" s 96000 n 2 r 0:55.267
+D l 0:04.300 i 24
+F "Metal Hit Crash 090.wav" 2310328 0 1488536956 0
+D y 2016-05-19 d "Impact, Metal Hit, Battle, Strike, Metal Crash, Armor Hit" s 96000 n 2
+D r 37:57.223 l 0:04.007 i 24
+F "Metal Hit Crash 199.wav" 1993582 0 1488536442 0
+D y 2016-05-20 d "Impact, Metal Hit, Battle, Strike, Armor Hit, Metal Clank" s 96000 n 2
+D r 2:11:47.920 l 0:03.457 i 24
+F "Metal Jolt Rattle Scrape 52.wav" 949960 0 1488537272 0
+D y 2016-05-20 d "Metal Movement, Jolt, Hit, Rattle, Hitch, Clank, Piercing Metal" s 96000 n 2
+D r 2:30:23.958 l 0:01.645 i 24
+F "Metal Plate Hit 02 06.wav" 2883102 0 1488537434 0
+D y 2016-12-03 d "Blacksmith, Metal Plate Hit, Resonant, Crash, Impact" s 192000 n 2
+D r 1:37.923 l 0:02.501 i 24
+F "Metal Rattling 1.wav" 8505822 0 1488536957 0
+D y  s 96000 n 2 l 0:14.753
+D i 24
+F "Metal Scrape Medium Harsh Nt4 Fienup 002.wav" 11454212 0 1488537090 0
+D t "Metal Scrape_Medium_Harsh_NT4_Fienup_002" a "David Fienup" c "grind, scratch, scrape, dryer tube, metal, car door, Soundopolis" d "Recorded with R¯DE NT4 stereo microphone. grind, scratch, scrape, dryer tube, metal, car door, Soundopolis"
+D s 96000 n 2 l 0:19.883 i 24
+F "Metal Scrape Squeak Long Nt4 Fienup 003.wav" 18531090 0 1488537507 0
+D t "Metal Scrape Squeak_Long_NT4_Fienup_003" a "David Fienup" c "grind, squeak, scratch, scrape, dryer tube, metal, car door, Soundopolis" d "Recorded with R¯DE NT4 stereo microphone. grind, squeak, scratch, scrape, dryer tube, metal, car door, Soundopolis"
+D s 96000 n 2 l 0:32.169 i 24
+F "Metal, Heavy Creaks, Shipwreck, Ship Scraping Its Broadside 02.wav" 10656912 0 1488537288 0
+D y 2015-11-17 d "metal, heavy creaks, shipwreck, ship scraping its broadside" s 48000 n 2
+D l 0:37.000 i 24
+F "Metal, Heavy Creaks, Shipwreck, Submarine Deformation Under Pressure 07.wav" 5517414 0 1481710470 0
+D y 2015-11-17 d "metal, heavy creaks, shipwreck, submarine deformation under pressure" s 48000 n 2
+D l 0:19.154 i 24
+F "Metallic Noise 004.wav" 2646144 0 1488536771 0
+D s 44100 n 2 l 0:10.000 i 24
+F "Misc Hits 118.wav" 905990 0 1488537020 0
+D y 2016-05-20 d "Wood Impact, Hit, Strike, Battle, Crash, Wood Drop" s 96000 n 2
+D r 1:17:04.924 l 0:01.569 i 24
+F "Misc Noise 11.wav" 635090 0 1425739590 0
+D s 44100 n 2 l 0:02.400 i 24
+F "Misc Noise 12.wav" 952610 0 1425739636 0
+D s 44100 n 2 l 0:03.600 i 24
+F "Mkh3040 Chain Rattle Close 1.wav" 93977454 0 1488537495 0
+D y 2016-07-04 d "ferry departures, intense chain rattling  " s 96000 n 2
+D l 2:43.133 i 24
+F "Mkh3040 Ferry Engine Start And Departure, Chain Rattling.wav" 74233512 0 1488537523 0
+D y 2016-07-04 d "ambience, engine start, departure to opposite river side, chain rattling close-up, rumble from ship body   " s 96000 n 2
+D l 2:08.856 i 24
+F Money,Bills,Hand,Count,Single,Relaxed.wav 188029 0 1488537335 0
+D y 2012-12-22 d "sNOTE=Sound of one bill being counted or shuffled in a relaxed manner   " s 96000 n 1
+D r 0:36.180 l 0:00.614 i 24
+F "Money,Coins,Drop In Cash Register.wav" 401047 0 1488537417 0
+D y 2012-12-22 d "sNOTE=Coins dropped in cash register drawer   " s 96000 n 1
+D r 0:19.100 l 0:01.354 i 24
+F Money,Coins,Hand,Count,X4.wav 990501 0 1488537401 0
+D y 2012-12-22 d "sNOTE=4 coins counted by dropping into hand   " s 96000 n 1
+D r 0:23.116 l 0:03.401 i 24
+F Money,Coins,Handle.wav 345731 0 1488537442 0
+D y 2012-12-22 d "sNOTE=Handling coins in hands   " s 96000 n 1
+D r 0:10.127 l 0:01.162 i 24
+F "Mongolia, Exterior, Atmosphere, Camp, Fire, Chatting, Quiet.wav" 32196490 0 1481710478 0
+D y 2014-07-1 s 48000 n 2 r 16:57:38.626
+D l 2:46.360 i 16
+F "Monster Pain Death 121.wav" 1063310 0 1481710400 0
+D t "Screams and Shouts 2 - Voalized Monsters" y 2015-12-14 d "Monster, Pain, Moan, Dying" s 96000
+D n 2 r 25:09.658 l 0:01.838 i 24
+F "Monster Roar Growl 009.wav" 2515218 0 1481710393 0
+D t "Screams and Shouts 2 - Voalized Monsters" y 2015-12-10 d "Monster, Growl, Threaten, Angry, Hiss" s 96000
+D n 2 r 0:43.285 l 0:04.360 i 24
+F "Monster Roar Growl 164.wav" 761120 0 1481710392 0
+D y 2015-12-21 d "Creature, Goblin, Insect, Angry, Hiss, Threaten" s 96000 n 2
+D r 0:13.898 l 0:01.318 i 24
+F "Monster Struggle Grunt 240.wav" 395560 0 1481710392 0
+D y 2015-12-21 d "Creature, Goblin, Insect, Grunt, Struggle, Attack, Angry" s 96000 n 1
+D r 1:01.376 l 0:01.366 i 24
+F "Mothership 5.wav" 14345944 0 1488537532 0
+D d "mothership, spaceship, spacecraft, vehicle, sci-fi, engine, levitation, tone, layer, low, huge" s 96000 n 2 l 0:24.217
+D i 24
+F "Motor Boat Ride.wav" 18656236 0 1481710505 0
+D a www.thesoundpacktree.com b "The Big Pack" y 2015-03-18 d "-0051 boat engine lake machines motor ocean river sea transportation water"
+D s 96000 n 2 l 0:32.387 i 24
+F "Mouse Press And Release.wav" 22078 0 1488537336 0
+D t TEXTROBOT a "GIORGIO RIOLO" b SOUNDFXWIZARD y 2012-11-2
+D s 48000 n 1 r 3:46:31.841 l 0:00.134
+D i 24
+F Mouthy,Cheek,Press,Squirt,Squish,Spurt,Mouthfart,Strong.wav 307044 0 1488537066 0
+D y 2016-06-11 d Mouthy,cheek,press,squirt,squish,spurt,mouthfart,strong s 96000 n 1
+D r 58:50.617 l 0:01.058 i 24
+F Mouthy,Chomping,Crushing,Ice,Slush,Wet,Thick,Opening.wav 742864 0 1488537281 0
+D y 2016-06-21 d Mouthy,chomping,crushing,ice,slush,wet,thick,opening s 96000 n 1
+D r 6:47.913 l 0:02.571 i 24
+F Mouthy,Growl,Sustained,Low,Steady.wav 1420818 0 1488536925 0
+D y 2016-06-11 d Mouthy,growl,sustained,low,steady s 96000 n 1
+D r 35:28.596 l 0:04.925 i 24
+F Mouthy,Suck,Kiss,Inhale,Quick,Chirp,Single,Alt.wav 146298 0 1488537336 0
+D y 2016-06-11 d Mouthy,suck,kiss,inhale,quick,chirp,single,alt s 96000 n 1
+D r 40:15.665 l 0:00.500 i 24
+F "Movement Bright Feedback 01.wav" 1621274 0 1439163048 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.190
+D i 16
+F "Movement Paper-Releae 03.wav" 691970 0 1488536516 0
+D y 2016-08-04 d "Electric Typewriter, Erika 3006, Electric Motor Movement" s 96000 n 1
+D r 1:51.048 l 0:02.395 i 24
+F "Moving China Plates 002.wav" 3996544 0 1481710448 0
+D y 2014-08-21 s 96000 n 2 r 1:00:00.000
+D l 0:06.928 i 24
+F "Moving Metal Hangers 002.wav" 3821716 0 1481710488 0
+D y 2015-02-03 s 96000 n 2 r 1:00:00.000
+D l 0:06.625 i 24
+F "Mp5 Burst - Shot - Short - Urban Exterior.wav" 2947088 0 1481710496 0
+D d "rifle, carbine, shot, weapon, intervention, tactical, SWAT, gun, automatic, semi automatic, machine gun" s 96000 n 2 l 0:03.788
+D i 24
+F "Mr - Large Metal Air Drum C, Dark Resonance, Creaking, Metal [192 Khz].wav" 64071178 0 1488537527 0
+D y 2016-11-15 d "METAL, RESONANCES, DRY ICE; Large Metal Air Drum C, Dark Resonance, Creaking, Metal" s 192000 n 2
+D r 1:18:16.827 l 0:55.616 i 24
+F "Mr - Medium Long Metal Square B, Bright Harsh Squeaking, Tonal Feedback, Ringing [96 Khz].wav" 8552440 0 1488537045 0
+D y 2016-11-15 d "METAL, RESONANCES, DRY ICE; Medium Long Metal Square B, Bright Harsh Squeaking, Tonal Feedback, Ringing" s 96000 n 2
+D r 42:55.799 l 0:14.846 i 24
+F "Mr - Metal Shelf D, Bright Tonal Creak, Harsh, Friction, Crackling [96 Khz].wav" 27187918 0 1488537512 0
+D y 2016-11-15 d "METAL, RESONANCES, DRY ICE; Metal Shelf D, Bright Tonal Creak, Harsh, Friction, Crackling" s 96000 n 2
+D r 9:47.149 l 0:47.199 i 24
+F "Mr - Small Metal Box, Bright Creaking, Tonal, Dragging [96 Khz].wav" 4539784 0 1488536906 0
+D y 2016-11-15 d "METAL, RESONANCES, DRY ICE; Small Metal Box, Bright Creaking, Tonal, Dragging" s 96000 n 2
+D r 13:21.079 l 0:07.880 i 24
+F "Muezzin From City Very Quiet At Night From A Roof Top, Wide Reverb 160819 001.wav" 85193084 0 1488537525 0
+D y 2016-10-20 s 48000 n 2 r 6:04.032
+D l 4:55.768 i 24
+F "Mug Dull Wood Surface Drop Series.wav" 6668572 0 1488536639 0
+D y 2016-02-03 d "Stoneware coffee mug, drop onto wood surface, series ||Mug, coffee, tea, ceramic, break, impact, shatter, drop, foley " s 96000 n 1
+D r 14:10.003 l 0:22.788 i 24
+F "Mug Kitchencounter Spins Top Series.wav" 4150908 0 1488537439 0
+D y 2016-02-03 d "Stoneware coffee mug, spin on laminated kitchen counter, open end down, series ||Mug, coffee, tea, spin, fall over, foley " s 96000 n 1
+D r 17:52.283 l 0:14.182 i 24
+F "Mug Metal Tv Tray Drops Series002.wav" 4731322 0 1488537038 0
+D y 2016-02-03 d "Stoneware coffee mug, drop onto metal TV tray, series ||Mug, coffee, tea, ceramic, impact, drop, metal, foley " s 96000 n 1
+D r 38:07.245 l 0:16.166 i 24
+F "Mug Tile Floor Drop And Break.wav" 793484 0 1488536533 0
+D y 2016-02-03 d "Stoneware coffee mug, drop onto plastic laminate tile floor, series ||Mug, coffee, tea, ceramic, break, impact, shatter, drop, foley " s 96000 n 1
+D r 27:52.999 l 0:02.705 i 24
+F "Multimedia Bwu11.275.wav" 286336 0 1372263272 0
+D y 2011-03-24 d '"TECHNOLOGY, MULTIMEDIA, ELEMENT"' s 96000 n 2
+D l 0:00.369 i 24
+F "Multimediaaction S011Te.215.wav" 354352 0 1372263272 0
+D y 2011-04-01 d '"TECHNOLOGY, MULTIMEDIA, ACTION, ELEMENT"' s 96000 n 2
+D l 0:00.485 i 24
+F "Multimediabeep Seu04.29.wav" 724560 0 1372263272 0
+D y 2011-01-10 d "MULTIMEDIA, ELEMENT, BEEP, ACTION" s 96000 n 2
+D l 0:00.799 i 24
+F "Multimediachime Seu03.44.wav" 4195748 0 1372263274 0
+D a "CSS UPDATES" y 2010-09-03 g MULTIMEDIA c "MULTIMEDIA, ELEMENT, CHIME, STUTTER, SWEEPER"
+D d "MULTIMEDIA, ELEMENT, CHIME, STUTTER, SWEEPER" s 96000 n 2 l 0:07.017
+D i 24
+F "Multiple Rock Hit Dirt Rbdii 07.wav" 5301546 0 1488537019 0
+D t "RBD II" y 2016-04-08 d "Rock, Stone, Dirt, Hit, Impact, Cinematic" s 96000
+D n 2 r 0:12.229 l 0:09.198 i 24
+F "Mus Flute Traditionnel Rita With Tambourine 160618 008.wav" 34355784 0 1488537520 0
+D y 2016-06-2 s 48000 n 2 r 2:26.432
+D l 1:58.506 i 24
+F "Music Ceremony Of Galungan In Street Percussion Bel Ad Cymbal - Moving 2 120210 03.wav" 62340200 0 1488537525 0
+D y 2012-07-06 s 48000 n 2 r 9:58:24.166
+D l 3:23.916 i 24
+F "Musical Element Flute Melodies 01.wav" 16099918 0 1488537539 0
+D d "Musical Element, Musical Instrument, Production Element, Atmospheric Element, Flute, Tin Whistle, Melodies, Melodic Lines, Emotive, Sensitive, Reverb" s 96000 n 2 l 0:27.949
+D i 24

@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundHolder -  Excavator MF 860"
+F "excavator MF 860 engine onboard start up idle gas pressing short acceleration turn off mono.wav" 13628968 0 1583868982 0
+D y 2016-08-0 d "vehicle, excavator, mf, 860, engine, diesel, onboard, driving, drive, regular, start, idle" s 96000 n 1
+D r 52:32.085 l 0:47.061 i 24
+F "excavator MF 860 exterior engine passby medium speed constant rpm stereo M10.wav" 12505192 0 1583868948 0
+D y 2016-09-0 d "vehicle, excavator, mf, 860, exterior, engine,  passby, constant, rpm, medium, speed" s 96000 n 2
+D r 6:45.674 l 0:21.589 i 24
+F "excavator MF 860 exterior engine turn on idle and slowly drive away stereo M10.wav" 21646408 0 1583868846 0
+D y 2016-09-0 d "vehicle, excavator, mf, 860, exterior, engine,  turn, on, idle, drive, away, slow" s 96000 n 2
+D l 0:37.376 i 24
+F "excavator MF 860 exterior horn stereo M10.wav" 1112248 0 1583868395 0
+D y 2016-09-0 d "vehicle, excavator, mf, 860, exterior, horn" s 96000 n 1
+D l 0:03.829 i 24

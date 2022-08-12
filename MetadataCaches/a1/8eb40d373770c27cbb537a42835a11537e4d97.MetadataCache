@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Loopmasters Dubwise/Key Hits"
+F DWS_D#m_Clavi.wav 346310 0 1548713926 0
+D g "Processed, Clavinet, Hits, Dub" s 44100 n 2 l 0:01.303
+D i 24
+F DWS_Fmin_Piano.wav 454910 0 1548713926 0
+D g "Processed, Piano, Hits, Dub" s 44100 n 2 l 0:01.713
+D i 24
+F DWS_G#m_Organ.wav 191468 0 1548713926 0
+D g "Processed, Organ, Hits, Delay, Dub" s 44100 n 2 l 0:00.718
+D i 24
+F DWS_Gm_Space_Clavi.wav 242660 0 1548713926 0
+D g "Processed, Clavinet, Sci-Fi, Hits, Dub" s 44100 n 2 l 0:00.911
+D i 24

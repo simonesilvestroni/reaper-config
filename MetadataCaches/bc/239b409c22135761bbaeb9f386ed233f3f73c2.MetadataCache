@@ -1,0 +1,2375 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - HITS & CREAKS"
+F Ascending.wav 594252 0 1439161318 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.367
+D i 16
+F Beating_Hay_Bale_Broom_Impact_Hit_OCM-0010-322.wav 673768 0 1566570829 0
+D t Beating_Hay_Bale_Broom_Impact_Hit_OCM-0010-322 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Beating Hay Bale, Broom Impact, Hit" d "Beating Hay Bale, Broom Impact, Hit" s 48000
+D n 2 l 0:01.258 i 16 m 0
+F "Bitechomp Sfxb.342.wav" 148340 0 1372263230 0
+D y 2010-11-29 d '"CARTOON, BITE, CHOMP"' s 96000 n 2
+D l 0:00.249 i 24
+F Blackboardhit1.wav 42272 0 1199110214 0
+D s 44100 n 1 l 0:00.478 i 16
+F Blackboardhit2.wav 44952 0 1199110216 0
+D s 44100 n 1 l 0:00.508 i 16
+F "Board 1.wav" 95906 0 1200106060 0
+D s 44100 n 1 l 0:01.086 i 16
+F "Boardslam 2X4 1.wav" 77766 0 1200106052 0
+D s 44100 n 1 l 0:00.880 i 16
+F "Boardslam 2X4 2.wav" 104852 0 1200106052 0
+D s 44100 n 1 l 0:01.187 i 16
+F Bong_Hit_One_Quick_Inhale_CU_Bubbles_OCM-0026-010.wav 1790032 0 1566570829 0
+D t Bong_Hit_One_Quick_Inhale_CU_Bubbles_OCM-0026-010 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Misc" c "Bong Hit, One Quick Inhale, CU, Bubbles" d "Bong Hit, One Quick Inhale, CU, Bubbles" s 48000
+D n 2 l 0:04.714 i 24 m 0
+F boom.wav 227446 0 1129807806 0
+D y 2005-10-13 s 44100 n 2 l 0:01.288
+D i 16
+F Bottle1.wav 498792 0 1202672142 0
+D y 2007-03-20 s 44100 n 1 r 0:02.823
+D l 0:05.647 i 16
+F Bottle2.wav 498792 0 1202672142 0
+D y 2007-03-20 s 44100 n 1 r 0:16.941
+D l 0:05.647 i 16
+F Bottle3.wav 498794 0 1202672143 0
+D y 2007-03-20 s 44100 n 1 r 1:44.117
+D l 0:05.647 i 16
+F "Bowl bang.Wav" 271132 0 1192131684 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:01.020 i 24
+F "Boxing Speed Bag.wav" 3771138 0 1439160953 0
+D a "Sound Ideas" s 44100 n 2 l 0:21.377
+D i 16
+F "Brass Bowl Hit1.wav" 267162 0 1199110218 0
+D s 44100 n 1 l 0:03.027 i 16
+F "Brass Bowl Hit2.wav" 192148 0 1199110220 0
+D s 44100 n 1 l 0:02.177 i 16
+F "Brass Bowl Hit3.wav" 199208 0 1199110220 0
+D s 44100 n 1 l 0:02.257 i 16
+F "Break Lathe Hit Fx.wav" 147612 0 1439162614 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.835
+D i 16
+F "Breaking Glass Hit Fx 01.wav" 237884 0 1439162874 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:01.347
+D i 16
+F "Breaking Glass Hit Fx 02.wav" 170656 0 1439162011 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.966
+D i 16
+F "Bucket Metal.wav" 6070556 0 1502566076 0
+D s 44100 n 2 l 0:34.413 i 16
+F "Bulbpop 2.wav" 173032 0 1192131750 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:00.649 i 24
+F "Bulbpop 3.wav" 249208 0 1192131776 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:00.937 i 24
+F "Bulbpop 4.wav" 107518 0 1192131702 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:00.401 i 24
+F "Cakelid Gong1.Wav" 479454 0 1201632544 0
+D s 44100 n 1 l 0:05.434 i 16
+F "Cakelid Gong2.Wav" 798598 0 1201632544 0
+D s 44100 n 1 l 0:09.053 i 16
+F "Ceramic tile1.Wav" 549104 0 1199739228 0
+D s 44100 n 1 l 0:06.224 i 16
+F "Ceramic tile2.Wav" 497032 0 1199739228 0
+D s 44100 n 1 l 0:05.634 i 16
+F "Ceramic tile3.Wav" 674620 0 1199739228 0
+D s 44100 n 1 l 0:07.647 i 16
+F "Ceramic tile4.Wav" 202998 0 1199739230 0
+D s 44100 n 1 l 0:02.300 i 16
+F Ceramic_Hit_Toilet_Tank_Hits_with_Hand_OCP-1503-026.wav 3490710 0 1566570832 0
+D t Ceramic_Hit_Toilet_Tank_Hits_with_Hand_OCP-1503-026 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Ceramic Hit, Toilet Tank Hits with Hand, Some Slap, Smacks, Impacts, Ring Variations, Vase, Many Versions" d "Ceramic Hit, Toilet Tank Hits with Hand, Some Slap, Smacks, Impacts, Ring Variations, Vase, Many Versions" s 48000
+D n 1 r 0:03.042 l 0:31.850 i 16
+D m 0
+F "Champagnecork S011Fo.144.wav" 176426 0 1372263230 0
+D y 2011-04-01 d '"FOLEY, CHAMPAGNE, CORK, POP"' s 96000 n 2
+D l 0:00.294 i 24
+F "Cheek Slap.wav" 25376 0 1247752876 0
+D y 2009-07-16 s 44100 n 2 l 0:00.095
+D i 24
+F "Chest Slap.wav" 32144 0 1247752618 0
+D y 2009-07-16 s 44100 n 2 l 0:00.120
+D i 24
+F "China Cymbal1.Wav" 110508 0 1200610564 0
+D s 44100 n 1 l 0:01.251 i 16
+F "China Cymbal2.Wav" 190118 0 1200610564 0
+D s 44100 n 1 l 0:02.154 i 16
+F "China Cymbal3.Wav" 147966 0 1200610564 0
+D s 44100 n 1 l 0:01.676 i 16
+F Chopping2.wav 104248 0 1202138852 0
+D y 2008-02-04 s 44100 n 1 r 0:04.503
+D l 0:01.173 i 16
+F Chopping3.wav 35282 0 1202138852 0
+D y 2008-02-04 s 44100 n 1 r 0:02.255
+D l 0:00.391 i 16
+F Chopping4.wav 387282 0 1202138852 0
+D y 2008-02-04 s 44100 n 1 r 0:08.364
+D l 0:04.382 i 16
+F "Clank 1.wav" 349308 0 1439162249 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.979
+D i 16
+F "Clank 2.wav" 397420 0 1439162366 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.252
+D i 16
+F Clank.wav 118982 0 1248522606 0
+D y 2009-07-25 s 44100 n 2 l 0:00.449
+D i 24
+F "Clap 1.wav" 9234 0 1200106074 0
+D s 44100 n 1 l 0:00.103 i 16
+F Clap1.wav 360774 0 1199739230 0
+D s 44100 n 1 l 0:04.089 i 16
+F Clap2.wav 344652 0 1199739230 0
+D s 44100 n 1 l 0:03.906 i 16
+F Clap3.wav 265256 0 1199739232 0
+D s 44100 n 1 l 0:03.006 i 16
+F "Click 1A.wav" 32626 0 1201635546 0
+D s 44100 n 1 l 0:00.368 i 16
+F "Click 2.wav" 292888 0 1201635546 0
+D s 44100 n 1 l 0:03.319 i 16
+F "Click Loop.wav" 1073708 0 1476211472 0
+D s 44100 n 2 l 0:04.057 i 24
+F "Click Off Fx.wav" 45212 0 1439161662 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.255
+D i 16
+F "Clong 1.wav" 1556552 0 1488630190 0
+D s 48000 n 2 l 0:08.106 i 16
+F "Clong 2.wav" 958536 0 1488630191 0
+D s 48000 n 2 l 0:04.992 i 16
+F Clonk1.wav 167612 0 1199739232 0
+D s 44100 n 1 l 0:01.899 i 16
+F Clonk2.wav 181342 0 1199739232 0
+D s 44100 n 1 l 0:02.054 i 16
+F Clonk3.wav 112668 0 1199739232 0
+D s 44100 n 1 l 0:01.276 i 16
+F Clonk4.wav 134662 0 1199739232 0
+D s 44100 n 1 l 0:01.525 i 16
+F "Concrete Soldier Crouch N02.wav" 461316 0 1481710256 0
+D y 2013-04-30 s 96000 n 2 l 0:00.800
+D i 24
+F "Concrete Soldier Crouch N05.wav" 460974 0 1481710256 0
+D y 2013-04-30 s 96000 n 2 l 0:00.799
+D i 24
+F Cookerdoor.wav 123776 0 1247650468 0
+D y 2009-07-15 s 44100 n 2 l 0:00.467
+D i 24
+F "Cookie Sheet 1.Wav" 55506 0 1201974374 0
+D s 44100 n 1 l 0:00.628 i 16
+F "Cookie Sheet 2.Wav" 42798 0 1201974374 0
+D s 44100 n 1 l 0:00.483 i 16
+F "Cookie Sheet 3.Wav" 214254 0 1201974374 0
+D s 44100 n 1 l 0:02.427 i 16
+F "Cookie tin1.Wav" 68976 0 1199110256 0
+D s 44100 n 1 l 0:00.780 i 16
+F "Cookie tin1A.Wav" 102362 0 1199484436 0
+D s 44100 n 1 l 0:01.159 i 16
+F "Cookie tin2.Wav" 1032042 0 1199110258 0
+D s 44100 n 1 l 0:11.699 i 16
+F "Cookie tin2A.Wav" 179422 0 1199484436 0
+D s 44100 n 1 l 0:02.032 i 16
+F "Cookie tin3.Wav" 1134704 0 1199110262 0
+D s 44100 n 1 l 0:12.863 i 16
+F "Cookie tin3A.Wav" 123646 0 1199484438 0
+D s 44100 n 1 l 0:01.400 i 16
+F "Cookie tin4.Wav" 99100 0 1199484438 0
+D s 44100 n 1 l 0:01.122 i 16
+F "Cowbell1 Big.Wav" 134854 0 1201632548 0
+D s 44100 n 1 l 0:01.527 i 16
+F "Cowbell2 Small.Wav" 134854 0 1201632548 0
+D s 44100 n 1 l 0:01.527 i 16
+F "Cowbell3 Plural.Wav" 1217748 0 1201632550 0
+D s 44100 n 1 l 0:13.751 i 16
+F "Crackleice 1.wav" 321272 0 1390589526 0
+D s 44100 n 2 l 0:01.821 i 16
+F "Crackleice 2.wav" 264644 0 1390589530 0
+D s 44100 n 2 l 0:01.500 i 16
+F "Crackleice 3.wav" 402512 0 1390589534 0
+D s 44100 n 2 l 0:02.281 i 16
+F "Crackleice 4.wav" 352844 0 1390589540 0
+D s 44100 n 2 l 0:02.000 i 16
+F "Crackleice 5.wav" 705644 0 1390589546 0
+D s 44100 n 2 l 0:04.000 i 16
+F "Crank 1.wav" 127048 0 1488630187 0
+D s 48000 n 2 l 0:00.661 i 16
+F "Crank 2.wav" 110664 0 1488630187 0
+D s 48000 n 2 l 0:00.576 i 16
+F "Crank Hit Fx 01.wav" 167396 0 1439161310 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.948
+D i 16
+F "Crank Hit Fx 02.wav" 77980 0 1439163085 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.441
+D i 16
+F "Crisp Packet.wav" 589952 0 1247731648 0
+D y 2009-07-16 s 44100 n 2 l 0:02.229
+D i 24
+F "Cymbal Transition 1.wav" 286556 0 1439163014 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.623
+D i 16
+F "Cymbal Transition 2.wav" 406580 0 1439162487 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.304
+D i 16
+F "Cymbal Transition 3.wav" 592668 0 1439162888 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.358
+D i 16
+F "Daytime, Tree Moving In Wind Very Close, Wood Creaking In Wind, Small Town Backyard, Birds Decent In Bg, Thunder, Cars In Distance Motherland Ethiopia 14.WAV" 17574326 0 1488537541 0
+D t "MOTHERLAND ETHIOPIA" d "DAYTIME, TREE MOVING IN WIND VERY CLOSE, WOOD CREAKING IN WIND, SMALL TOWN BACKYARD, BIRDS DECENT IN BG, THUNDER, CARS IN DISTANCE_MOTHERLAND ETHIOPIA" s 48000 n 2
+D r 11:07:48.727 l 1:01.016 i 24
+F "Desk Drawer Closed 01.wav" 69936 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.785
+D i 16
+F "Desk Drawer Closed 02.wav" 118014 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.330
+D i 16
+F "Desk Drawer Opened 01.wav" 68568 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.770
+D i 16
+F "Desk Drawer Opened 02.wav" 75714 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.851
+D i 16
+F "Dirt Can 1.wav" 152270 0 1200106082 0
+D s 44100 n 1 l 0:01.725 i 16
+F "Dirt Can 2.wav" 68394 0 1200106082 0
+D s 44100 n 1 l 0:00.774 i 16
+F "Dit Hit 1.wav" 34024 0 1439163500 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.192
+D i 16
+F "Dit Hit 2.wav" 43544 0 1439163681 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.245
+D i 16
+F "Double Kick1.wav" 124114 0 1202133338 0
+D y 2008-02-03 s 44100 n 1 r 0:06.269
+D l 0:01.399 i 16
+F "Double Kick2.wav" 112850 0 1202133338 0
+D y 2008-02-03 s 44100 n 1 r 0:00.052
+D l 0:01.271 i 16
+F "Down The Stairs01.wav" 903308 0 1248175734 0
+D y 2009-07-21 s 44100 n 2 l 0:03.413
+D i 24
+F "Down The Stairs02.wav" 798776 0 1248175772 0
+D s 44100 n 2 l 0:03.018 i 24
+F "Drag Stone 01.wav" 1330654 0 1439162808 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.542
+D i 16
+F "Drag Stone 02.wav" 1670250 0 1439161989 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.467
+D i 16
+F Draw01.wav 1425536 0 1247650056 0
+D y 2009-07-15 s 44100 n 2 l 0:05.387
+D i 24
+F Draw02.wav 897152 0 1247650400 0
+D y 2009-07-15 s 44100 n 2 l 0:03.390
+D i 24
+F "Drawer Wood.wav" 2791868 0 1502563419 0
+D s 44100 n 2 l 0:15.826 i 16
+F Drawer.wav 496248 0 1439161146 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.812
+D i 16
+F "Dresser Drawer Closed 01.wav" 87038 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.979
+D i 16
+F "Dresser Drawer Closed 02.wav" 107240 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.208
+D i 16
+F "Dresser Drawer Closed 03.wav" 105750 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.191
+D i 16
+F "Dresser Drawer Closed 04.wav" 91242 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.027
+D i 16
+F "Dresser Drawer Handle 01.wav" 36062 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.401
+D i 16
+F "Dresser Drawer Handle 02.wav" 27684 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.306
+D i 16
+F "Dresser Drawer Opened 01.wav" 168634 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.904
+D i 16
+F "Dresser Drawer Opened 02.wav" 109708 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.236
+D i 16
+F "Dresser Drawer Opened 03.wav" 97510 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.098
+D i 16
+F "Dresser Drawer Opened 04.wav" 78608 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.884
+D i 16
+F "Drop Foley.wav" 3535100 0 1502562336 0
+D s 44100 n 2 l 0:20.040 i 16
+F "Drop Object 1.wav" 151288 0 1439161547 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.856
+D i 16
+F "Drop Object 2.wav" 55840 0 1439161724 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.315
+D i 16
+F "Drop, Glass, Small Shards.wav" 11137018 0 1488537371 0
+D y 2016-06-16 d "DROP GLASS DEBREE; Mono. Glass debree being dropped on a small table." s 192000 n 1
+D r 2:18:06.685 l 0:19.333 i 24
+F "Drop, Glass, Table, Metal, Debree.wav" 22361662 0 1488537511 0
+D y 2016-06-16 d "DROP GLASS DEBREE; Stereo. Glass being dropped and thrown against a wall. General glass debree sounds." s 192000 n 2
+D r 5:56:22.669 l 0:19.410 i 24
+F "Drum Low 1.wav" 30066 0 1200106084 0
+D s 44100 n 1 l 0:00.339 i 16
+F "Drum Low 2.wav" 38644 0 1200106084 0
+D s 44100 n 1 l 0:00.436 i 16
+F "Dry 3 Times.wav" 529250 0 1470817550 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry 666 Hit.wav" 529250 0 1471626018 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Baby Stone Snap.wav" 682880 0 1472242768 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Bouncing 1.wav" 2116850 0 1471191452 0
+D s 44100 n 2 l 0:08.000 i 24
+F "Dry Bouncing 2.wav" 1058450 0 1471191462 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Bouncing 3.wav" 1058450 0 1471191472 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Bouncing Brick 1.wav" 1058450 0 1469347692 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Bouncing Brick 2.wav" 1058444 0 1469347720 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Bouncing Brick 3.wav" 1270124 0 1469348046 0
+D s 44100 n 2 l 0:04.800 i 24
+F "Dry Brick 1.wav" 529244 0 1469347434 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Brick 2.wav" 1058444 0 1469347854 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Brick 3.wav" 1058444 0 1469347876 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Brick 4.wav" 529250 0 1469347930 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Brick 5.wav" 635084 0 1469348008 0
+D s 44100 n 2 l 0:02.400 i 24
+F "Dry Clap 11.wav" 529250 0 1471164732 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 12.wav" 529250 0 1471164740 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 13.wav" 529250 0 1471164750 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 14.wav" 529250 0 1471164762 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 16.wav" 529250 0 1471599024 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 17.wav" 529250 0 1471599136 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 18.wav" 529250 0 1471626134 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 19.wav" 529244 0 1473179286 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 2.wav" 529250 0 1470817990 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 20.wav" 529244 0 1473351312 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 21.wav" 529244 0 1473351378 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 22.wav" 529244 0 1473358248 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 23.wav" 529244 0 1473358280 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 3.wav" 529250 0 1470818046 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 4.wav" 529250 0 1470818072 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 5.wav" 529250 0 1470818094 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 6.wav" 529250 0 1470818268 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 7.wav" 682880 0 1472474708 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Clap 8.wav" 529250 0 1471163134 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap 9.wav" 529250 0 1471164268 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Clap And Answer.wav" 1058444 0 1473179414 0
+D s 44100 n 2 l 0:04.000 i 24
+F "Dry Click 1.wav" 529244 0 1470123444 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 10.wav" 529250 0 1470831428 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 11.wav" 529250 0 1470831454 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 12.wav" 529250 0 1470831564 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 13.wav" 529250 0 1470831644 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 14.wav" 529250 0 1470831684 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 15.wav" 529250 0 1470831708 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 16.wav" 529250 0 1470831748 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 17.wav" 529250 0 1470831782 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 18.wav" 529250 0 1470831844 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 19.wav" 529250 0 1470831868 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 2.wav" 529250 0 1470817614 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 20.wav" 529250 0 1470831906 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 21.wav" 529250 0 1470831936 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 22.wav" 529250 0 1470831976 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 23.wav" 529250 0 1470832004 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 24.wav" 529250 0 1470832044 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 25.wav" 682880 0 1472242302 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 26.wav" 682880 0 1472242618 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 27.wav" 682880 0 1472242802 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 28.wav" 682880 0 1472243272 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 29.wav" 682880 0 1472243560 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 3.wav" 529250 0 1470817700 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 30.wav" 682880 0 1472243684 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 31.wav" 682886 0 1472473528 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 32.wav" 529244 0 1472482284 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 33.wav" 529244 0 1472482398 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 34.wav" 529244 0 1472482464 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 35.wav" 529244 0 1472482702 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 36.wav" 529244 0 1472482734 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 37.wav" 529244 0 1472483852 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 38.wav" 529244 0 1472484020 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 39.wav" 529244 0 1472484258 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 4.wav" 529250 0 1470123466 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 40.wav" 529244 0 1472490628 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 41.wav" 529244 0 1473089188 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 42.wav" 529244 0 1473089222 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 43.wav" 529244 0 1473174476 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 44.wav" 529244 0 1473179308 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 45.wav" 529244 0 1470669398 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 46.wav" 529244 0 1470669304 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 47.wav" 529244 0 1470479062 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 48.wav" 529244 0 1470479022 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 49.wav" 529244 0 1470478998 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 5.wav" 529250 0 1470123472 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 50.wav" 529250 0 1470836398 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 51.wav" 529250 0 1470836392 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 52.wav" 529250 0 1470836384 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 53.wav" 529250 0 1470836378 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 54.wav" 529250 0 1470836370 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 55.wav" 529250 0 1470836364 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 56.wav" 529250 0 1470836358 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 57.wav" 529250 0 1470836350 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 58.wav" 529250 0 1470836342 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 59.wav" 529250 0 1470836336 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 6.wav" 529250 0 1470817968 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 60.wav" 529250 0 1470836330 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 61.wav" 529250 0 1470836314 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 62.wav" 529250 0 1470836306 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 63.wav" 529250 0 1470836300 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 64.wav" 529250 0 1470832538 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 65.wav" 529250 0 1470832532 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 66.wav" 529250 0 1470832524 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 67.wav" 529250 0 1470832516 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 68.wav" 529250 0 1470832508 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 69.wav" 529250 0 1470832498 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 7.wav" 529250 0 1470818164 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 70.wav" 529250 0 1470832484 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 71.wav" 529250 0 1470832478 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 72.wav" 529250 0 1470832468 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 73.wav" 529250 0 1470832462 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 74.wav" 529250 0 1470832456 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 75.wav" 529250 0 1470832450 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 76.wav" 529250 0 1470832442 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 77.wav" 529250 0 1470832436 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 78.wav" 529250 0 1470832430 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 79.wav" 682880 0 1472243500 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 80.wav" 529250 0 1472482550 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 81.wav" 682880 0 1472243444 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 82.wav" 682880 0 1472243372 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 83.wav" 682880 0 1472243646 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Click 84.wav" 529244 0 1470478464 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 85.wav" 529244 0 1470478508 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click 86.wav" 529244 0 1470669744 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Click Loop.wav" 4233644 0 1472482910 0
+D s 44100 n 2 l 0:16.000 i 24
+F "Dry Clickclicks.wav" 682880 0 1472242860 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Crack 101.wav" 682880 0 1472244562 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Crunch 101.wav" 682880 0 1472237738 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Crunch Texture 2.wav" 3848768 0 1470476676 0
+D s 44100 n 2 l 0:14.545 i 24
+F "Dry Crunch Texture.wav" 2116850 0 1471611374 0
+D s 44100 n 2 l 0:08.000 i 24
+F "Dry Kick 1.wav" 682880 0 1472474872 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 10.wav" 682880 0 1472475904 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 1005.wav" 529250 0 1473359556 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 105.wav" 682880 0 1472475162 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 11.wav" 529250 0 1473359450 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 12.wav" 529250 0 1473359526 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 13.wav" 529250 0 1473359534 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 14.wav" 529250 0 1473359540 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 16.wav" 529250 0 1473359566 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 17.wav" 529250 0 1473359572 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 18.wav" 529250 0 1473359578 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 19.wav" 529250 0 1473359584 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick 2.wav" 682880 0 1472474966 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 3.wav" 682880 0 1472475038 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 4.wav" 682880 0 1472475270 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 5.wav" 682880 0 1472475396 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 6.wav" 682880 0 1472475444 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 7.wav" 682880 0 1472475514 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 8.wav" 682880 0 1472475556 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick 9.wav" 682880 0 1472475648 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Kick Again.wav" 529250 0 1470123610 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick Boom.wav" 529250 0 1470123628 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Kick Middie.wav" 529244 0 1470123636 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 1.wav" 529250 0 1471599602 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 10.wav" 529244 0 1472483680 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 11.wav" 529244 0 1472483728 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 3 Times.wav" 529250 0 1471599552 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 3.wav" 529250 0 1471599748 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 4.wav" 529250 0 1471599826 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 5.wav" 529244 0 1472483542 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 6.wav" 529244 0 1472483602 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 7.wav" 529244 0 1472483652 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 8.wav" 529244 0 1472483800 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock 9.wav" 529244 0 1470478534 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock Roll 1.wav" 529244 0 1472483496 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Knock Roll 2.wav" 529244 0 1472483282 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Leaf Click.wav" 529244 0 1470490128 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Lil Dad.wav" 529244 0 1470669428 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Perc 10.wav" 529244 0 1470669514 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Perc 13 (2).wav" 529244 0 1470491322 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Perc 5.wav" 529244 0 1470669232 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Perc 8 (2).wav" 529244 0 1470479840 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Perc Scrape.wav" 529250 0 1470817536 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Rattle Hit.wav" 529244 0 1470669094 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Ricochet.wav" 682886 0 1472237708 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Scrape Hit 2.wav" 529250 0 1471626368 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Scrape Hit.wav" 529250 0 1471626240 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Sexy Stick.wav" 682880 0 1472244492 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Shake Hit 1.wav" 529244 0 1470669730 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Shake Hit 2.wav" 529250 0 1470491290 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Shuffle Knock.wav" 682880 0 1472242194 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Shutter Hit 2.wav" 529250 0 1471627242 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Shutter Hit.wav" 529250 0 1471626336 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Slide 1001.wav" 529244 0 1472483004 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Squeek.wav" 1365716 0 1472237514 0
+D s 44100 n 2 l 0:05.161 i 24
+F "Dry Stax 114.wav" 682880 0 1472473232 0
+D s 44100 n 2 l 0:02.580 i 24
+F "Dry Stix.wav" 2116844 0 1473194066 0
+D s 44100 n 2 l 0:08.000 i 24
+F "Dry Stomp Crunch.wav" 529250 0 1470124172 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Tree Hit 001.wav" 529244 0 1473174506 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Vibra Click.wav" 529244 0 1470669752 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dry Vine Whip.wav" 529244 0 1472483256 0
+D s 44100 n 2 l 0:02.000 i 24
+F "Dryiceboring 1.wav" 362270 0 1395176814 0
+D s 48000 n 2 l 0:01.257 i 24
+F "Dryiceboring 2.wav" 957812 0 1395176822 0
+D s 48000 n 2 l 0:03.325 i 24
+F Drymetalhit1.wav 103352 0 1199110268 0
+D s 44100 n 1 l 0:01.170 i 16
+F Drymetalhit2.wav 98376 0 1199110268 0
+D s 44100 n 1 l 0:01.114 i 16
+F "Dull Container 1.wav" 274470 0 1201635554 0
+D s 44100 n 1 l 0:03.110 i 16
+F "Dull Container 2.wav" 288228 0 1201635554 0
+D s 44100 n 1 l 0:03.266 i 16
+F "Dumpster Hit1.wav" 181144 0 1200610566 0
+D s 44100 n 1 l 0:02.052 i 16
+F "Dumpster Hit2.wav" 264712 0 1200610566 0
+D s 44100 n 1 l 0:03.000 i 16
+F "Dumpster Hit3.wav" 382854 0 1200610568 0
+D s 44100 n 1 l 0:04.339 i 16
+F "Dust Pan 1.Wav" 90700 0 1201635554 0
+D s 44100 n 1 l 0:01.027 i 16
+F "Dust Pan 2.Wav" 96708 0 1201635554 0
+D s 44100 n 1 l 0:01.095 i 16
+F "Egg Shaker1.Wav" 56530 0 1202004094 0
+D y 2008-02-02 s 44100 n 1 r 0:15.121
+D l 0:00.632 i 16
+F "Egg Shaker2.Wav" 49874 0 1202004094 0
+D y 2008-02-02 s 44100 n 1 r 0:17.623
+D l 0:00.557 i 16
+F "Electronic Air Hit Fx.wav" 72684 0 1439163081 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.411
+D i 16
+F "Electronic Hit Fx 01.wav" 17464 0 1439161154 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.098
+D i 16
+F "Electronic Hit Fx 02.wav" 15456 0 1439161808 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.086
+D i 16
+F "Electronic Hit Fx 03.wav" 22840 0 1439162393 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.128
+D i 16
+F "Electronic Hit Fx 04.wav" 13368 0 1439163030 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.074
+D i 16
+F "Electronic Hit Fx 05.wav" 13108 0 1439161029 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.073
+D i 16
+F "Electronic Hit Fx 06.wav" 45468 0 1439161547 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.256
+D i 16
+F "Electronic Hit Fx 07.wav" 22284 0 1439162144 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.125
+D i 16
+F "Electronic Hit Fx 08.wav" 24208 0 1439162792 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.136
+D i 16
+F "Electronic Hit Fx 09.wav" 46328 0 1439163539 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.261
+D i 16
+F "Electronic Hit Fx 10.wav" 31344 0 1439162895 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.176
+D i 16
+F "Electronic Hit Fx 11.wav" 23456 0 1439163638 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.132
+D i 16
+F "Electronic Hit Fx 12.wav" 21300 0 1439161398 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.119
+D i 16
+F "Electronic Hit Fx 13.wav" 34476 0 1439162013 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.194
+D i 16
+F "Electronic Hit Fx 14.wav" 45752 0 1439162607 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.258
+D i 16
+F "Electronic Hit Fx 15.wav" 81224 0 1439163361 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.459
+D i 16
+F "Electronic Hit Fx 16.wav" 14548 0 1439161245 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.081
+D i 16
+F "Electronic Hit Fx 17.wav" 12900 0 1439161828 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.072
+D i 16
+F "Electronic Hit Fx 18.wav" 41160 0 1439162410 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.232
+D i 16
+F "Electronic Hit Fx 19.wav" 12872 0 1439163068 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.072
+D i 16
+F "Electronic Hit Fx 20.wav" 26900 0 1439162498 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.151
+D i 16
+F "Electronic Hit Fx 21.wav" 13000 0 1439163193 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.072
+D i 16
+F "Electronic Hit Fx 22.wav" 51224 0 1439161092 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.289
+D i 16
+F "Electronic Hit Fx 23.wav" 69540 0 1439161724 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.393
+D i 16
+F "Electronic Hit Fx 24.wav" 151708 0 1439162268 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.859
+D i 16
+F "Electronic Hit Fx 25.wav" 18528 0 1439162938 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.104
+D i 16
+F "Electronic Hit Fx 26.wav" 60348 0 1439163681 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.341
+D i 16
+F "Electronic Hit Fx 27.wav" 21892 0 1439161457 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.123
+D i 16
+F "Explosion Dirt Debris.mp3" 687959 0 1583930929 0
+D s 44100 n 2 l 0:21.447 i 257k
+F explosion.wav 284894 0 1129393212 0
+D y 2005-10-15 s 44100 n 2 l 0:01.613
+D i 16
+F explosion2.wav 254134 0 1129807844 0
+D y 2005-10-15 s 44100 n 2 l 0:01.439
+D i 16
+F explosion3.wav 268510 0 1129807872 0
+D y 2005-10-15 s 44100 n 2 l 0:01.520
+D i 16
+F Fall01.wav 236594 0 1248033216 0
+D s 44100 n 2 l 0:00.893 i 24
+F "Falling Tree.wav" 2233162 0 1439162206 0
+D a "Sound Ideas" s 44100 n 2 l 0:12.658
+D i 16
+F "Fiber Board Percussive1.wav" 98794 0 1199110268 0
+D s 44100 n 1 l 0:01.118 i 16
+F "Fiber Board Percussive2.wav" 113500 0 1199110268 0
+D s 44100 n 1 l 0:01.285 i 16
+F "Fiber Board Rumble1.wav" 625378 0 1199110270 0
+D s 44100 n 1 l 0:07.089 i 16
+F "Fiber Board Rumble2.wav" 598328 0 1199110270 0
+D s 44100 n 1 l 0:06.782 i 16
+F "Fiber Board Rumble3.wav" 364628 0 1199110270 0
+D s 44100 n 1 l 0:04.132 i 16
+F "Fire Hose 1.wav" 139378 0 1200106088 0
+D s 44100 n 1 l 0:01.578 i 16
+F "Fire Hose 2.wav" 89948 0 1200106088 0
+D s 44100 n 1 l 0:01.018 i 16
+F "Folding Door Close 1.wav" 749640 0 1488630181 0
+D s 48000 n 2 l 0:03.904 i 16
+F "Folding Door Open 1.wav" 815176 0 1488630180 0
+D s 48000 n 2 l 0:04.245 i 16
+F "Foley hits 1.wav" 432044 0 1395177000 0
+D s 48000 n 2 l 0:01.500 i 24
+F "Foley hits 2.wav" 720044 0 1395177004 0
+D s 48000 n 2 l 0:02.500 i 24
+F "Foley hits 3.wav" 288044 0 1395177022 0
+D s 48000 n 2 l 0:01.000 i 24
+F "Football Hit 1.wav" 376032 0 1439161778 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.130
+D i 16
+F "Football Hit 2.wav" 141048 0 1439161875 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.798
+D i 16
+F "Football Kick.wav" 485808 0 1439162845 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.753
+D i 16
+F Football.wav 346886 0 1248261124 0
+D y 2009-07-22 s 44100 n 2 l 0:01.310
+D i 24
+F Fridge.wav 209520 0 1390589682 0
+D s 44100 n 2 l 0:01.187 i 16
+F "Gearwind S011Fo.466.wav" 476006 0 1372263262 0
+D y 2011-04-01 d '"FOLEY, GEAR, WIND, LARGE, PLASTIC, CLICKS"' s 96000 n 2
+D l 0:00.762 i 24
+F "Gee Up.wav" 121862 0 1248002842 0
+D y 2009-07-19 s 44100 n 2 l 0:00.460
+D i 24
+F "generic hit.wav" 62786 0 1201973774 0
+D s 44100 n 1 l 0:00.710 i 16
+F "Glitch Nz.439.wav" 442376 0 1372263262 0
+D d "Digital Glitch" s 96000 n 2 l 0:00.760
+D i 24
+F "Goat Hoof 2.Wav" 234454 0 1201974380 0
+D s 44100 n 1 l 0:02.656 i 16
+F "Goat Hoof Rattle 1.Wav" 249284 0 1201974380 0
+D s 44100 n 1 l 0:02.825 i 16
+F "Goat Hoof Rattle 2.Wav" 143718 0 1201974382 0
+D s 44100 n 1 l 0:01.628 i 16
+F "Goat Hoof-1.Wav" 107840 0 1201974380 0
+D s 44100 n 1 l 0:01.221 i 16
+F "Golf Foley.wav" 10000748 0 1502566019 0
+D s 44100 n 2 l 0:56.693 i 16
+F "Golf Fx 01.wav" 893060 0 1439162269 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:05.061
+D i 16
+F "Golf Fx 02.wav" 273540 0 1439163656 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:01.549
+D i 16
+F "Golf Hit 1.wav" 234172 0 1439163682 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.326
+D i 16
+F "Golf Hit 2.wav" 89296 0 1439162042 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.505
+D i 16
+F "Golf Hit 3.wav" 128764 0 1439163356 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.729
+D i 16
+F "Golf Hit 4.wav" 332388 0 1439161808 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.883
+D i 16
+F "Golf Hit 5.wav" 341492 0 1439163008 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.935
+D i 16
+F "Golf Hit.wav" 69832 0 1439163081 0
+D a "Apple Inc." s 44100 n 2 l 0:00.395
+D i 16
+F "Golfswing S011Sp.288.wav" 228604 0 1372263262 0
+D y 2011-04-01 d '"SPORTS, GOLF, SWING, XPC, 4, WOOD"' s 96000 n 2
+D l 0:00.267 i 24
+F Gong.wav 101144 0 1202409309 0
+D s 44100 n 1 l 0:01.145 i 16
+F "Grinder Hit Fx 01.wav" 52512 0 1439162480 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.296
+D i 16
+F "Grinder Hit Fx 02.wav" 63532 0 1439160954 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.359
+D i 16
+F "Guitarbroke 1.wav" 256544 0 1395176616 0
+D s 48000 n 2 l 0:00.890 i 24
+F "Guitarbroke 2.wav" 454730 0 1395176620 0
+D s 48000 n 2 l 0:01.578 i 24
+F "Gym, Foley, Barbell Steel Bar, Place Back In Metal Stand.wav" 12857982 0 1488537505 0
+D a "Gym weights SFX library" y 2016-05-2 g "Sports, Gym" c "Sound Devices 744t"
+D d "Gym, Foley, Barbell Steel Bar, Place Back In Metal Stand, Sports, Exercise, Fitness" s 96000 n 2 r 1:54:02.592
+D l 0:21.728 i 24
+F "Gym, Foley, Barbell Weight 10Kg Steel, Add And Remove From Bar.wav" 8812076 0 1488537531 0
+D y 2016-05-2 c "Sound Devices 744t" d "Gym, Foley, Barbell Weight 10Kg Steel, Add And Remove From Bar, Sports, Exercise, Fitness, Metal" s 96000
+D n 2 r 1:42:42.089 l 0:14.741 i 24
+F "Gym, Foley, Drop Metal Handle On Floor.wav" 4787904 0 1488537368 0
+D a "Gym weights SFX library" y 2016-05-2 g "Sports, Gym" c "Sound Devices 744t"
+D d "Gym, Foley, Drop Metal Handle On Floor, Metal impact, small" s 96000 n 2 r 1:48:23.642
+D l 0:07.792 i 24
+F "Hairbrush On Mug.wav" 70354 0 1202004104 0
+D y 2008-02-02 s 44100 n 1 r 0:18.076
+D l 0:00.789 i 16
+F "Hairbrush On Mug2.wav" 18448 0 1202004104 0
+D y 2008-02-02 s 44100 n 1 r 0:20.207
+D l 0:00.200 i 16
+F "Hairbrush On Mug3.wav" 10590 0 1202004104 0
+D y 2008-02-02 s 44100 n 1 r 0:24.040
+D l 0:00.111 i 16
+F "Hall Table.wav" 602252 0 1248379446 0
+D y 2009-07-23 s 44100 n 2 l 0:02.275
+D i 24
+F "Hallway Noises2.wav" 204274 0 1199110282 0
+D s 44100 n 1 l 0:02.314 i 16
+F "Hallway Noises3.wav" 409348 0 1199110282 0
+D s 44100 n 1 l 0:04.639 i 16
+F "Hammer And Nail.wav" 1125716 0 1439162453 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.380
+D i 16
+F "Hammer Fx 01.aiff" 1224978 0 1505995965 0
+D a PowerFX.com p 139.6495 s 44100 n 2
+D l 0:06.874 i 16
+F "Hammer Wood 1.wav" 16703948 0 1502566036 0
+D s 44100 n 2 l 1:34.693 i 16
+F "Hammer Wood.wav" 2441420 0 1502565466 0
+D s 44100 n 2 l 0:13.840 i 16
+F "Hammering 1.wav" 1142856 0 1488630177 0
+D s 48000 n 2 l 0:05.952 i 16
+F "Hammering 2.wav" 589896 0 1488630177 0
+D s 48000 n 2 l 0:03.072 i 16
+F "Hand On Wood 1.wav" 66770 0 1200106112 0
+D s 44100 n 1 l 0:00.755 i 16
+F "Hard Cover Book Close Cover 01.wav" 25216 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.278
+D i 16
+F "Hard Cover Book Close Cover 02.wav" 71256 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.800
+D i 16
+F "Hard Cover Book Close Cover 03.wav" 54214 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.607
+D i 16
+F "Hard Cover Book Close Cover 04.wav" 56212 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.630
+D i 16
+F "Hard Cover Book Flip Through Pages 01.wav" 135218 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.525
+D i 16
+F "Hard Cover Book Flip Through Pages 02.wav" 48642 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.544
+D i 16
+F "Harshmetal 1.wav" 1226828 0 1395176708 0
+D s 48000 n 2 l 0:04.259 i 24
+F "Harshmetal 2.wav" 1440044 0 1395176716 0
+D s 48000 n 2 l 0:05.000 i 24
+F "Heavy Drag.wav" 666624 0 1439162455 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.778
+D i 16
+F "Highfreqmetal Bars.wav" 121388 0 1199110282 0
+D s 44100 n 1 l 0:01.375 i 16
+F "Hit 1 2.wav" 221584 0 1192132074 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:00.833 i 24
+F "Hit 1.wav" 392774 0 1393867938 0
+D s 48000 n 2 l 0:01.363 i 24
+F "Hit 10.wav" 515504 0 1393868020 0
+D s 48000 n 2 l 0:01.789 i 24
+F "Hit 2 2.wav" 264976 0 1192132084 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:00.997 i 24
+F "Hit 2.wav" 523682 0 1393867946 0
+D s 48000 n 2 l 0:01.818 i 24
+F "Hit 3 2.wav" 161686 0 1192132138 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:00.606 i 24
+F "Hit 3.wav" 261866 0 1393867956 0
+D s 48000 n 2 l 0:00.909 i 24
+F "Hit 4.wav" 785504 0 1393867964 0
+D s 48000 n 2 l 0:02.727 i 24
+F "Hit 5.wav" 523682 0 1393867980 0
+D s 48000 n 2 l 0:01.818 i 24
+F "Hit 6.wav" 411116 0 1393867988 0
+D s 48000 n 2 l 0:01.427 i 24
+F "Hit 7.wav" 432512 0 1393867996 0
+D s 48000 n 2 l 0:01.501 i 24
+F "Hit 8.wav" 521864 0 1393868004 0
+D s 48000 n 2 l 0:01.811 i 24
+F "Hit 9.wav" 496892 0 1393868010 0
+D s 48000 n 2 l 0:01.725 i 24
+F "Hit Bag.wav" 5308508 0 1502566037 0
+D s 44100 n 2 l 0:30.093 i 16
+F "Hit Blunt.wav" 4751084 0 1502566038 0
+D s 44100 n 2 l 0:26.933 i 16
+F "Hit Squish.wav" 2942396 0 1502566115 0
+D s 44100 n 2 l 0:16.680 i 16
+F Hit1.wav 814698 0 1199739244 0
+D s 44100 n 1 l 0:09.235 i 16
+F Hit2.wav 830990 0 1199739244 0
+D s 44100 n 1 l 0:09.420 i 16
+F Hit3.wav 247984 0 1199739244 0
+D s 44100 n 1 l 0:02.810 i 16
+F "Hitfire Hw.342.wav" 2047498 0 1372263268 0
+D d "Hit, Fire, Production Element" s 96000 n 2 l 0:03.546
+D i 24
+F "Hitreverb Bwu.519.wav" 7365776 0 1372263268 0
+D y 2013-05-07 d "Production Element, Hit, Reverb" s 96000 n 2
+D l 0:12.778 i 24
+F "Hits Distortion 01.wav" 2073808 0 1439162003 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.755
+D i 16
+F "Hits Distortion 02.wav" 3083586 0 1439161101 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:17.479
+D i 16
+F "Hits Distortion 03.wav" 1933478 0 1439162815 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.959
+D i 16
+F "Hits Distortion 04.wav" 2332076 0 1439161880 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:13.219
+D i 16
+F "Hits Distortion 05.wav" 2537508 0 1439160998 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:14.384
+D i 16
+F "Hits Feedback.wav" 1961304 0 1439161078 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.117
+D i 16
+F "Hits Squish.wav" 1366522 0 1439161078 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.745
+D i 16
+F "Hittowhoosh Bwu.323.wav" 1564106 0 1372263268 0
+D c "Made with ACID Pro 7.0" d "Production, Element, Hit, To, Whoosh, High, Ring" s 96000 n 2
+D l 0:02.707 i 24
+F "Hitwhoosh Hw.706.wav" 2037506 0 1372263268 0
+D d "Hit, Whoosh, Production Element" s 96000 n 2 l 0:03.528
+D i 24
+F "Hollow Hit Loud.wav" 331522 0 1199110284 0
+D s 44100 n 1 l 0:03.757 i 16
+F "Hollow Hit Soft.wav" 236736 0 1199110284 0
+D s 44100 n 1 l 0:02.682 i 16
+F "Hollowmetal 1.wav" 275636 0 1395176694 0
+D s 48000 n 2 l 0:00.956 i 24
+F "Horror Human 1.wav" 13559324 0 1502566144 0
+D s 44100 n 2 l 1:16.866 i 16
+F "Horror Human 10.wav" 4645244 0 1502566056 0
+D s 44100 n 2 l 0:26.333 i 16
+F "Horror Human 11.wav" 4318316 0 1502566058 0
+D s 44100 n 2 l 0:24.480 i 16
+F "Horror Human 2.wav" 4868684 0 1502565476 0
+D s 44100 n 2 l 0:27.600 i 16
+F "Horror Human 3.wav" 23491820 0 1502565613 0
+D s 44100 n 2 l 2:13.173 i 16
+F "Horror Human 4.wav" 22602764 0 1502566250 0
+D s 44100 n 2 l 2:08.133 i 16
+F "Horror Human 5.wav" 2834204 0 1502565767 0
+D s 44100 n 2 l 0:16.066 i 16
+F "Horror Human 6.wav" 11531900 0 1502566037 0
+D s 44100 n 2 l 1:05.373 i 16
+F "Horror Human 7.wav" 19876796 0 1502566037 0
+D s 44100 n 2 l 1:52.680 i 16
+F "Horror Human 8.wav" 22287596 0 1502565911 0
+D s 44100 n 2 l 2:06.346 i 16
+F "Horror Human 9.wav" 5755388 0 1502565912 0
+D s 44100 n 2 l 0:32.626 i 16
+F "Horror Human.wav" 4562924 0 1502565509 0
+D s 44100 n 2 l 0:25.866 i 16
+F "Household 19.mp3" 70454 0 1505995967 0
+D s 44100 n 2 l 0:03.736 i 129k
+F "Household 20.mp3" 85918 0 1505995967 0
+D s 44100 n 2 l 0:04.703 i 129k
+F "Hub cap 1.Wav" 444208 0 1201635576 0
+D s 44100 n 1 l 0:05.035 i 16
+F "Hub cap 2.Wav" 581548 0 1201635576 0
+D s 44100 n 1 l 0:06.592 i 16
+F "Human Clap 1.wav" 3135260 0 1502562719 0
+D s 44100 n 2 l 0:17.773 i 16
+F "Human Clap 2.wav" 3819692 0 1502566174 0
+D s 44100 n 2 l 0:21.653 i 16
+F "Human Clap 3.wav" 3403388 0 1502566175 0
+D s 44100 n 2 l 0:19.293 i 16
+F "Human Clap 4.wav" 3311660 0 1502565857 0
+D s 44100 n 2 l 0:18.773 i 16
+F "Human Clap 5.wav" 3767948 0 1502565561 0
+D s 44100 n 2 l 0:21.360 i 16
+F "Human Clap.wav" 3055292 0 1502565930 0
+D s 44100 n 2 l 0:17.320 i 16
+F "Human Crack.wav" 2907116 0 1502563865 0
+D s 44100 n 2 l 0:16.480 i 16
+F "Human Grab 1.wav" 2867132 0 1502565866 0
+D s 44100 n 2 l 0:16.253 i 16
+F "Human Grab.wav" 2537852 0 1502565861 0
+D s 44100 n 2 l 0:14.386 i 16
+F "Human Hit 1.wav" 2676620 0 1502566103 0
+D s 44100 n 2 l 0:15.173 i 16
+F "Human Hit 2.wav" 6933740 0 1502565990 0
+D s 44100 n 2 l 0:39.306 i 16
+F "Human Hit.wav" 2624876 0 1502566103 0
+D s 44100 n 2 l 0:14.880 i 16
+F "Human Pat.wav" 2613116 0 1502566056 0
+D s 44100 n 2 l 0:14.813 i 16
+F "Human Rub.wav" 3640940 0 1502566064 0
+D s 44100 n 2 l 0:20.640 i 16
+F "Human Shake.wav" 4085468 0 1502563030 0
+D s 44100 n 2 l 0:23.160 i 16
+F "Human Slap.wav" 5898860 0 1502563068 0
+D s 44100 n 2 l 0:33.440 i 16
+F "Human Snap Sniff.wav" 3617420 0 1502565542 0
+D s 44100 n 2 l 0:20.506 i 16
+F "Human Spit.wav" 5675420 0 1502565542 0
+D s 44100 n 2 l 0:32.173 i 16
+F "Ice Skating Fx 02.wav" 473220 0 1439162097 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:02.681
+D i 16
+F Ice.wav 404864 0 1247751104 0
+D y 2009-07-16 s 44100 n 2 l 0:01.529
+D i 24
+F "Impact - Splash Underwater A.wav" 3231820 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Underwater impact, splash, move."
+D s 96000 n 2 r 1:26.891 l 0:05.609
+D i 24
+F "Impact - Splash Underwater B.wav" 2086420 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Underwater impact, splash, move."
+D s 96000 n 2 r 1:55.929 l 0:03.620
+D i 24
+F "Impact - Splash Underwater C.wav" 3039220 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Underwater impact, splash, move."
+D s 96000 n 2 r 1:43.275 l 0:05.275
+D i 24
+F "Impact Auto Hood.wav" 221144 0 1439161987 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.252
+D i 16
+F "Impact Boom Distorted 02.wav" 3495378 0 1481710495 0
+D y 2011-06-30 d "Impact, Boom, Distorted, Hit, Explosion, Deep, Heavy, Dramatic, Ominous, Foreboding, Eerie, Dark, Echo, SciFi, Horror, Bottle Rocket Fx, BRFX-005" s 96000 n 2
+D r 59:36.986 l 0:06.057 i 24
+F "Impact Bump.wav" 522568 0 1439163557 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.961
+D i 16
+F "Impact Distortion 010.wav" 6278374 0 1481710494 0
+D d "Impact, Distortion, Texture, Mental Strain, Tension, Production Element" s 96000 n 2 l 0:10.898
+D i 24
+F "Impact Drum Hit 03.wav" 3473598 0 1481710542 0
+D y 2011-05-05 d "Impact, Boom, Triple Hit, Deep, Heavy, Dramatic, Ominous, Foreboding, Eerie, Dark, SciFi, Horror, Bottle Rocket Fx, BRFX-005" s 96000 n 2
+D r 2:07:15.557 l 0:06.019 i 24
+F "Impact Fall Roll Foliage 01.wav" 829034 0 1439162814 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.698
+D i 16
+F "Impact Fall Roll Foliage 02.wav" 737150 0 1439161838 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.177
+D i 16
+F "Impact Fall Roll Stairs.wav" 1046014 0 1439163196 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.928
+D i 16
+F "Impact Hit.wav" 183992 0 1439161104 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.042
+D i 16
+F "Impact Knock.wav" 172004 0 1439162967 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.974
+D i 16
+F "Impact Laser Hit.wav" 1340498 0 1439163489 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.598
+D i 16
+F "Impact Metal.wav" 1236800 0 1439161111 0
+D a "Sound Ideas" s 44100 n 2 l 0:07.010
+D i 16
+F "Impact Nail Gun 01 Single Shot Compressed Air And Action.wav" 191262 0 1488537336 0
+D y 2015-11-17 s 48000 n 2 r 34:43.253
+D l 0:00.645 i 24
+F "Impact Plastic And Debris.wav" 736558 0 1439163273 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.174
+D i 16
+F "Impact Rock 01.wav" 754174 0 1439163221 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.274
+D i 16
+F "Impact Slap.wav" 292100 0 1439161729 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.655
+D i 16
+F "Impact Tree Fall.wav" 834390 0 1439161729 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.729
+D i 16
+F "Impact Wood Pile 01.wav" 754174 0 1439163568 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.274
+D i 16
+F "Impact, Glass, Shatter, Small.wav" 7397924 0 1488537255 0
+D y 2016-06-16 d "IMPACT GLASS DEBREE; Mono. Very quiet impacts of some small glass debree." s 192000 n 1
+D r 8:16.646 l 0:12.842 i 24
+F "Impacts 063.wav" 3524448 0 1488536164 0
+D a "Saro Sahihi" y 2017-01-27 g "Whooshes, Impacts" c "SoundBits 2016"
+D d "Hits, Impacts, Metal, Large, Heavy, Cinematic, Trailer" s 96000 n 2 r 6:09.872
+D l 0:05.823 i 24 m 0
+F "Impacts 082.wav" 3199568 0 1488536835 0
+D a "Saro Sahihi" y 2017-01-27 g "Whooshes, Impacts" c "SoundBits 2016"
+D d "Hits, Impacts, Ascend Metal, Glitch, Distort, Heavy, Cinematic, Trailer" s 96000 n 2 r 7:53.653
+D l 0:05.259 i 24 m 0
+F "Impacts And Hits   Sub Zero 02.wav" 2765784 0 1488537419 0
+D c http://lesser-vibes.com d "Powerful freezing impact and creaking ice." s 96000 n 2
+D l 0:03.600 i 32
+F "Impacts Hard   Short Wobbly Tail 01.wav" 362692 0 1488537441 0
+D y 2015-06-22 d "WOOD IMPACTS PLANK HARD; Impact on a wooden plank. Has a short bouncing tail." s 96000 n 2
+D r 0:53.980 l 0:00.628 i 24
+F "Impacts Soft   Short, Crack.wav" 262690 0 1488537225 0
+D y 2015-06-22 d "WOOD IMPACTS PLANK SOFT; Impact that results in wooden cracking." s 96000 n 2
+D r 0:14.799 l 0:00.454 i 24
+F "Impulse 1.wav" 1340560 0 1192132104 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:05.061 i 24
+F "Impulse 2.wav" 446608 0 1192132118 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:01.683 i 24
+F Impulse1.wav 249936 0 1200235170 0
+D s 44100 n 1 l 0:02.832 i 16
+F Impulse1A.wav 361906 0 1202138876 0
+D y 2008-02-04 s 44100 n 1 r 0:00.641
+D l 0:04.095 i 16
+F Impulse2.wav 160228 0 1200235170 0
+D s 44100 n 1 l 0:01.815 i 16
+F Impulse2A.wav 389842 0 1202138876 0
+D y 2008-02-04 s 44100 n 1 r 0:00.882
+D l 0:04.411 i 16
+F Impulse3.wav 359122 0 1202138876 0
+D y 2008-02-04 s 44100 n 1 r 0:01.346
+D l 0:04.063 i 16
+F Impulse4.wav 357074 0 1202138878 0
+D y 2008-02-04 s 44100 n 1 r 0:01.462
+D l 0:04.040 i 16
+F "Insect Crush 1.wav" 2723660 0 1502566157 0
+D s 44100 n 2 l 0:15.440 i 16
+F "Insect Crush.wav" 3669164 0 1502564123 0
+D s 44100 n 2 l 0:20.800 i 16
+F "Iron Bell1.Wav" 720594 0 1202004108 0
+D y 2008-02-02 s 44100 n 1 r 0:15.313
+D l 0:08.161 i 16
+F "Iron Bell2.Wav" 545490 0 1202004108 0
+D y 2008-02-02 s 44100 n 1 r 0:30.603
+D l 0:06.176 i 16
+F "Iron Bell3.Wav" 629458 0 1202004110 0
+D y 2008-02-02 s 44100 n 1 r 0:23.475
+D l 0:07.128 i 16
+F "Iron Bell4 Fast Harmonics.Wav" 1452856 0 1202004110 0
+D y 2008-02-02 s 44100 n 1 r 0:15.000
+D l 0:16.464 i 16
+F "Jack Plug.wav" 84026 0 1248188660 0
+D y 2009-07-21 s 44100 n 2 l 0:00.317
+D i 24
+F "Jar Lid 1.wav" 103236 0 1439162864 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.584
+D i 16
+F "Jar Lid 2.wav" 388432 0 1439162758 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.201
+D i 16
+F "Jar Lip.wav" 90182 0 1248266100 0
+D y 2009-07-22 s 44100 n 2 l 0:00.340
+D i 24
+F Jews-Harp1.Wav 1474262 0 1199484460 0
+D s 44100 n 1 l 0:16.713 i 16
+F Jews-Harp2.Wav 219726 0 1199484462 0
+D s 44100 n 1 l 0:02.489 i 16
+F Jews-Harp3.Wav 206582 0 1199484462 0
+D s 44100 n 1 l 0:02.340 i 16
+F Jews-Harp4.Wav 232940 0 1199484462 0
+D s 44100 n 1 l 0:02.639 i 16
+F "Jug 1.wav" 89472 0 1201973172 0
+D s 44100 n 1 l 0:01.013 i 16
+F "Jug 2.wav" 147472 0 1201973172 0
+D s 44100 n 1 l 0:01.670 i 16
+F Jukebox.wav 1424164 0 1439162004 0
+D a "Sound Ideas" s 44100 n 2 l 0:08.072
+D i 16
+F "Key Drop2.wav" 25644 0 1488630160 0
+D s 22050 n 1 l 0:00.580 i 16
+F "Key On Metal 1.wav" 100692 0 1200106112 0
+D s 44100 n 1 l 0:01.140 i 16
+F "Key On Metal 2.wav" 79044 0 1200106112 0
+D s 44100 n 1 l 0:00.894 i 16
+F "Keyring 1.Wav" 261924 0 1200106114 0
+D s 44100 n 1 l 0:02.968 i 16
+F "Keyring 2.Wav" 281720 0 1200106114 0
+D s 44100 n 1 l 0:03.192 i 16
+F Keys.wav 768122 0 1248261408 0
+D y 2009-07-22 s 44100 n 2 l 0:02.902
+D i 24
+F "Kick Body 1.wav" 3099980 0 1502566083 0
+D s 44100 n 2 l 0:17.573 i 16
+F "Kick Body.wav" 2761292 0 1502566083 0
+D s 44100 n 2 l 0:15.653 i 16
+F Kick1.wav 207550 0 1200235172 0
+D s 44100 n 1 l 0:02.351 i 16
+F Kick2.wav 171774 0 1200235172 0
+D s 44100 n 1 l 0:01.946 i 16
+F "Kicking Dumpster Huge1.wav" 282322 0 1202004112 0
+D y 2008-02-02 s 44100 n 1 r 0:15.000
+D l 0:03.192 i 16
+F "Kicking Dumpster Huge2.wav" 232858 0 1202004112 0
+D y 2008-02-02 s 44100 n 1 r 0:22.325
+D l 0:02.631 i 16
+F Kitchen01.wav 2574458 0 1248266172 0
+D y 2009-07-22 s 44100 n 2 l 0:09.729
+D i 24
+F Kitchen02.wav 5320826 0 1248266412 0
+D y 2009-07-22 s 44100 n 2 l 0:20.108
+D i 24
+F "Knife Scrape.wav" 5524892 0 1502565772 0
+D s 44100 n 2 l 0:31.320 i 16
+F "Knife Slice.wav" 2935340 0 1502564042 0
+D s 44100 n 2 l 0:16.640 i 16
+F "Knife Throw.wav" 294744 0 1439161606 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.670
+D i 16
+F Knives1.wav 498792 0 1202672152 0
+D y 2007-03-20 s 44100 n 1 r 0:02.823
+D l 0:05.647 i 16
+F Knives3.wav 498792 0 1202672152 0
+D y 2007-03-20 s 44100 n 1 r 1:16.941
+D l 0:05.647 i 16
+F "Ladder 1.wav" 10339436 0 1502565549 0
+D s 44100 n 2 l 0:58.613 i 16
+F "Ladder 2.wav" 13145372 0 1502565954 0
+D s 44100 n 2 l 1:14.520 i 16
+F Ladder.wav 7601708 0 1502565549 0
+D s 44100 n 2 l 0:43.093 i 16
+F "Latch 1.wav" 45584 0 1439162491 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.257
+D i 16
+F "Latch 2.wav" 81912 0 1439162001 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.463
+D i 16
+F "Latch 3.wav" 452964 0 1439161545 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.566
+D i 16
+F "Latch 4.wav" 577092 0 1439161085 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.270
+D i 16
+F "Latch Metal.wav" 6336332 0 1502565732 0
+D s 44100 n 2 l 0:35.920 i 16
+F "Lath 1.wav" 99164 0 1201973772 0
+D s 44100 n 1 l 0:01.123 i 16
+F "Lath 2.wav" 160148 0 1201973772 0
+D s 44100 n 1 l 0:01.814 i 16
+F Leafcrunch.wav 936044 0 1395177060 0
+D s 48000 n 2 l 0:03.250 i 24
+F Leaves.wav 6973724 0 1502565926 0
+D s 44100 n 2 l 0:39.533 i 16
+F "Lever Metal.wav" 3535100 0 1502565926 0
+D s 44100 n 2 l 0:20.040 i 16
+F "Lid Close.wav" 118564 0 1439161077 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.671
+D i 16
+F "Lid hit1.wav" 96428 0 1199110286 0
+D s 44100 n 1 l 0:01.092 i 16
+F "Lid hit2.wav" 90458 0 1199110286 0
+D s 44100 n 1 l 0:01.024 i 16
+F Lid-Noise1.wav 69662 0 1199110284 0
+D s 44100 n 1 l 0:00.788 i 16
+F Lid-Noise2.wav 230176 0 1199110286 0
+D s 44100 n 1 l 0:02.608 i 16
+F Lid-Noise3.wav 217172 0 1199110286 0
+D s 44100 n 1 l 0:02.460 i 16
+F "Lighter 1.wav" 542372 0 1439160951 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.073
+D i 16
+F "Lighter 2.wav" 448580 0 1439163037 0
+D a "Sound Ideas" s 44100 n 2 l 0:02.542
+D i 16
+F "Lighter 3.wav" 84104 0 1439162439 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.475
+D i 16
+F "Lighter 4.wav" 156928 0 1439161912 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.888
+D i 16
+F "Lighter 5.wav" 126764 0 1439161330 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.717
+D i 16
+F "Lighter Click Fx.aiff" 19126 0 1505995984 0
+D a PowerFX.com d SL03992 s 44100 n 2
+D l 0:00.047 i 16
+F "Lighter Fx 01.aiff" 709942 0 1505995984 0
+D a PowerFX.com p 121.2427 s 44100 n 2
+D l 0:03.959 i 16
+F "Lighter Fx 03.aiff" 991474 0 1505995984 0
+D a PowerFX.com p 86.4088 s 44100 n 2
+D l 0:05.554 i 16
+F Lighter.wav 440960 0 1247742310 0
+D y 2009-07-16 s 44100 n 2 l 0:01.666
+D i 24
+F "Lighterflick S08Fi.49.wav" 423074 0 1372263272 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"FIRE, LIGHTER, FLICK, START, FLINT, FOLEY"'
+D d '"FIRE, LIGHTER, FLICK, START, FLINT, FOLEY"' s 96000 n 2 l 0:00.715
+D i 24
+F "Liquid Hit.wav" 7394732 0 1502566059 0
+D s 44100 n 2 l 0:41.920 i 16
+F "Loading Dishwasher.wav" 1437818 0 1248266328 0
+D y 2009-07-22 s 44100 n 2 l 0:05.433
+D i 24
+F "Lock 1.wav" 95948 0 1439160976 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.543
+D i 16
+F "Lock 2.wav" 114952 0 1439163085 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.650
+D i 16
+F "Lock 3.wav" 594740 0 1439163530 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.370
+D i 16
+F "Lock 4.wav" 311568 0 1439162846 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.765
+D i 16
+F "Lock Car.wav" 1204364 0 1248522998 0
+D y 2009-07-25 s 44100 n 2 l 0:04.551
+D i 24
+F "Locker 1.wav" 232104 0 1200106120 0
+D s 44100 n 1 l 0:02.630 i 16
+F "Locker 2.wav" 105556 0 1200106120 0
+D s 44100 n 1 l 0:01.195 i 16
+F "Locker Hit 1.wav" 320440 0 1201974258 0
+D s 44100 n 1 l 0:03.631 i 16
+F "Locker Hit 2.wav" 530738 0 1201974260 0
+D s 44100 n 1 l 0:06.016 i 16
+F Locker2.wav 240630 0 1200610582 0
+D s 44100 n 1 l 0:02.726 i 16
+F Longmetal.wav 1080044 0 1395176852 0
+D s 48000 n 2 l 0:03.750 i 24
+F "Loose Nut Hit Fx.wav" 124380 0 1439161129 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.704
+D i 16
+F "Low Frequency Hit Fx.wav" 191432 0 1439162700 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:01.084
+D i 16
+F "Low Metalichit2.wav" 135170 0 1199110290 0
+D s 44100 n 1 l 0:01.531 i 16
+F "Machine Hit Fx.wav" 122784 0 1439161121 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.695
+D i 16
+F "Manipulate - Distant.wav" 4059416 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Operating buttons,controls, tools, levers, lock / unlock mechanism, manipulate stuff."
+D s 96000 n 2 r 3:10.250 l 0:07.046
+D i 24
+F "Manipulate - Gear A.wav" 12372860 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Operating buttons,controls, tools, levers, lock / unlock mechanism, manipulate stuff."
+D s 96000 n 2 r 1:37:06.111 l 0:21.479
+D i 24
+F "Manipulate - Gear B.wav" 1419206 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Operating buttons,controls, tools, levers, lock / unlock mechanism, manipulate stuff."
+D s 48000 n 2 r 1:21.040 l 0:04.925
+D i 24
+F "Manipulate - Handle A.wav" 1827110 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Operating buttons,controls, tools, levers, lock / unlock mechanism, manipulate stuff."
+D s 96000 n 2 r 2:44.949 l 0:03.170
+D i 24
+F "Manipulate - Handle B.wav" 1733384 0 1522131515 0
+D t "Space Divers Mini for 99 Sounds" a "Lukas Tvrdon" y 2018-02-22 d "Operating buttons,controls, tools, levers, lock / unlock mechanism, manipulate stuff."
+D s 96000 n 2 r 2:48.885 l 0:03.007
+D i 24
+F "Marmite Jar Lid.wav" 430208 0 1247737170 0
+D y 2009-07-16 s 44100 n 2 l 0:01.625
+D i 24
+F "Masking Tape 01.wav" 113856 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.283
+D i 16
+F "Masking Tape 02.wav" 77078 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.866
+D i 16
+F "Masking Tape 03.wav" 106016 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.194
+D i 16
+F "Masking Tape 04.wav" 37178 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.414
+D i 16
+F "Masking Tape On Fingers 01.wav" 95880 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.079
+D i 16
+F "Masking Tape On Fingers 02.wav" 126670 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.429
+D i 16
+F "Massey Foley Door Closing Int.wav" 1480132 0 1488536650 0
+D a Soundreorganized b "Massey-Ferguson 3060E, Sound Effects Library" y 2016 g "Sound Clip"
+D c www.soundreorganized.com d "96kHz, 24-Bit, Massey-Ferguson_3060E_SoundEffectsLibrary,Soundreorganized 2016" s 96000 n 2
+D l 0:02.565 i 24
+F Match.wav 1675212 0 1439162459 0
+D a "Sound Ideas" s 44100 n 2 l 0:09.495
+D i 16
+F "Maybe A frying pan 1.Wav" 244368 0 1199110294 0
+D s 44100 n 1 l 0:02.769 i 16
+F "Maybe A frying pan 2.Wav" 206488 0 1199110294 0
+D s 44100 n 1 l 0:02.339 i 16
+F "Mechanical Clonk 1.wav" 229448 0 1488630157 0
+D s 48000 n 2 l 0:01.194 i 16
+F "Mercedes Benz Dropped 1M On Concrete Ls-5 2.wav" 3625460 0 1488536242 0
+D t car_drop_mercedes_benz_1m_on_concrete_002 a "Pole Position Production www.pole.se" y 2017-02-25 g Cars
+D c "mercedes benz dropped on concrete ls-5 wav chassi crash metal impact debris car vehicle" d "mercedes benz dropped on concrete ls-5 wav chassi crash metal impact debris car vehicle" s 96000 n 2
+D l 0:05.984 i 24 m 0
+F "Messy cabbage.wav" 571532 0 1202409310 0
+D s 44100 n 1 l 0:06.478 i 16
+F "Mic insert rolling.wav" 526814 0 1202409310 0
+D s 44100 n 1 l 0:05.971 i 16
+F "Misc Hit 1.wav" 191252 0 1201972890 0
+D s 44100 n 1 l 0:02.167 i 16
+F "Misc Hit 2.wav" 359260 0 1201972890 0
+D s 44100 n 1 l 0:04.071 i 16
+F "Misc Hit 3.wav" 100210 0 1201972890 0
+D s 44100 n 1 l 0:01.134 i 16
+F "Misc Perc 1.wav" 140074 0 1201972794 0
+D s 44100 n 1 l 0:01.586 i 16
+F "Misc Perc 2.wav" 237372 0 1201972794 0
+D s 44100 n 1 l 0:02.690 i 16
+F "Mo Packaging.wav" 1520768 0 1247734550 0
+D y 2009-07-16 s 44100 n 2 l 0:05.746
+D i 24
+F "Mouth Click.wav" 15512 0 1247751642 0
+D y 2009-07-16 s 44100 n 2 l 0:00.058
+D i 24
+F "Move Small Plastic Garbage Can 01.wav" 54542 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.611
+D i 16
+F "MOVES Chain Big Fast STOP 01.wav" 1625394 0 1544622770 0
+D a "Michel Marchant" y 2018-08-24 g Foley c "Foley, Big heavy metal chain, stops with rattle Fast 01"
+D d "Foley, Big heavy metal chain, stops with rattle Fast 01" s 192000 n 2 r 5:46:57.248
+D l 0:01.102 i 24 m 0
+F "MOVES Chain Big Fast STOP 02.wav" 2612946 0 1544622770 0
+D a "Michel Marchant" y 2018-08-24 g Foley c "Foley, Big heavy metal chain, stops with rattle Fast 02"
+D d "Foley, Big heavy metal chain, stops with rattle Fast 02" s 192000 n 2 r 5:46:59.351
+D l 0:01.959 i 24 m 0
+F "Mugpop 1.wav" 62584 0 1390589916 0
+D s 44100 n 2 l 0:00.354 i 16
+F "Mugpop 2.wav" 52964 0 1390589922 0
+D s 44100 n 2 l 0:00.300 i 16
+F "Multi Plier Close 1.wav" 327752 0 1488630157 0
+D s 48000 n 2 l 0:01.706 i 16
+F "Multi Plier Open 1.wav" 327752 0 1488630172 0
+D s 48000 n 2 l 0:01.706 i 16
+F "Nail, Pry Pry Nail Out Of Wood, Loud Screech.wav" 6369260 0 1502565921 0
+D s 44100 n 2 l 0:36.106 i 16
+F "Nail, Pry Single Pry Of Nail Out Of Hard Wood, Loud Squeak.wav" 5045084 0 1502564096 0
+D s 44100 n 2 l 0:28.600 i 16
+F Naturalreverbhit.wav 242662 0 1199739248 0
+D s 44100 n 1 l 0:02.750 i 16
+F "Needle Drop 1.wav" 1388616 0 1488630180 0
+D s 48000 n 2 l 0:07.232 i 16
+F "Needle Drop 2.wav" 845692 0 1488630180 0
+D s 48000 n 2 l 0:04.404 i 16
+F "Needle Drop 3.wav" 868424 0 1488630149 0
+D s 48000 n 2 l 0:04.522 i 16
+F "Needle Drop 4.wav" 1175624 0 1488630164 0
+D s 48000 n 2 l 0:06.122 i 16
+F "Needle Drop 5.wav" 114760 0 1488630163 0
+D s 48000 n 2 l 0:00.597 i 16
+F "Needle Drop 6.wav" 1627300 0 1488630168 0
+D s 48000 n 2 l 0:08.475 i 16
+F "Needle Drop 7.wav" 1005880 0 1488630168 0
+D s 48000 n 2 l 0:05.238 i 16
+F "Needle Drop 8.wav" 1492768 0 1488630168 0
+D s 48000 n 2 l 0:07.774 i 16
+F "Ninjastarthrow S08Wa.1399.wav" 1022962 0 1372263274 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"WARFARE, NINJA, STAR, THROWING, STAR, MARTIAL, ARTS, IMPACT, WOOD"'
+D d '"WARFARE, NINJA, STAR, THROWING, STAR, MARTIAL, ARTS, IMPACT, WOOD"' s 96000 n 2 l 0:01.751
+D i 24
+F "Office Chair Creak 70.wav" 6883066 0 1488537019 0
+D y 2016-03-16 d "Creak, Squeak, Old Office Chair, Creaking, Moaning" s 192000 n 2
+D r 1:46.236 l 0:05.973 i 24
+F Ooops.wav 140468 0 1247670744 0
+D s 44100 n 1 l 0:01.061 i 24
+F "Open Medicine Cabinet Door 01.wav" 57950 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.649
+D i 16
+F "Open Paint Tin.wav" 135092 0 1248194600 0
+D y 2009-07-21 s 44100 n 2 l 0:00.510
+D i 24
+F "Opening Box01.wav" 752000 0 1247741298 0
+D y 2009-07-16 s 44100 n 2 l 0:02.841
+D i 24
+F "Opening Box02.wav" 586886 0 1248188880 0
+D y 2009-07-21 s 44100 n 2 l 0:02.217
+D i 24
+F "Opening Box03.wav" 1265804 0 1248188940 0
+D y 2009-07-21 s 44100 n 2 l 0:04.783
+D i 24
+F "Oven Door 1.wav" 659288 0 1439162499 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.736
+D i 16
+F "Oven Door 2.wav" 603716 0 1439163463 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.421
+D i 16
+F "Packing Boxes.wav" 749826 0 1439162092 0
+D a "Apple Inc." s 44100 n 2 l 0:04.250
+D i 16
+F "Pan Hit 1.wav" 300554 0 1200106132 0
+D s 44100 n 1 l 0:03.406 i 16
+F "Pan Hit 2.wav" 176264 0 1200106134 0
+D s 44100 n 1 l 0:01.997 i 16
+F "Pan Pot Lid1.wav" 434110 0 1201632592 0
+D s 44100 n 1 l 0:04.920 i 16
+F "Pan Pot Lid2.wav" 802296 0 1201632592 0
+D s 44100 n 1 l 0:09.095 i 16
+F "Pan Pot Lid3.wav" 655796 0 1201632594 0
+D s 44100 n 1 l 0:07.434 i 16
+F "Pan Pot Lid4.wav" 674372 0 1201632594 0
+D s 44100 n 1 l 0:07.644 i 16
+F "Pan Pot1.wav" 795212 0 1201632590 0
+D s 44100 n 1 l 0:09.014 i 16
+F "Pan Pot2.wav" 514996 0 1201632590 0
+D s 44100 n 1 l 0:05.837 i 16
+F "Pan Pot3.wav" 490990 0 1201632592 0
+D s 44100 n 1 l 0:05.565 i 16
+F "Pan Pot4.wav" 608606 0 1201632592 0
+D s 44100 n 1 l 0:06.899 i 16
+F "Paper Bag.wav" 129736 0 1201632594 0
+D s 44100 n 1 l 0:01.469 i 16
+F "Pen Cap Closed 01.wav" 32094 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.356
+D i 16
+F "Pen Cap Closed 02.wav" 15432 0 986672970 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.167
+D i 16
+F "Pen Pick Up Pen From Table.wav" 7298300 0 1502566044 0
+D s 44100 n 2 l 0:41.373 i 16
+F "Pen Pull Off Pen Cap, Set Down.wav" 8702444 0 1502565504 0
+D s 44100 n 2 l 0:49.333 i 16
+F Pen01.wav 78464 0 1247731900 0
+D y 2009-07-16 s 44100 n 2 l 0:00.296
+D i 24
+F "Pencil & Cheek.wav" 725132 0 1248169912 0
+D y 2009-07-21 s 44100 n 2 l 0:02.740
+D i 24
+F "Pencil & Teeth01.wav" 281222 0 1248169800 0
+D y 2009-07-21 s 44100 n 2 l 0:01.062
+D i 24
+F "Pencil & Teeth02.wav" 123398 0 1248169866 0
+D y 2009-07-21 s 44100 n 2 l 0:00.465
+D i 24
+F "Pencil Tick 2.wav" 29056 0 1200106138 0
+D s 44100 n 1 l 0:00.328 i 16
+F "Pencil Toss Pen Or Pencil Into Holder.wav" 6773804 0 1502565984 0
+D s 44100 n 2 l 0:38.400 i 16
+F "Peugeot 106 Dropped 10M On Metal Plates Zaxcom 191 1 S.wav" 3083464 0 1488537121 0
+D a "Pole Position Production www.pole.se" y 2017-02-25 g Cars c "peugeot 106 dropped on metal plates zaxcom neumann rsm191 wav chassi crash metal impact debris car vehicle"
+D d "peugeot 106 dropped on metal plates zaxcom neumann rsm191 wav chassi crash metal impact debris car vehicle" s 96000 n 1 l 0:10.085
+D i 24 m 0
+F "Peugeot 106 Dropped 5M On Metal Plates Zaxcom Holophone 1.wav" 5404406 0 1488537449 0
+D t car_drop_peugeot_106_5m_on_metal_plates_001 a "Pole Position Production www.pole.se" y 2017-02-25 g Cars
+D c "peugeot 106 dropped on metal plates zaxcom holophone wav chassi crash metal impact debris car vehicle" d "peugeot 106 dropped on metal plates zaxcom holophone wav chassi crash metal impact debris car vehicle" s 96000 n 2
+D l 0:09.072 i 24 m 0
+F "Phasingmetal 1.wav" 324044 0 1395176790 0
+D s 48000 n 2 l 0:01.125 i 24
+F "Phasingmetal 2.wav" 576044 0 1395176794 0
+D s 48000 n 2 l 0:02.000 i 24
+F "Phone Hang Up 1.wav" 147528 0 1488630161 0
+D s 48000 n 2 l 0:00.768 i 16
+F "Phone Hang Up 2A.wav" 307272 0 1488630161 0
+D s 48000 n 2 l 0:01.600 i 16
+F "Phone Hang Up 2B.wav" 213064 0 1488630147 0
+D s 48000 n 2 l 0:01.109 i 16
+F "Phone Hang Up 3 (1).wav" 114760 0 1488630147 0
+D s 48000 n 2 l 0:00.597 i 16
+F "Phone Hang Up 3.wav" 114760 0 1488630147 0
+D s 48000 n 2 l 0:00.597 i 16
+F "Phone Pick Up 1.wav" 176200 0 1488630179 0
+D s 48000 n 2 l 0:00.917 i 16
+F "Phone Pick Up 2.wav" 192584 0 1488630179 0
+D s 48000 n 2 l 0:01.002 i 16
+F "Phone Receiver Button 1.wav" 121768 0 1488630179 0
+D s 48000 n 2 l 0:00.633 i 16
+F "Piano Strings Transition 1.wav" 2981678 0 1439163660 0
+D a "Sound Ideas" s 44100 n 2 l 0:16.902
+D i 16
+F "Piano Strings Transition 2.wav" 2916486 0 1439163135 0
+D a "Sound Ideas" s 44100 n 2 l 0:16.532
+D i 16
+F Piggybank01.wav 530048 0 1247740760 0
+D y 2009-07-16 s 44100 n 2 l 0:02.002
+D i 24
+F Piggybank02.wav 574592 0 1247740986 0
+D y 2009-07-16 s 44100 n 2 l 0:02.171
+D i 24
+F "Pill Bottle 1.wav" 258120 0 1488630179 0
+D s 48000 n 2 l 0:01.344 i 16
+F "Pill Bottle 2.wav" 196680 0 1488630156 0
+D s 48000 n 2 l 0:01.024 i 16
+F "Pill Bottle To Table 1.wav" 172104 0 1488630156 0
+D s 48000 n 2 l 0:00.896 i 16
+F "Ping 1.Wav" 385188 0 1201973182 0
+D s 44100 n 1 l 0:04.365 i 16
+F "Ping 2.Wav" 211112 0 1201973182 0
+D s 44100 n 1 l 0:02.392 i 16
+F "Ping Pong Table Tennis Ball Bounce On Table And Come To Rest.wav" 5409644 0 1502565711 0
+D s 44100 n 2 l 0:30.666 i 16
+F Ping1.wav 140206 0 1201632594 0
+D s 44100 n 1 l 0:01.588 i 16
+F Ping2.wav 177444 0 1201632594 0
+D s 44100 n 1 l 0:02.010 i 16
+F Ping3.wav 182730 0 1201632596 0
+D s 44100 n 1 l 0:02.070 i 16
+F "Pipe Hit 1.wav" 356296 0 1201974264 0
+D s 44100 n 1 l 0:04.038 i 16
+F "Pipe Thump1.Wav" 35730 0 1202133366 0
+D y 2008-02-04 s 44100 n 1 r 0:00.382
+D l 0:00.396 i 16
+F "Pipe Thump2.Wav" 44498 0 1202133366 0
+D y 2008-02-04 s 44100 n 1 r 0:08.364
+D l 0:00.496 i 16
+F "Pipe Thump3.Wav" 87634 0 1202133368 0
+D y 2008-02-03 s 44100 n 1 r 0:06.688
+D l 0:00.985 i 16
+F "Pitched Metalichit1.wav" 123366 0 1199110316 0
+D s 44100 n 1 l 0:01.397 i 16
+F "Plates Put Away 01.wav" 149244 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.684
+D i 16
+F "Plates Put Away 02.wav" 48474 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.542
+D i 16
+F "Plates Removing 01.wav" 70356 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.790
+D i 16
+F "Plates Removing 02.wav" 53474 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.599
+D i 16
+F "Plates Stacking.wav" 69886 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.785
+D i 16
+F "Plates Staightening Up.wav" 87144 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.980
+D i 16
+F Pling1.Wav 1025234 0 1199739248 0
+D s 44100 n 1 l 0:11.622 i 16
+F Pling2.Wav 1087372 0 1199739250 0
+D s 44100 n 1 l 0:12.327 i 16
+F Pling3.Wav 1548382 0 1199739250 0
+D s 44100 n 1 l 0:17.554 i 16
+F "Pluck 1.wav" 118210 0 1201635598 0
+D s 44100 n 1 l 0:01.338 i 16
+F "Pluck 1C.wav" 113376 0 1201974392 0
+D s 44100 n 1 l 0:01.284 i 16
+F "Pluck 2.wav" 83828 0 1201635598 0
+D s 44100 n 1 l 0:00.949 i 16
+F "Plucked Reed 1.Wav" 258594 0 1201972946 0
+D s 44100 n 1 l 0:02.930 i 16
+F "Plucked Reed 2.Wav" 234516 0 1201972946 0
+D s 44100 n 1 l 0:02.657 i 16
+F "Plugging In.wav" 344192 0 1247736122 0
+D y 2009-07-16 s 44100 n 2 l 0:01.300
+D i 24
+F "Pot Lid 01.wav" 102662 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.156
+D i 16
+F "Pot Lid 02.wav" 108324 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.220
+D i 16
+F "Pot Lid 03.wav" 61930 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.694
+D i 16
+F "Pot Lid 04.wav" 79720 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.896
+D i 16
+F "Pots Bang 01.wav" 108956 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.228
+D i 16
+F "Pots Pull Out 01.wav" 74314 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:00.835
+D i 16
+F "Pots Pull Out 02.wav" 108170 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.219
+D i 16
+F "Pots Pull Out 03.wav" 122532 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.382
+D i 16
+F "Pots Put Away 01.wav" 223666 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:02.528
+D i 16
+F "Pots Put Away 02.wav" 91298 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.027
+D i 16
+F "Pots Put Away 03.wav" 156044 0 986672968 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:01.762
+D i 16
+F Pots_and_Pans_Dropping_to_Concrete_Rummaging_OCP-1210-033-02.wav 16963276 0 1566570836 0
+D t Pots_and_Pans_Dropping_to_Concrete_Rummaging_OCP-1210-033-02 a "Mark Mangini, Richard L Anderson" b "Foley Essentials" y 2019-02-15
+D g "Foley - Props" c "Pots and Pans, Dropping to Concrete, Rummaging, Movements, Various Versions" d "Pots and Pans, Dropping to Concrete, Rummaging, Movements, Various Versions" s 48000
+D n 2 r 0:50.941 l 0:57.397 i 24
+D m 0
+F "prayer bowl Bb.wav" 4089968 0 1202341925 0
+D s 44100 n 1 l 0:46.370 i 16
+F "prayer bowl Db.wav" 5854330 0 1202341926 0
+D s 44100 n 1 l 1:06.374 i 16
+F "prayer bowl G.wav" 5494896 0 1202341928 0
+D s 44100 n 1 l 1:02.299 i 16
+F "Prayer bowl.wav" 1695746 0 1202409311 0
+D s 44100 n 1 l 0:19.224 i 16
+F "Pvc 1.Wav" 107036 0 1201973778 0
+D s 44100 n 1 l 0:01.212 i 16
+F "Pvc 2.Wav" 58210 0 1201973778 0
+D s 44100 n 1 l 0:00.658 i 16
+F "Rail Hit 1.wav" 190952 0 1200106150 0
+D s 44100 n 1 l 0:02.163 i 16
+F "Rail Hit 2.wav" 335034 0 1200106150 0
+D s 44100 n 1 l 0:03.797 i 16
+F "Rail Hit 3.wav" 318816 0 1200106150 0
+D s 44100 n 1 l 0:03.613 i 16
+F "RainStick fast shake.wav" 262040 0 1202423198 0
+D s 44100 n 1 l 0:02.969 i 16
+F "Rainstick longer slower.wav" 2641108 0 1202423198 0
+D s 44100 n 1 l 0:29.943 i 16
+F "RainStick slow longer1.wav" 1597750 0 1202423199 0
+D s 44100 n 1 l 0:18.113 i 16
+F "RainStick slow short 1.wav" 497382 0 1202423199 0
+D s 44100 n 1 l 0:05.637 i 16
+F "RainStick slow short 2.wav" 505650 0 1202423199 0
+D s 44100 n 1 l 0:05.731 i 16
+F Rainstick1.Wav 611876 0 1199484474 0
+D s 44100 n 1 l 0:06.936 i 16
+F Rainstick2.Wav 1561162 0 1199484476 0
+D s 44100 n 1 l 0:17.698 i 16
+F Rainstick2D.Wav 1666188 0 1200610594 0
+D s 44100 n 1 l 0:18.889 i 16
+F "Ratchet Fx.wav" 52288 0 1439161100 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.295
+D i 16
+F "Rattle Cargo Shake, Creak And Rattle.wav" 30425516 0 1502566074 0
+D s 44100 n 2 l 2:52.480 i 16
+F "Rattle Metal And Wood  Various Creaks And Squeaky Rattles.wav" 8815340 0 1502565632 0
+D s 44100 n 2 l 0:49.973 i 16
+F "Rattle Metal And Wood  Various Hard Shakes And Rattles.wav" 11016812 0 1502566082 0
+D s 44100 n 2 l 1:02.453 i 16
+F "Rattle Metal And Wood Shakes And Rattles.wav" 13879196 0 1502563676 0
+D s 44100 n 2 l 1:18.680 i 16
+F "Rattle Metal Spoke Rattle With Wooden Stick.wav" 12044636 0 1502566214 0
+D s 44100 n 2 l 1:08.280 i 16
+F "Rattle Shake And Rattle 1.wav" 10127756 0 1502565479 0
+D s 44100 n 2 l 0:57.413 i 16
+F "Rattle Shake And Rattle.wav" 8102684 0 1502565527 0
+D s 44100 n 2 l 0:45.933 i 16
+F "Rattle Short Cargo Shake And Rattle.wav" 4920428 0 1502564079 0
+D s 44100 n 2 l 0:27.893 i 16
+F "Rattle Short Wood And Metal Shake.wav" 2918876 0 1502564107 0
+D s 44100 n 2 l 0:16.546 i 16
+F "Rattle Short, Hard Rattle.wav" 6571532 0 1502565590 0
+D s 44100 n 2 l 0:37.253 i 16
+F "Rattle Short, Hard Shake.wav" 4466492 0 1502564106 0
+D s 44100 n 2 l 0:25.320 i 16
+F "Rattle Short, Rattly Roll.wav" 5369660 0 1502565491 0
+D s 44100 n 2 l 0:30.440 i 16
+F "Rattle Very Low Metal Bar Hitting Rattles.wav" 19187660 0 1502565809 0
+D s 44100 n 2 l 1:48.773 i 16
+F "Recorder Harmonics1.Wav" 511758 0 1199110322 0
+D s 44100 n 1 l 0:05.800 i 16
+F "Recorder Harmonics2.Wav" 435052 0 1199110324 0
+D s 44100 n 1 l 0:04.931 i 16
+F "Recorder Harmonics3.Wav" 414748 0 1199110324 0
+D s 44100 n 1 l 0:04.701 i 16
+F "Red Bul 2.wav" 230458 0 1201635602 0
+D s 44100 n 1 l 0:02.611 i 16
+F "Red Bull 1.wav" 153496 0 1201635602 0
+D s 44100 n 1 l 0:01.739 i 16
+F "Reverb Bang 1.wav" 110894 0 1200106154 0
+D s 44100 n 1 l 0:01.256 i 16
+F "Reverb Double Bass1.wav" 252242 0 1202133384 0
+D y 2008-02-03 s 44100 n 1 r 0:00.143
+D l 0:02.851 i 16
+F "Reverb Double Bass2.wav" 263858 0 1202133384 0
+D y 2008-02-03 s 44100 n 1 r 0:03.077
+D l 0:02.983 i 16
+F "Rip Cloth, Various Tears And Rips.wav" 4400636 0 1502565815 0
+D s 44100 n 2 l 0:24.946 i 16
+F "Rock, Hard Rock Hit With Debris.wav" 5209724 0 1502566070 0
+D s 44100 n 2 l 0:29.533 i 16
+F "Rock, Heavy Debris Movement.wav" 7947452 0 1502565895 0
+D s 44100 n 2 l 0:45.053 i 16
+F "Rock, Short Rock Slide Debris Scrape.wav" 10586396 0 1502566070 0
+D s 44100 n 2 l 1:00.013 i 16
+F "Rock, Small Rock Hit With Debris.wav" 8065052 0 1502564099 0
+D s 44100 n 2 l 0:45.720 i 16
+F "Rock,Rock Slide Fall.wav" 2777756 0 1502565894 0
+D s 44100 n 2 l 0:15.746 i 16
+F "Rockmovement Seu04.7.wav" 1269070 0 1372263284 0
+D y 2011-01-10 d "FOLEY, ROCK, MOVEMENT, SCRAPE, SLIDE" s 96000 n 2
+D l 0:01.743 i 24
+F "Rope Foley.wav" 4384172 0 1502564982 0
+D s 44100 n 2 l 0:24.853 i 16
+F "Rub Pull 1.wav" 331848 0 1488630165 0
+D s 48000 n 2 l 0:01.728 i 16
+F "Rubber Band1.Wav" 159388 0 1200235202 0
+D s 44100 n 1 l 0:01.805 i 16
+F "Rubbing 1.wav" 303176 0 1488630165 0
+D s 48000 n 2 l 0:01.578 i 16
+F "Rubbing 2.wav" 3371080 0 1488630168 0
+D s 48000 n 2 l 0:17.557 i 16
+F "Rubbing 3.wav" 5828680 0 1488630178 0
+D s 48000 n 2 l 0:30.357 i 16
+F "Rubbish Bag.wav" 451706 0 1248348312 0
+D y 2009-07-23 s 44100 n 2 l 0:01.706
+D i 24
+F Rumblingmetal.wav 936044 0 1395177070 0
+D s 48000 n 2 l 0:03.250 i 24
+F "Sack Of Stuff.wav" 909446 0 1248211894 0
+D y 2009-07-21 s 44100 n 2 l 0:03.436
+D i 24
+F "Safe, Vault, Small Wall Safe Foley.wav" 5021564 0 1502564983 0
+D s 44100 n 2 l 0:28.466 i 16
+F "Sand, Scoop Shake Foley.wav" 8620124 0 1502566158 0
+D s 44100 n 2 l 0:48.866 i 16
+F "Sanding Fx.aiff" 102942 0 1505997471 0
+D a PowerFX.com d SL04014 p 115.0185 s 44100
+D n 2 l 0:00.521 i 16
+F "Sanding Fx.wav" 92168 0 1439162841 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:00.521
+D i 16
+F "Scrape, Gritty Metallic.wav" 4360652 0 1502566096 0
+D s 44100 n 2 l 0:24.720 i 16
+F "Scrape, Quick Body Slide Land On Feet Drag Body On Wood Floor.wav" 4927484 0 1502565487 0
+D s 44100 n 2 l 0:27.933 i 16
+F "Scrape, Short Screechy.wav" 2018060 0 1502566095 0
+D s 44100 n 2 l 0:11.440 i 16
+F "Scrape, Slide Heavy Trunk Or Table On Floor.wav" 4802828 0 1502565488 0
+D s 44100 n 2 l 0:27.226 i 16
+F "Scraping Ice 1.wav" 1198072 0 1488630181 0
+D s 48000 n 2 l 0:06.239 i 16
+F Scratch.wav 689060 0 1439161692 0
+D a "Sound Ideas" s 44100 n 2 l 0:03.905
+D i 16
+F "Screw 2.Wav" 25968 0 1201635614 0
+D s 44100 n 1 l 0:00.293 i 16
+F "Searching  Boxes.wav" 1831034 0 1248000160 0
+D y 2009-07-19 s 44100 n 2 l 0:06.919
+D i 24
+F "Searching For Something.wav" 1400972 0 1248173220 0
+D y 2009-07-21 s 44100 n 2 l 0:05.294
+D i 24
+F "Short Metal Hit1.wav" 71954 0 1202133394 0
+D y 2008-02-04 s 44100 n 1 r 0:05.087
+D l 0:00.807 i 16
+F "Short Metal Hit2.wav" 48032 0 1202133394 0
+D y 2008-02-04 s 44100 n 1 r 0:00.461
+D l 0:00.536 i 16
+F "Short Metal Hit3.wav" 73040 0 1202133394 0
+D y 2008-02-04 s 44100 n 1 r 0:06.257
+D l 0:00.819 i 16
+F Shortscrape1.wav 53340 0 1199110334 0
+D s 44100 n 1 l 0:00.603 i 16
+F Shortscrape2.wav 51210 0 1199110334 0
+D s 44100 n 1 l 0:00.579 i 16
+F "Shovel Into Snow 1.wav" 153828 0 1488630169 0
+D s 48000 n 2 l 0:00.800 i 16
+F "Shovel, Metal Shovel Foley 1.wav" 3024716 0 1502565884 0
+D s 44100 n 2 l 0:17.146 i 16
+F "Shovel, Metal Shovel Foley.wav" 13018364 0 1502566330 0
+D s 44100 n 2 l 1:13.800 i 16
+F "Shoveldiggravedirt Za02.497.wav" 33354216 0 1372263286 0
+D y 2012-Á(-w d "SHOVEL, DIG, GRAVE, DIRT" s 96000 n 2
+D l 0:57.898 i 24
+F "Shoveling Snow 1.wav" 3427472 0 1488630206 0
+D s 48000 n 2 l 0:17.851 i 16
+F "Shoveling Snow 2.wav" 1121196 0 1488630181 0
+D s 48000 n 2 l 0:05.839 i 16
+F "Shoveling Snow 3.wav" 1287732 0 1488630181 0
+D s 48000 n 2 l 0:06.706 i 16
+F "Ski 1.wav" 782600 0 1439161082 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.435
+D i 16
+F "Ski 2.wav" 716212 0 1439161922 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.059
+D i 16
+F "Ski 3.wav" 1323368 0 1439162785 0
+D a "Sound Ideas" s 44100 n 2 l 0:07.501
+D i 16
+F "Ski 4.wav" 1211904 0 1439161036 0
+D a "Sound Ideas" s 44100 n 2 l 0:06.869
+D i 16
+F skratch.wav 95862 0 1128385568 0
+D y 2005-10-04 s 44100 n 2 l 0:00.542
+D i 16
+F skratch1.wav 78966 0 1129211320 0
+D y 2005-10-13 s 44100 n 2 l 0:00.446
+D i 16
+F skratch10.wav 236918 0 1129211818 0
+D y 2005-10-13 s 44100 n 2 l 0:01.342
+D i 16
+F skratch11.wav 52342 0 1129251260 0
+D y 2005-10-14 s 44100 n 2 l 0:00.296
+D i 16
+F skratch12.wav 44150 0 1129251298 0
+D y 2005-10-14 s 44100 n 2 l 0:00.249
+D i 16
+F skratch13.wav 77790 0 1129251324 0
+D y 2005-10-14 s 44100 n 2 l 0:00.439
+D i 16
+F skratch14.wav 137950 0 1129251374 0
+D y 2005-10-14 s 44100 n 2 l 0:00.780
+D i 16
+F skratch15.wav 174302 0 1129251388 0
+D y 2005-10-14 s 44100 n 2 l 0:00.986
+D i 16
+F skratch16.wav 230622 0 1129251424 0
+D y 2005-10-14 s 44100 n 2 l 0:01.306
+D i 16
+F skratch17.wav 321758 0 1129251452 0
+D y 2005-10-14 s 44100 n 2 l 0:01.822
+D i 16
+F skratch18.wav 350430 0 1129251518 0
+D y 2005-10-14 s 44100 n 2 l 0:01.985
+D i 16
+F skratch19.wav 187614 0 1129251542 0
+D y 2005-10-14 s 44100 n 2 l 0:01.062
+D i 16
+F skratch2.wav 108662 0 1129211338 0
+D y 2005-10-13 s 44100 n 2 l 0:00.615
+D i 16
+F skratch20.wav 123102 0 1129251568 0
+D y 2005-10-14 s 44100 n 2 l 0:00.696
+D i 16
+F skratch21.wav 180958 0 1129251584 0
+D y 2005-10-14 s 44100 n 2 l 0:01.024
+D i 16
+F skratch22.wav 192630 0 1129251884 0
+D y 2005-10-14 s 44100 n 2 l 0:01.091
+D i 16
+F skratch23.wav 152798 0 1129392686 0
+D y 2005-10-15 s 44100 n 2 l 0:00.864
+D i 16
+F skratch24.wav 606430 0 1129392740 0
+D y 2005-10-15 s 44100 n 2 l 0:03.436
+D i 16
+F skratch25.wav 166622 0 1129392894 0
+D y 2005-10-15 s 44100 n 2 l 0:00.943
+D i 16
+F skratch26.wav 156766 0 1129393030 0
+D y 2005-10-15 s 44100 n 2 l 0:00.887
+D i 16
+F skratch27.wav 249974 0 1129393554 0
+D y 2005-10-15 s 44100 n 2 l 0:01.416
+D i 16
+F skratch28.wav 127094 0 1129393578 0
+D y 2005-10-15 s 44100 n 2 l 0:00.719
+D i 16
+F skratch3.wav 135286 0 1129211366 0
+D y 2005-10-13 s 44100 n 2 l 0:00.766
+D i 16
+F skratch4.wav 47222 0 1129211384 0
+D y 2005-10-13 s 44100 n 2 l 0:00.267
+D i 16
+F skratch5.wav 119798 0 1129211408 0
+D y 2005-10-13 s 44100 n 2 l 0:00.678
+D i 16
+F skratch6.wav 44022 0 1129211430 0
+D y 2005-10-13 s 44100 n 2 l 0:00.248
+D i 16
+F skratch7.wav 123510 0 1129211736 0
+D y 2005-10-13 s 44100 n 2 l 0:00.699
+D i 16
+F skratch8.wav 131190 0 1129211754 0
+D y 2005-10-13 s 44100 n 2 l 0:00.743
+D i 16
+F skratch9.wav 78966 0 1129211804 0
+D y 2005-10-13 s 44100 n 2 l 0:00.446
+D i 16
+F "Slam 1.wav" 341140 0 1192131834 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:01.284 i 24
+F "Slam 2.wav" 405964 0 1192131852 0
+D y 2007-10-11 s 44100 n 2 r 1:00:00.000
+D l 0:01.529 i 24
+F Slam(Loud).wav 64112 0 1199110334 0
+D s 44100 n 1 l 0:00.725 i 16
+F Slam(Med).wav 88176 0 1199110334 0
+D s 44100 n 1 l 0:00.998 i 16
+F Slam(Soft).wav 90736 0 1199110334 0
+D s 44100 n 1 l 0:01.027 i 16
+F Slam1.wav 71640 0 1196956924 0
+D s 44100 n 1 l 0:00.810 i 16
+F Slam1D.wav 349492 0 1200235214 0
+D s 44100 n 1 l 0:03.961 i 16
+F Slam2.wav 71640 0 1196956924 0
+D s 44100 n 1 l 0:00.810 i 16
+F Slam2D.wav 368854 0 1200235214 0
+D s 44100 n 1 l 0:04.180 i 16
+F Slam3.wav 71640 0 1196956924 0
+D s 44100 n 1 l 0:00.810 i 16
+F Slam4.wav 71640 0 1196956924 0
+D s 44100 n 1 l 0:00.810 i 16
+F "Slamming Metal_Lid.wav" 275600 0 1439162687 0
+D a "Apple Inc." s 44100 n 2 l 0:01.561
+D i 16
+F "Slap 1.wav" 202908 0 1439161305 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.149
+D i 16
+F "Slap 2.wav" 73816 0 1439161379 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.417
+D i 16
+F "Slide 1.wav" 237640 0 1488630178 0
+D s 48000 n 2 l 0:01.237 i 16
+F "Slide 2.wav" 262216 0 1488630178 0
+D s 48000 n 2 l 0:01.365 i 16
+F "Slingshot 1.wav" 23694 0 1200106164 0
+D s 44100 n 1 l 0:00.267 i 16
+F "Smack 1.wav" 122952 0 1488630178 0
+D s 48000 n 2 l 0:00.640 i 16
+F "Small Change01.wav" 643712 0 1247737280 0
+D y 2009-07-16 s 44100 n 2 l 0:02.432
+D i 24
+F "Small Change02.wav" 639104 0 1247737298 0
+D y 2009-07-16 s 44100 n 2 l 0:02.414
+D i 24
+F "Snow Shovel.wav" 16082968 0 1439162349 0
+D a "Detroit Chop Shop" s 44100 n 2 l 1:31.172
+D i 16
+F "Snow Skiing Fx.wav" 8224902 0 1439161782 0
+D a http://www.PowerFX.com s 44100 n 2 l 0:46.625
+D i 16
+F "Soccer Kick 1.wav" 745576 0 1439161728 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.225
+D i 16
+F "Soccer Kick 2.wav" 235680 0 1439161488 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.335
+D i 16
+F "Soccer Kick 3.wav" 90472 0 1439161283 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.512
+D i 16
+F "Soil And Dirt Debris Heavy 13.wav" 1354228 0 1481710502 0
+D y 2015-08-31 d "rock, rockslide, dirt debris falling, landslide or explosion debris, heavy" s 96000 n 2
+D l 0:02.349 i 24
+F Spanners01.wav 1059392 0 1247576842 0
+D y 2009-07-14 s 44100 n 2 l 0:04.003
+D i 24
+F Spanners02.wav 638336 0 1247576910 0
+D y 2009-07-14 s 44100 n 2 l 0:02.411
+D i 24
+F "Spreading Toast.wav" 359552 0 1247735566 0
+D y 2009-07-16 s 44100 n 2 l 0:01.358
+D i 24
+F "Spun Coin.wav" 1436288 0 1247671696 0
+D y 2009-07-15 s 44100 n 2 l 0:05.427
+D i 24
+F "Squeak Buzz.wav" 1383542 0 1439162200 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.842
+D i 16
+F "Squeak, Rubber, Short High Squeaks.wav" 3692684 0 1502564102 0
+D s 44100 n 2 l 0:20.933 i 16
+F "Squeak, Rubber, Short Squeaks.wav" 4475900 0 1502562331 0
+D s 44100 n 2 l 0:25.373 i 16
+F "Squeaks And Creaks Two 045 Bottle Cork A Squeaks Ntg3.wav" 19299002 0 1488537535 0
+D y 2016-09-07 s 192000 n 1 r 1:46:38.098
+D l 0:33.268 i 24
+F "Squeaks And Creaks Two 080 Metal Coathanger Slow 01 Ntg3.wav" 19389116 0 1488537519 0
+D y 0000-00-0 s 192000 n 1 r 2:10:34.050
+D l 0:33.450 i 24
+F "Squeaks And Creaks Two 136 Wood Door 03 Creaks 01 D100 Xy.wav" 55596916 0 1488537529 0
+D y 2016-06-2 s 192000 n 2 r 3:23:47.712
+D l 0:47.989 i 24
+F "Squeaks And Creaks Two 151 Foot Drags On Wood Table 01 D100 Xy.wav" 36796966 0 1488537477 0
+D y 2016-09-0 s 192000 n 2 r 3:39:23.597
+D l 0:31.764 i 24
+F "Squeakslow Bwu.19.wav" 546388 0 1372263288 0
+D y 2008-08-12 d "Cartoon, Squeak, Slow" s 96000 n 2
+D l 0:00.940 i 24
+F "Squeaky Closet Door Open 001.wav" 1684736 0 1481710530 0
+D y 2015-01-12 s 96000 n 2 r 1:00:00.000
+D l 0:02.919 i 24
+F Stab.wav 110744 0 1439162969 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.626
+D i 16
+F "Steam, Stir Pitcher Stroller Baby.wav" 11550716 0 1502565708 0
+D s 44100 n 2 l 1:05.480 i 16
+F "Swimming, Diving Board, Indoor Jump And Rattle.wav" 8152076 0 1502565465 0
+D s 44100 n 2 l 0:46.213 i 16
+F "Synth Key.wav" 141446 0 1248188736 0
+D y 2009-07-21 s 44100 n 2 l 0:00.534
+D i 24
+F "Tablet Bottle 1.wav" 299080 0 1488630146 0
+D s 48000 n 2 l 0:01.557 i 16
+F "Taperip 1.wav" 126044 0 1395177012 0
+D s 48000 n 2 l 0:00.437 i 24
+F "Taperip 2.wav" 198044 0 1395177016 0
+D s 48000 n 2 l 0:00.687 i 24
+F "Thud 1.wav" 80614 0 1201974270 0
+D s 44100 n 1 l 0:00.912 i 16
+F Thud.wav 184160 0 1439161666 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.043
+D i 16
+F Thump1.wav 135618 0 1202004154 0
+D s 44100 n 1 l 0:01.536 i 16
+F Thump2.wav 97604 0 1202004154 0
+D s 44100 n 1 l 0:01.105 i 16
+F "Time Passing.wav" 1851290 0 1439161079 0
+D a "Sound Ideas" s 44100 n 2 l 0:10.493
+D i 16
+F "Tin Can 1.wav" 124268 0 1200106174 0
+D s 44100 n 1 l 0:01.407 i 16
+F "Tin Can 2.wav" 105754 0 1200106174 0
+D s 44100 n 1 l 0:01.197 i 16
+F "Tin Lid.wav" 80198 0 1248194324 0
+D y 2009-07-21 s 44100 n 2 l 0:00.302
+D i 24
+F Tincan1.wav 2470570 0 1199110356 0
+D s 44100 n 1 l 0:28.009 i 16
+F Tincan2.wav 68094 0 1199110358 0
+D s 44100 n 1 l 0:00.770 i 16
+F Tincan3.wav 428938 0 1199110358 0
+D s 44100 n 1 l 0:04.861 i 16
+F "Ting 2.Wav" 45554 0 1201635636 0
+D s 44100 n 1 l 0:00.515 i 16
+F Tinkle1.Wav 1487570 0 1202133410 0
+D y 2008-02-04 s 44100 n 1 r 0:01.625
+D l 0:16.857 i 16
+F Tinkle2.Wav 643794 0 1202133412 0
+D y 2008-02-04 s 44100 n 1 r 0:22.987
+D l 0:07.291 i 16
+F Tinkle3.Wav 1180370 0 1202133412 0
+D y 2008-02-04 s 44100 n 1 r 0:00.371
+D l 0:13.374 i 16
+F Tinkle4.Wav 1098450 0 1202133414 0
+D y 2008-02-04 s 44100 n 1 r 0:00.650
+D l 0:12.445 i 16
+F "Trap Door 1.mp3" 55416 0 1506006039 0
+D b Households s 48000 n 2 l 0:01.704
+D i 260k
+F "Trap Door 1.wav" 281928 0 1488630156 0
+D s 48000 n 2 l 0:01.468 i 16
+F "Trickle, Glass, Metal, Debree.wav" 9293698 0 1488537145 0
+D y 2016-06-16 d "TRICKLE GLASS METAL DEBREE; Mono. Trickling on top of a non-ringing metal container." s 192000 n 1
+D r 3:30:44.684 l 0:16.133 i 24
+F "Trunk 2.wav" 294512 0 1200106180 0
+D s 44100 n 1 l 0:03.337 i 16
+F Turnstile.wav 310936 0 1439161573 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.761
+D i 16
+F Tut01.wav 24896 0 1247752176 0
+D y 2009-07-16 s 44100 n 2 l 0:00.093
+D i 24
+F "Twist Squeeze 1.wav" 282696 0 1488630172 0
+D s 48000 n 2 l 0:01.472 i 16
+F "Twist Squeeze 2.wav" 348232 0 1488630172 0
+D s 48000 n 2 l 0:01.813 i 16
+F "Twisted Hits Custom 1.wav" 380468 0 1387471496 0
+D s 44100 n 2 l 0:02.156 i 16
+F "Twisted Hits Custom 10.wav" 366064 0 1387471598 0
+D s 44100 n 2 l 0:02.074 i 16
+F "Twisted Hits Custom 11.wav" 439532 0 1387471604 0
+D s 44100 n 2 l 0:02.491 i 16
+F "Twisted Hits Custom 12.wav" 263404 0 1387471614 0
+D s 44100 n 2 l 0:01.492 i 16
+F "Twisted Hits Custom 13.wav" 185888 0 1387471622 0
+D s 44100 n 2 l 0:01.053 i 16
+F "Twisted Hits Custom 14.wav" 121320 0 1387471640 0
+D s 44100 n 2 l 0:00.687 i 16
+F "Twisted Hits Custom 15.wav" 120128 0 1387471646 0
+D s 44100 n 2 l 0:00.680 i 16
+F "Twisted Hits Custom 16.wav" 99048 0 1387471652 0
+D s 44100 n 2 l 0:00.561 i 16
+F "Twisted Hits Custom 17.wav" 274264 0 1387471656 0
+D s 44100 n 2 l 0:01.554 i 16
+F "Twisted Hits Custom 18.wav" 311908 0 1387471662 0
+D s 44100 n 2 l 0:01.767 i 16
+F "Twisted Hits Custom 19.wav" 352844 0 1387471672 0
+D s 44100 n 2 l 0:02.000 i 16
+F "Twisted Hits Custom 2.wav" 220544 0 1387471502 0
+D s 44100 n 2 l 0:01.250 i 16
+F "Twisted Hits Custom 20.wav" 383920 0 1387471678 0
+D s 44100 n 2 l 0:02.176 i 16
+F "Twisted Hits Custom 21.wav" 146392 0 1387471742 0
+D s 44100 n 2 l 0:00.829 i 16
+F "Twisted Hits Custom 22.wav" 174332 0 1387471752 0
+D s 44100 n 2 l 0:00.988 i 16
+F "Twisted Hits Custom 23.wav" 193792 0 1387471756 0
+D s 44100 n 2 l 0:01.098 i 16
+F "Twisted Hits Custom 24.wav" 260788 0 1387471762 0
+D s 44100 n 2 l 0:01.478 i 16
+F "Twisted Hits Custom 25.wav" 154396 0 1387471770 0
+D s 44100 n 2 l 0:00.875 i 16
+F "Twisted Hits Custom 26.wav" 418996 0 1387471776 0
+D s 44100 n 2 l 0:02.375 i 16
+F "Twisted Hits Custom 27.wav" 239940 0 1387471782 0
+D s 44100 n 2 l 0:01.359 i 16
+F "Twisted Hits Custom 28.wav" 346976 0 1387471794 0
+D s 44100 n 2 l 0:01.966 i 16
+F "Twisted Hits Custom 29.wav" 397248 0 1387471802 0
+D s 44100 n 2 l 0:02.251 i 16
+F "Twisted Hits Custom 3.wav" 392464 0 1387471512 0
+D s 44100 n 2 l 0:02.224 i 16
+F "Twisted Hits Custom 30.wav" 822872 0 1387471810 0
+D s 44100 n 2 l 0:04.664 i 16
+F "Twisted Hits Custom 31.wav" 605056 0 1387471830 0
+D s 44100 n 2 l 0:03.429 i 16
+F "Twisted Hits Custom 32.wav" 264644 0 1387471836 0
+D s 44100 n 2 l 0:01.500 i 16
+F "Twisted Hits Custom 33.wav" 137828 0 1387471842 0
+D s 44100 n 2 l 0:00.781 i 16
+F "Twisted Hits Custom 34.wav" 352844 0 1387471850 0
+D s 44100 n 2 l 0:02.000 i 16
+F "Twisted Hits Custom 35.wav" 110296 0 1387471858 0
+D s 44100 n 2 l 0:00.625 i 16
+F "Twisted Hits Custom 36.wav" 242624 0 1387471864 0
+D s 44100 n 2 l 0:01.375 i 16
+F "Twisted Hits Custom 37.wav" 308744 0 1387471868 0
+D s 44100 n 2 l 0:01.750 i 16
+F "Twisted Hits Custom 38.wav" 396944 0 1387471876 0
+D s 44100 n 2 l 0:02.250 i 16
+F "Twisted Hits Custom 39.wav" 138944 0 1387471880 0
+D s 44100 n 2 l 0:00.787 i 16
+F "Twisted Hits Custom 4.wav" 308744 0 1387471518 0
+D s 44100 n 2 l 0:01.750 i 16
+F "Twisted Hits Custom 40.wav" 264644 0 1387471886 0
+D s 44100 n 2 l 0:01.500 i 16
+F "Twisted Hits Custom 5.wav" 191636 0 1387471530 0
+D s 44100 n 2 l 0:01.086 i 16
+F "Twisted Hits Custom 6.wav" 1014344 0 1387471538 0
+D s 44100 n 2 l 0:05.750 i 16
+F "Twisted Hits Custom 7.wav" 481724 0 1387471564 0
+D s 44100 n 2 l 0:02.730 i 16
+F "Twisted Hits Custom 8.wav" 416592 0 1387471572 0
+D s 44100 n 2 l 0:02.361 i 16
+F "Twisted Hits Custom 9.wav" 441044 0 1387471580 0
+D s 44100 n 2 l 0:02.500 i 16
+F "Umbrella, Close Quickly Vending Machine Deposit Coins Remove Bottle.wav" 3636236 0 1502565859 0
+D s 44100 n 2 l 0:20.613 i 16
+F Undergrowth.wav 1221242 0 1248362162 0
+D y 2009-07-23 s 44100 n 2 l 0:04.614
+D i 24
+F Unplugged.wav 93056 0 1247736044 0
+D y 2009-07-16 s 44100 n 2 l 0:00.351
+D i 24
+F "Velcro 1.wav" 135244 0 1439163174 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.765
+D i 16
+F "Velcro 2.wav" 187624 0 1439161328 0
+D a "Sound Ideas" s 44100 n 2 l 0:01.062
+D i 16
+F "Velcro 3.wav" 82448 0 1439163082 0
+D a "Sound Ideas" s 44100 n 2 l 0:00.466
+D i 16
+F "Velcro Strap 1.wav" 122952 0 1488630155 0
+D s 48000 n 2 l 0:00.640 i 16
+F "Velcro Strap 2.wav" 94280 0 1488630155 0
+D s 48000 n 2 l 0:00.490 i 16
+F Velcro.wav 362240 0 1247735804 0
+D y 2009-07-16 s 44100 n 2 l 0:01.368
+D i 24
+F "Vibra Clang 1.wav" 215432 0 1201974274 0
+D s 44100 n 1 l 0:02.441 i 16
+F "Vibra Clang 2.wav" 194628 0 1201974274 0
+D s 44100 n 1 l 0:02.205 i 16
+F "Whip crack bull whip.wav" 713186 0 1372263300 0
+D a SONOPEDIA y 04:0-:2-08 g "SOUND FX" c '"WARFARE, WHIP, CRACK, BULLWHIP, WHOOSH, IMPACT, SNAP, REVERB"'
+D d '"WARFARE, WHIP, CRACK, BULLWHIP, WHOOSH, IMPACT, SNAP, REVERB"' s 96000 n 2 l 0:01.214
+D i 24
+F "Whip On Metal 1.wav" 180304 0 1200106188 0
+D s 44100 n 1 l 0:02.042 i 16
+F "Whip On Metal 2.wav" 135154 0 1200106188 0
+D s 44100 n 1 l 0:01.531 i 16
+F "Windshield Wipers 01.wav" 471036 0 986672966 0
+D c "check out www.acidplanet.com!" s 44100 n 1 l 0:05.333
+D i 16
+F Windshield.aif 525404 0 1505997472 0
+D s 44100 n 1 l 0:05.834 i 16
+F Yogurt.wav 99044 0 1395177044 0
+D s 48000 n 2 l 0:00.343 i 24
+F Zap.wav 775176 0 1439162642 0
+D a "Sound Ideas" s 44100 n 2 l 0:04.393
+D i 16

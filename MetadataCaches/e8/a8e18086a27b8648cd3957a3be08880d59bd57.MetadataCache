@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Hzandbits - Hvac Elements"
+F "Hvac,Cooling unit,Refrigerator,Int,Drone,Rattle,Roomtone,Loop.wav" 38474388 0 1583868977 0
+D y 2016-07-20 c "Refrigerator cooler drones and rattles with a slow change in sound and a bit of roomtone | Hzandbits Sound Effects" d "sNOTE=Refrigerator cooler drones and rattles with a slow change in sound and a bit of roomtone | Hzandbits Sound Effects  " s 96000
+D n 2 r 12:35.724 l 1:06.776 i 24
+F "Hvac,Heating,Pressure pump,Industrial,Whine,Slight rumble,Loop.wav" 21848470 0 1583868883 0
+D y 2016-07-15 c "Industrial pressure pump runs at fluctuating speeds, with a whine and slight rumble | Hzandbits Sound Effects" d "sNOTE=Industrial pressure pump runs at fluctuating speeds, with a whine and slight rumble | Hzandbits Sound Effects  " s 96000
+D n 2 r 24:04.286 l 0:37.912 i 24
+F "Hvac,Ventilation,Exhaust,Industrial,Drone,Slight rumble,Loop.wav" 52278656 0 1583869046 0
+D y 2016-07-15 c "Industrial exhaust drones and rumbles slightly  | Hzandbits Sound Effects" d "sNOTE=Industrial exhaust drones and rumbles slightly  | Hzandbits Sound Effects  " s 96000
+D n 2 r 1:07.780 l 1:30.742 i 24
+F "Roomtone,Hvac,Drone,Hum,Low Mids,Loop.wav" 29538822 0 1583869018 0
+D y 2014-05-10 s 96000 n 2 r 51:14.246
+D l 0:51.275 i 24

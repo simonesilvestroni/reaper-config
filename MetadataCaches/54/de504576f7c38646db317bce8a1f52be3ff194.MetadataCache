@@ -1,0 +1,70 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Fog Convolver Factory Bank/Samples/Organic"
+F Cereals.wav 1086718 0 1432577776 0
+D t Cereals s 48000 n 2 l 0:03.772
+D i 24 m 1
+F "Eggshell 1.wav" 155574 0 1431902907 0
+D t eggs s 48000 n 2 l 0:00.539
+D i 24
+F "Eggshell 2.wav" 279750 0 1431902907 0
+D t eggs s 48000 n 2 l 0:00.970
+D i 24
+F "Eggshell 3.wav" 621912 0 1431902907 0
+D t eggs s 48000 n 2 l 0:02.158
+D i 24
+F "Frying 1.wav" 1338988 0 1432066243 0
+D y 2015-05-19 s 48000 n 2 r 1:00:08.959
+D l 0:04.640 i 24
+F "Frying 2.wav" 1454888 0 1433200967 0
+D t toy_bars_bin_noise_rr4 s 48000 n 2 l 0:05.051
+D i 24
+F "Iceberg Lettuce 1.wav" 440830 0 1433184521 0
+D y 2015-06-01 s 48000 n 2 r 1:00:27.059
+D l 0:01.528 i 24
+F "Iceberg Lettuce 2.wav" 651280 0 1433184506 0
+D y 2015-06-01 s 48000 n 2 r 1:00:19.546
+D l 0:02.258 i 24
+F "Iceberg Lettuce 3.wav" 631480 0 1433184540 0
+D y 2015-06-01 s 48000 n 2 r 1:00:32.427
+D l 0:02.190 i 24
+F "Match (light 1).wav" 442380 0 1424887292 0
+D t "Match Light 1" s 48000 n 2 l 0:01.535
+D i 24
+F "Match (light 2).wav" 362622 0 1424887292 0
+D t "Match Light 2" s 48000 n 2 l 0:01.258
+D i 24
+F "Match (water 1).wav" 783174 0 1424887292 0
+D t "Match water 1" s 48000 n 2 l 0:02.719
+D i 24
+F "Match (water 2).wav" 592836 0 1424887293 0
+D t "Match water 2" s 48000 n 2 l 0:02.058
+D i 24
+F Pumpkin.wav 84696 0 1424548288 0
+D t "Toy Keyabord" s 48000 n 2 l 0:00.293
+D i 24
+F "Rain (stethoscope).wav" 835994 0 1433180136 0
+D s 48000 n 2 l 0:02.902 i 24
+F "Rain (umbrella).wav" 1501766 0 1433181356 0
+D s 48000 n 2 l 0:05.214 i 24
+F "Rain (window).wav" 1176920 0 1433181291 0
+D s 48000 n 2 l 0:04.086 i 24
+F "Rice 1.wav" 864728 0 1424785090 0
+D t "Rice (A)" s 48000 n 2 l 0:03.002
+D i 24
+F "Rice 2.wav" 276992 0 1424785090 0
+D t "Rice (B)" s 48000 n 2 l 0:00.961
+D i 24
+F "Rice 3.wav" 307052 0 1424785090 0
+D t "Rice (C)" s 48000 n 2 l 0:01.065
+D i 24
+F "Rice 4.wav" 178118 0 1424785090 0
+D t "Rice (D)" s 48000 n 2 l 0:00.618
+D i 24
+F Water.wav 460498 0 1424887293 0
+D t water s 48000 n 2 l 0:01.598
+D i 24
+F "Wood 1.wav" 174316 0 1432579209 0
+D t "wood 2" s 48000 n 2 l 0:00.604
+D i 24
+F "Wood 2.wav" 372556 0 1432579209 0
+D t "wood 1" s 48000 n 2 l 0:01.293
+D i 24

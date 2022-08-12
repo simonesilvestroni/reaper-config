@@ -1,0 +1,190 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Fog Convolver Factory Bank/Samples/Gear"
+F "Exciter Type B (drive high, tune high).wav" 14583 0 1429987226 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive high, tune low).wav" 14583 0 1429987226 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive high, tune mid).wav" 14583 0 1429987226 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive low, tune high).wav" 14583 0 1429987227 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive low, tune low).wav" 14579 0 1429987227 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive low, tune mid).wav" 14579 0 1429987227 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive mid, tune high).wav" 14583 0 1429987228 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive mid, tune low).wav" 14579 0 1429987228 0
+D s 48000 n 1 l 0:00.100 i 24
+F "Exciter Type B (drive mid, tune mid).wav" 14579 0 1429987228 0
+D s 48000 n 1 l 0:00.100 i 24
+F "FSTX 3070.wav" 47552 0 1433027198 0
+D s 48000 n 2 l 0:00.164 i 24
+F "HolyG (flerb).wav" 766133 0 1433116199 0
+D s 48000 n 1 l 0:05.319 i 24
+F "HolyG (hall).wav" 1427097 0 1433116420 0
+D s 48000 n 1 l 0:09.883 i 24
+F "HolyG (spring).wav" 646031 0 1433116237 0
+D s 48000 n 1 l 0:04.485 i 24
+F "Modular Spring (long).wav" 1558373 0 1424548336 0
+D t "Modular Spring (long)" s 48000 n 1 l 0:10.821
+D i 24
+F "Modular Spring (medium).wav" 812578 0 1424548337 0
+D t "Modular Spring (medium)" s 48000 n 1 l 0:05.642
+D i 24
+F "Modular Spring (short).wav" 518374 0 1424548337 0
+D t "Modular Spring (short)" s 48000 n 1 l 0:03.599
+D i 24
+F "Multitrack Cassette Recorder 1 (EQ).wav" 882 0 1429987309 0
+D t "Multitrack Cassette Recorder 1 (EQ)" s 48000 n 2 l 0:00.002
+D i 24 m 1
+F "Multitrack Cassette Recorder 1 (flat).wav" 736 0 1429987310 0
+D t "Multitrack Cassette Recorder 1 (flat)" s 48000 n 2 l 0:00.001
+D i 24 m 2
+F "Multitrack Cassette Recorder 1 (saturated).wav" 748 0 1429987310 0
+D t "Multitrack Cassette Recorder 1 (saturated)" s 48000 n 2 l 0:00.001
+D i 24
+F "Multitrack Cassette Recorder 2 (H).wav" 726 0 1429987310 0
+D t "Multitrack Cassette Recorder 2 (H)" s 48000 n 2 l 0:00.001
+D i 24
+F "Multitrack Cassette Recorder 2 (L).wav" 726 0 1429987311 0
+D t "Multitrack Cassette Recorder 2 (L)" s 48000 n 2 l 0:00.001
+D i 24
+F "Multitrack Cassette Recorder 2 (M).wav" 726 0 1429987311 0
+D t "Multitrack Cassette Recorder 2 (M)" s 48000 n 2 l 0:00.001
+D i 24
+F "Quadra (chamber, long).wav" 3277264 0 1427474168 0
+D t "Quadra (chamber, long)" s 48000 n 2 l 0:11.379
+D i 24
+F "Quadra (chamber, short).wav" 395374 0 1427474169 0
+D t "Quadra (chamber, short)" s 48000 n 2 l 0:01.372
+D i 24
+F "Quadra (deep space 1).wav" 841214 0 1427474169 0
+D t "Quadra (deep space 1)" s 48000 n 2 l 0:02.920
+D i 24
+F "Quadra (deep space 2).wav" 1654760 0 1427474169 0
+D t "Quadra (deep space 2)" s 48000 n 2 l 0:05.745
+D i 24
+F "Quadra (dream).wav" 450518 0 1427474169 0
+D t "Quadra (dream)" s 48000 n 2 l 0:01.564
+D i 24
+F "Quadra (electric).wav" 247978 0 1427474170 0
+D t "Quadra (electric)" s 48000 n 2 l 0:00.860
+D i 24
+F "Quadra (hall, long).wav" 1183638 0 1427474170 0
+D t "Quadra (hall, long)" s 48000 n 2 l 0:04.109
+D i 24
+F "Quadra (hall, short).wav" 634376 0 1427474170 0
+D t "Quadra (hall, short)" s 48000 n 2 l 0:02.202
+D i 24
+F "Quadra (multi).wav" 353996 0 1427474170 0
+D t "Quadra (multi)" s 48000 n 2 l 0:01.228
+D i 24
+F "Quadra (plate, long).wav" 4430942 0 1427474171 0
+D t "Quadra (plate, long)" s 48000 n 2 l 0:15.384
+D i 24
+F "Quadra (plate, short).wav" 634376 0 1427474171 0
+D t "Quadra (plate, short)" s 48000 n 2 l 0:02.202
+D i 24
+F "Quadra (room, long).wav" 4495284 0 1427474171 0
+D t "Quadra (room, long)" s 48000 n 2 l 0:15.608
+D i 24
+F "Quadra (room, short).wav" 572330 0 1427474172 0
+D t "Quadra (room, short)" s 48000 n 2 l 0:01.986
+D i 24
+F "Quadra (snare 1).wav" 201172 0 1427474172 0
+D t "Quadra (snare 1)" s 48000 n 2 l 0:00.698
+D i 24
+F "Quadra (snare 2).wav" 341356 0 1427474172 0
+D t "Quadra (snare 2)" s 48000 n 2 l 0:01.184
+D i 24
+F "Quadra (wrong).wav" 106946 0 1427474173 0
+D t "Quadra (wrong)" s 48000 n 2 l 0:00.371
+D i 24
+F "Radio (clicks 1).wav" 467903 0 1425310479 0
+D s 48000 n 1 l 0:03.249 i 24
+F "Radio (clicks 2).wav" 459458 0 1425318422 0
+D s 48000 n 1 l 0:03.190 i 24
+F "Radio (noise).wav" 657080 0 1425318374 0
+D s 48000 n 1 l 0:04.562 i 24
+F "Radio (spike long).wav" 405632 0 1425310524 0
+D s 48000 n 1 l 0:02.816 i 24
+F "Radio (spike short).wav" 130310 0 1425310584 0
+D s 48000 n 1 l 0:00.904 i 24
+F "Realistic Electronic Reverb (fast).wav" 257473 0 1425304717 0
+D s 48000 n 1 l 0:01.782 i 24
+F "Realistic Electronic Reverb (medium).wav" 597708 0 1425304353 0
+D s 48000 n 1 l 0:04.139 i 24
+F "Realistic Electronic Reverb (slow).wav" 718410 0 1425306307 0
+D s 48000 n 1 l 0:04.975 i 24
+F "Stompbox Analog Delay (fast, long).wav" 154695 0 1424548333 0
+D t "Analog Delay (fast, long)" s 48000 n 1 l 0:01.073
+D i 24
+F "Stompbox Analog Delay (fast, medium).wav" 144704 0 1424548333 0
+D t "Analog Delay (fast, medium)" s 48000 n 1 l 0:01.004
+D i 24
+F "Stompbox Analog Delay (fast, short).wav" 72059 0 1424548333 0
+D t "Analog Delay (fast, short)" s 48000 n 1 l 0:00.499
+D i 24
+F "Stompbox Analog Delay (slow, long).wav" 226251 0 1424548333 0
+D t "Analog Delay (slow, long)" s 48000 n 1 l 0:01.570
+D i 24
+F "Stompbox Analog Delay (slow, medium).wav" 172367 0 1424548334 0
+D t "Analog Delay (slow, medium)" s 48000 n 1 l 0:01.196
+D i 24
+F "Stompbox Analog Delay (slow, short).wav" 118037 0 1424548334 0
+D t "Analog Delay (slow, short)" s 48000 n 1 l 0:00.819
+D i 24
+F "Stompbox Chain 1.wav" 2156593 0 1429987615 0
+D s 48000 n 1 l 0:14.975 i 24
+F "Stompbox Chain 2.wav" 711454 0 1429987615 0
+D t "pedal chain 2" s 48000 n 1 l 0:04.939
+D i 24 m 2
+F "Stompbox Chain 3.wav" 377260 0 1429987616 0
+D t "pedal chain 3" s 48000 n 1 l 0:02.618
+D i 24 m 3
+F "Stompbox Digital Delay (fast, long).wav" 198575 0 1424548334 0
+D t "Digital Delay (fast, long)" s 48000 n 1 l 0:01.378
+D i 24
+F "Stompbox Digital Delay (fast, medium).wav" 143017 0 1424548334 0
+D t "Digital Delay (fast, medium)" s 48000 n 1 l 0:00.992
+D i 24
+F "Stompbox Digital Delay (fast, short).wav" 99920 0 1424548335 0
+D t "Digital Delay (fast, short)" s 48000 n 1 l 0:00.693
+D i 24
+F "Stompbox Digital Delay (slow, long).wav" 265616 0 1424548335 0
+D t "Digital Delay (slow, long)" s 48000 n 1 l 0:01.843
+D i 24
+F "Stompbox Digital Delay (slow, medium).wav" 227827 0 1424548335 0
+D t "Digital Delay (slow, medium)" s 48000 n 1 l 0:01.581
+D i 24
+F "Stompbox Digital Delay (slow, short).wav" 166964 0 1424548336 0
+D t "Digital Delay (slow, short)" s 48000 n 1 l 0:01.158
+D i 24
+F "TCfame (amb).wav" 310827 0 1429986317 0
+D s 48000 n 1 l 0:02.157 i 24
+F "TCfame (church).wav" 1870099 0 1429986317 0
+D s 48000 n 1 l 0:12.985 i 24
+F "TCfame (gate).wav" 860616 0 1429986317 0
+D t tcfame_gate s 48000 n 1 l 0:05.975
+D i 24 m 4
+F "TCfame (hall).wav" 1132209 0 1429986317 0
+D s 48000 n 1 l 0:07.861 i 24
+F "TCfame (lofi).wav" 848706 0 1429986318 0
+D t tcfame_lofi s 48000 n 1 l 0:05.892
+D i 24 m 6
+F "TCfame (mod).wav" 1724616 0 1429986318 0
+D t tcfame_mod s 48000 n 1 l 0:11.975
+D i 24
+F "TCfame (plate).wav" 1260373 0 1429986318 0
+D s 48000 n 1 l 0:08.751 i 24
+F "TCfame (room).wav" 497238 0 1429986314 0
+D t tcfame_room s 48000 n 1 l 0:03.452
+D i 24 m 1
+F "TCfame (spring).wav" 572974 0 1429986318 0
+D t tcfame_spring s 48000 n 1 l 0:03.978
+D i 24 m 9
+F "TCfame (tile).wav" 778804 0 1429986318 0
+D t tcfame_tile s 48000 n 1 l 0:05.407
+D i 24
+F "TCfame (toneprint).wav" 417641 0 1429986319 0
+D s 48000 n 1 l 0:02.899 i 24

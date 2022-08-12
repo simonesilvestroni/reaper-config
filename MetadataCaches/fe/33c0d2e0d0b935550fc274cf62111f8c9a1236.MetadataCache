@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Eiravaein Sound - Burst"
+F Burst,glass,release,2bottles,pour,fizz,cistern,low,marble,jostle,gurgle,wavering.wav 4119392 0 1583868864 0
+D y 2016-05-30 d Burst,glass,release,2bottles,pour,fizz,cistern,low,marble,jostle,gurgle,wavering s 96000 n 1
+D r 2:24:43.736 l 0:14.295 i 24
+F Burst,glass,release,bottle,pour,fizz,cistern,empty,marble,slosh.wav 1581992 0 1583868478 0
+D y 2016-05-30 d Burst,glass,release,bottle,pour,fizz,cistern,empty,marble,slosh s 96000 n 1
+D r 1:41:48.713 l 0:05.484 i 24
+F Burst,glass,release,bottle,pour,fizz,cistern,midlevel,choppy,marble,rattle.wav 2870440 0 1583868536 0
+D y 2016-05-30 d Burst,glass,release,bottle,pour,fizz,cistern,midlevel,choppy,marble,rattle s 96000 n 1
+D r 4:44.431 l 0:09.959 i 24
+F Burst,glass,release,bottle,spray,jet,fizz,cistern,full,stifle.wav 1899426 0 1583867866 0
+D y 2016-05-30 d Burst,glass,release,bottle,spray,jet,fizz,cistern,full,stiffle s 96000 n 1
+D r 1:43:32.898 l 0:06.587 i 24

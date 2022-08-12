@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] PMSFX SAMPLER Q1 2020/PM Mediterrania"
+F "PM MDT MKH8060ATE208 MS 5 Sea, Ocean, Waves, Splashing on Rocks, Water, Spray, Calm.wav" 47499192 0 1547042138 0
+D a "Phil Michalski | PMSFX @pmsfx" y 2019-01-09 c "Sea, Ocean, Waves, Splashing on Rocks, Water, Spray, Calm" d "Sea, Waves, Sound Devices MixPre-6 Sennheiser MKH8060 ATE208 (M/S)"
+D s 96000 n 2 l 1:21.976 i 24
+D m 0
+F "PM MDT PCMD100 16 Sea, Ocean, Waves, Splashing on Rocks, Water, Between Rocks.wav" 42331848 0 1547042141 0
+D a "Phil Michalski" y 2018-05-28 g Ambience c "Sea, Ocean, Waves, Splashing on Rocks, Water, Between Rocks"
+D d "Sea, Ocean, Waves, Loops seamlessly, SONY PCM D100 " s 96000 n 2 r 36:14.500
+D l 1:13.000 i 24 m 0
+F "PM MDT PCMD100 30 Sea, Ocean, Waves, Splashing on Rocks, Water, Pebbles, Sand, Calm.wav" 44347838 0 1547042146 0
+D a "Phil Michalski" y 2018-05-28 g Ambience c "Sea, Ocean, Waves, Splashing on Rocks, Water, Pebbles, Sand, Calm"
+D d "Sea, Ocean, Waves, Loops seamlessly, SONY PCM D100 " s 96000 n 2 r 21:00.000
+D l 1:16.500 i 24 m 0

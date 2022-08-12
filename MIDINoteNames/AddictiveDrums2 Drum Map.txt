@@ -1,0 +1,81 @@
+# MIDI note/CC name map
+104 Flexi 4 Hit D
+103 Flexi 3 Hit C
+102 Flexi 3 Hit B
+101 Flexi 3 Hit A
+99 Flexi 2 Hit D
+98 Flexi 2 Hit C
+97 Flexi 2 Hit B
+96 Flexi 2 Hit A
+94 Cymbal 6 Choke
+93 Cymbal 6
+92 Cymbal 5 Choke
+91 Cymbal 5
+90 Cymbal 4 Choke
+89 Cymbal 4
+87 Ride 2 Choke
+86 Ride 2 Shaft
+85 Ride 2 Bell
+84 Ride 2 Tip
+82 Cymbal 3 Choke
+81 Cymbal 3
+80 Cymbal 2 Choke
+79 Cymbal 2
+78 Cymbal 1 Choke
+77 Cymbal 1
+76 Flexi 1 Hit D
+75 Sticks
+74 Flexi 1 Hit C
+73 Flexi 1 Hit B
+72 Tom 1 Rimshot
+71 Tom 1 Open Hit
+70 Tom 2 Rimshot
+69 Tom 2 Open Hit
+68 Tom 3 Rimshot
+67 Tom 3 Open Hit
+66 Tom 4 Rimshot
+65 Tom 4 Open Hit
+63 Ride 1 Choke
+62 Ride 1 Shaft
+61 Ride 1 Bell
+60 Ride 1 Tip
+59 HH Foot Splash
+58 HH Open Bell
+57 HH Open D
+56 HH Open C
+55 HH Open B
+54 HH Open A
+53 HH Closed Bell
+52 HH Closed2 Shaft
+51 HH Closed2 Tip
+50 HH Closed1 Shaft
+49 HH Closed1 Tip
+48 HH Foot Close
+47 Flexi 1 Hit A
+46 Cymbal 1
+45 Ride 1 Tip
+44 Snare RimClick
+43 Snare Shallow Hit
+42 Snare SideStick
+41 Snare Shallow Rimshot
+40 Snare Open Hit dbl
+39 Snare Rimshot dbl
+38 Snare Open Hit
+37 Snare Rimshot
+36 Kick
+35 Closed Soft Tap (br)
+34 Sweep: Mute (br)
+33 Sweep: Slow Dark Acc
+32 Sweep: Fast Dark Acc
+31 Sweep: Slow Bright Acc
+30 Sweep: Fast Bright Acc
+29 Sweep: No Accent
+28 Sweep: Short 2
+26 Sweep: Short 1
+9 CC Hihat Bell
+8 CC Hihat Tip
+7 CC Hihat Shaft
+6 Snare CCPos OP<->Sha
+5 Snare CCPos Closed (Br)
+4 Ride 1 CCPos Shaft<->Tip
+3 Ride 2 CCPos Shaft<->Tip

@@ -1,0 +1,10 @@
+C10017 "/Volumes/LIBRARY/SAMPLES/Loopmasters Dubwise/Cuts"
+F DWS_Bm_Fisa_Cut.wav 1520108 0 1548713924 0
+D g "Processed, Synthesizer, Filter Sweep, Dub" s 44100 n 2 l 0:05.739
+D i 24
+F DWS_Cm_Trumpet_Cut.wav 1105704 0 1548713924 0
+D g "Processed, Horns, Trumpet, Synthesizer, Dub" s 44100 n 2 l 0:04.173
+D i 24
+F DWS_F#_Old_Vinyl_Cut.wav 1144378 0 1548713924 0
+D g "Processed, Vinyl/Scratch, Lo-Fi, Dub" s 44100 n 2 l 0:04.319
+D i 24

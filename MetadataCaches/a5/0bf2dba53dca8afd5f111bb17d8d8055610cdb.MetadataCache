@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Soundbankster - The Sci-Fi Book"
+F SF_sdb__ROBOT_electronic_01.wav 4157062 0 1583867068 0
+D d "ROBOT activity" s 96000 n 2 l 0:01.764
+D i 24
+F SF_sdb__SPACECRAFT_landing_01.wav 6857104 0 1583868692 0
+D d "SPACECRAFT reactor dark sub" s 96000 n 2 l 0:06.451
+D i 24
+F SF_sdb_ATMO_10_sci_fi_big_spaceship.wav 22443742 0 1583868570 0
+D d "SCI FI LOW DRONE long low rumbling ramp noises atmosphere with magnetic stereo fields" s 96000 n 2 l 0:37.293
+D i 24
+F SF_sdb_WHOOSH_15_space_vehicle.wav 3976196 0 1583868703 0
+D y 02-1--2-15 d "whoosh robot vehicle" s 96000 n 2
+D l 0:03.976 i 24

@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Eiravaein Sound - Dx"
+F Dx,diagnostic,noise,green,9624,10sec.wav 2880934 0 1583869038 0
+D y 2016-04-23 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 96000 n 1
+D l 0:10.000 i 24
+F Dx,sweep,down,audiometric,44116,1sec.wav 89110 0 1583867007 0
+D y 2016-04-21 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 44100 n 1
+D l 0:01.000 i 16
+F Dx,test,phase,alternating,voice,4824,8sec.wav 2304730 0 1583866917 0
+D y 2016-04-21 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 48000 n 2
+D r 21:31:09.803 l 0:08.000 i 24
+F Dx,test,spatialization,stereo,emerge,movement,fiddle,through,4824.wav 3193956 0 1583869004 0
+D y 2016-04-24 d "Diagnostic audio for audiometric, cognitive, acoustic, design, and signal processing tests; procedurally generated for the purest and shortest digital path" s 48000 n 2
+D l 0:11.086 i 24

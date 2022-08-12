@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundMorph - Portals"
+F "Door - Medieval Open 16.wav" 3393480 0 1583869077 0
+D d "soundmorph, mechanism, door, medieval, open, close, portal, designed" s 96000 n 2 r 1:00:00.072
+D l 0:05.622 i 24
+F "Door - Sci-Fi - 04.wav" 2901968 0 1583869056 0
+D d "soundmorph, mechanism, door, sci fi, open, close, portal, designed, science fiction" s 96000 n 2 r 1:00:36.250
+D l 0:04.769 i 24
+F "Door - SpaceShip_hatchway_06.wav" 2765526 0 1583868986 0
+D d "soundmorph, mechanism, door, sci fi, open, close, portal, designed, science fiction, solar sky, space, ship" s 96000 n 2 l 0:04.529
+D i 24
+F "Door - Stone Long 02.wav" 3223372 0 1583868776 0
+D d "soundmorph, mechanism, door, stone, open, close, portal, designed, medieval" s 96000 n 2 r 1:00:42.068
+D l 0:05.327 i 24

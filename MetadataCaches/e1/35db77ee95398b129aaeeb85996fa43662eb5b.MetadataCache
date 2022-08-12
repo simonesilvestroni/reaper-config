@@ -1,0 +1,36 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/ALARMS/SIREN"
+F ALRM_EuropeanSiren.wav 3652522 0 1439162849 0
+D a "Apple Inc." s 44100 n 2 l 0:20.705
+D i 16
+F ALRM_ExtremeAlarm.mp3 304273 0 1583930929 0
+D s 44100 n 2 l 0:09.457 i 257k
+F ALRM_FerryFogHorn.wav 1265604 0 1439162552 0
+D a "Apple Inc." s 44100 n 2 l 0:07.174
+D i 16
+F ALRM_PanicAlarm.mp3 310960 0 1583931259 0
+D s 44100 n 2 l 0:09.666 i 257k
+F ALRM_PoliceCarSirenPassing.wav 2411476 0 1439161919 0
+D a "Apple Inc." s 44100 n 2 l 0:13.669
+D i 16
+F ALRM_PoliceSirenFx01.aiff 5581262 0 1505997471 0
+D a PowerFX.com p 121.5993 s 44100 n 2
+D l 0:31.579 i 16
+F ALRM_PoliceSirenFx02.aiff 4751930 0 1505997471 0
+D a PowerFX.com p 143.058 s 44100 n 2
+D l 0:26.842 i 16
+F ALRM_PoliceSirenFx03.aiff 779498 0 1505997471 0
+D a PowerFX.com d SL00351 p 110.2603 s 44100
+D n 2 l 0:04.353 i 16
+F ALRM_Siren.aif 716486 0 1505997471 0
+D s 44100 n 1 l 0:08.000 i 16
+F ALRM_Siren1.wav 4767958 0 1439162136 0
+D a "Sound Ideas" s 44100 n 2 l 0:27.028
+D i 16
+F ALRM_Siren2.wav 4966814 0 1439162219 0
+D a "Sound Ideas" s 44100 n 2 l 0:28.155
+D i 16
+F ALRM_Siren3.wav 3786650 0 1439162343 0
+D a "Sound Ideas" s 44100 n 2 l 0:21.465
+D i 16
+F ALRM_TornadoSiren.mp3 2083943 0 1583931166 0
+D s 44100 n 2 l 1:05.072 i 256k

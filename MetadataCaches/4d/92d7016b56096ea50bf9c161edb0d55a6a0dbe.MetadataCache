@@ -1,0 +1,37 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Loops/Percussive Loops"
+F "Choppy Vox Drums.wav" 709776 0 1436227745 0
+D s 44100 n 2 l 0:03.999 i 16
+F "City Drummer 1 8bts.wav" 292580 0 1436227745 0
+D s 44100 n 1 l 0:03.269 i 16
+F "City Drummer 2 8bts.wav" 287994 0 1436227745 0
+D s 44100 n 1 l 0:03.217 i 16
+F "CO Voderizerator 120bpm.wav" 709776 0 1436227745 0
+D s 44100 n 2 l 0:03.999 i 16
+F "Djembe Loop 2 4bts.wav" 178548 0 1436227745 0
+D s 44100 n 1 l 0:01.976 i 16
+F "Djembe Loop 3 8bts.wav" 359010 0 1436227745 0
+D s 44100 n 1 l 0:04.023 i 16
+F "Electron Rush 140bpm Bm.wav" 1213696 0 1436227745 0
+D y 2010-07-04 s 44100 n 2 r 4:25.714
+D l 0:06.857 i 16
+F "Functionist 120bpm.wav" 709776 0 1436227745 0
+D s 44100 n 2 l 0:03.999 i 16
+F "Glitchy Loop 1.wav" 1355752 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:07.680
+D i 16
+F "Industrial Loop 1.wav" 1417384 0 1436227745 0
+D y 2009 s 44100 n 2 l 0:08.011
+D i 16
+F "Laboratory 4bts.wav" 426522 0 1436227745 0
+D a "Martin Walker" y 2000-01-01 s 44100 n 2
+D l 0:02.412 i 16
+F "Liquidish Beat 120bpm.wav" 709776 0 1436227745 0
+D s 44100 n 2 l 0:03.999 i 16
+F "Talking Drum Loop 8bts.wav" 257674 0 1436227745 0
+D s 44100 n 1 l 0:02.874 i 16
+F "Thwip 8bts.wav" 678288 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:03.839
+D i 16
+F "Whistle Hats A 16bts.wav" 1355700 0 1436227745 0
+D a "Martin Walker" s 44100 n 2 l 0:07.679
+D i 16

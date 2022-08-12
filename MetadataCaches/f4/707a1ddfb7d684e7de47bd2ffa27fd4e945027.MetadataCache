@@ -1,0 +1,17 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Articulated Sounds - Dice"
+F "DICE on Felt, Throw and Roll, Standard, 16 Sixteen Dice, v1.wav" 1486618 0 1583868777 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Felt, Sixteen (16) Standard Dice" s 96000 n 2
+D l 0:01.070 i 24
+F "DICE on Felt, Throw and Roll, Standard, 5 Five Dice, v2.wav" 1317556 0 1583868755 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Felt, Five (5) Standard Dice" s 96000 n 2
+D l 0:00.777 i 24
+F "DICE on Hard Wood, Throw and Roll , Standard, 2 Two Dice, v1.wav" 1296868 0 1583868737 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Hard Wood, Two (2) Standard Dice" s 96000 n 2
+D l 0:00.741 i 24
+F "DICE on Neoprene, Throw and Roll, Mini, 1 One Die, v2.wav" 1301064 0 1583868737 0
+D t "DICE Sfx Party" a "Articulated Sounds" b "Sound Library" y 2016-09-03
+D g SFX d "Throwing and Rolling Dice on Neoprene, One (1) Mini Die" s 96000 n 2
+D l 0:00.748 i 24

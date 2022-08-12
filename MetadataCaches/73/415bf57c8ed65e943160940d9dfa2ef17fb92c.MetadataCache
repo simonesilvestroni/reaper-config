@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Hzandbits - Urban Winds"
+F Wind,Ext,Alley,Urban,Howl,Pronounced,Metal,Clinking.wav 39570256 0 1583868612 0
+D y 2015-12-18 d "sNOTE=Wind blowing, pronounced howling in alley, some metal clinking faintly   " s 96000 n 2
+D r 3:47.152 l 1:08.679 i 24
+F "Wind,Ext,Urban,Metal,Signpost,Distinct clanking,Howling,Nervous.Mono.wav" 6767240 0 1583868614 0
+D y 2015-12-16 d "sNOTE=Metal signpost clanking distinctly in the sometimes howling wind   " s 96000 n 1
+D r 6:11.875 l 0:23.459 i 24
+F Wind,Ext,Urban,Plastic,Flutter,Ruffle.wav 9561196 0 1583868359 0
+D y 2015-12-18 d "sNOTE=Wind ruffles plastic, makes random fluttering, flapping sounds   " s 96000 n 2
+D r 17:11.460 l 0:16.580 i 24
+F Wind,Ext,Urban,Plastic,Thin,Flutter,Violent.Mono.wav 20192572 0 1583868576 0
+D y 2015-12-16 d "sNOTE=Thin plastic flutters violently   " s 96000 n 1
+D r 13:24.422 l 1:10.075 i 24

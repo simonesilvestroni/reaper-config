@@ -1,0 +1,790 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/TITLES & UI"
+F button-1.wav 35324 0 1583930913 0
+D s 44100 n 1 l 0:00.400 i 16
+F button-10.wav 14472 0 1583930913 0
+D s 44100 n 1 l 0:00.163 i 16
+F button-11.wav 14472 0 1583930913 0
+D s 44100 n 1 l 0:00.163 i 16
+F button-12.wav 38682 0 1583930913 0
+D s 44100 n 1 l 0:00.438 i 16
+F button-13.wav 23416 0 1583930913 0
+D s 44100 n 1 l 0:00.264 i 16
+F button-14.wav 30572 0 1583930913 0
+D s 44100 n 1 l 0:00.346 i 16
+F button-15.wav 39696 0 1583930913 0
+D s 48000 n 2 l 0:00.206 i 16
+F button-16.wav 31852 0 1583930825 0
+D s 48000 n 2 l 0:00.165 i 16
+F button-17.wav 69252 0 1583930825 0
+D s 48000 n 2 l 0:00.360 i 16
+F button-18.wav 70960 0 1583930825 0
+D s 48000 n 2 l 0:00.369 i 16
+F button-19.wav 30308 0 1583930825 0
+D s 48000 n 2 l 0:00.157 i 16
+F button-2.wav 230918 0 1583930825 0
+D s 44100 n 1 l 0:02.617 i 16
+F button-20.wav 40364 0 1583930825 0
+D s 48000 n 2 l 0:00.210 i 16
+F button-21.wav 57416 0 1583930825 0
+D s 48000 n 2 l 0:00.298 i 16
+F button-22.wav 72696 0 1583930825 0
+D s 48000 n 2 l 0:00.378 i 16
+F button-23.wav 54400 0 1583930825 0
+D s 48000 n 2 l 0:00.282 i 16
+F button-24.wav 29252 0 1583930825 0
+D s 48000 n 2 l 0:00.151 i 16
+F button-25.wav 65608 0 1583930825 0
+D s 48000 n 2 l 0:00.341 i 16
+F button-26.wav 62260 0 1583930825 0
+D s 48000 n 2 l 0:00.323 i 16
+F button-27.wav 62260 0 1583930825 0
+D s 48000 n 2 l 0:00.323 i 16
+F button-28.wav 59044 0 1583930825 0
+D s 48000 n 2 l 0:00.307 i 16
+F button-29.wav 52792 0 1583930825 0
+D s 48000 n 2 l 0:00.274 i 16
+F button-3.wav 11968 0 1583930825 0
+D s 44100 n 1 l 0:00.135 i 16
+F button-30.wav 51928 0 1583930932 0
+D s 48000 n 2 l 0:00.270 i 16
+F button-31.wav 57574 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F button-32.wav 57574 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F button-33.wav 57574 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F button-34.wav 57574 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F button-35.wav 57574 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.213
+D i 24
+F button-36.wav 47104 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F button-37.wav 104626 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.391
+D i 24
+F button-38.wav 47104 0 1583930932 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F button-39.wav 74518 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.277
+D i 24
+F button-4.wav 34508 0 1583930934 0
+D s 44100 n 1 l 0:00.390 i 16
+F button-40.wav 47104 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F button-41.wav 47104 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.173
+D i 24
+F button-42.wav 72124 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.268
+D i 24
+F button-43.wav 104626 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.391
+D i 24
+F button-44.wav 72124 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.268
+D i 24
+F button-45.wav 25852 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.140
+D i 16
+F button-46.wav 21296 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.114
+D i 16
+F button-47.wav 32124 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.175
+D i 16
+F button-48.wav 39596 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.217
+D i 16
+F button-49.wav 51948 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.287
+D i 16
+F button-5.wav 43094 0 1583930934 0
+D s 44100 n 1 l 0:00.488 i 16
+F button-50.wav 25988 0 1583930934 0
+D y 2010-03-30 s 44100 n 2 l 0:00.140
+D i 16
+F button-6.wav 20196 0 1583930934 0
+D s 44100 n 1 l 0:00.228 i 16
+F button-7.wav 17216 0 1583930934 0
+D s 44100 n 1 l 0:00.194 i 16
+F button-8.wav 68734 0 1583930934 0
+D s 44100 n 1 l 0:00.778 i 16
+F button-9.wav 17216 0 1583930934 0
+D s 44100 n 1 l 0:00.194 i 16
+F "Title Airy 01.wav" 1322010 0 1439162055 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.493
+D i 16
+F "Title Airy 02.wav" 1230678 0 1439161144 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.975
+D i 16
+F "Title Airy 03.wav" 1850100 0 1439162930 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.487
+D i 16
+F "Title Airy 04.wav" 1452218 0 1439161977 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.231
+D i 16
+F "Title Bell Whoosh.wav" 828386 0 1439163173 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.695
+D i 16
+F "Title Buzz Bounce.wav" 1211874 0 1439161726 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.869
+D i 16
+F "Title Buzz Distortion 01.wav" 1006214 0 1439163468 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.703
+D i 16
+F "Title Buzz Distortion 02.wav" 1405198 0 1439162043 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.965
+D i 16
+F "Title Buzz Whoosh.wav" 956934 0 1439162809 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.423
+D i 16
+F "Title Chime Descend.wav" 866330 0 1439161864 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.910
+D i 16
+F "Title Chime Distortion 01.wav" 1637274 0 1439163573 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.280
+D i 16
+F "Title Chime Distortion 02.wav" 820234 0 1439162418 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.648
+D i 16
+F "Title Chime Flange 01.wav" 993494 0 1439161779 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.631
+D i 16
+F "Title Chime Flange 02.wav" 995086 0 1439161881 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.640
+D i 16
+F "Title Chime Hit.wav" 810026 0 1439161457 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.591
+D i 16
+F "Title Chime Strange.wav" 864866 0 1439162070 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.901
+D i 16
+F "Title Chime Sweep.wav" 1779540 0 1439161813 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.087
+D i 16
+F "Title Chime Wash.wav" 1684166 0 1439162743 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.546
+D i 16
+F "Title Chime Wipe.wav" 836126 0 1439162240 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.739
+D i 16
+F "Title Chopper Distortion.wav" 881482 0 1439163172 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.996
+D i 16
+F "Title Chopper Phase.wav" 927194 0 1439161942 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.255
+D i 16
+F "Title Clean Swirl Hit 01.wav" 1425766 0 1439162290 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.081
+D i 16
+F "Title Clean Swirl Hit 02.wav" 1532530 0 1439161919 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.686
+D i 16
+F "Title Clean Swirl Hit 03.wav" 1550878 0 1439161511 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.790
+D i 16
+F "Title Crystal Descend 01.wav" 1038894 0 1439161718 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.888
+D i 16
+F "Title Crystal Descend 02.wav" 1249014 0 1439163087 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.079
+D i 16
+F "Title Crystal Distortion 01.wav" 1089258 0 1439161314 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.174
+D i 16
+F "Title Crystal Distortion 02.wav" 980346 0 1439162074 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.556
+D i 16
+F "Title Crystal Flange.wav" 1473550 0 1439163584 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.352
+D i 16
+F "Title Crystal Hit 01.wav" 653626 0 1439163023 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.704
+D i 16
+F "Title Crystal Hit 02.wav" 1267786 0 1439161001 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.186
+D i 16
+F "Title Crystal Phaser.wav" 2151624 0 1439161957 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.196
+D i 16
+F "Title Crystal Sweep 01.wav" 977598 0 1439163383 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.541
+D i 16
+F "Title Crystal Sweep 02.wav" 1516426 0 1439162430 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.595
+D i 16
+F "Title Crystal Sweep 03.wav" 1053502 0 1439161655 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.971
+D i 16
+F "Title Crystal Sweep 04.wav" 1033902 0 1439163599 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.860
+D i 16
+F "Title Crystal Sweep 05.wav" 1470370 0 1439162562 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.334
+D i 16
+F "Title Crystal Sweep 06.wav" 1548258 0 1439161807 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.776
+D i 16
+F "Title Crystal Sweep 07.wav" 1010978 0 1439161004 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.730
+D i 16
+F "Title Crystal Sweep 08.wav" 1143050 0 1439162787 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.478
+D i 16
+F "Title Crystal Sweep 09.wav" 1146042 0 1439161944 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.495
+D i 16
+F "Title Crystal Sweep 10.wav" 1476522 0 1439163071 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.369
+D i 16
+F "Title Crystal Sweep 11.wav" 1145302 0 1439162166 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.491
+D i 16
+F "Title Crystal Sweep 12.wav" 1441754 0 1439161361 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.172
+D i 16
+F "Title Crystal Whoosh 01.wav" 991510 0 1439161033 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.619
+D i 16
+F "Title Crystal Whoosh 02.wav" 1163866 0 1439163748 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.596
+D i 16
+F "Title Crystal Whoosh 03.wav" 949782 0 1439163589 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.383
+D i 16
+F "Title Crystal Whoosh 04.wav" 1448114 0 1439163482 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.208
+D i 16
+F "Title Crystal Whoosh 05.wav" 879446 0 1439163349 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.984
+D i 16
+F "Title Dark Drag.wav" 959322 0 1439162609 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.437
+D i 16
+F "Title Dark Slide.wav" 1461386 0 1439162191 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.283
+D i 16
+F "Title Digital Ascend 01.wav" 968858 0 1439163089 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.491
+D i 16
+F "Title Digital Ascend 02.wav" 768570 0 1439163005 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.356
+D i 16
+F "Title Digital Ascend 03.wav" 675582 0 1439162901 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.828
+D i 16
+F "Title Digital Buzz.wav" 899880 0 1439161903 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.100
+D i 16
+F "Title Digital Crystal.wav" 1367774 0 1439161037 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.752
+D i 16
+F "Title Digital Descend.wav" 1594358 0 1439163604 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.037
+D i 16
+F "Title Digital Flange.wav" 1102342 0 1439163090 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.248
+D i 16
+F "Title Digital Hit.wav" 757842 0 1439161382 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.295
+D i 16
+F "Title Digital Sweep.wav" 1462422 0 1439161798 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.289
+D i 16
+F "Title Digital Swing.wav" 1033626 0 1439163250 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.858
+D i 16
+F "Title Digital Whoosh.wav" 1123594 0 1439161699 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.368
+D i 16
+F "Title Distortion Feedback.wav" 805666 0 1439163275 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.566
+D i 16
+F "Title Distortion Hit.wav" 932162 0 1439161149 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.283
+D i 16
+F "Title Distortion Sweep.wav" 1542946 0 1439163281 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.745
+D i 16
+F "Title Distortion Tone.wav" 1319950 0 1439162267 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.481
+D i 16
+F "Title Electric Sweep 01.wav" 662466 0 1439161283 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.754
+D i 16
+F "Title Electric Sweep 02.wav" 1604798 0 1439161185 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.096
+D i 16
+F "Title Electric Whoosh.wav" 845714 0 1439162438 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.793
+D i 16
+F "Title Element Phaser Whoosh Rear To Front Bouncing 01.wav" 1277514 0 1439163679 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.241
+D i 16
+F "Title Feedback Ascend.wav" 1353930 0 1439161280 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.674
+D i 16
+F "Title Feedback Sweep.wav" 1375742 0 1439163701 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.798
+D i 16
+F "Title Feedback Whoosh.wav" 1304138 0 1439161684 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.392
+D i 16
+F "Title Flange Descend.wav" 1493546 0 1439161924 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.465
+D i 16
+F "Title Flange Down.wav" 855202 0 1439163006 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.847
+D i 16
+F "Title Flange Drone Sweep.wav" 1452374 0 1439162494 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.232
+D i 16
+F "Title Flange Feedback Down.wav" 2194756 0 1439161465 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.441
+D i 16
+F "Title Flange Feedback.wav" 1042774 0 1439162713 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.910
+D i 16
+F "Title Flange Hit 01.wav" 918026 0 1439161144 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.203
+D i 16
+F "Title Flange Hit 02.wav" 966282 0 1439163464 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.476
+D i 16
+F "Title Flange Squeak.wav" 968858 0 1439161905 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.491
+D i 16
+F "Title Flange Sweep 01.wav" 1464010 0 1439160971 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.298
+D i 16
+F "Title Flange Sweep 02.wav" 950578 0 1439161084 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.387
+D i 16
+F "Title Flange Sweep 03.wav" 948986 0 1439161153 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.378
+D i 16
+F "Title Flange Sweep 04.wav" 937486 0 1439161300 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.313
+D i 16
+F "Title Flange Sweep 05.wav" 976950 0 1439161402 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.537
+D i 16
+F "Title Flange Sweep 06.wav" 1536334 0 1439161562 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.708
+D i 16
+F "Title Flange Sweep 07.wav" 990314 0 1439161727 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.613
+D i 16
+F "Title Flange Sweep 08.wav" 1005006 0 1439161829 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.696
+D i 16
+F "Title Flange Sweep Hit.wav" 1061850 0 1439162788 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.018
+D i 16
+F "Title Flange Swell.wav" 829374 0 1439162816 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.700
+D i 16
+F "Title Flange Up Down.wav" 1550438 0 1439163203 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.788
+D i 16
+F "Title Flange Whoosh High.wav" 1457650 0 1439161676 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.262
+D i 16
+F "Title Flange Whoosh Low.wav" 2360980 0 1439161102 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:13.383
+D i 16
+F "Title Flange Whoosh.wav" 819978 0 1439162274 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.647
+D i 16
+F "Title Flutter Crystal.wav" 980778 0 1439161105 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.559
+D i 16
+F "Title Flutter Hit 01.wav" 1143570 0 1439162792 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.481
+D i 16
+F "Title Flutter Hit 02.wav" 1224394 0 1439163539 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.940
+D i 16
+F "Title Flutter Hit 03.wav" 1336818 0 1439161328 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.577
+D i 16
+F "Title Flutter Pop.wav" 990714 0 1439161563 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.615
+D i 16
+F "Title Flutter Tone.wav" 1356130 0 1439162420 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.686
+D i 16
+F "Title Flutter Whoosh.wav" 1057622 0 1439162376 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.994
+D i 16
+F "Title Hit Buzz 01.wav" 825798 0 1439163174 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.680
+D i 16
+F "Title Hit Buzz 02.wav" 849094 0 1439163641 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.812
+D i 16
+F "Title Hit Cute.wav" 1240758 0 1439161314 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.032
+D i 16
+F "Title Hit Feedback.wav" 1084358 0 1439163026 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.146
+D i 16
+F "Title Hit Ring.wav" 1564950 0 1439161855 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.870
+D i 16
+F "Title Hit Thick.wav" 1227734 0 1439161905 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.959
+D i 16
+F "Title Hollow Buzz.wav" 993494 0 1439163557 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.631
+D i 16
+F "Title Laser Buzz.wav" 831538 0 1439162810 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.713
+D i 16
+F "Title Laser Descend .wav" 1712778 0 1439162579 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.708
+D i 16
+F "Title Laser Echo.wav" 1541106 0 1439162714 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.735
+D i 16
+F "Title Laser Hit 01.wav" 932090 0 1439162744 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.283
+D i 16
+F "Title Laser Hit 02.wav" 1734810 0 1439162167 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.833
+D i 16
+F "Title Magic Reveal.wav" 1341118 0 1439161693 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.601
+D i 16
+F "Title Magic Swirl.wav" 1341118 0 1439161113 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.601
+D i 16
+F "Title Metal Buzz Hit.wav" 937030 0 1439162157 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.311
+D i 16
+F "Title Metal Chime Sweep.wav" 1513286 0 1439162242 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.577
+D i 16
+F "Title Metal Chime.wav" 995086 0 1439161728 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.640
+D i 16
+F "Title Metal Creak.wav" 1802464 0 1439162972 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.217
+D i 16
+F "Title Metal Feedback 01.wav" 1575278 0 1439161106 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.929
+D i 16
+F "Title Metal Feedback 02.wav" 1490630 0 1439161052 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.449
+D i 16
+F "Title Metal Hit 01.wav" 1411354 0 1439161499 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.000
+D i 16
+F "Title Metal Hit 02.wav" 1736498 0 1439161034 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.843
+D i 16
+F "Title Metal Shimmer.wav" 1798884 0 1439162139 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.196
+D i 16
+F "Title Metal Slam 01.wav" 1720522 0 1439162543 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.752
+D i 16
+F "Title Metal Slam 02.wav" 1521698 0 1439162071 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.625
+D i 16
+F "Title Metal Stab.wav" 1096962 0 1439161149 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.217
+D i 16
+F "Title Metal Sweep 01.wav" 1458578 0 1439162082 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.267
+D i 16
+F "Title Metal Sweep 02.wav" 1567334 0 1439162714 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.884
+D i 16
+F "Title Metal Sweep 03.wav" 1365454 0 1439163470 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.739
+D i 16
+F "Title Metal Sweep 04.wav" 1493546 0 1439161284 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.465
+D i 16
+F "Title Metal Sweep Low.wav" 1621062 0 1439162141 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.188
+D i 16
+F "Title Metal Twist.wav" 1621062 0 1439162990 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:09.188
+D i 16
+F "Title Phase Ascend.wav" 1087794 0 1439161301 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.165
+D i 16
+F "Title Phase Hit 01.wav" 985550 0 1439162563 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.586
+D i 16
+F "Title Phase Hit 02.wav" 822222 0 1439162046 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.660
+D i 16
+F "Title Phase Sweep.wav" 1301478 0 1439162407 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.377
+D i 16
+F "Title Pulse Buzz.wav" 883018 0 1439161739 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.004
+D i 16
+F "Title Pulse Distortion.wav" 1521390 0 1439161145 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.623
+D i 16
+F "Title Pulse Feedback.wav" 666238 0 1439162760 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.775
+D i 16
+F "Title Pulse Ring.wav" 1919952 0 1439162080 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:10.883
+D i 16
+F "Title Pulse Sweep.wav" 959322 0 1439163054 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.437
+D i 16
+F "Title Pulse Whoosh.wav" 961706 0 1439162094 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.450
+D i 16
+F "Title Reverse Fat.wav" 1213490 0 1439161278 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.878
+D i 16
+F "Title Reverse Feedback 01.wav" 1341118 0 1439161098 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.601
+D i 16
+F "Title Reverse Feedback 02.wav" 1341118 0 1439162764 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.601
+D i 16
+F "Title Reverse Stutter.wav" 2036928 0 1439162840 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.546
+D i 16
+F "Title Reverse Thin.wav" 971410 0 1439163641 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.505
+D i 16
+F "Title Reverse Twist.wav" 1227734 0 1439162983 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.959
+D i 16
+F "Title Reverse Whine.wav" 1292114 0 1439161038 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.324
+D i 16
+F "Title Ring Drone.wav" 1467798 0 1439162336 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.319
+D i 16
+F "Title Ring Phase.wav" 1493546 0 1439162549 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.465
+D i 16
+F "Title Spin Distortion.wav" 2167864 0 1439161572 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:12.288
+D i 16
+F "Title Sweep Distortion.wav" 1143462 0 1439163072 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.481
+D i 16
+F "Title Sweep Flange Crystal.wav" 1986980 0 1439163750 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:11.263
+D i 16
+F "Title Sweep Flange.wav" 1580050 0 1439161719 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.956
+D i 16
+F "Title Sweep Hum.wav" 996438 0 1439162008 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.647
+D i 16
+F "Title Sweep Pad.wav" 871098 0 1439163666 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.937
+D i 16
+F "Title Sweep Phase 01.wav" 1347710 0 1439161920 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.639
+D i 16
+F "Title Sweep Phase 02.wav" 1516466 0 1439162501 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.595
+D i 16
+F "Title Sweep Phase 03.wav" 881830 0 1439163187 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.998
+D i 16
+F "Title Sweep Ring.wav" 1513286 0 1439163484 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.577
+D i 16
+F "Title Sweep Small.wav" 818118 0 1439161150 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.636
+D i 16
+F "Title Swell Hollow.wav" 1531566 0 1439161496 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.681
+D i 16
+F "Title Swell.wav" 1052922 0 1439161821 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.968
+D i 16
+F "Title Tear Hit.wav" 1154710 0 1439162336 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.545
+D i 16
+F "Title Tone Crystal.wav" 785262 0 1439162462 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.450
+D i 16
+F "Title Warble Ascend 01.wav" 665450 0 1439163053 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:03.771
+D i 16
+F "Title Warble Ascend 02.wav" 1157966 0 1439162157 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.563
+D i 16
+F "Title Warble Ascend 03.wav" 1367046 0 1439161335 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.748
+D i 16
+F "Title Warble Bounce 01.wav" 958102 0 1439163385 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.430
+D i 16
+F "Title Warble Bounce 02.wav" 921478 0 1439162433 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.222
+D i 16
+F "Title Warble Bounce 03.wav" 1490422 0 1439161645 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.448
+D i 16
+F "Title Warble Crystal.wav" 887790 0 1439162873 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.031
+D i 16
+F "Title Warble Hit Small.wav" 1148154 0 1439162732 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.507
+D i 16
+F "Title Warble Hit.wav" 718498 0 1439163605 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.072
+D i 16
+F "Title Warble Move.wav" 770574 0 1439161151 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.367
+D i 16
+F "Title Warble Sweep.wav" 959322 0 1439162958 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.437
+D i 16
+F "Title Warble Tones.wav" 1195550 0 1439162603 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.776
+D i 16
+F "Title Whine Sweep.wav" 1250506 0 1439161905 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.088
+D i 16
+F "Title Whine.wav" 981742 0 1439161814 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.564
+D i 16
+F "Title Whip.wav" 1128998 0 1439161132 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.399
+D i 16
+F "Title Whoosh Buzz.wav" 1503014 0 1439161984 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.519
+D i 16
+F "Title Whoosh Crystal.wav" 734594 0 1439161694 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.163
+D i 16
+F "Title Whoosh Dark Ring.wav" 1368526 0 1439161291 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.757
+D i 16
+F "Title Whoosh Digital.wav" 1145874 0 1439161302 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.494
+D i 16
+F "Title Whoosh Echo.wav" 1498610 0 1439163187 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.494
+D i 16
+F "Title Whoosh Feedback.wav" 1513286 0 1439161827 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.577
+D i 16
+F "Title Whoosh Flange 01.wav" 1348542 0 1439161731 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.643
+D i 16
+F "Title Whoosh Flange 03.wav" 1292262 0 1439162684 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.324
+D i 16
+F "Title Whoosh Flutter.wav" 1551134 0 1439162441 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.792
+D i 16
+F "Title Whoosh Hit 01.wav" 1372974 0 1439162031 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.782
+D i 16
+F "Title Whoosh Hit 02.wav" 786054 0 1439161564 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:04.455
+D i 16
+F "Title Whoosh Hit 03.wav" 896534 0 1439161103 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.081
+D i 16
+F "Title Whoosh Hit Small.wav" 981974 0 1439162604 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.565
+D i 16
+F "Title Whoosh Hollow.wav" 1183610 0 1439161490 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.708
+D i 16
+F "Title Whoosh Metal.wav" 1542350 0 1439161626 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.742
+D i 16
+F "Title Whoosh Phaser.wav" 1554286 0 1439163103 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.810
+D i 16
+F "Title Whoosh Ping.wav" 999854 0 1439161995 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.667
+D i 16
+F "Title Whoosh Ring Descend 01.wav" 1566318 0 1439162095 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.878
+D i 16
+F "Title Whoosh Ring Descend 02.wav" 1329818 0 1439163452 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.537
+D i 16
+F "Title Whoosh Spin.wav" 1404142 0 1439162112 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.959
+D i 16
+F "Title Whoosh Squeak.wav" 1398214 0 1439162338 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.925
+D i 16
+F "Title Whoosh Sweep.wav" 996278 0 1439161260 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.646
+D i 16
+F "Title Whoosh Tone 01.wav" 1143462 0 1439161301 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:06.481
+D i 16
+F "Title Whoosh Tone 02.wav" 1314482 0 1439161922 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:07.450
+D i 16
+F "Title Whoosh Tone 03.wav" 1533950 0 1439162501 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.694
+D i 16
+F "Title Whoosh Whine.wav" 1577634 0 1439163055 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.942
+D i 16
+F "Title Whoosh Whistle.wav" 1557794 0 1439162542 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.830
+D i 16
+F "Title Zip Flutter.wav" 968098 0 1439161876 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:05.487
+D i 16
+F "Title Zip Sweep.wav" 1556206 0 1439161546 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:08.821
+D i 16
+F "UI - starter.wav" 178398 0 1129393794 0
+D y 2005-10-15 s 44100 n 2 l 0:01.010
+D i 16
+F "UI - starter10.wav" 1093854 0 1129394150 0
+D y 2005-10-15 s 44100 n 2 l 0:06.199
+D i 16
+F "UI - starter11.wav" 938206 0 1129394176 0
+D y 2005-10-15 s 44100 n 2 l 0:05.317
+D i 16
+F "UI - starter2.wav" 327798 0 1129393838 0
+D y 2005-10-15 s 44100 n 2 l 0:01.857
+D i 16
+F "UI - starter3.wav" 667766 0 1129393862 0
+D y 2005-10-15 s 44100 n 2 l 0:03.784
+D i 16
+F "UI - starter4.wav" 311518 0 1129393896 0
+D y 2005-10-15 s 44100 n 2 l 0:01.764
+D i 16
+F "UI - starter5.wav" 475830 0 1129393934 0
+D y 2005-10-15 s 44100 n 2 l 0:02.696
+D i 16
+F "UI - starter6.wav" 455902 0 1129393978 0
+D y 2005-10-15 s 44100 n 2 l 0:02.583
+D i 16
+F "UI - starter7.wav" 858182 0 1134576026 0
+D y 2005-10-15 s 44100 n 2 l 0:04.863
+D i 16
+F "UI - starter8.wav" 475358 0 1129394036 0
+D y 2005-10-15 s 44100 n 2 l 0:02.693
+D i 16
+F "UI - starter9.wav" 1388766 0 1129394088 0
+D y 2005-10-15 s 44100 n 2 l 0:07.871
+D i 16

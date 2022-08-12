@@ -1,0 +1,134 @@
+C10017 "/Volumes/LIBRARY/AudioThing/Fog Convolver Factory Bank/Samples/Objects"
+F "Aluminium Foil 1.wav" 360936 0 1424702221 0
+D t "Aluminium Foil (A)" s 48000 n 2 l 0:01.252
+D i 24
+F "Aluminium Foil 2.wav" 697398 0 1424702222 0
+D t "Aluminium Foil (B)" s 48000 n 2 l 0:02.418
+D i 24
+F "Aluminium Foil 3.wav" 702516 0 1424702222 0
+D t "Aluminium Foil (C)" s 48000 n 2 l 0:02.439
+D i 24
+F "Aluminium Foil 4.wav" 262152 0 1424702222 0
+D t "Aluminium Foil (D)" s 48000 n 2 l 0:00.909
+D i 24
+F "Aluminium Foil 5.wav" 262152 0 1424702222 0
+D t "Aluminium Foil (E)" s 48000 n 2 l 0:00.909
+D i 24
+F "Balloon (hit).wav" 492506 0 1433158773 0
+D s 48000 n 2 l 0:01.709 i 24
+F "Balloon (water 1).wav" 871718 0 1433158694 0
+D s 48000 n 2 l 0:03.026 i 24
+F "Balloon (water 2).wav" 559022 0 1433158728 0
+D s 48000 n 2 l 0:01.940 i 24
+F "Bike Wheel (bow).wav" 1144630 0 1425322190 0
+D t "Bike Wheel (bow)" s 48000 n 2 l 0:03.974
+D i 24
+F "Bike Wheel (brushes 1).wav" 575308 0 1425322191 0
+D t "Bike Wheel (brushes 1)" s 48000 n 2 l 0:01.997
+D i 24
+F "Bike Wheel (brushes 2).wav" 526348 0 1425322191 0
+D t "Bike Wheel (brushes 2)" s 48000 n 2 l 0:01.827
+D i 24
+F "Bike Wheel (hit 1).wav" 1036542 0 1425322190 0
+D t "Bike Wheel (hit 1)" s 48000 n 2 l 0:03.598
+D i 24
+F "Bike Wheel (hit 2).wav" 928284 0 1425322192 0
+D t "Bike Wheel (hit 2)" s 48000 n 2 l 0:03.222
+D i 24
+F "Bike Wheel (hit 3).wav" 994896 0 1425322193 0
+D t "Bike Wheel (hit 3)" s 48000 n 2 l 0:03.454
+D i 24
+F "Cassette Case.wav" 76722 0 1424700404 0
+D t "Cassette Case" s 48000 n 2 l 0:00.266
+D i 24
+F "Cocktail Sticks 1.wav" 235944 0 1424785089 0
+D t "Cocktail Sticks (A)" s 48000 n 2 l 0:00.818
+D i 24
+F "Cocktail Sticks 2.wav" 288258 0 1424785090 0
+D t "Cocktail Sticks (B)" s 48000 n 2 l 0:01.000
+D i 24
+F "Colander 1.wav" 223680 0 1424700404 0
+D t "Colander (A)" s 48000 n 2 l 0:00.776
+D i 24
+F "Colander 2.wav" 199350 0 1424700404 0
+D t "Colander (B)" s 48000 n 2 l 0:00.691
+D i 24
+F "Crisps Can (big).wav" 254352 0 1432477210 0
+D t harp s 48000 n 2 l 0:00.882
+D i 24
+F "Crisps Can (small).wav" 293154 0 1432477283 0
+D t harp s 48000 n 2 l 0:01.017
+D i 24
+F Fridge.wav 191400 0 1431982434 0
+D t STE-000.10 s 48000 n 2 l 0:00.664
+D i 24
+F "Metal Lid (bow).wav" 2498402 0 1425344869 0
+D s 48000 n 2 l 0:08.674 i 24
+F "Metal Lid (hit).wav" 3533180 0 1425344807 0
+D s 48000 n 2 l 0:12.267 i 24
+F "Metal Shelf (bow 1).wav" 1190590 0 1426090691 0
+D t "shelf bow 1" s 48000 n 2 l 0:04.133
+D i 24
+F "Metal Shelf (bow 2).wav" 1362256 0 1426090691 0
+D t "shelf bow 2" s 48000 n 2 l 0:04.729
+D i 24
+F "Metal Shelf (hit 1).wav" 1943142 0 1426090559 0
+D t "Metal Shelf (hit 1)" s 48000 n 2 l 0:06.746
+D i 24
+F "Metal Shelf (hit 2).wav" 1302384 0 1426090559 0
+D t "Metal Shelf (hit 2)" s 48000 n 2 l 0:04.521
+D i 24
+F Microwave.wav 402896 0 1431982435 0
+D t STE-000.5 s 48000 n 2 l 0:01.398
+D i 24 m 3
+F Oven.wav 899394 0 1431982435 0
+D t STE-000.12 s 48000 n 2 l 0:03.122
+D i 24
+F "Packing Peanuts 1.wav" 810526 0 1425322191 0
+D t "Packing Peanuts 1" s 48000 n 2 l 0:02.814
+D i 24
+F "Packing Peanuts 2.wav" 1046122 0 1425322192 0
+D t "Packing Peanuts 2" s 48000 n 2 l 0:03.632
+D i 24
+F "Paper 1.wav" 161042 0 1424702223 0
+D t "Paper (A)" s 48000 n 2 l 0:00.558
+D i 24
+F "Paper 2.wav" 123500 0 1424702223 0
+D t "Paper (B)" s 48000 n 2 l 0:00.428
+D i 24
+F "Paper 3.wav" 113684 0 1424702223 0
+D t "Paper (C)" s 48000 n 2 l 0:00.394
+D i 24
+F "Paper 4.wav" 106076 0 1424702224 0
+D t "Paper (D)" s 48000 n 2 l 0:00.368
+D i 24
+F "Plastic Container (big).wav" 30694 0 1424700404 0
+D t "Plastic Container (big)" s 48000 n 2 l 0:00.106
+D i 24
+F "Plastic Container (small).wav" 36796 0 1424700404 0
+D t "Plastic Container (small)" s 48000 n 2 l 0:00.127
+D i 24
+F Rod.wav 425156 0 1432579209 0
+D t rod s 48000 n 2 l 0:01.475
+D i 24 m 2
+F "Slinky Spring (big).wav" 2327334 0 1425348126 0
+D t "Slinky Spring (big)" s 48000 n 1 l 0:16.161
+D i 24
+F "Slinky Spring (small).wav" 1378868 0 1425348126 0
+D t "Slinky Spring (small)" s 48000 n 1 l 0:09.574
+D i 24
+F "Swing Top Bottle.wav" 121640 0 1427477814 0
+D t "CB Radio" s 48000 n 2 l 0:00.422
+D i 24
+F "Telephone (rotary dial).wav" 532976 0 1427477901 0
+D t "CB Radio" s 48000 n 2 l 0:01.850
+D i 24
+F "Toaster 1.wav" 665128 0 1424883910 0
+D t tostapane.3 s 48000 n 2 l 0:02.309
+D i 24
+F "Toaster 2.wav" 364702 0 1424883910 0
+D t tostapane.7 s 48000 n 2 l 0:01.266
+D i 24
+F Typewriter.wav 384956 0 1432034352 0
+D y 2015-05-19 s 48000 n 2 r 1:00:10.005
+D l 0:01.334 i 24

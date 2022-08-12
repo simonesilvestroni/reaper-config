@@ -1,0 +1,14 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundHolder -  Renault Master II 2.8dTi"
+F "Renault Master 28dTi Engine 1_4 Acceleration High Speed Interior StereoM10.wav" 35778392 0 1583868958 0
+D y 2016-02-2 d "renault, master, diesel, engine, drive, driving, car, vehicle, acceleration, high, speed, interior" s 96000 n 2
+D r 6:02.325 l 1:01.781 i 24
+F "Renault Master 28dTi Exterior Passby Medium Speed StereoM10.wav" 17298230 0 1583868496 0
+D y 2016-02-1 d "renault, master, diesel, passby, exterior, car, vehicle, medium" s 96000 n 2
+D r 5:10.400 l 0:29.866 i 24
+F "Renault Master 28dTi Foley Passenger Doors Open Mono.wav" 5228988 0 1583868792 0
+D y 2016-02-2 d "renault, master, diesel, foley, car, vehicle, door, open" s 96000 n 1
+D l 0:18.048 i 24
+F "Renault Master 28dTi RAW Engine 1_3 Accelerations Wind Mono Mic1.wav" 20509696 0 1583869011 0
+D a "Renault Master II 2.8dTi" y 2016-02-2 g Vehicle d "renault, master, diesel, engine, drive, driving, car, vehicle, acceleration, wind"
+D s 96000 n 1 r 4:51.498 l 1:10.826
+D i 24

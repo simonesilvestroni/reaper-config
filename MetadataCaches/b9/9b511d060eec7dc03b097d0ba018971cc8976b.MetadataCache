@@ -1,0 +1,25 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] PMSFX SAMPLER Q1 2020/PM Industrial Terror"
+F "PM INT 01.wav" 4273016 0 1537347962 0
+D a "Phil Michalski" y 2018-09-11 g Impacts c "Metalic, Industrial, Impact, Low, LFE, Horror, Clang"
+D d http://pmsfx.com s 96000 n 2 l 0:07.024
+D i 24 m 0
+F "PM INT 37.wav" 8513146 0 1537347963 0
+D a "Phil Michalski" y 2018-09-11 g Impacts c "Metalic, Industrial, Impact, Low, LFE, Horror, Clang"
+D d http://pmsfx.com s 96000 n 2 l 0:14.386
+D i 24 m 0
+F "PM INT 52.wav" 4237830 0 1547821380 0
+D y 2019-01-18 g Impacts c "Metalic, Industrial, Impact, Low, LFE, Horror, Clang, Tremolo, Sttuter " d http://pmsfx.com
+D s 96000 n 2 l 0:06.923 i 24
+D m 0
+F "PM INT 66.wav" 28160552 0 1537905550 0
+D a "Phil Michalski" y 2018-09-25 g Impacts c "Metalic, Industrial, Riser, Reversed, PitchUp"
+D d http://pmsfx.com s 96000 n 2 l 0:48.239
+D i 24 m 0
+F "PM INT EXC 17.wav" 3003018 0 1536688159 0
+D a http://pmsfx.com y 2018-09-11 g "Metal, Impact, LFE, Industrial, Horror, Evolving, Ringout" c "Metal, Impact, LFE, Industrial, Horror, Evolving, Ringout, Tremolo, Stutter"
+D d http://pmsfx.com s 96000 n 2 l 0:04.815
+D i 24 m 0
+F "PM INT EXC 37.wav" 4645004 0 1536688160 0
+D a http://pmsfx.com y 2018-09-11 g "Metal, Impact, LFE, Industrial, Horror, Evolving, Ringout" c "Metal, Whoosh, LFE, Industrial, Horror, Evolving, Ringout"
+D d http://pmsfx.com s 96000 n 2 l 0:07.666
+D i 24 m 0

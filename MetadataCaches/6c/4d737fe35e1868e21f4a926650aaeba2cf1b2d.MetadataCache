@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Sounds Hunter - Paper Sound Effects"
+F "Grabbing Paper 03.wav" 446906 0 1583867623 0
+D a "Nikhil Kamble" b "Paper Sounds" g "Sound effects" s 48000
+D n 2 l 0:01.551 i 24
+F "Paper Handling and Turning Sequence.wav" 2832554 0 1583867736 0
+D a "Nikhil Kamble" b "Paper Sounds" g "Sound effects" s 48000
+D n 2 l 0:09.834 i 24
+F "Short Crumple 02.wav" 901832 0 1583867345 0
+D t "Short Crumple 02" a "Nikhil Kamble" b "Paper Sounds" g "Sound effects"
+D s 48000 n 2 l 0:03.130 i 24
+F "Tearing 05.wav" 331562 0 1583867346 0
+D a "Nikhil Kamble" b "Paper Sounds" g "Sound effects" s 48000
+D n 2 l 0:01.150 i 24

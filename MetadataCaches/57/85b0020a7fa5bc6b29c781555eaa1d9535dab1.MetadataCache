@@ -1,0 +1,25 @@
+C10017 "/Volumes/LIBRARY/Library/Application Support/Logic/Alchemy Samples/Synth/Single Samples/Wavetables"
+F "Analog Wsx 8 02.wav" 354234 0 1436227745 0
+D y 2009-08-30 s 44100 n 2 r 1:00:00.000
+D l 0:02.000 i 16
+F "Harmonic Bells 01.wav" 4239860 0 1436227745 0
+D y 2011-06-11 s 44100 n 2 r 1:00:00.000
+D l 0:16.000 i 24
+F "Synth Bank C#3.wav" 4239860 0 1436227745 0
+D y 2011-06-11 s 44100 n 2 r 1:00:00.000
+D l 0:16.000 i 24
+F "Wavetable A 01.wav" 1936846 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:21.902
+D i 16
+F "Wavetable A 02.wav" 1955598 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:22.115
+D i 16
+F "Wavetable B 01.wav" 1764274 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:19.946
+D i 16
+F "Wavetable B 02.wav" 2102550 0 1436227745 0
+D a "Martin Walker" s 44100 n 1 l 0:23.781
+D i 16
+F "WT 8 Stroboid C1.wav" 2828586 0 1655744441 0
+D y 2009-04-14 s 44100 n 2 r 1:00:00.000
+D l 0:16.000 i 16

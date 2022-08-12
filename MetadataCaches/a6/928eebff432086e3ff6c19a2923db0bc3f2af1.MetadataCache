@@ -1,0 +1,17 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Soundreorganized - Keeway TX50 Moped"
+F Keeway_Ext_PassBy_2.wav 15400074 0 1583868885 0
+D t "Keeway TX50" a Soundreorganized b "Keeway TX50 Sound Effects Library" y 2016-12-22
+D g "Sound Clip" d "Keeway TX50 Moped Sound Effects Library, Soundreorganized 2016" s 96000 n 2
+D r 3:30.398 l 0:26.732 i 24
+F Keeway_Ext_Start_Idle_WarmingUp_DriveAway.wav 37271334 0 1583868924 0
+D t "Keeway TX50" a Soundreorganized b "Keeway TX50 Sound Effects Library" y 2016-12-22
+D g "Sound Clip" d "Keeway TX50 Moped Sound Effects Library, Soundreorganized 2016" s 96000 n 2
+D r 1:40.479 l 1:04.703 i 24
+F Keeway_Foley_Start_Pedal_Fail.wav 2668926 0 1583868652 0
+D t "Keeway TX50" a Soundreorganized b "Keeway TX50 Sound Effects Library" y 2016-12-22
+D g "Sound Clip" d "Keeway TX50 Moped Sound Effects Library, Soundreorganized 2016" s 96000 n 2
+D r 16:18.800 l 0:04.629 i 24
+F Keeway_OnBoard_Drive_SpeedUp_SlowDown_Shutdown_Engine.wav 23650470 0 1583868637 0
+D t "Keeway TX50" a Soundreorganized b "Keeway TX50 Sound Effects Library" y 2016-12-22
+D g "Sound Clip" d "Keeway TX50 Moped Sound Effects Library, Soundreorganized 2016" s 96000 n 1
+D r 9:19.024 l 1:22.111 i 24

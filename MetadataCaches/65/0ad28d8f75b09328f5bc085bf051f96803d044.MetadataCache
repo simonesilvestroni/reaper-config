@@ -1,0 +1,9 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] PMSFX SAMPLER Q1 2020/PMBB Digital Ilussions"
+F "PM BB DI 1 115BPM Dmin A.wav" 7391312 0 1530477749 0
+D a "Brandon Boone, Phil Michalski" y 2018-07-01 g MUSIC c "Game Audio, Music, Loops Semlessly"
+D d "Game Audio, Music, Loops Semlessly" p 115 k Dmin s 48000
+D n 2 l 0:25.043 i 24 m 0
+F "PM BB DI 3 85BPM Cmin D.wav" 13189608 0 1530477750 0
+D a "Brandon Boone, Phil Michalski" y 2018-07-01 g MUSIC c "Game Audio, Music, Loops Semlessly"
+D d "Game Audio, Music, Loops Semlessly" p 85 k Cmin s 48000
+D n 2 l 0:45.176 i 24 m 0

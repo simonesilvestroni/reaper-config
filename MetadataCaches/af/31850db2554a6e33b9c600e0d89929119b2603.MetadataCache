@@ -1,0 +1,14 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - SoundBits - Electro-Mechanics ToolKit"
+F OldElectricWoodPlane_17.wav 5624242 0 1583868507 0
+D y 2016-05-04 d "Tools, Old Electric Wood Plane, Start, Stop, Two short Bursts, Electric Motor" s 192000 n 2
+D r 10:10.282 l 0:04.880 i 24
+F RotaryCultivator_02.wav 24586150 0 1583868985 0
+D y 2016-05-04 d "Tools, Rotary Cultivator, Engine, Start, Stop, shaping while decelerating" s 192000 n 2
+D r 45:30.977 l 0:21.340 i 24
+F Sewing_Machine_04_03.wav 10944816 0 1583868373 0
+D t 160526_008 a "My Recording" y 2016-05-26 c 0000007D6750434D2D4431303000000000000000000102020001000101000000000000000000000001000000020000000000000000000000000102001401
+D d "Electric Sewing Machine, Idle, Start, Stop, Mechanics" s 96000 n 2 r 3:48.352
+D l 0:18.981 i 24
+F TrainDoor_04.wav 2256576 0 1583868351 0
+D d "Train, Hydraulic Doors, Open, Close" s 96000 n 2 l 0:03.914
+D i 24

@@ -1,0 +1,35 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/AMBIENCE/AMB - NATURE - COUNTRYSIDE"
+F "AMB - COUNTRYSIDE - BIRDS_01.wav" 152255862 0 1547642530 0
+D a "Fox Audio Post-Production" y 2017-04-1 g Ambiences c "ambience, night, birds, cow, cricket"
+D d "ambience, night, birds, cow, cricket" s 96000 n 2 l 4:22.062
+D i 24 m 0
+F "AMB - COUNTRYSIDE - BIRDS_02.wav" 10786322 0 1547642536 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Rural ambience: Light breeze, leaves blowing and birds chirping."
+D d "Nature Ambience,Background,BG, Outdoors," s 44100 n 2 l 0:59.721
+D i 16
+F "AMB - COUNTRYSIDE - BIRDS_03.wav" 131775414 0 1547642558 0
+D y 2017-07-23 d "vineyard evening ambience, hill, very quiet, birds, crickets, take 2, ortf offset 5 m, front - ORTF" s 96000 n 2
+D l 3:48.763 i 24
+F "AMB - COUNTRYSIDE - BIRDS_INSECTS_01.wav" 65518376 0 1547642542 0
+D y 2016-06-2 s 48000 n 2 r 2:26.432
+D l 3:46.133 i 24
+F "AMB - COUNTRYSIDE - CHICKENS_01.wav" 34685738 0 1547642538 0
+D s 48000 n 2 l 2:00.436 i 24
+F "AMB - COUNTRYSIDE - CRICKETS_01.wav" 20529848 0 1547642540 0
+D s 48000 n 2 l 1:11.284 i 24
+F "AMB - COUNTRYSIDE - NIGHT_01.wav" 11075672 0 986317746 0
+D s 44100 n 2 l 1:02.786 i 16
+F "AMB - COUNTRYSIDE - NIGHT_02.wav" 11075672 0 986317746 0
+D s 44100 n 2 l 1:02.786 i 16
+F "AMB - COUNTRYSIDE - SNOWING_WIND_01.wav" 368670090 0 1492001252 0
+D t "Ambisonic Forest - Spring - Soundreorganized" a Soundreorganized y 2017-04-12 c "Forest, Spring, Afternoon, Snowing, LightWind, SmallTrees, Birch, ActiveBirds, Amb, Atmo, Stereo, Finnish, Countryside, Woods"
+D d "Forest, Spring, Afternoon, Snowing, LightWind, SmallTrees, Birch, ActiveBirds, Amb, Atmo, Stereo, Finnish, Countryside, Woods" s 96000 n 2 l 10:40.038
+D i 24
+F "AMB - COUNTRYSIDE - WIND_MEDIUM_01.wav" 64663580 0 1547642550 0
+D s 44100 n 2 l 6:06.573 i 16
+F "Farm Pasture Ambience.mp3" 60976900 0 1583931322 0
+D s 44100 n 2 l 30:46.309 i 264k
+F "Pig Pen Ambience.mp3" 2690820 0 1583931183 0
+D s 44100 n 2 l 1:24.036 i 256k
+F "Quiet Farmland Ambience.mp3" 6057063 0 1583931318 0
+D s 44100 n 2 l 3:09.232 i 256k

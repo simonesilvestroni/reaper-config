@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - Hzandbits - Money"
+F Money,Bills,Hand,Count,Single,relaxed.wav 188029 0 1583866940 0
+D y 2012-12-22 d "sNOTE=Sound of one bill being counted or shuffled in a relaxed manner   " s 96000 n 1
+D r 0:36.180 l 0:00.614 i 24
+F "Money,Coins,Drop In Cash Register.wav" 401047 0 1583868350 0
+D y 2012-12-22 d "sNOTE=Coins dropped in cash register drawer   " s 96000 n 1
+D r 0:19.100 l 0:01.354 i 24
+F Money,Coins,Hand,Count,x4.wav 990501 0 1583868834 0
+D y 2012-12-22 d "sNOTE=4 coins counted by dropping into hand   " s 96000 n 1
+D r 0:23.116 l 0:03.401 i 24
+F Money,Coins,Handle.wav 345731 0 1583869043 0
+D y 2012-12-22 d "sNOTE=Handling coins in hands   " s 96000 n 1
+D r 0:10.127 l 0:01.162 i 24

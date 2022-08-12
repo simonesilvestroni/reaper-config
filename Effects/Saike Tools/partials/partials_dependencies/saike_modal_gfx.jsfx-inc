@@ -1,0 +1,448 @@
+@init
+dbl_click_speed = 0.25;
+
+function reset_font()
+(
+  gfx_setfont(1, "Verdana", 18 * max(1, scaling));
+);
+
+function label_font()
+(
+  gfx_setfont(2, "Verdana", 14 * max(1, scaling));
+);
+
+function hinter.sethint(label)
+instance(hint_time, hint_label, was_over)
+global(delta_time)
+(
+  hint_label = label;
+  hint_time += delta_time;
+  was_over = 1;
+);
+
+function hinter.drawhint()
+instance(hint_time, hint_label, was_over)
+global(gfx_x, gfx_y, gfx_w, gfx_h, mouse_x, mouse_y, scaling)
+local(w, h)
+(
+  !was_over ? hint_time = 0;
+  was_over = 0;
+
+  ( hint_time > 0.75 ) ? (
+    gfx_setfont(7, "Arial", 12 * max(1, scaling));
+    gfx_measurestr(hint_label, w, h);
+      
+    gfx_x = mouse_x+15;
+    gfx_y = mouse_y+15;
+    ( gfx_x > 0.5*gfx_w ) ? gfx_x = mouse_x - w - 8;
+    ( gfx_y > 0.5*gfx_h ) ? gfx_y = mouse_y - h - 8;
+
+    gfx_set( 0.05, 0.05, 0.1, .8 );
+    gfx_rect(gfx_x-2, gfx_y-2, w+4, h+4);
+    gfx_set( .7, .7, .7, 1 );      
+    gfx_printf(hint_label);
+  );
+  reset_font();
+);
+
+function init_knob(_minimum, _maximum, _default, _slider_idx, _vel_slider_idx)
+instance(minimum, maximum, default, slider_idx, vel_slider_idx)
+global()
+(
+  minimum = _minimum;
+  maximum = _maximum;
+  default = _default;
+  slider_idx = _slider_idx;
+  vel_slider_idx = _vel_slider_idx;
+);
+
+function disabled_color()
+global(gfx_r, gfx_g, gfx_b, gfx_a)
+local()
+(
+  gfx_r = gfx_r * 0.04 + 0.16;
+  gfx_g = gfx_g * 0.04 + 0.16;
+  gfx_b = gfx_b * 0.04 + 0.16;
+  gfx_a *= 0.3;
+);
+
+function draw_choice(me, x, y, w, h, slider_idx, hint)
+local(over)
+global(gfx_a, last_cap, mouse_cap, mouse_x, mouse_y, hinter.sethint)
+instance(_x, _y, _w, _h, _me, active)
+(
+  active = me == slider(slider_idx);
+  _x = x; _y = y; _w = w; _h = h; _me = me;
+  over = (mouse_x > x) && (mouse_y > y) && (mouse_x < (x + w)) && (mouse_y < (y + h));
+
+  active ? (
+    colormodel(0); gfx_a = 0.85;
+  ) : (
+    disabled_color();
+  );
+  gfx_rect(x, y, w, h, 0);
+  gfx_rect(x - 1, y - 1, w + 2, h + 2, 0);
+//  gfx_rect(x, y + 1, w - 2, h - 2, 0);
+  
+  gfx_set(0, 0, 0, 0.5);
+  gfx_rect(x + 3, y + 3, w - 7, h - 7, 1);
+  
+  over ? (
+    ((mouse_cap == 1) && (last_cap == 0)) ? (
+      slider_automate(slider(slider_idx) = me);
+    ) : (
+      hinter.sethint(hint);
+    );
+  );
+);
+
+function draw_knob(x, y, r, label, hint, fancy, enabled)
+instance(minimum, maximum, default, slider_idx, vel_slider_idx, lx, ly, last_click, relative_position, _x, _y, _r)
+local(range, dx, dy, rr, ang, over, irange, speed, new_value, cc, velocity_part, velocity_mode)
+global(gfx_x, gfx_y, captured, last_cap, gfx_a, mouse_cap, mouse_x, mouse_y, mouse_wheel, last_mouse_y, dbl_click_speed, hinter.sethint, settings_changed, change_vel_mod)
+(
+  dx = mouse_x - x;
+  dy = mouse_y - y;
+  over = dx * dx + dy * dy < r * r;
+  x = floor(x);
+  y = floor(y);
+  _x = x;
+  _y = y;
+  _r = r;
+  velocity_mode = change_vel_mod && (vel_slider_idx > 0);
+  
+  cc = 1;
+  gfx_set(0, 0, 0, .4);
+  gfx_circle(x, y, r, 1);
+  loop(15,
+    colormodel(pow(cc - cc * cc, 2.5)); gfx_a = 0.85;
+    !enabled ? disabled_color();
+
+    gfx_circle(x, y, r * (0.97 + 0.08 * cc), 0);
+    cc -= 0.05;
+  );
+  
+  range = maximum - minimum;
+  irange = 1.0 / range;
+  relative_position = (slider(slider_idx) - minimum) * irange;
+  velocity_part = 1.5 * min(max(-relative_position, slider(vel_slider_idx) * irange), 1 - relative_position);
+  ang = 1.25 + 1.5 * relative_position;
+  
+  fancy ? (
+    cc = 6;
+    loop(18,
+      colormodel(cc - 0.15 * cc * cc); gfx_a = 0.65;
+      !enabled ? disabled_color();
+      gfx_arc(x, y, ceil(r * (1.05 + 0.02 * cc)), 1.25 * $pi, ang * $pi, 1);
+      cc *= 0.95;
+    );
+    
+    (velocity_part != 0) ? (
+      cc = 6;
+      colormodel(0.03); gfx_a = 0.85;
+      loop(18,
+        gfx_arc(x, y, ceil(r * (1.05 + 0.02 * cc)), ang * $pi, (ang + velocity_part) * $pi, 1);
+        cc *= 0.95;
+      );
+    );
+  );
+
+  gfx_set(0, 0, 0, 0.2);
+  gfx_circle(x, y, r+1, 0);
+  gfx_set(0, 0, 0, 0.05);
+  gfx_circle(x, y, 0.82 * r, 0);
+  gfx_circle(x, y, 0.82 * r + 1, 0);
+  
+  gfx_set(1, 1, 1, 1);
+  gfx_x = x - r;
+  gfx_y = y - r;
+  gfx_drawstr(label, 5, x + r, y + r);
+  
+  over ? (
+    (abs(mouse_wheel) > 0) ? (
+      speed = 0.0002;
+      (mouse_cap & 4 > 0) ? speed *= 0.5;
+      (mouse_cap & 8 > 0) ? speed *= 0.25;
+      velocity_mode ? (
+        new_value = min(max(slider(vel_slider_idx) + speed * mouse_wheel * range, -range), range);
+        slider_automate(slider(vel_slider_idx) = new_value);
+      ) : (
+        new_value = min(max(slider(slider_idx) + speed * mouse_wheel * (maximum - minimum), minimum), maximum);
+        slider_automate(slider(slider_idx) = new_value);
+      );
+      mouse_wheel = 0;
+      settings_changed = 1;
+    );
+  );
+
+  (mouse_cap & 1) ? (
+    (last_cap & 1 == 0) ? (
+      over ? (
+        ((time_precise() - last_click) < dbl_click_speed) ? (
+          velocity_mode ? (
+            slider_automate(slider(vel_slider_idx) = 0);
+          ) : (
+            slider_automate(slider(slider_idx) = default);
+          );
+          settings_changed = 1;
+        ) : (
+          last_click = time_precise();
+          captured = slider_idx;      
+        );
+      );
+    ) : ( captured == slider_idx ) ? (
+      speed = 0.004;
+      (mouse_cap & 4 > 0) ? speed *= 0.25;
+      (mouse_cap & 8 > 0) ? speed *= 0.025;
+      dy = ly - mouse_y;
+      velocity_mode ? (
+        new_value = min(max(slider(vel_slider_idx) + speed * dy * range, -range), range);
+        slider_automate(slider(vel_slider_idx) = new_value);
+      ) : (
+        new_value = min(max(slider(slider_idx) + speed * dy * range, minimum), maximum);
+        slider_automate(slider(slider_idx) = new_value);
+      );
+      settings_changed = 1;
+    );
+  ) : (
+    over ? hinter.sethint(hint);
+  );
+  
+  // Highlight if knob can be made velocity dependent
+  velocity_mode ? (
+    colormodel(1.0);
+    gfx_a = 0.2 * abs(sin(3 * time_precise()));
+    gfx_circle(x, y, 1.1 * r, 1);
+  );
+  
+  ly = mouse_y;
+  
+  over
+);
+
+function drawToggle(_x, _y, _w, _h, _on, _str)
+local(ww, hh)
+instance(x, y, w, h, str, on, invert, label)
+global(gfx_x, gfx_y, gfx_a, gfx_mode, 
+       TOGGLE_FONT, knob_font_color_r, knob_font_color_g, knob_font_color_b, knob_font_color_a)
+(
+  x = _x;
+  y = _y;
+  w = _w;
+  h = _h;
+  on = _on;
+  str = _str;
+
+  gfx_set(0, 0, 0, 0);
+  gfx_rect(x, y, w, h);
+  
+  colormodel(on * 0.3);
+  gfx_rect(x, y, w, h);
+  
+  colormodel(on * 0.3); gfx_a = 0.3;
+  gfx_line(x, y, x+w, y);
+  gfx_line(x, y, x, y+h);
+  gfx_line(x+w, y, x+w, y+h);
+  gfx_line(x, y+h, x+w, y+h);
+
+  ( label ) ? (
+    gfx_set(knob_font_color_r, knob_font_color_g, knob_font_color_b, knob_font_color_a);
+    gfx_setfont(TOGGLE_FONT);
+    gfx_measurestr(label, ww, hh);
+    gfx_x = floor(x+1.5*w);
+    gfx_y = floor(y-.5*hh+.5*h);
+    gfx_printf(label);
+  );
+  
+  ( (on && !invert) || (!on && invert) ) ? (
+    colormodel(0.8);
+    gfx_rect(x, y, w, h);
+    gfx_a *= .6;
+    gfx_rect(x-1, y-1, w+2, h+2);
+    gfx_a *= .6;
+    gfx_rect(x-2, y-2, w+4, h+4);
+    gfx_a *= .6;
+    gfx_rect(x-3, y-3, w+6, h+6);
+    gfx_a *= .4;
+    gfx_circle(x+.5*w-1, y+.5*h-1, 2*max(w,h), 2*max(w,h));
+    gfx_a *= .4;
+    gfx_circle(x+.5*w-1, y+.5*h-1, 3*max(w,h), 3*max(w,h));
+    gfx_a *= .4;
+    gfx_circle(x+.5*w-1, y+.5*h-1, 4*max(w,h), 4*max(w,h));
+    gfx_a *= .4;
+    gfx_circle(x+.5*w-1, y+.5*h-1, 5*max(w,h), 5*max(w,h));
+  );
+);
+
+function processMouseToggle(x, y, w, h, on, str, mx, my, mousecap)
+instance(x, y, w, h, on, lastleft, str)
+local(left, slack, over)
+global(hinter.sethint, comboboxOpen)
+(
+  !comboboxOpen ? (
+    slack = 5;
+    left = mousecap & 1;
+    
+    over = ( (mx >= (x-slack)) && ( mx <= (x+w+slack) ) && ( my >= (y-slack) ) && ( my <= (y+h+slack) ) );
+    
+    over ? (
+      ( (left == 1) && (lastleft == 0) ) ?  (
+        on = 1 - on;
+      );
+      hinter.sethint(str);
+    );
+    
+    this.drawToggle(x, y, w, h, on, str);
+    
+    lastleft = left;
+  );
+  
+  on
+);
+ 
+
+function draw_keyboard(base_note, x, y, w, h)
+local(xc, yc, cw, w, h, first_white_key, white_key_id, white_keys)
+global(gfx_a, scaling)
+instance(note_width, start_octave, start_note, _x, _y, _w, _h)
+(
+  _x = x; _y = y; _w = w; _h = h;
+  
+  start_octave = floor(base_note / 12);
+  start_note = base_note - start_octave * 12;
+  
+  // Don't start on a black key
+  ((start_note == 1) || (start_note == 3) || (start_note == 6) || (start_note == 8) || (start_note == 10)) ? start_note -= 1;
+  
+  first_white_key = 
+  (start_note == 0) ? ( 0 ) : 
+  (start_note == 2) ? ( 1 ) : 
+  (start_note == 4) ? ( 2 ) : 
+  (start_note == 5) ? ( 3 ) : 
+  (start_note == 7) ? ( 4 ) : 
+  (start_note == 9) ? ( 5 ) : 
+  (start_note == 11) ? ( 6 );
+
+  note_width = floor(12 * max(1, scaling));
+  //white_keys = 7 * 8;
+  //note_width = floor(w / white_keys) - 2;
+  white_keys = floor(w / note_width);
+  _w = white_keys * note_width;
+  
+  // Keys
+  xc = x + 1;
+  yc = floor(y);
+  loop(white_keys,
+    gfx_set(1, 1, 1, .5);
+    gfx_rect(xc, yc, note_width - 2, h);
+    xc += note_width;
+  );
+  
+  // Highlights
+  xc = x + 1;
+  colormodel(1); gfx_a = 0.45;
+  loop(white_keys,
+    gfx_line(xc + 1, yc, xc + 1, yc + h - 2);
+    xc += note_width;
+  );
+  
+  xc = x + 1;
+  cw = 0;
+  white_key_id = first_white_key;
+  while(cw < white_keys - 1)
+  (
+    ((white_key_id != 2) && (white_key_id != 6)) ? (
+      gfx_set(0, 0, 0, 1.0);
+      gfx_rect(xc + 0.5 * note_width - 2, yc, note_width - 2, floor(0.55 * h));
+      
+      colormodel(1); gfx_a = 0.45;
+      gfx_line(xc + 0.5 * note_width - 1, yc, xc + 0.5 * note_width - 1, yc + floor(0.55 * h) - 2);
+      gfx_a = 0.15;
+      gfx_line(xc + 0.5 * note_width, yc, xc + 0.5 * note_width, yc + floor(0.55 * h) - 2);
+    );
+    xc += note_width;
+    white_key_id += 1;
+    (white_key_id > 6) ? white_key_id = 0;
+    cw += 1;
+  );
+);
+
+function note_coord_x(rel_note)
+local()
+global()
+(
+  (rel_note < 5) ? 0.5 * rel_note : 0.5 * rel_note + 0.5
+);
+
+function note_coord_y(rel_note)
+local()
+global()
+(
+  (rel_note < 5) ? (
+    // Even is white
+    (2 * floor(0.5 * rel_note) == rel_note) ? 0 : 1
+  ) : (
+    // Odd is white
+    (2 * floor(0.5 * rel_note) == rel_note) ? 1 : 0
+  );
+);
+
+function highlight_note(note)
+local(ts, c0_x, octave, rel_note, nx, ny, idx, black)
+global(gfx_a)
+instance(start_note, start_octave, note_width,
+         _x, _y, _w, _h)
+(
+  note > 0 ? (
+    // Reference point is at octave 0
+    c0_x = _x - note_coord_x(start_note) * note_width - 7 * start_octave * note_width;
+    
+    octave = floor(note / 12);
+    rel_note = note - 12 * octave;
+    
+    nx = c0_x + (octave * 7 + note_coord_x(rel_note)) * note_width;
+    black = note_coord_y(rel_note);
+    ny = _y + 0.75 * _h - 0.5 * black * _h;
+
+    colormodel(0.5 + 0.5 * sin(3 * time_precise())); gfx_a = 0.5;
+    black ? (
+      gfx_rect(nx - 1, _y, note_width - 2, floor(0.55 * _h));
+    ) : (
+      gfx_rect(nx + 1, _y, note_width - 2, _h);
+    );
+    
+    /*idx = 0;
+    ts = time_precise();
+    loop(1,
+      colormodel(abs(sin(ts)));
+      gfx_circle(nx + 0.5 * note_width - 1, ny, 3 - idx, 0);
+      idx += 1; ts += 1;
+    );*/
+  );
+);
+
+function note_clicked(mode)
+local(c0_x, white_note_x, note_x, octave)
+global(mouse_x, mouse_y)
+instance(start_note, start_octave, note_width, _x, _y, _w, _h, over)
+(
+  // Reference point is at octave 0
+  c0_x = _x - note_coord_x(start_note) * note_width - 7 * start_octave * note_width;
+  
+  white_note_x = (mouse_x - c0_x) / note_width;
+  octave = floor(white_note_x / 7);
+  
+  white_note_x -= (octave * 7);
+  
+  (mouse_y > (_y + floor(0.55 * _h))) ? (
+    note_x = white_note_x < 3 ? floor(white_note_x) * 2 : floor(white_note_x) * 2 - 1;
+  ) : ( 
+    note_x = (12 / 7) * white_note_x;
+  );
+  note_x = floor(note_x);
+  
+  over = (mouse_x > _x) && (mouse_y > _y) && (mouse_x < (_x + _w)) && (mouse_y < (_y + _h));
+  
+  floor(octave * 12 + note_x);
+);
+

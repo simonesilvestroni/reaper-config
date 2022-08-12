@@ -1,0 +1,19 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - 3maze - European Ambiances_"
+F birds_outside_002_wide.1.wav 32309094 0 1583868898 0
+D y 2015-06-01 d "sNOTE=birds, outside, nature, trees, environment, wild, wildlife,  " s 96000 n 2
+D r 1:00:00.000 l 0:56.000 i 24
+F birds_outside_002_wide.wav 32309094 0 1583869017 0
+D y 2015-06-01 d "sNOTE=birds, outside, nature, trees, environment, wild, wildlife,  " s 96000 n 2
+D r 1:00:00.000 l 0:56.000 i 24
+F busy_dining_room_002.1.wav 36634728 0 1583869084 0
+D y 2015-01-12 d "sNOTE=roomtone, room, tone, atmosphere, ambience, food, dining, people, public  " s 96000 n 2
+D r 1:00:00.000 l 1:03.500 i 24
+F busy_dining_room_002.wav 36634728 0 1583868955 0
+D s 96000 n 2 l 1:03.500 i 24
+F madrid_food_market_busy_001.wav 57495442 0 1583869045 0
+D y 2016-02-08 d "sNOTE=market, food, madrid, busy, people, food, space, ambience, crowd, public, chatter, talking, noise, movement,  " s 96000 n 2
+D r 1:00:16.000 l 1:39.669 i 24
+F rain_umbrella_001_wide.1.wav 34616122 0 1583869044 0
+F rain_umbrella_001_wide.wav 34616122 0 1583869043 0
+D y 2016-10-12 d "sNOTE=weather, rain, environment, outside, exterior, water, raining, nature, umbrella, brolly,  " s 96000 n 2
+D r 1:00:00.000 l 1:00.000 i 24

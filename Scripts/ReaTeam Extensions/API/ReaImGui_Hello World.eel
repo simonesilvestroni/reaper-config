@@ -1,0 +1,41 @@
+// REAPER 6.24 or newer only! (Use the legacy syntax extension_api(...) for older versions)
+
+ImGui_NumericLimits_Float(FLT_MIN, FLT_MAX);
+
+color = 0;
+#notes = "";
+
+function frame() (
+  track = GetSelectedTrack(0, 0);
+
+  !track ? (
+    color = 0;
+    #notes = "";
+  );
+
+  ImGui_TextWrapped(ctx, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices turpis lectus, in semper ligula blandit in. Duis non ipsum varius, pretium magna eu, mattis sapien. Maecenas augue mi, luctus sed leo et, ullamcorper convallis ligula. Nunc vitae porttitor quam. Integer a lorem fermentum, dapibus tortor ut, gravida erat. Quisque ut justo ante. Quisque fringilla a lectus a porta.");
+  ImGui_Spacing(ctx);
+
+  color = ImGui_ColorConvertNative(GetTrackColor(track));
+  ImGui_ColorEdit3(ctx, "track color", color) ?
+    SetTrackColor(track, ImGui_ColorConvertNative(color));
+  ImGui_Spacing(ctx);
+
+  GetSetMediaTrackInfo_String(track, "P_EXT:imhw_notes", #notes, 0);
+  ImGui_InputTextMultiline(ctx, "track notes", #notes, 0, -FLT_MIN) ?
+    GetSetMediaTrackInfo_String(track, "P_EXT:imhw_notes", #notes, 1);
+);
+
+function loop() (
+  open = 1; // enable the close button
+  ImGUi_SetNextWindowSize(ctx, 500, 420, ImGui_Cond_FirstUseEver());
+  ImGui_Begin(ctx, "Hello World!", open) ? ( frame(); ImGui_End(ctx); );
+  open ? defer("loop()") : ImGui_DestroyContext(ctx)
+);
+
+function init() (
+  ctx = ImGui_CreateContext("Hello World!");
+  loop();
+);
+
+defer("init()");

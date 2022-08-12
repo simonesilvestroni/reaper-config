@@ -1,0 +1,87 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/__ToBeSorted__UCS/FOLEY/FOL - TIRE"
+F "FOL - TIRES - BRAKE - 01.wav" 367462 0 1582747584 0
+D s 48000 n 1 l 0:02.533 i 24
+F "FOL - TIRES - BRAKE - 02.wav" 4804818 0 1582747584 0
+D d "OTHER SQUEAL BRAKE Grinding a hot-water bottle on table. Tire squeal sound. Squeak. High and very short." s 96000 n 2 l 0:08.076
+D i 24
+F "FOL - TIRES - BRAKE - 03.wav" 18554780 0 1582747584 0
+D d "OTHER SQUEAL LONG Grinding a hot-water bottle on table. Tire squeal sound. Squeak. High." s 96000 n 2 l 0:31.948
+D i 24
+F "FOL - TIRES - BRAKE - 04.wav" 6964564 0 1582747584 0
+D d "OTHER SQUEAL SHORT Grinding a hot-water bottle on table. Tire squeal sound. Squeak. High." s 96000 n 2 l 0:11.826
+D i 24
+F "FOL - TIRES - BRAKE - TRUCK - 01.wav" 545508 0 1582747584 0
+D s 48000 n 2 l 0:01.880 i 24
+F "FOL - TIRES - FLAT - 01.wav" 2183204 0 1582747584 0
+D s 48000 n 2 l 0:07.580 i 24
+F "FOL - TIRES - LAYER - GRASS - 01.wav" 7175200 0 1582747584 0
+D s 48000 n 2 l 0:24.779 i 24
+F "FOL - TIRES - LAYER - GRAVEL - 01.wav" 7440734 0 1582747584 0
+D s 48000 n 2 l 0:25.835 i 24
+F "FOL - TIRES - LAYER - SAND - 01.wav" 6075788 0 1582747584 0
+D s 48000 n 2 l 0:21.096 i 24
+F "FOL - TIRES - LAYER - SNOW - 01.wav" 26619640 0 1582747584 0
+D a "J. Christopherson, J. McCormack A.J. Osborn  " b 'Hollywood Edge "The Premiere Edition" IV' g "Sound Effects, FX,Cinema,Foley,Film,DME" c "Tires on snow: Moving car through snow and debris, no engine noise, CU POV."
+D d "car creak,Pushing Car On Snow,Maneuvers, creaks, creaky, squeak,squeaks,squeaky," s 44100 n 2 l 2:23.034
+D i 16
+F "FOL - TIRES - LAYER - WATER - 01.wav" 1457900 0 1582747584 0
+D s 48000 n 2 l 0:05.062 i 24
+F "FOL - TIRES - PUDDLES - MUD - 01.wav" 18202730 0 1582747584 0
+D y 2016-04-25 d "car, vehicle, volkswagen, golf, II, engine, diesel, exterior, wheels, spin, driving, puddle" s 96000 n 2
+D l 0:31.232 i 24
+F "FOL - TIRES - RUBBER - 01.wav" 52650198 0 1582747584 0
+D a "Soundholder Dawid Moroz" y 2017-10-06 c "Scraping plastic basket against concrete floor. " d "Scraping plastic basket against concrete floor. "
+D s 96000 n 1 r 2:22.080 l 3:01.845
+D i 24
+F "FOL - TIRES - SCRAPES - 01.wav" 3922590 0 1582747584 0
+D d "Brush, Scrape - Constant Circular Floor Polisher Brush Scrapes" s 44100 n 2 l 0:22.186
+D i 16
+F "FOL - TIRES - SKIDS - 01.wav" 20953330 0 1582747584 0
+D a "Pole Position Production www.pole.se" y 2016 g Vehicles c "exterior rolling with flat tire Sound Devices 702 Neumann RSM191 XY handheld wav"
+D d "exterior rolling with flat tire Sound Devices 702 Neumann RSM191 XY handheld wav" s 96000 n 2 r 5:11:44.682
+D l 0:36.117 i 24
+F "FOL - TIRES - STOPS - 01.wav" 3855940 0 1582747584 0
+D d "Tire SKID, brake stops, fits and starts" s 96000 n 1 l 0:13.137
+D i 24
+F "FOL - TIRES - STOPS - 02.wav" 6045978 0 1582747584 0
+D d "BRAKE stops, short" s 96000 n 1 l 0:20.740
+D i 24
+F "FOL - TIRES - STOPS - 03.wav" 754584 0 1582747584 0
+D y 2004-08-27 d SKID_AN2-GAIN_01-01 s 44100 n 2
+D r 14:01.305 l 0:04.220 i 16
+F "FOL - TIRES - THUD - FLOOR - 01.wav" 73006 0 1582747584 0
+D d "Punch, Body - Muted Body Punch" s 44100 n 2 l 0:00.406
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 02.wav" 136620 0 1582747584 0
+D d "Punch, Body - Body And Cloth Hit" s 44100 n 2 l 0:00.766
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 03.wav" 122258 0 1582747584 0
+D d "Punch, Body - Quick Solid Body Hit" s 44100 n 2 l 0:00.684
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 04.wav" 77112 0 1582747584 0
+D d "Punch, Body - Deep Bony Body Hit" s 44100 n 2 l 0:00.429
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 05.wav" 85324 0 1582747584 0
+D d "Punch, Body - Light, Crunchy Body Hit" s 44100 n 2 l 0:00.476
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 06.wav" 103784 0 1582747584 0
+D d "Punch, Body - Solid Body Thud" s 44100 n 2 l 0:00.580
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 07.wav" 77114 0 1582747584 0
+D d "Punch, Body - Fleshy, Bony Body Hit" s 44100 n 2 l 0:00.429
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 08.wav" 93524 0 1582747584 0
+D d "Punch, Body - Light Body Thud" s 44100 n 2 l 0:00.522
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 09.wav" 79160 0 1582747584 0
+D d "Punch, Body - Muted Body Thud" s 44100 n 2 l 0:00.441
+D i 16
+F "FOL - TIRES - THUD - FLOOR - 10.wav" 38126 0 1582747584 0
+D d "Punch, Body - Heavy, Dull Body Thud" s 44100 n 2 l 0:00.208
+D i 16
+F "FOL - TIRES - WET - SKIDS - 01.wav" 17874890 0 1582747584 0
+D a "Pole Position Production www.pole.se" y 2016 g Vehicles c "exterior skidding wet tires FR2 Sanken CSS5 handheld wav"
+D d "exterior skidding wet tires FR2 Sanken CSS5 handheld wav" s 96000 n 2 r 5:08:58.794
+D l 0:30.773 i 24
+F "Tires Screeching.mp3" 375326 0 1583931146 0
+D s 44100 n 2 l 0:11.677 i 257k

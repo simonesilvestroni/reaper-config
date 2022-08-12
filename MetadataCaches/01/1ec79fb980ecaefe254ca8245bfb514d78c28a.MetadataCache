@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - The Sound Keeper - Normal Doors"
+F "door-household creaks squeaks 06.wav" 8176460 0 1583868746 0
+D y 2016-06-2 d "household door creak squeak wood" s 96000 n 2
+D r 2:31:48.693 l 0:14.186 i 24
+F "door-household open close sliding 02.wav" 17047162 0 1583868960 0
+D y 2016-06-2 d "household door open close sliding glass door" s 96000 n 2
+D r 1:35:14.901 l 0:29.587 i 24
+F "door-industrial open close large 03.wav" 16558758 0 1583869029 0
+D y 2016-06-2 d "industrial door open close large unlocking creaks squeaks" s 96000 n 2
+D r 6:44:58.709 l 0:28.739 i 24
+F "door-industrial open close office 03.wav" 9800824 0 1583869017 0
+D y 2016-06-2 d "industrial door open close office room" s 96000 n 2
+D r 6:44:13.909 l 0:17.006 i 24

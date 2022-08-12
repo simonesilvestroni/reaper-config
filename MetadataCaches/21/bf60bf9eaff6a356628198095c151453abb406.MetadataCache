@@ -1,0 +1,13 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Sonniss Bundle/Sonniss - West Wolf - Cityscapes And Streets"
+F "CSS 05 City_14_Streets, Traffic, Busy, Ambience, Siren_14.wav" 66619960 0 1583869091 0
+D y 2016-11-29 d "sPROJECT=Cityscapes and Streeets  sTAKE=14  sNOTE=city, streets, traffic, busy, ambience, cars, siren, stereo, xy,   sTRK1=L  sTRK2=R  " s 96000 n 2
+D l 1:55.640 i 24
+F "CSS 05 City_36_Street, Light, Ambience, Cars, Horn_09.wav" 73163190 0 1583869084 0
+D d "sFILENAME=CSS 05 City_36_Street, Light, Ambience, Cars, Horn_09.wav  sTAKE=36  sNOTE=street, light, ambience, cars, horn, stereo, xy,  sTRK1=L  sTRK2=R  " s 96000 n 2 l 2:07.000
+D i 24
+F "CSS 05 City_40_Street, Light, Ambience, Warning Alarm, Far_13.wav" 67979320 0 1583868979 0
+D y 2016-12-28 d "sPROJECT=Cityscapes and Streets  sTAKE=40  sNOTE=street, light, ambience, warning alarm, far, stereo, xy,  sTRK1=L  sTRK2=R  " s 96000 n 2
+D l 1:58.000 i 24
+F "CSS 05 City_63_Street, Pedestrian, Ambience, Busy_13.wav" 80628252 0 1583869077 0
+D y 2016-12-08 d "sPROJECT=Cityscapes and Streets  sTAKE=63  sNOTE=street, pedestrian, ambience, busy, stereo, xy,   sTRK1=L  sTRK2=R  " s 96000 n 2
+D l 2:19.960 i 24

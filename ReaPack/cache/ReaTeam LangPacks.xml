@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="ReaTeam LangPacks" commit="873b8125eea737ea534514689c77dcaea36bc1ce">
+  <category name="Translations">
+    <reapack name="MIDI Editor actions (active take only) vs (all editable).ReaperLangPack" type="langpack">
+      <version name="1.0" author="juliansader" time="2017-03-15T17:42:48Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/MIDI%20Editor%20actions%20(active%20take%20only)%20vs%20(all%20editable).ReaperLangPack</source>
+      </version>
+    </reapack>
+    <reapack name="pt-BR Brazilian (REAPER+SWS).ReaperLangPack" type="langpack" desc="pt-BR Brazilian (REAPER+SWS)">
+      <version name="6.39" author="Edison" time="2021-10-30T13:26:14Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/8d81512d5a06d6929f14a497118cd8ade406cd12/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.41" author="Edison" time="2021-11-12T17:17:37Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/c013b7a3af428fd971bbc4c5830af693cef33681/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.42" author="Edison" time="2021-11-20T23:03:35Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/97f3fde79f5eff5011307d535272bd652b9b6929/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.43" author="Edison" time="2021-12-24T23:30:51Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/41675bb007e9a87d6d56f7631fe7064deeb563d6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.43-1" author="Edison" time="2021-12-26T23:44:57Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/6b552e34d9c8ab2285693c2ead073e30338bad70/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.46" author="Edison" time="2022-01-22T16:27:35Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/610d27f0886968744f5481d3ea76d23c3fe93c0b/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.46-1" author="Edison" time="2022-02-03T15:35:19Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/3ca1cf40c16db29ac40196f6912341d45f82d21f/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.47" author="Edison" time="2022-02-14T19:19:34Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/c44c5f612d1a382ed66781c1b557ddd7a077dd1c/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.49" author="Edison Deff" time="2022-02-22T03:06:23Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/0abff8036058787553c41619022941e3b37ae3a8/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.51" author="Edison Deff" time="2022-03-07T19:19:44Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/b1660b864855bd8963bfc09d42bf2612a9e6e781/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.52" author="Edison Deff" time="2022-03-26T13:40:28Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/3b63d9b64d44853f1f7c93eb587ed3e491617581/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.53" author="Edison Deff" time="2022-03-30T18:03:29Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/c841ce79e8d03fe7112e29c9893edb151de4c4b6/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.53-1" author="Edison Deff" time="2022-04-01T00:04:50Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/06c1ac0340a225330b64789a3c5f41e5fbd41374/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.57" author="Edison Deff" time="2022-05-10T00:55:10Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/1d41d72e9f7bb582c00667c22498c9c7410786dc/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.58" author="Edison Deff" time="2022-05-24T00:22:13Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/9ff57f26a00a4d070a19bead344fe0bb2afe2877/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+      <version name="6.60" author="Edison Deff" time="2022-06-14T18:54:28Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/873b8125eea737ea534514689c77dcaea36bc1ce/Translations/pt-BR%20Brazilian%20(REAPER+SWS).ReaperLangPack</source>
+      </version>
+    </reapack>
+    <reapack name="REAPER_SWS_fr_reapack.ReaperLangPack" type="langpack" desc="REAPER LangPack Français">
+      <metadata>
+        <link rel="website">http://forum.cockos.com/showthread.php?t=92847</link>
+      </metadata>
+      <version name="5.33" author="REAPER French Forum" time="2017-02-09T02:08:27Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/43282f0388a3fa9bb05d2eabd72ff6e95a164f71/Translations/REAPER_SWS_fr_reapack.ReaperLangPack</source>
+      </version>
+    </reapack>
+    <reapack name="REAPER_SWS_ru_reapack-utf8.ReaperLangPack" type="langpack" desc="REAPER_SWS_ru_reapack-utf8/русский">
+      <metadata>
+        <link rel="website">http://stash.reaper.fm/v/17191/Russian.ReaperLangPack</link>
+      </metadata>
+      <version name="1.0" author="Russian REAPER community" time="2017-02-18T10:41:45Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/30718f3b053e69621b1e528f41d25861bac42b8e/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack</source>
+      </version>
+      <version name="1.1" author="shredthesky, Nikitich, Roland_Hyper" time="2017-03-15T17:42:48Z">
+        <source>https://github.com/ReaTeam/LangPacks/raw/661c72b234368cbcaea2d82f27114a421e34a871/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack</source>
+      </version>
+      <version name="1.1.2" author="shredthesky, Nikitich, Roland_Hyper, MPL" time="2017-03-15T18:54:18Z">
+        <changelog><![CDATA[+ 1.1.2	15.03.2017 by MPL: VST presets section, some errors and actions]]></changelog>
+        <source>https://github.com/ReaTeam/LangPacks/raw/372792f403055872cf14ac47db3f24d766f1a832/Translations/REAPER_SWS_ru_reapack-utf8.ReaperLangPack</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaTeam LangPack Repository\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\cf1 [image: https://github.com/ReaTeam/LangPacks/workflows/check/badge.svg]\cf0}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Community-maintained collection of language packs for REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Copy and paste this URL in Extensions > ReaPack > Import a repository:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/ReaTeam/LangPacks/raw/master/index.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Contributing\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Use {\field{\*\fldinst{HYPERLINK "https://reapack.com/upload/langpack"}}{\fldrslt{\ul
+https://reapack.com/upload/langpack
+}}}
+ to upload your language pack on this repository.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Have a question? Come discuss in the {\field{\*\fldinst{HYPERLINK "https://forum.cockos.com/showthread.php?t=169127"}}{\fldrslt{\ul
+development thread
+}}}
+.\par}
+}
+]]></description>
+  </metadata>
+</index>

@@ -1,0 +1,86 @@
+C10017 "/Volumes/LIBRARY/SOUND EFFECTS/[LIB] Game Audio/Game Audio - A"
+F "Acid,Drop,Harsh,Sizzle,Burn,Melt,Corrosion 03.wav" 9659896 0 1488537498 0
+D y 2016-10-04 s 192000 n 2 r 5:20:51.795
+D l 0:08.357 i 24
+F "Action Ethnic Plugged Indian Strings 02.wav" 2304730 0 1488537308 0
+D y 2015-05-09 s 96000 n 2 r 1:00:00.000
+D l 0:04.000 i 24
+F "Action Exit (Scratch).wav" 3456730 0 1488537091 0
+D y 2015-04-16 s 96000 n 2 r 1:01:32.000
+D l 0:06.000 i 24
+F "Ale Spit Hit Face 02 .wav" 1476616 0 1488536878 0
+D y 2011-02-21 g FOLEY c "Misc, Vomits, Spits, Chokes" d "Misc, Vomits, Spits, Chokes"
+D s 48000 n 2 r 2:16:33.153 l 0:05.045
+D i 24 m 0
+F "Alien Drone 003.wav" 73615040 0 1481710545 0
+D y 2015-02-10 s 96000 n 2 r 1:00:00.000
+D l 2:07.802 i 24
+F "Alien Impact.wav" 1106012 0 1439161882 0
+D a "Apple Inc." s 44100 n 2 l 0:06.269
+D i 16
+F "Alien Spacecraft Electrical Drone 03.wav" 35271316 0 1488537526 0
+D d "Drone, Industrial, Science Fiction, Horror, Dystopian, Mothership, Hub, Generator, Alien Technology, Alien Machine, Atmosphere, Electrical, Spacecraft, Ambience, Noise, Soundscape, Bed" s 96000 n 2 l 1:01.232
+D i 24
+F "Alien Spacecraft Electrical Drone 09.wav" 40321132 0 1488537369 0
+D d "Drone, Industrial, Science Fiction, Horror, Dystopian, Mothership, Hub, Generator, Alien Technology, Alien Machine, Atmosphere, Electrical, Spacecraft, Ambience, Noise, Soundscape, Bed" s 96000 n 2 l 1:10.000
+D i 24
+F "Ambience Soundscape Scifi Distopian Elektromagnetix 11.wav" 19409388 0 1481710534 0
+D y 2015-02-25 s 48000 n 2 l 1:07.393
+D i 24
+F "Angels Behind The Wall.wav" 18043194 0 1481710413 0
+D d "drone, texture, synth, electronic, ambience, warm, soft, distant, low, abstract" s 48000 n 2 r 0:07.446
+D l 1:01.613 i 24
+F "Animals Stags Roar Short Multiple Times Stereoxy.wav" 42960004 0 1481710541 0
+D y 0000-00-0 d "animal, animals, creature, stag, stags, deer, deers, roar, roars, roaring, stereo" s 96000 n 2
+D r 24:47.616 l 1:14.581 i 24
+F "Animals Stags Roaring Multiple Times Distant Stereoxy.wav" 27133060 0 1481710516 0
+D y 0000-00-0 d "animal, animals, creature, stag, stags, deer, deers, roar, roars, roaring, distant, stereo" s 96000 n 2
+D r 22:18.880 l 0:47.104 i 24
+F "Appear Crystal 01.wav" 5360744 0 1439163032 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:30.388
+D i 16
+F "Appear Crystal 02.wav" 4521204 0 1439161193 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:25.629
+D i 16
+F "Appear Crystal 03.wav" 4616522 0 1439162020 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:26.169
+D i 16
+F "Appear Dark Groan.wav" 2942352 0 1439162527 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:16.679
+D i 16
+F "Appear Whine 01.wav" 2707456 0 1439163669 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:15.347
+D i 16
+F "Appear Whine 02.wav" 2364936 0 1439162687 0
+D a "Detroit Chop Shop" s 44100 n 2 l 0:13.405
+D i 16
+F "Arcadia Error03.wav" 619572 0 1481710248 0
+D d "8-Bit, Retro, Error, Notification, Alert, Look, UI, Interface, Help, Buzz, Alarm, Question" s 96000 n 2 l 0:01.073
+D i 24
+F "Arcadia Gamefinish10.wav" 1860234 0 1481710249 0
+D d "8-Bit, Retro, Game, Finish, End, Close, Round, Over, Defeat, Victory, Battle, Map" s 96000 n 2 l 0:03.227
+D i 24
+F "Arcadia Itempickup16.wav" 312318 0 1481710000 0
+D d "8-Bit, Retro, Item, Pick, Up, Gain, Obtain, Character, Inventory, Add, Collect" s 96000 n 2 l 0:00.540
+D i 24
+F "Arcadia Notification01.wav" 812916 0 1481710001 0
+D d "8-Bit, Retro, Notify, Notification, Alert, Error, Alarm, Nudge, Menu, Call, Warning, Communication, Message" s 96000 n 2 l 0:01.409
+D i 24
+F "Articulations - Reverses - Energy 01.wav" 6054496 0 1488536765 0
+D c http://lesser-vibes.com d "Warm synth sound ending with a bass drop." s 96000 n 2
+D l 0:07.882 i 32
+F "Atmosphere Drone 001.wav" 18664078 0 1481710518 0
+D d "Drone, Atmosphere, Mental Strain, Tension, Production Element" s 96000 n 2 l 0:32.401
+D i 24
+F "Atmospheresurrealcraziness 003.wav" 11307940 0 1481710468 0
+D d "Surreal, Surrealism, Atmosphere, Craziness, Strange, Rare, Bizarre" s 96000 n 2 l 0:19.630
+D i 24
+F "Atmospheric Drone 03.wav" 44589066 0 1488537535 0
+D d "Drone, Industrial, Science Fiction, Horror, Dystopian, Mothership, Hub, Generator, Alien Technology, Alien Machine, Atmosphere, Spacecraft, Ambience, Dream Sequence, Flashback, Soundscape, Bed" s 96000 n 2 l 1:17.409
+D i 24
+F "Avro Vulcan Bomber-04.wav" 25084986 0 1481710504 0
+D y 2016-02-12 d "Avro Vulcan Bomber. Flys over head climning with very short throttle decrease." s 96000 n 2
+D r 4:18.048 l 0:41.984 i 24
+F "Axe Ice 005.wav" 299336 0 1481710529 0
+D y 2015-02-10 s 96000 n 2 r 1:00:05.004
+D l 0:00.517 i 24
