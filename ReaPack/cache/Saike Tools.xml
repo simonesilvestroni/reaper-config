@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Saike Tools" commit="42fe7ef657c5c756805429fb2559d35adfe9dae8">
+<index version="1" name="Saike Tools" commit="26f2612a15709399d2495265ba18471d51b68911">
   <category name="Abyss">
     <reapack name="saike_abyss.jsfx" type="effect" desc="Abyss Reverb (Saike) [BETA]">
       <version name="0.01" author="Joep Vanlier" time="2021-06-13T15:05:07Z">
@@ -2276,6 +2276,11 @@ major bugfix extrapolation]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/6d6fcba69897a486736f4060a3aeb7cf693eb017/Filther/Filther.jsfx</source>
         <source file="Filther.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/6d6fcba69897a486736f4060a3aeb7cf693eb017/Filther/Filther.jsfx.rpl</source>
       </version>
+      <version name="3.13" author="Joep Vanlier" time="2022-08-28T21:09:06Z">
+        <changelog><![CDATA[Improve frequency shifter specs.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/25f5fb4226a170417835989c756c922622815b45/Filther/Filther.jsfx</source>
+        <source file="Filther.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/25f5fb4226a170417835989c756c922622815b45/Filther/Filther.jsfx.rpl</source>
+      </version>
     </reapack>
   </category>
   <category name="FMFilter">
@@ -2622,6 +2627,30 @@ major bugfix extrapolation]]></changelog>
         <source file="Lava_Dependencies/saike_lava_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1eb94b9bb0ef0f8608b4b1e925895b68ee88dbb2/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc</source>
         <source file="Lava_Dependencies/saike_lava_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1eb94b9bb0ef0f8608b4b1e925895b68ee88dbb2/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc</source>
         <source file="saike_lava.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/1eb94b9bb0ef0f8608b4b1e925895b68ee88dbb2/lavaverb/saike_lava.jsfx.rpl</source>
+      </version>
+      <version name="0.21" author="Joep Vanlier" time="2022-08-28T18:57:15Z">
+        <changelog><![CDATA[Bugfix frequency shifter.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/saike_lava.jsfx</source>
+        <source file="Lava_Dependencies/saike_fft_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_fft_verb.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_cabs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_fluid.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc</source>
+        <source file="saike_lava.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/f6566b204b4c401c14f8ce8938c4afbc834b735b/lavaverb/saike_lava.jsfx.rpl</source>
+      </version>
+      <version name="0.22" author="Joep Vanlier" time="2022-08-28T19:19:58Z">
+        <changelog><![CDATA[Improved frequency shifter spec.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/saike_lava.jsfx</source>
+        <source file="Lava_Dependencies/saike_fft_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_fft_verb.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_cabs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_fluid.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc</source>
+        <source file="saike_lava.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/saike_lava.jsfx.rpl</source>
       </version>
     </reapack>
   </category>
@@ -2976,6 +3005,61 @@ major bugfix extrapolation]]></changelog>
         <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bc334004d7f9101bd832c5785f63dfa2b4d249be/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
         <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/bc334004d7f9101bd832c5785f63dfa2b4d249be/partials/partials_dependencies/saike_vowel_data.ske</source>
         <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/bc334004d7f9101bd832c5785f63dfa2b4d249be/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.12" author="Joep Vanlier" time="2022-08-28T23:45:31Z">
+        <changelog><![CDATA[Fixed annoying issue where notes kept getting reordered leading to spurious releases.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/saike_partials.jsfx.rpl</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="PhaseMangler">
+    <reapack name="saike_phase_mangler.jsfx" type="effect" desc="Saike Phase Mangler (BETA)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 A plugin to manipulate audio phase in a frequency dependent manner\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This plugin can be used to shift the phase of audio in a frequency dependent manner. One can draw a phase distortion using a spline. This distortion can be modulated by scaling the amount of phase distortion.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The plugin has a number of modes of operation. Linked - Left and right are distorted according to the same shape. Opposite - Left and right are phase shifted in an opposite manner. Good for making whoosy laser-like sounds, but can lead to loss of mono compatiblity. Mono-Opposite - This mode works like opposite, but computes the changes applied to the left and right channel and adds an opposite change to the other channel. This serves more as a widener.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This plugin operates using an STFT. Sharp phase transitions can lead to a loss of allpass response.\par}
+}
+]]></description>
+      </metadata>
+      <version name="0.01" author="Joep Vanlier" time="2022-08-13T17:29:58Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/4773c02ed9226721530ba1b8c703907e6274a38d/PhaseMangler/saike_phase_mangler.jsfx</source>
+        <source file="PhaseMangler_Dependencies/saike_fft_view.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4773c02ed9226721530ba1b8c703907e6274a38d/PhaseMangler/PhaseMangler_Dependencies/saike_fft_view.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4773c02ed9226721530ba1b8c703907e6274a38d/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4773c02ed9226721530ba1b8c703907e6274a38d/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_splines.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4773c02ed9226721530ba1b8c703907e6274a38d/PhaseMangler/PhaseMangler_Dependencies/saike_splines.jsfx-inc</source>
+      </version>
+      <version name="0.02" author="Joep Vanlier" time="2022-08-13T17:29:58Z">
+        <changelog><![CDATA[Prep for beta release.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/c4816b82e841be6e16c8a55707f1ef264872d466/PhaseMangler/saike_phase_mangler.jsfx</source>
+        <source file="PhaseMangler_Dependencies/saike_fft_view.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c4816b82e841be6e16c8a55707f1ef264872d466/PhaseMangler/PhaseMangler_Dependencies/saike_fft_view.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c4816b82e841be6e16c8a55707f1ef264872d466/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c4816b82e841be6e16c8a55707f1ef264872d466/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_splines.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c4816b82e841be6e16c8a55707f1ef264872d466/PhaseMangler/PhaseMangler_Dependencies/saike_splines.jsfx-inc</source>
+      </version>
+      <version name="0.03" author="Joep Vanlier" time="2022-08-13T21:54:10Z">
+        <changelog><![CDATA[Don't reinitialize every time transport starts.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/saike_phase_mangler.jsfx</source>
+        <source file="PhaseMangler_Dependencies/saike_fft_view.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_fft_view.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_splines.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_splines.jsfx-inc</source>
       </version>
     </reapack>
   </category>
@@ -5035,6 +5119,42 @@ here
         <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/42fe7ef657c5c756805429fb2559d35adfe9dae8/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
         <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/42fe7ef657c5c756805429fb2559d35adfe9dae8/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
       </version>
+      <version name="0.99" author="Joep Vanlier" time="2022-08-08T17:01:21Z">
+        <changelog><![CDATA[Make frequency shifter pitch respond to automation from its slider.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/6b2d1708e11bbf93abec91f81f88f6c734daa284/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
+      <version name="0.100" author="Joep Vanlier" time="2022-08-28T18:57:15Z">
+        <changelog><![CDATA[Bugfix frequency shifter.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2c099cabf2374f01728cb6cca528a075cd44e750/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
+      <version name="0.101" author="Joep Vanlier" time="2022-08-28T19:15:10Z">
+        <changelog><![CDATA[Improved spec frequency shifter.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
     </reapack>
   </category>
   <category name="SpectrumAnalyzer">
@@ -5123,6 +5243,14 @@ here
       </version>
       <version name="0.81" author="Joep Vanlier" time="2020-02-29T21:30:35Z">
         <source main="main">https://github.com/JoepVanlier/JSFX/raw/659b496df0b80b2f7f32fb31b94253919dbf40d3/SpectrumAnalyzer/LoadSpectrum.lua</source>
+      </version>
+      <version name="0.82" author="Joep Vanlier" time="2022-08-07T16:33:26Z">
+        <changelog><![CDATA[+ Fix bug that led to channels starting with zero in color not parsing correctly because they were being interpreted as terminator.]]></changelog>
+        <source main="main">https://github.com/JoepVanlier/JSFX/raw/170bd72cb4ad13feebf71f839696645a84bb9d40/SpectrumAnalyzer/LoadSpectrum.lua</source>
+      </version>
+      <version name="0.83" author="Joep Vanlier" time="2022-08-11T20:50:49Z">
+        <changelog><![CDATA[+ Force track volume.]]></changelog>
+        <source main="main">https://github.com/JoepVanlier/JSFX/raw/902efb22b4d193045dd92ba385d9265ef7ae7f08/SpectrumAnalyzer/LoadSpectrum.lua</source>
       </version>
     </reapack>
     <reapack name="SaikeMultiSpectralAnalyzer.jsfx" type="effect" desc="Saike Spectral Analyzer (beta)">
@@ -5333,6 +5461,16 @@ here
         <changelog><![CDATA[Bugfix quadratic interpolation mode that could omit high frequency peaks.]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/d73e81615cb1eed438263da67ef3ba93af93bc35/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx</source>
         <source file="colormaps.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d73e81615cb1eed438263da67ef3ba93af93bc35/SpectrumAnalyzer/colormaps.jsfx-inc</source>
+      </version>
+      <version name="5.0.20" author="Joep Vanlier, Trond-Viggo Melssen, Cockos, Feed The Cat" time="2022-08-07T16:33:26Z">
+        <changelog><![CDATA[Reduce memory footprint (WIP)]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/4b6b2ab1cc2e272bcfdc38a49082fb09c37f2660/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx</source>
+        <source file="colormaps.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4b6b2ab1cc2e272bcfdc38a49082fb09c37f2660/SpectrumAnalyzer/colormaps.jsfx-inc</source>
+      </version>
+      <version name="5.0.21" author="Joep Vanlier, Trond-Viggo Melssen, Cockos, Feed The Cat" time="2022-08-11T20:50:49Z">
+        <changelog><![CDATA[Updated LoadSpectrum to make sure the send volume to the spectral analyzer is not zero.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/902efb22b4d193045dd92ba385d9265ef7ae7f08/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx</source>
+        <source file="colormaps.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/902efb22b4d193045dd92ba385d9265ef7ae7f08/SpectrumAnalyzer/colormaps.jsfx-inc</source>
       </version>
     </reapack>
     <reapack name="SaikeMultiSpectralAnalyzer_MK2.jsfx" type="effect" desc="Saike Spectral Analyzer (Alternative)">
