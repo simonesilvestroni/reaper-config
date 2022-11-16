@@ -1,8 +1,8 @@
 desc:Yutani Mono Bass Synth [Saike] (BETA)
 tags: synth bass
-version: 0.56
+version: 0.78
 author: Joep Vanlier
-changelog: Fix for performance issue on SSE JSFX branch.
+changelog: Fix rate indicator LFOs. Add pitch bend semitone control.
 license: MIT
 provides:
   Yutani_Dependencies/* 
@@ -27,6 +27,7 @@ about:
   Loop Implementation Method". IEEE Trans. Audio,Speech, and Lang. Process., vol. 22, no. 12, pp. 1873-1883, December 2014.
   303 emulation is Copyright (c) 2012 Dominique Wurtz (www.blaukraut.info)
   minBLEP methodology Eli Brandt, "Hard Sync Without Aliasing"
+  
 
 in_pin:left input
 in_pin:right input
@@ -36,12 +37,12 @@ out_pin:right output
 slider1:osc1_db=-9<-48, 0, .000001>-Oscillator 1 Gain
 slider2:osc1_semi=0<-36, 36, .000001>-Oscillator 1 Semitone
 slider3:free_osc=0<0, 1, 1>-Reset Osc on note
-slider4:osc1_shape=0<0,2,1{Saw,Square,Triangle,Fin}>-Oscillator 1 Shape
+slider4:osc1_shape=0<0,7,1{Saw,Square,Triangle,Fin,PWM,Comb Sa,Comb Sq,SSaw,Glot}>-Oscillator 1 Shape
 
 slider5:osc2_db=-9<-48, 0, .000001>-Oscillator 2 Gain
 slider6:osc2_semi=12<-48, 48, .000001>-Oscillator 2 Semitone
 slider7:hardsync=1<0,1,1{Off,On}>-Hard Sync
-slider8:osc2_shape=0<0,2,1{Saw,Square,Triangle,Fin}>-Oscillator 2 Shape
+slider8:osc2_shape=0<0,7,1{Saw,Square,Triangle,Fin,PWM,Comb Sa,Comb Sq,SSaw,Glot}>-Oscillator 2 Shape
 
 slider9:glide_time=.4<0,1,.00001>-Glide time
 
@@ -63,7 +64,7 @@ slider22:detune3=0<-1, 1, .00001>-Detune [semitones]
 slider23:amp4=0<0, 1,.00001>-Voice 4 [%]
 slider24:detune4=0<-1, 1, .00001>-Detune [semitones]
 
-slider25:filter_type=1<0,16,1{Linear,MS-20,Linear x2,Moog,Ladder,303,MS-20 asym,DblRes,DualPeak,TriplePeak,svf nl 2p,svf nl 4p,svf nl 2p inc,svf nl 4p inc,rectified resonance,Steiner,SteinerA}>-Filter type
+slider25:filter_type=1<0,18,1{Linear,MS-20,Linear x2,Moog,Ladder,303,MS-20 asym,DblRes,DualPeak,TriplePeak,svf nl 2p,svf nl 4p,svf nl 2p inc,svf nl 4p inc,rectified resonance,Steiner,SteinerA,Muck,Pill2p,Pill4p,Pill2p Aggro,Pill4p Aggro,Pill2p Stacc,Pill4p Stacc}>-Filter type
 slider26:drive=0<-32,48,1>-Filter Drive (dB)
 slider27:boost=0<-6,48,1>-Post Boost (dB)
 slider28:cutoff=.6<0,1,.0001>-Cutoff
@@ -88,7 +89,7 @@ slider43:env_amnt=0<-1,1,.0001>-Envelope Amount
 slider44:cutoff_atk=0.5<0,1,.0001>-Cutoff Attack
 slider45:cutoff_decay=0.5<0,1,.0001>-Cutoff Decay
 slider46:cutoff_sustain=0<0,1,.0001>-Cutoff Sustain
-slider47:subosc_shape=0<0,1,1>-SubOsc Shape
+slider47:subosc_shape=0<0,4,1>-SubOsc Shape
 
 slider48:current_ceiling=0<0,48,1>-Distortion level [dB]
 slider49:warmth=0<-12,12,1>-Warmth
@@ -108,7 +109,7 @@ slider60:f_lfo_speed=0<0,20,.001>-Free LFO speed [-]
 
 slider61:fm_fine=0<0,1,.00001>-fine tune FM
 
-slider62:fix_dc=0<0,1,1>Fix DC
+slider62:fix_dc=0<0,1,1>-Fix DC
 slider63:inertia=60<0,200,.001>-Filter Inertia [ms]
 slider64:oversampling=1<1,8,1>-Oversampling
 
@@ -117,20 +118,21 @@ in_pin:right input
 out_pin:left output
 out_pin:right output
 
+import Saike_Yutani_Delays.jsfx-inc
 import Saike_Yutani_midilib.jsfx-inc
 import Saike_Yutani_distortion.jsfx-inc
-import Saike_Yutani_Oscs.jsfx-inc
 import Saike_Yutani_Envelope.jsfx-inc
 import Saike_Yutani_interpolators.jsfx-inc
 import Saike_Yutani_filters.jsfx-inc
+import Saike_Yutani_Oscs.jsfx-inc
 import Saike_Yutani_oversampling.jsfx-inc
 import Saike_Yutani_upsamplers.jsfx-inc
 import Saike_Yutani_widgets.jsfx-inc
 import Saike_Yutani_sample_delay_buffer.jsfx-inc
 import Saike_Yutani_LFOs.jsfx-inc
-import Saike_Yutani_Delays.jsfx-inc
 
 @init
+gfx_ext_retina == 0 ? gfx_ext_retina = 1;
 amp1 = 1;
 style = 1;
 
@@ -185,6 +187,13 @@ r_delay_filt.init_linearSVF_absolute(340, 0);
 
 l_pdc.initBuffer(l_pdc_buffer, l_pdc_buffer + 2000);
 r_pdc.initBuffer(r_pdc_buffer, r_pdc_buffer + 2000);
+
+freemem = oscs.oscsInitBuffer(freemem);
+freemem = oscs2.oscsInitBuffer(freemem);
+freemem = oscs3.oscsInitBuffer(freemem);
+freemem = oscs4.oscsInitBuffer(freemem);
+
+freemem = initialize_vowel(freemem);
 
 function initialize_interpolators()
 (
@@ -388,7 +397,14 @@ file_var(0, c_lfo_speed_flfo);
 file_var(0, note_mode);
 file_var(0, perform_amp_correction);
 
-loop(198,
+file_var(0, legacy_mode);
+file_var(0, ssaw_detune);
+file_var(0, comb_time);
+file_var(0, glottis_position);
+
+file_var(0, pitch_bend_range);
+
+loop(197,
   file_var(0, 0);
 );
 
@@ -396,8 +412,20 @@ loop(198,
 updateSlider();
 
 @block
+pb_range = floor(pitch_bend_range) + 2;
+//israte_t60 = 1.0 / (pow(10, 1 - 0.2 * comb_time) * srate);
+israte_t60 = 1.0 / (exp(2.302585092994046 - 0.4605170185988092 * comb_time) * srate);
+
+initOscillatorGlobals();
+any_comb_active = (osc1_shape == 5) || (osc1_shape == 6) || (osc2_shape == 5) || (osc2_shape == 6);
+any_non_simple_active = any_comb_active || (osc1_shape == 7) || (osc2_shape == 7) || (osc1_shape == 8) || (osc2_shape == 8);
+sampling_ratio = legacy_mode ? 1 : 44100 / srate;
+sampling_factor = oversampling / sampling_ratio;
+isampling_factor = 1 / sampling_factor;
+
 israte = 1.0 / srate;
 israte_radian = 2.0*$pi*israte;
+
 vib_factor = 16 * $pi * israte;
 midi.processMIDIBlock(); 
 
@@ -442,6 +470,9 @@ pre_sub = subosc_vol && subosc_enabled && subosc_pre;
 post_sub = subosc_vol && subosc_enabled && !subosc_pre;
 
 @sample
+m_state = max(0.9999 * m_state, max(midi.lastNotesOn, m_out_last));
+audio_running = m_state > 0.00000000001;
+
 function updateCurrentVelocitySettings()
 (
   shouldUpdateCurrentVelocitySettings = 0;
@@ -576,7 +607,7 @@ lf_update_step % 8 == 0 ? (
   
   perform_amp_correction ? (
     new_correction = .25 / (amp1 + (current_amp2 + current_amp3 + current_amp4)*bonus_enabled);
-    new_correction = min(new_correction, amp_correction);
+    new_correction = amp_correction ? min(new_correction, amp_correction) : new_correction;
     amp_correction = 0.983 * amp_correction + 0.017 * new_correction;
   ) : ( amp_correction = 0.25 );
   
@@ -586,7 +617,7 @@ lf_update_step % 8 == 0 ? (
   
   current_vib_amount = cl01(vibrato_amount + vibrato_amount_vel * midi.lastVel + vibrato_amount_mod * mod_level);
   current_vib_frequency = clamp(vibrato_frequency + vibrato_frequency_vel * midi.lastVel + vibrato_frequency_mod * mod_level, 0, 10);
-  bend = 2 * midi.pitchBend + current_vib_amount * sin(current_vib_frequency * ss * vib_factor);
+  bend = pb_range * midi.pitchBend + current_vib_amount * sin(current_vib_frequency * ss * vib_factor);
   pitch_bend = 2^(bend * 0.08333333333333333333333333333333);
   
   update_osc_pitch(0);
@@ -696,8 +727,7 @@ cutoff_envelope = cutoff_env.update_envelope(m_notes_on);
 
 // Oscillator section
   // Pulls in k_glide, hard_sync, amp_envelope, pitch_envelope and pitch_env from global namespace
-  current_fm = fm_level + fm_level_velmod + fm_level_mw;
-  current_fm = cl01(current_fm);
+  current_fm = any_non_simple_active ? 0 : cl01(fm_level + fm_level_velmod + fm_level_mw);
   oscs.fm_level = current_fm;
   oscs2.fm_level = current_fm;
   oscs3.fm_level = current_fm;
@@ -710,17 +740,19 @@ cutoff_envelope = cutoff_env.update_envelope(m_notes_on);
   
   pre_sub ? y += subosc_vol * subosc.update_subosc(subosc_shape) * amp_envelope;
   
-  y += oscs.update_oscs(o1_vol * amp1, o2_vol * amp1);
-  bonus_enabled ? (
-    multi == 2 ? (
-      y += oscs2.update_oscs(o1_vol * current_amp2, o2_vol * current_amp2);
-    ) : ( multi == 3 ) ? (
-      y += oscs2.update_oscs(o1_vol * current_amp2, o2_vol * current_amp2);
-      y += oscs3.update_oscs(o1_vol * current_amp3, o2_vol * current_amp3);
-    ) : ( multi == 4 ) ? (
-      y += oscs2.update_oscs(o1_vol * current_amp2, o2_vol * current_amp2);
-      y += oscs3.update_oscs(o1_vol * current_amp3, o2_vol * current_amp3);
-      y += oscs4.update_oscs(o1_vol * current_amp4, o2_vol * current_amp4);
+  audio_running ? (
+    y += oscs.update_oscs(o1_vol * amp1, o2_vol * amp1);
+    bonus_enabled ? (
+      multi == 2 ? (
+        y += oscs2.update_oscs(o1_vol * current_amp2, o2_vol * current_amp2);
+      ) : ( multi == 3 ) ? (
+        y += oscs2.update_oscs(o1_vol * current_amp2, o2_vol * current_amp2);
+        y += oscs3.update_oscs(o1_vol * current_amp3, o2_vol * current_amp3);
+      ) : ( multi == 4 ) ? (
+        y += oscs2.update_oscs(o1_vol * current_amp2, o2_vol * current_amp2);
+        y += oscs3.update_oscs(o1_vol * current_amp3, o2_vol * current_amp3);
+        y += oscs4.update_oscs(o1_vol * current_amp4, o2_vol * current_amp4);
+      );
     );
   );
   
@@ -740,7 +772,7 @@ cutoff_envelope = cutoff_env.update_envelope(m_notes_on);
   y *= amp_correction;
   noise_vol ? y += noise.update_noise(noise_type);
 
-// Filter modulation section
+  // Filter modulation section
   sliderCutoffL = sliderCutoffR = cutoff_interpolator.interpolate() + cutoff_velmod + cutoff_mw + .1*faux_analog;
   sliderReso = clamp(reso_interpolator.interpolate() + reso_velmod + reso_mw, 0, 1);
   sliderMorphL = sliderMorphR = morph_interpolator.interpolate() + morph_velmod;
@@ -771,7 +803,8 @@ cutoff_envelope = cutoff_env.update_envelope(m_notes_on);
   // FM modulation of the filter
   current_fm_amnt != 0 ? (
     updateFMFilter();
-    FM_t += (2^(floor(fm_factor)))*(1+fudge)*440*israte*pitch;
+    FM_t += (2^(floor(fm_factor)))*440*israte*pitch;
+    
     fm_mode == 0 ? (
       fm_mod1 = sin(two_pi*FM_t);
       fm_mod2 = sin(two_pi*FM_t+$pi*current_fm_spread);
@@ -885,117 +918,131 @@ cutoff_envelope = cutoff_env.update_envelope(m_notes_on);
   
   hotness_rmsq = .9999 * hotness_rms + .0001 * yl * yl;
   
-  // Oversampled processing
-  ( oversampling > 1 ) ? (
-    ( oversampling_method == 1 ) ? (
-      upsampleL.updateUpHist(overSampling, yl);
-      upsampleR.updateUpHist(overSampling, yr);
-      
-      f = 0;
-      loop(overSampling,
-        f += 1;
-        ssl = overSampling*upsampleL.upSample(overSampling);
-        ssr = overSampling*upsampleR.upSample(overSampling);
-      
-        filter.processSample(filter_type);
-        ssl *= inv_preamp;
-        ssr *= inv_preamp;
-        shaper ? processShaper();
+  /* Stop processing if there's nothing to process */
+  audio_running ? (
+    // Oversampled processing
+    ( oversampling > 1 ) ? (
+      ( oversampling_method == 1 ) ? (
+        upsampleL.updateUpHist(overSampling, yl);
+        upsampleR.updateUpHist(overSampling, yr);
         
-        downL.updateDownHist(overSampling, ssl);
-        downR.updateDownHist(overSampling, ssr);
+        f = 0;
+        loop(overSampling,
+          f += 1;
+          ssl = overSampling*upsampleL.upSample(overSampling);
+          ssr = overSampling*upsampleR.upSample(overSampling);
         
-        ( f == 1 ) ? (
-          spl0 = downL.downSample(overSampling);
-          spl1 = downR.downSample(overSampling);
+          filter.processSample(filter_type);
+          ssl *= inv_preamp;
+          ssr *= inv_preamp;
+          shaper ? processShaper();
+          
+          downL.updateDownHist(overSampling, ssl);
+          downR.updateDownHist(overSampling, ssr);
+          
+          ( f == 1 ) ? (
+            spl0 = downL.downSample(overSampling);
+            spl1 = downR.downSample(overSampling);
+          );
         );
+      ) : (
+        sincFilterL.advanceSinc(yl);
+        sincFilterR.advanceSinc(yr);
+        
+        loop( oversampling,
+          ssl = sincFilterL.getSubSample();
+          ssr = sincFilterR.getSubSample();
+          
+          filter.processSample(filter_type);
+          ssl *= inv_preamp;
+          ssr *= inv_preamp;
+          shaper ? processShaper();
+          
+          sincDownL.advanceHist(ssl);
+          sincDownR.advanceHist(ssr);
+        );
+        
+        spl0 = sincDownL.sincDownSample();
+        spl1 = sincDownR.sincDownSample();
       );
     ) : (
-      sincFilterL.advanceSinc(yl);
-      sincFilterR.advanceSinc(yr);
+      ssr = yr;
+      ssl = yl;
       
-      loop( oversampling,
-        ssl = sincFilterL.getSubSample();
-        ssr = sincFilterR.getSubSample();
-        
-        filter.processSample(filter_type);
-        ssl *= inv_preamp;
-        ssr *= inv_preamp;
-        shaper ? processShaper();
-        
-        sincDownL.advanceHist(ssl);
-        sincDownR.advanceHist(ssr);
-      );
+      filter.processSample(filter_type);
+      ssl *= inv_preamp;
+      ssr *= inv_preamp;
+      shaper ? processShaper();
       
-      spl0 = sincDownL.sincDownSample();
-      spl1 = sincDownR.sincDownSample();
+      spl0 = ssl;
+      spl1 = ssr;
     );
-  ) : (
-    ssr = yr;
-    ssl = yl;
+  
+    last_yl = spl0;
+    last_yr = spl1;
     
-    filter.processSample(filter_type);
-    ssl *= inv_preamp;
-    ssr *= inv_preamp;
-    shaper ? processShaper();
+    spl0 *= final_boost;
+    spl1 *= final_boost;
     
-    spl0 = ssl;
-    spl1 = ssr;
-  );
-  
-  last_yl = spl0;
-  last_yr = spl1;
-  
-  spl0 *= final_boost;
-  spl1 *= final_boost;
-  
-  !amp_before_filter ? (
-    spl0 *= amp_envelope;
-    spl1 *= amp_envelope;
-  );
-  
-  fix_dc ? (
-    spl0 = dc2.eval_HP6(spl0);
-    spl1 = dc3.eval_HP6(spl1);
-  );
-  
-  fb_mode ? (
-    spl0 = spl0 / (1+exp(fb));
-    spl1 = spl1 / (1+exp(fb));
-  );
-  
-  chorus_enabled > .01 ? (
-    // Subtle bass preserving chorus
-    l_delay.writeBuffer(l_delay_filt.eval_linearSVF_HP(spl0));
-    r_delay.writeBuffer(r_delay_filt.eval_linearSVF_HP(spl1));
+    !amp_before_filter ? (
+      spl0 *= amp_envelope;
+      spl1 *= amp_envelope;
+    );
     
-    csample += 1;
+    fix_dc ? (
+      spl0 = dc2.eval_HP6(spl0);
+      spl1 = dc3.eval_HP6(spl1);
+    );
     
-    chorus_tri = naiveTri(csample * israte * .25);
-    ch_cur = chorus_enabled * .001 + ch_cur * .999;
-    l_offset = ch_cur * (0.0075 + 0.002 * chorus_tri) * srate;
-    r_offset = ch_cur * (0.0075 - 0.002 * chorus_tri) * srate;
+    fb_mode ? (
+      spl0 = spl0 / (1+exp(fb));
+      spl1 = spl1 / (1+exp(fb));
+    );
     
-    spl0 = spl0 - .5 * r_delay.readBuffer(r_offset);
-    spl1 = spl1 - .5 * l_delay.readBuffer(l_offset);
+    chorus_enabled > .01 ? (
+      // Subtle bass preserving chorus
+      l_delay.writeBuffer(l_delay_filt.eval_linearSVF_HP(spl0));
+      r_delay.writeBuffer(r_delay_filt.eval_linearSVF_HP(spl1));
+      
+      csample += 1;
+      
+      chorus_tri = naiveTri(csample * israte * .25);
+      ch_cur = chorus_enabled * .001 + ch_cur * .999;
+      l_offset = ch_cur * (0.0075 + 0.002 * chorus_tri) * srate;
+      r_offset = ch_cur * (0.0075 - 0.002 * chorus_tri) * srate;
+      
+      spl0 = spl0 - .5 * r_delay.readBuffer(r_offset);
+      spl1 = spl1 - .5 * l_delay.readBuffer(l_offset);
+    );
+    
+    post_sub ? (
+      sub_osc_sig = subosc_vol * subosc.update_subosc(subosc_shape) * amp_envelope * final_boost * .25;
+      spl0 += sub_osc_sig;
+      spl1 += sub_osc_sig;
+    );
   );
-  
-  post_sub ? (
-    sub_osc_sig = subosc_vol * subosc.update_subosc(subosc_shape) * amp_envelope * final_boost * .25;
-    spl0 += sub_osc_sig;
-    spl1 += sub_osc_sig;
-  );
+
+vowel_enabled ? (
+  css += 1;
+  //1 - cutoff_envelope, 1);//
+  //1.0 - cutoff_envelope , 1); //
+  osc_vowel_filter.initvowel(abs(sin(css * 0.00005)), 1);
+  spl0 = spl0 + tanh(osc_vowel_filter.eval_vowel(spl0));
+  spl1 = spl1 + tanh(osc_vowel_filter.eval_vowel_b(spl1));
+);
 
 spl0 += spl_0;
 spl1 += spl_1;
 
-@gfx 1510 600
+m_out_last = max(abs(spl0), abs(spl1));
+
+@gfx 1460 600
 style != 0 ? (
-  size_fraction = gfx_w/1380;
+  size_fraction = gfx_w / 1460;
 ) : (
-  size_fraction = gfx_w/1510;
+  size_fraction = gfx_w / 1510;
 );
-size_fraction > 1 ? size_fraction = 1;
+(size_fraction - floor(size_fraction) < 0.2) ? size_fraction = floor(size_fraction);
 scaling = size_fraction - 1;
 
 render_time += .025;
@@ -1154,8 +1201,7 @@ mod3_color_g = .6;
 mod3_color_b = 1;
 mod3_color_a = 1;
 
-fontscaling = scaling < -.15 ? scaling : 0;
-
+fontscaling = size_fraction - 1;
 
 FONT_GRID = 4;
 gfx_setfont(FONT_GRID, "Arial", floor(16 * (1+fontscaling)));
@@ -1178,23 +1224,103 @@ gfx_setfont(TOGGLE_FONT, "Arial", floor(13 * (1+fontscaling)));
 cX = xOrigin;
 cY = yOrigin;
 
-nextPanel = drawPanel(s_OSC1, cX - 2*knobSpacing, cY - .53*panelHeight + .2*knobSize, 10*knobSpacing, panelHeight, 1);
+nextPanel = drawPanel(s_OSC1, cX - 2*knobSpacing, cY - .53*panelHeight + .2*knobSize, 12*knobSpacing, panelHeight, 1);
 cX += knobSize;
 gfx_setfont(KNOB_FONT);
 y_move = .4 * knobSize;
 ww = 1.3*knobSize;
-hh = .35 * knobSize;
-drawSelectionButton("Saw", cX - 2*knobSize, cY-1.1*knobSize, ww, hh, 0, OSC1_SELECT, -1);
-drawSelectionButton("Square", cX - 2*knobSize, cY-1.1*knobSize + y_move, ww, hh, 1, OSC1_SELECT, -1);
-drawSelectionButton("Triangle", cX - 2*knobSize, cY-1.1*knobSize + 2*y_move, ww, hh, 2, OSC1_SELECT, -1);
-drawSelectionButton("Fin", cX - 2*knobSize, cY-1.1*knobSize + 3*y_move, ww, hh, 3, OSC1_SELECT, -1);
-drawSelectionButton("PWM", cX - 2*knobSize, cY-1.1*knobSize + 4*y_move, ww, hh, 4, OSC1_SELECT, -1);
+hh = .345 * knobSize;
+cY_ref = cY - 1.1 * knobSize;
+drawSelectionButton("Saw", cX - 2*knobSize, cY_ref, ww, hh, 0, OSC1_SELECT, "Saw wave");
+drawSelectionButton("Square", cX - 2*knobSize, cY_ref + y_move, ww, hh, 1, OSC1_SELECT, "Square wave");
+drawSelectionButton("Triangle", cX - 2*knobSize, cY_ref + 2*y_move, ww, hh, 2, OSC1_SELECT, "Triangle wave");
+drawSelectionButton("Fin", cX - 2*knobSize, cY_ref + 3*y_move, ww, hh, 3, OSC1_SELECT, "Fin waveshape");
+drawSelectionButton("PWM", cX - 2*knobSize, cY_ref + 4*y_move, ww, hh, 4, OSC1_SELECT, 
+"Pulse width modulation
 
-oscResetToggle.drawToggle(cX-1.85*knobSize, cy+1.1*knobSize, .15*knobSize, .15*knobSize, free_osc, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Free\n\nDo not reset the phase of oscillator on note on.");
-oscResetToggle.label = sprintf(33, " Free");
+Phase, depth and rate can be set
+with the control between the oscillators.
+
+Note that these PWM settings are global
+and not defined per oscillator."
+);
+
+drawSelectionButton("ComSa", cX - 0.5 * knobSize, cY_ref, ww, hh, 5, OSC1_SELECT,
+"Saw Comb wave
+
+This waveshape is based on a comb filter.
+It produces a transient sound whose decay
+can be set with the control that appears
+between the amplitude and semitone control.
+
+Note that the decay parameter is global
+and not defined per oscillator.
+
+Note that hard sync is not possible when 
+using this waveshape for either oscillator.
+
+Note that when Free is enabled, this 
+waveshape is excited by noise, while when
+it is disabled, it is excited by an 
+impulse.
+"
+);
+drawSelectionButton("ComSq", cX - 0.5 * knobSize, cY_ref + y_move, ww, hh, 6, OSC1_SELECT,
+"Square Comb wave
+This waveshape is based on a comb filter.
+It produces a transient sound whose decay
+can be set with the control that appears
+between the amplitude and semitone\ncontrol.
+
+Note that the decay parameter is global
+and not defined per oscillator.
+
+Note that hard sync is not possible when 
+using this waveshape for either oscillator.
+
+Note that when Free is enabled, this 
+waveshape is excited by noise, while when
+it is disabled, it is excited by an 
+impulse.
+"
+);
+drawSelectionButton("SSaw", cX - 0.5 * knobSize, cY_ref + 2*y_move, ww, hh, 7, OSC1_SELECT, 
+"Super Saw waveform
+
+This waveshaper is based on multiple saw waveforms.
+As such, it can produce rich sounds.
+
+When selected a control appears that sets how much
+the saw waves are detuned with respect to eachother.
+Note that the detune parameter is global, so if you
+have two supersaw oscillators, they share their
+detune setting.
+
+Note that hard sync is not possible when using 
+this waveshape for either oscillator."
+);
+drawSelectionButton("Glottis", cX - 0.5 * knobSize, cY_ref + 3*y_move, ww, hh, 8, OSC1_SELECT, 
+"Glottis model
+
+A model of the voice box. It sounds a bit like a
+softer saw wave.
+
+When selected a control appears between the amplitude
+and semitone control that controls how harsh the 
+waveshape is. Note that this setting is global, so
+if two oscillators are set to glottis, they share 
+the same value for this parameter.
+
+Note that hard sync is not possible when using 
+this waveshape for either oscillator."
+);
+
+oscResetToggle.drawToggle(cX - 1.9 * knobSize, cY + 1.15 * knobSize, .15*knobSize, .15*knobSize, free_osc, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Free\n\nDo not reset the phase of oscillator on note on.\n\nNote that for comb filters, this setting switches\nthe input from impulse to noise.");
+
+oscResetToggle.label = sprintf(33, " Free"); // Free
 free_osc = oscResetToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
 
-cX += .65*knobSize;
+cX += 2*knobSize;
 
 osc1AmpKnob.knob_set(sprintf(1, "%.1f dB", osc1_db), 1, (osc1_db + 48)/48);
 osc1AmpKnob.drawKnob(cX, cY, knobSize, "Amplitude", "Oscillator 1 gain.", 1.0);
@@ -1213,7 +1339,7 @@ activeModifier == 3 ? ( osc1AmpKnob.knob_modifier_processMouse(0, osc1_db_flfo /
 
 cX += 2.5 * knobSize;
 semiTonesKnob.knob_set(sprintf(1, "%.2f ", osc1_semi), 1, (osc1_semi + 36)/72);
-semiTonesKnob.drawKnob(cX, cY, knobSize, "Tuning", "Oscillator 1 tuning.\n\nHold CTRL + SHIFT to rotate slower.", 1.0);
+semiTonesKnob.drawKnob(cX, cY, knobSize, "Semitones", "Oscillator 1 tuning.\n\nHold CTRL + SHIFT to rotate slower.", 1.0);
 semiTonesKnob.knob_draw_modifier(osc1_tune_flfo / 72, bipolar, mod3_color_r, mod3_color_g, mod3_color_b, mod1_color_a, 3);
 semiTonesKnob.knob_draw_modifier(osc1_semi_vel / 72, bipolar, mod1_color_r, mod1_color_g, mod1_color_b, mod1_color_a, 1);
 dial_animation ? (
@@ -1226,6 +1352,26 @@ activeModifier == 3 ? ( semiTonesKnob.knob_modifier_processMouse(0, osc1_tune_fl
   semiTonesKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.5) ? (
     osc1_semi = semiTonesKnob.value * 72 - 36;
     mouse_cap < 4 ? osc1_semi = floor(osc1_semi + .5); slider_automate(osc1_semi);
+  );
+);
+
+(osc1_shape == 7) ? (
+  sawDetuneKnob.knob_set("", 0.6666, ssaw_detune / 3);
+  sawDetuneKnob.drawKnob(cX - 1.23 * knobSize, cY + 0.85 * knobSize, 0.35 * knobSize, "", "Supersaw Detune / Spread.\n\nNote: both oscillators share the\nsame detune factor.", 1.0);
+  sawDetuneKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.3333333333) ? (
+    ssaw_detune = sawDetuneKnob.value * 3;
+  );
+) : ( osc1_shape == 5 || osc1_shape == 6 ) ? (
+  combKnob.knob_set("", 0.6666, comb_time * 0.1);
+  combKnob.drawKnob(cX - 1.23 * knobSize, cY + 0.85 * knobSize, 0.35 * knobSize, "", "Comb time constant [10s - 0.1s]\n\nNote: both oscillators share the\nsame time constant.", 1.0);
+  combKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.3333333333) ? (
+    comb_time = combKnob.value * 10;
+  );
+) : ( osc1_shape == 8 ) ? (
+  glotKnob.knob_set("", 0.6666, glottis_position);
+  glotKnob.drawKnob(cX - 1.23 * knobSize, cY + 0.85 * knobSize, 0.35 * knobSize, "", "Glottis harshness.\n\nNote: both oscillators share the\nsame glottis position.", 1.0);
+  glotKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.3333333333) ? (
+    glottis_position = glotKnob.value;
   );
 );
 
@@ -1256,23 +1402,101 @@ activeModifier == 1 ? ( pwmRateKnob.knob_modifier_processMouse(0, pwm_rate_vel) 
 
 cX = nextPanel + panelSpacing;
 
-nextPanel = drawPanel(s_OSC2, cX, cY - .53*panelHeight + .2*knobSize, 15.0*knobSpacing, panelHeight, 1);
-cX += 2.4 * knobSize;
+nextPanel = drawPanel(s_OSC2, cX, cY - .53*panelHeight + .2*knobSize, 16.85 * knobSpacing, panelHeight, 1);
+cX += knobSize + 2 * knobSpacing;
 gfx_setfont(KNOB_FONT);
 y_move = .4 * knobSize;
 ww = 1.3*knobSize;
-hh = .35 * knobSize;
-drawSelectionButton("Saw", cX - 2*knobSize, cY-1.1*knobSize, ww, hh, 0, OSC2_SELECT, -1);
-drawSelectionButton("Square", cX - 2*knobSize, cY-1.1*knobSize + y_move, ww, hh, 1, OSC2_SELECT, -1);
-drawSelectionButton("Triangle", cX - 2*knobSize, cY-1.1*knobSize + 2*y_move, ww, hh, 2, OSC2_SELECT, -1);
-drawSelectionButton("Fin", cX - 2*knobSize, cY-1.1*knobSize + 3*y_move, ww, hh, 3, OSC2_SELECT, -1);
-drawSelectionButton("PWM", cX - 2*knobSize, cY-1.1*knobSize + 4*y_move, ww, hh, 4, OSC2_SELECT, -1);
+hh = .345 * knobSize;
+cY_ref = cY - 1.1 * knobSize;
+drawSelectionButton("Saw", cX - 2*knobSize, cY_ref, ww, hh, 0, OSC2_SELECT, "Saw wave");
+drawSelectionButton("Square", cX - 2*knobSize, cY_ref + y_move, ww, hh, 1, OSC2_SELECT, "Square wave");
+drawSelectionButton("Triangle", cX - 2*knobSize, cY_ref + 2*y_move, ww, hh, 2, OSC2_SELECT, "Triangle wave");
+drawSelectionButton("Fin", cX - 2*knobSize, cY_ref + 3*y_move, ww, hh, 3, OSC2_SELECT, "Fin wave");
+drawSelectionButton("PWM", cX - 2*knobSize, cY_ref + 4*y_move, ww, hh, 4, OSC2_SELECT, 
+"Pulse width modulation
 
-syncToggle.drawToggle(cX-1.85*knobSize, cy+1.1*knobSize, .15*knobSize, .15*knobSize, hardsync, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Hard Sync\n\nReset oscillator 2 when oscillator 1 crosses zero.");
-syncToggle.label = sprintf(15, " Sync");
+Phase, depth and rate can be set
+with the control between the oscillators.
+
+Note that these PWM settings are global
+and not defined per oscillator."
+);
+
+drawSelectionButton("ComSa", cX - 0.5 * knobSize, cY_ref, ww, hh, 5, OSC2_SELECT,
+"Saw Comb wave
+
+This waveshape is based on a comb filter.
+It produces a transient sound whose decay
+can be set with the control that appears
+between the amplitude and semitone control.
+
+Note that the decay parameter is global
+and not defined per oscillator.
+
+Note that hard sync is not possible when 
+using this waveshape for either oscillator.
+
+Note that when Free is enabled, this 
+waveshape is excited by noise, while when
+it is disabled, it is excited by an 
+impulse."
+);
+drawSelectionButton("ComSq", cX - 0.5 * knobSize, cY_ref + y_move, ww, hh, 6, OSC2_SELECT,
+"Square Comb wave
+This waveshape is based on a comb filter.
+It produces a transient sound whose decay
+can be set with the control that appears
+between the amplitude and semitone\ncontrol.
+
+Note that the decay parameter is global
+and not defined per oscillator.
+
+Note that hard sync is not possible when 
+using this waveshape for either oscillator.
+
+Note that when Free is enabled, this 
+waveshape is excited by noise, while when
+it is disabled, it is excited by an 
+impulse."
+);
+drawSelectionButton("SSaw", cX - 0.5 * knobSize, cY_ref + 2*y_move, ww, hh, 7, OSC2_SELECT,
+"Super Saw waveform
+
+This waveshaper is based on multiple saw waveforms.
+As such, it can produce rich sounds.
+
+When selected a control appears that sets how much
+the saw waves are detuned with respect to eachother.
+Note that the detune parameter is global, so if you
+have two supersaw oscillators, they share their
+detune setting.
+
+Note that hard sync is not possible when using 
+this waveshape for either oscillator."
+);
+drawSelectionButton("Glottis", cX - 0.5 * knobSize, cY_ref + 3*y_move, ww, hh, 8, OSC2_SELECT,
+"Glottis model
+
+A model of the voice box. It sounds a bit like a
+softer saw wave.
+
+When selected a control appears between the amplitude
+and semitone control that controls how harsh the 
+waveshape is. Note that this setting is global, so
+if two oscillators are set to glottis, they share 
+the same value for this parameter.
+
+Note that hard sync is not possible when using 
+this waveshape for either oscillator."
+);
+
+syncToggle.inactive = any_non_simple_active;
+syncToggle.drawToggle(cX - 1.9 * knobSize, cY + 1.15 * knobSize, .15*knobSize, .15*knobSize, hardsync, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Hard Sync\n\nReset oscillator 2 when oscillator 1 crosses zero.");
+syncToggle.label = sprintf(15, syncToggle.inactive ? "" : " H-sync"); // Sync
 hardsync = syncToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
 
-cX += .65*knobSize;
+cX += 2*knobSize;
 
 osc2AmpKnob.knob_set(sprintf(1, "%.1f dB", osc2_db), 1, (osc2_db + 48)/48);
 osc2AmpKnob.drawKnob(cX, cY, knobSize, "Amplitude", "Oscillator 2 gain.", 1.0);
@@ -1290,7 +1514,7 @@ activeModifier == 3 ? ( osc2AmpKnob.knob_modifier_processMouse(0, osc2_db_flfo /
 
 cX += 2.5 * knobSize;
 
-osc1FMKnob.knob_set("", 1, fm_level);
+osc1FMKnob.knob_set("", !any_non_simple_active, fm_level);
 osc1FMKnob.drawKnob(cX, cY, knobSize, "FM Level", "FM level\n\nDetermines how strongly oscillator one affects the\nfrequency of oscillator two.\n\nPlays nice with all waveforms except PWM!", 1.0);
 osc1FMKnob.knob_draw_modifier(fm_level_vel, bipolar, mod1_color_r, mod1_color_g, mod1_color_b, mod1_color_a, 1);
 osc1FMKnob.knob_draw_modifier(fm_level_mod, bipolar, mod2_color_r, mod2_color_g, mod2_color_b, mod2_color_a, 2);
@@ -1309,7 +1533,7 @@ lockOsc2.drawToggle(cX-knobSize, cy-knobSize, .15*knobSize, .15*knobSize, osc2_p
 osc2_pitch_lock = lockOsc2.processMouseToggle(mouse_x, mouse_y, mouse_cap);
 
 semiTonesKnob2.knob_set(sprintf(1, "%.2f ", osc2_semi), 1, (osc2_semi + 48)/96);
-semiTonesKnob2.drawKnob(cX, cY, knobSize, "Tuning", "Oscillator 2 tuning.\n\nHold CTRL + SHIFT to rotate slower.", 1.0);
+semiTonesKnob2.drawKnob(cX, cY, knobSize, "Semitones", "Oscillator 2 tuning.\n\nHold CTRL + SHIFT to rotate slower.", 1.0);
 semiTonesKnob2.knob_draw_modifier(osc2_semi_vel / 72, bipolar, mod1_color_r, mod1_color_g, mod1_color_b, mod1_color_a, 1);
 semiTonesKnob2.knob_draw_modifier(osc2_tune_flfo / 72, bipolar, mod3_color_r, mod3_color_g, mod3_color_b, mod3_color_a, 3);
 dial_animation ? (
@@ -1323,6 +1547,25 @@ activeModifier == 3 ? ( semiTonesKnob2.knob_modifier_processMouse(0, osc2_tune_f
   mouse_cap < 4 ? osc2_semi = floor(osc2_semi + .5); slider_automate(osc2_semi); 
 );
 
+(osc2_shape == 7) ? (
+  sawDetuneKnob2.knob_set("", 0.6666, ssaw_detune / 3);
+  sawDetuneKnob2.drawKnob(cX - 1.23 * knobSize, cY + 0.85 * knobSize, 0.35 * knobSize, "", "Supersaw Detune / Spread.\n\nNote: both oscillators share the\nsame detune factor.", 1.0);
+  sawDetuneKnob2.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.3333333333) ? (
+    ssaw_detune = sawDetuneKnob2.value * 3;
+  );
+) : ( osc2_shape == 5 || osc2_shape == 6 ) ? (
+  combKnob2.knob_set("", 0.6666, comb_time * 0.1);
+  combKnob2.drawKnob(cX - 1.23 * knobSize, cY + 0.85 * knobSize, 0.35 * knobSize, "", "Comb time constant [10s - 0.1s].\n\nNote: both oscillators share the\nsame time constant.", 1.0);
+  combKnob2.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.3333333333) ? (
+    comb_time = combKnob2.value * 10;
+  );
+) : ( osc2_shape == 8 ) ? (
+  glotKnob2.knob_set("", 0.6666, glottis_position);
+  glotKnob2.drawKnob(cX - 1.23 * knobSize, cY + 0.85 * knobSize, 0.35 * knobSize, "", "Glottis harshness.\n\nNote: both oscillators share the\nsame glottis position.", 1.0);
+  glotKnob2.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.3333333333) ? (
+    glottis_position = glotKnob2.value;
+  );
+);
 
 cX += 1.65 * knobSize;
 
@@ -1347,9 +1590,9 @@ activeModifier == 1 ? ( pitchDecayKnob.knob_modifier_processMouse(0, pitch_decay
 
 cX = nextPanel + panelSpacing;
 
-nextPanel = drawPanel(s_SOSC, cX, cY - .53*panelHeight + .2*knobSize, 10.25*knobSpacing, panelHeight, subosc_enabled);
+nextPanel = drawPanel(s_SOSC, cX, cY - .53*panelHeight + .2*knobSize, 9.9 * knobSpacing, panelHeight, subosc_enabled);
 
-cX += 2.5*knobSize;
+cX += knobSize + 2 * knobSpacing;
 gfx_setfont(KNOB_FONT);
 y_move = .4 * knobSize;
 ww = 1.3*knobSize;
@@ -1402,17 +1645,17 @@ activeModifier == 3 ? ( subOscSemiTonesKnob.knob_modifier_processMouse(0, sosc_t
 
 cX = nextPanel + panelSpacing;
 
-nextPanel = drawPanel(s_NOSC, cX, cY - .53*panelHeight + .2*knobSize, 17.5*knobSpacing, panelHeight, 1);
+nextPanel = drawPanel(s_NOSC, cX, cY - .53*panelHeight + .2*knobSize, 17.3*knobSpacing, panelHeight, 1);
 
-cX += 2.5*knobSize;
+cX += knobSize + 2 * knobSpacing;
 gfx_setfont(KNOB_FONT);
 
 NOISE_SELECT = 58;
-drawSelectionButton("Noise", cX - 2*knobSize, cY-1.1*knobSize, ww, hh, 0, NOISE_SELECT, -1);
-drawSelectionButton("Grating", cX - 2*knobSize, cY-1.1*knobSize + y_move, ww, hh, 1, NOISE_SELECT, -1);
-drawSelectionButton("Digit", cX - 2*knobSize, cY-1.1*knobSize + 2*y_move, ww, hh, 2, NOISE_SELECT, -1);
-drawSelectionButton("808", cX - 2*knobSize, cY-1.1*knobSize + 3*y_move, ww, hh, 3, NOISE_SELECT, -1);
-drawSelectionButton("Bell", cX - 2*knobSize, cY-1.1*knobSize + 4*y_move, ww, hh, 4, NOISE_SELECT, -1);
+drawSelectionButton("Noise", cX - 2*knobSize, cY-1.1*knobSize, ww, hh, 0, NOISE_SELECT, "White noise");
+drawSelectionButton("Grating", cX - 2*knobSize, cY-1.1*knobSize + y_move, ww, hh, 1, NOISE_SELECT, "Grating noise");
+drawSelectionButton("Digit", cX - 2*knobSize, cY-1.1*knobSize + 2*y_move, ww, hh, 2, NOISE_SELECT, "Digital noise");
+drawSelectionButton("808", cX - 2*knobSize, cY-1.1*knobSize + 3*y_move, ww, hh, 3, NOISE_SELECT, "808-like noise");
+drawSelectionButton("Bell", cX - 2*knobSize, cY-1.1*knobSize + 4*y_move, ww, hh, 4, NOISE_SELECT, "Cowbell-like noise");
 
 cX += .75*knobSize;
 noiseAmpKnob.knob_set(sprintf(1, "%.1f dB", noise_db - 48), 1, noise_db / 48);
@@ -1427,7 +1670,7 @@ activeModifier == 1 ? ( noiseAmpKnob.knob_modifier_processMouse(0, noise_db_vel 
 
 cX += 2.5*knobSize;
 
-center = .5 * srate * exp( noise_cutoff * log(20/22050) );
+center = .5 * sampling_ratio * srate * exp(noise_cutoff * log(20/22050));
 noiseCutoffKnob.knob_set(center < 1000 ? sprintf(1, "%d Hz", center) : sprintf(1, "%.1f kHz", center/1000), 1, 1-noise_cutoff);
 noiseCutoffKnob.drawKnob(cX, cY, floor(knobSize), "Cutoff", "Noise Cutoff Frequency.", 1.0);
 noiseCutoffKnob.knob_draw_modifier(noise_cutoff_vel, bipolar, mod1_color_r, mod1_color_g, mod1_color_b, mod1_color_a, 1);
@@ -1500,10 +1743,9 @@ activeModifier == 1 ? ( postBoost.knob_modifier_processMouse(0, boost_vel / 54) 
 
 cX = nextPanel + panelSpacing;
 
-nextPanel = drawPanel(s_FILTER, cX, cY - .53*panelHeight + .2*knobSize, 20.25*knobSpacing, panelHeight, 1);
+nextPanel = drawPanel(s_FILTER, cX, cY - .53*panelHeight + .2*knobSize, 22.75*knobSpacing, panelHeight, 1);
 
-cX += 2 * knobSpacing;
-cX += knobSize;
+cX += knobSize + 2 * knobSpacing;
 gfx_setfont(KNOB_FONT);
 y_move = .4 * knobSize;
 ww = 1.5*knobSize;
@@ -1526,9 +1768,17 @@ drawSelectionButton("303", cX - .25*knobSize, y_ref + 4*y_move, ww, hh, 5, FILTE
 drawSelectionButton("nlSVF2p", cX - .25*knobSize, y_ref + 5*y_move, ww, hh, 10, FILTER_SELECT_BUTTON, "2-pole non-linear state variable filter (12 dB/oct)\nwith asymmetry in the saturation which leads\nto flutter when driven.\n\nSounds nice at low resonances.");
 drawSelectionButton("nlSVF4p", cX - .25*knobSize, y_ref + 6*y_move, ww, hh, 11, FILTER_SELECT_BUTTON, "4-pole non-linear state variable filter (24 dB/oct)\nwith asymmetry in the saturation which leads\nto flutter when driven.\n\nSounds nice at low resonances.");
 
-cX += 2.5*knobSize;
+drawSelectionButton("Bent 4p", cX + 1.5*knobSize, y_ref + 0*y_move, ww, hh, 17, FILTER_SELECT_BUTTON, "Damaged 4p non-linear SVF.");
+drawSelectionButton("Pillow2p", cX + 1.5*knobSize, y_ref + 1*y_move, ww, hh, 18, FILTER_SELECT_BUTTON, "2-pole pillowy non-linear filter");
+drawSelectionButton("Pillow4p", cX + 1.5*knobSize, y_ref + 2*y_move, ww, hh, 19, FILTER_SELECT_BUTTON, "4-pole pillowy non-linear filter");
+drawSelectionButton("Pillow2pA", cX + 1.5*knobSize, y_ref + 3*y_move, ww, hh, 20, FILTER_SELECT_BUTTON, "2-pole pillowy non-linear filter w/ clipper in feedback");
+drawSelectionButton("Pillow4pA", cX + 1.5*knobSize, y_ref + 4*y_move, ww, hh, 21, FILTER_SELECT_BUTTON, "4-pole pillowy non-linear filter w/ clipper in feedback");
+drawSelectionButton("Pillow2pS", cX + 1.5*knobSize, y_ref + 5*y_move, ww, hh, 22, FILTER_SELECT_BUTTON, "2-pole pillowy non-linear filter w/ clipper in feedback and crossover dist");
+drawSelectionButton("Pillow4pS", cX + 1.5*knobSize, y_ref + 6*y_move, ww, hh, 23, FILTER_SELECT_BUTTON, "4-pole pillowy non-linear filter w/ clipper in feedback and crossover dist");
 
-center = .5 * srate * exp( (1-cutoff) * log(20/22050) );
+
+cX += 4.25*knobSize;
+center = .5 * sampling_ratio * srate * exp( (1-clamp(cutoff, 0, .99)) * log(20/22050) );
 cutoffKnob.knob_set(center < 1000 ? sprintf(1, "%d Hz", center) : sprintf(1, "%.1f kHz", center/1000), 1, cutoff);
 cutoffKnob.drawKnob(cX, cY, knobSize, "Cutoff", "Filter Cutoff", 1.0);
 
@@ -1596,19 +1846,19 @@ keyFollowKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.25) ? (
 
 cX = nextPanel + panelSpacing;
 
-nextPanel = drawPanel(s_FFM, cX, cY - .53*panelHeight + .2*knobSize, 13.5*knobSpacing, panelHeight, 1);
-cX += 2.375*knobSize;
+nextPanel = drawPanel(s_FFM, cX, cY - .53*panelHeight + .2*knobSize, 13.6*knobSpacing, panelHeight, 1);
+cX += knobSize + 2 * knobSpacing;
 gfx_setfont(KNOB_FONT);
 y_move = .4 * knobSize;
 ww = 1.3*knobSize;
 hh = .35 * knobSize;
 FM_MODE_BUTTON = 37;
-drawSelectionButton("MIDI Sin", cX - 2*knobSize, cY-1.1*knobSize, ww, hh, 0, FM_MODE_BUTTON, -1);
-drawSelectionButton("MIDI |Sin|", cX - 2*knobSize, cY-1.1*knobSize + 3*y_move, ww, hh, 1, FM_MODE_BUTTON, -1);
-drawSelectionButton("MIDI Tri", cX - 2*knobSize, cY-1.1*knobSize + 2*y_move, ww, hh, 4, FM_MODE_BUTTON, -1);
-drawSelectionButton("Self", cX - 2*knobSize, cY-1.1*knobSize + 4*y_move, ww, hh, 2, FM_MODE_BUTTON, -1);
-drawSelectionButton("Self Abs", cX - 2*knobSize, cY-1.1*knobSize + 5*y_move, ww, hh, 3, FM_MODE_BUTTON, -1);
-drawSelectionButton("MIDI Sqr", cX - 2*knobSize, cY-1.1*knobSize + y_move, ww, hh, 5, FM_MODE_BUTTON, -1);
+drawSelectionButton("MIDI Sin", cX - 2*knobSize, cY-1.1*knobSize, ww, hh, 0, FM_MODE_BUTTON, "Modulate filter with a sine wave\ndetermined by the frequency of\nthe incoming MIDI note.");
+drawSelectionButton("MIDI |Sin|", cX - 2*knobSize, cY-1.1*knobSize + 3*y_move, ww, hh, 1, FM_MODE_BUTTON, "Modulate filter with a absolute sine wave\ndetermined by the frequency of\nthe incoming MIDI note.");
+drawSelectionButton("MIDI Tri", cX - 2*knobSize, cY-1.1*knobSize + 2*y_move, ww, hh, 4, FM_MODE_BUTTON, "Modulate filter with a triangle wave\ndetermined by the frequency of\nthe incoming MIDI note.");
+drawSelectionButton("Self", cX - 2*knobSize, cY-1.1*knobSize + 4*y_move, ww, hh, 2, FM_MODE_BUTTON, "Modulate filter with a lowpassed version\nof the oscillator signal.");
+drawSelectionButton("Self Abs", cX - 2*knobSize, cY-1.1*knobSize + 5*y_move, ww, hh, 3, FM_MODE_BUTTON, "Modulate filter with a lowpassed version\nof the absolute of the oscillator signal.");
+drawSelectionButton("MIDI Sqr", cX - 2*knobSize, cY-1.1*knobSize + y_move, ww, hh, 5, FM_MODE_BUTTON, "Modulate filter with a square wave\ndetermined by the frequency of\nthe incoming MIDI note.");
 cX += .65*knobSize;
 
 fmlevelKnob.knob_set("", 1, fm_amnt);
@@ -1665,6 +1915,25 @@ activeModifier == 1 ? ( fmPhaseKnob.knob_modifier_processMouse(0, fm_spread_vel)
 ) : fmPhaseKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0) ? ( fm_spread = fmPhaseKnob.value; slider_automate(fm_spread); );
 
 
+/*
+Vowel filter: Not ready for release
+cX = nextPanel + panelSpacing;
+nextPanel = drawPanel(s_VOWEL, cX, cY - .53*panelHeight + .2*knobSize, 1.5 * knobSize + 2 * knobSpacing, panelHeight, 1);
+
+cX += 2 * knobSpacing;
+
+vowelEnabledToggle.drawToggle(cX-knobSize, cy-knobSize, .15*knobSize, .15*knobSize, vowel_enabled, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Enable vowel filter.");
+vowel_enabled = vowelEnabledToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
+
+vowelKnob.active = vowel_enabled;
+vowelKnob.value = vowel_position;
+vowelKnob.drawKnob(cX, cY, knobSize, "Vowel", "Vowel", 1.0);
+vowelKnob.label = "Φ";
+vowelKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.5) ? (
+  vowel_position = vowelKnob.value;
+  //slider_automate(f_lfo_center_phase);  This slider does not exist
+);
+*/
 
 cX = nextPanel + panelSpacing;
 
@@ -1697,25 +1966,6 @@ warmthKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.5) ? (
   warmth = warmthKnob.value * 24 - 12;
   slider_automate(warmth);
 );
-
-cX = nextPanel + panelSpacing;
-
-nextPanel = drawPanel(s_FB, cX, cY - .53*panelHeight + .2*knobSize, 4.15*knobSpacing, panelHeight, 1);
-
-cX += 1.4 * knobSize;
-feedbackTwoToggle.drawToggle(cX+knobSize-2, cy-knobSize, .15*knobSize, .15*knobSize, fb_mode, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Direct feedback mode. Directly routes oscillator output to drive. Can be used to massively distort the input.");
-fb_mode = feedbackTwoToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
-
-feedbackKnob.active = !(filter_type == 0 || filter_type == 2);
-feedbackKnob.value = fb;
-feedbackKnob.drawKnob(cX, cY, knobSize, "Feedback", "Are you crazy?", 0);
-dial_animation ? (
-  feedbackKnob.knob_draw_modifier(current_fb - fb, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, -.1);
-  feedbackKnob.knob_draw_modifier(current_fb - fb, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, .1);
-);
-feedbackKnob.knob_draw_modifier(fb_vel, bipolar, mod1_color_r, mod1_color_g, mod1_color_b, mod1_color_a, 1);
-activeModifier == 1 ? ( feedbackKnob.knob_modifier_processMouse(0, fb_vel) ? ( fb_vel = feedbackKnob.value; );
-) : feedbackKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0) ? ( fb = feedbackKnob.value; slider_automate(fb); );
 
 cX = xOrigin - 2*knobSpacing;
 cY = cY + 4 * knobSize;
@@ -1923,12 +2173,12 @@ c_lfo_sync = cutoffSyncToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
 
 cutoffLFOSpeedKnob.active = c_lfo_enabled;
 cutoffLFOSpeedKnob.value = c_lfo_speed / 20;
-cutoffLFOSpeedKnob.drawKnob(cX, cY, knobSize, "Rate", "Cutoff LFO frequency", 1.0);
 c_lfo_sync ? (
   cutoffLFOSpeedKnob.label = cutoff_LFO.tempoLabel;
 ) : (
   cutoffLFOSpeedKnob.label = sprintf(3, "%.1f Hz", 10^(c_lfo_speed/15) - 1);
 );
+cutoffLFOSpeedKnob.drawKnob(cX, cY, knobSize, "Rate", "Cutoff LFO frequency", 1.0);
 dial_animation ? (
   cutoffLFOSpeedKnob.knob_draw_modifier((current_c_lfo_speed_slider*15 - c_lfo_speed)/20, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, -.1);
   cutoffLFOSpeedKnob.knob_draw_modifier((current_c_lfo_speed_slider*15 - c_lfo_speed)/20, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, .1);
@@ -2014,12 +2264,12 @@ m_lfo_sync = morphSyncToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
 
 morphLFOSpeedKnob.active = m_lfo_enabled;
 morphLFOSpeedKnob.value = m_lfo_speed / 20;
-morphLFOSpeedKnob.drawKnob(cX, cY, knobSize, "Rate", "Morph LFO frequency", 1.0);
 m_lfo_sync ? (
   morphLFOSpeedKnob.label = morph_LFO.tempoLabel;
 ) : (
   morphLFOSpeedKnob.label = sprintf(5, "%d Hz", 10^(m_lfo_speed/15) - 1);
 );
+morphLFOSpeedKnob.drawKnob(cX, cY, knobSize, "Rate", "Morph LFO frequency", 1.0);
 dial_animation ? (
   morphLFOSpeedKnob.knob_draw_modifier((current_m_lfo_speed_slider*15 - m_lfo_speed)/20, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, -.1);
   morphLFOSpeedKnob.knob_draw_modifier((current_m_lfo_speed_slider*15 - m_lfo_speed)/20, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, .1);
@@ -2056,6 +2306,24 @@ morphLFOPhaseKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.5) ? (
   slider_automate(m_lfo_center_phase);
 );
 
+cX = nextPanel + panelSpacing;
+
+nextPanel = drawPanel(s_FB, cX, cY - .53*panelHeight + .2*knobSize, 4.15*knobSpacing, panelHeight, 1);
+
+cX += 1.4 * knobSize;
+feedbackTwoToggle.drawToggle(cX+knobSize-2, cy-knobSize, .15*knobSize, .15*knobSize, fb_mode, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Direct feedback mode. Directly routes oscillator output to drive. Can be used to massively distort the input.");
+fb_mode = feedbackTwoToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
+
+feedbackKnob.active = !(filter_type == 0 || filter_type == 2);
+feedbackKnob.value = fb;
+feedbackKnob.drawKnob(cX, cY, knobSize, "Feedback", "Are you crazy?", 0);
+dial_animation ? (
+  feedbackKnob.knob_draw_modifier(current_fb - fb, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, -.1);
+  feedbackKnob.knob_draw_modifier(current_fb - fb, bipolar, dial_position_color_r, dial_position_color_g, dial_position_color_b, 1.0, .1);
+);
+feedbackKnob.knob_draw_modifier(fb_vel, bipolar, mod1_color_r, mod1_color_g, mod1_color_b, mod1_color_a, 1);
+activeModifier == 1 ? ( feedbackKnob.knob_modifier_processMouse(0, fb_vel) ? ( fb_vel = feedbackKnob.value; );
+) : feedbackKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0) ? ( fb = feedbackKnob.value; slider_automate(fb); );
 
 cX = xOrigin - 2*knobSpacing;
 cY = cY + 4 * knobSize;
@@ -2136,11 +2404,11 @@ cX += 1.85 * knobSize;
 
 freeLFOPhaseKnob.active = f_lfo_enabled;
 freeLFOPhaseKnob.value = (f_lfo_center_phase + 1) * .5;
-freeLFOPhaseKnob.drawKnob(cX, cY - .6*knobSize, .5*knobSize, "", "Cutoff LFO Phase", 1.0);
+freeLFOPhaseKnob.drawKnob(cX, cY - .6*knobSize, .5*knobSize, "", "Free LFO Phase", 1.0);
 freeLFOPhaseKnob.label = "Φ";
 freeLFOPhaseKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 0.5) ? (
   f_lfo_center_phase = 2 * freeLFOPhaseKnob.value - 1;
-  slider_automate(f_lfo_center_phase);
+  //slider_automate(f_lfo_center_phase);  This slider does not exist
 );
 
 handleModifier("LINK", cX - .5 * knobSize, cY + .65 * knobSize, knobSize, knobSize, 3);
@@ -2274,7 +2542,7 @@ showOptions = 1;
 showOptions ? (
   cX = nextPanel + panelSpacing;
   
-  nextPanel = drawPanel(s_OPTS, cX, cY - .53*panelHeight + .2*knobSize, 10.75*knobSpacing, panelHeight, 1);
+  nextPanel = drawPanel(s_OPTS, cX, cY - .53*panelHeight + .2*knobSize, 14.25 * knobSpacing, panelHeight, 1);
   cX += 2*knobSpacing;
   
   tempoSyncToggle.drawToggle(cX-knobSize, cy-knobSize, .15*knobSize, .15*knobSize, tempo_sync_envelopes, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Use tempo synced envelopes.");
@@ -2295,7 +2563,6 @@ showOptions ? (
       glide_time = to_non_synced(glide_time, 1.0);
     );
   );
-  
   
   oversamplingKnob.active = 1;
   oversampling != floor(oversamplingKnob.value * 7 + 1) ? (
@@ -2321,6 +2588,18 @@ showOptions ? (
     inertia = inertiaKnob.value * 200;
     slider_automate(inertia);
   );
+  
+  legacyToggle.drawToggle(cX-knobSize, cy-knobSize, .15*knobSize, .15*knobSize, legacy_mode, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "In previous versions of Yutani, the\nfilter range was always mapped\nto the full range from zero to\n0.934 * Nyquist. This meant that\npresets were samplerate dependent.\n\nIn the newer version, the range always\nruns from 0 to 20.6 kHz (irrespective of\nsample rate).\n\nWhen this button is enabled, the\nold mode is returned.");
+  legacy_mode = legacyToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
+  
+  cX += 2.5 * knobSize;
+  pitchBendKnob.active = 1;
+  pitchBendKnob.value = (pitch_bend_range + 2) / 12;
+  pitchBendKnob.label = sprintf(8, "%d st", floor(pitch_bend_range) + 2);
+  pitchBendKnob.drawKnob(cX, cY, knobSize, "Bend range", "Pitch bend range.", 1.0);
+  pitchBendKnob.knob_processMouse(mouse_x, mouse_y, mouse_cap, 40/200) ? (
+    pitch_bend_range = pitchBendKnob.value * 12 - 2;
+  );
 );
 
 cX += 3.5 * knobSpacing;
@@ -2337,8 +2616,12 @@ drawSelectionButton("ParaTrig", cX - 1.85*knobSize, y_ref + 3 * y_move, ww, hh, 
 
 
 noAmpCorrectionToggle.label = sprintf(34, " Normalize");
-noAmpCorrectionToggle.drawToggle(cX-1.95*knobSize, cy+1.1*knobSize, .15*knobSize, .15*knobSize, perform_amp_correction, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Enable output normalization of the extra oscillators.\n\nTurning this toggle on will normalize the oscillator output\nwhen multiple oscillators are playing.");
+noAmpCorrectionToggle.drawToggle(cX-1.95*knobSize, cy+0.8*knobSize, .15*knobSize, .15*knobSize, perform_amp_correction, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Enable output normalization of the extra oscillators.\n\nTurning this toggle on will normalize the oscillator output\nwhen multiple oscillators are playing.");
 perform_amp_correction = noAmpCorrectionToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
+
+dcCorrectionToggle.label = sprintf(34, " Block DC");
+dcCorrectionToggle.drawToggle(cX-1.95*knobSize, cy+1.2*knobSize, .15*knobSize, .15*knobSize, fix_dc, widget_r, widget_g, widget_b, widget_a, toggle_r, toggle_g, toggle_b, toggle_a, "Block DC.");
+fix_dc = dcCorrectionToggle.processMouseToggle(mouse_x, mouse_y, mouse_cap);
 
 
 cX += 2.25 * knobSize;

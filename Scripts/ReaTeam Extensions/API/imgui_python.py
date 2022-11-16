@@ -1,4 +1,4 @@
-# Generated for ReaImGui v0.7
+# Generated for ReaImGui v0.7.1
 
 from reaper_python import *
 
@@ -1306,6 +1306,14 @@ def ImGui_CreateContext(label, config_flagsInOptional = None):
   rval = ImGui_CreateContext.func(args[0], byref(args[1]) if args[1] != None else None)
   return rpr_unpackp('ImGui_Context*', rval)
 
+def ImGui_CreateDrawListSplitter(draw_list):
+  if not hasattr(ImGui_CreateDrawListSplitter, 'func'):
+    proc = rpr_getfp('ImGui_CreateDrawListSplitter')
+    ImGui_CreateDrawListSplitter.func = CFUNCTYPE(c_void_p, c_void_p)(proc)
+  args = (rpr_packp('ImGui_DrawList*', draw_list),)
+  rval = ImGui_CreateDrawListSplitter.func(args[0])
+  return rpr_unpackp('ImGui_DrawListSplitter*', rval)
+
 def ImGui_CreateFont(family_or_file, size, flagsInOptional = None):
   if not hasattr(ImGui_CreateFont, 'func'):
     proc = rpr_getfp('ImGui_CreateFont')
@@ -1662,6 +1670,34 @@ def ImGui_DrawFlags_RoundCornersTopRight():
   if not hasattr(ImGui_DrawFlags_RoundCornersTopRight, 'cache'):
     ImGui_DrawFlags_RoundCornersTopRight.cache = ImGui_DrawFlags_RoundCornersTopRight.func()
   return ImGui_DrawFlags_RoundCornersTopRight.cache
+
+def ImGui_DrawListSplitter_Clear(splitter):
+  if not hasattr(ImGui_DrawListSplitter_Clear, 'func'):
+    proc = rpr_getfp('ImGui_DrawListSplitter_Clear')
+    ImGui_DrawListSplitter_Clear.func = CFUNCTYPE(None, c_void_p)(proc)
+  args = (rpr_packp('ImGui_DrawListSplitter*', splitter),)
+  ImGui_DrawListSplitter_Clear.func(args[0])
+
+def ImGui_DrawListSplitter_Merge(splitter):
+  if not hasattr(ImGui_DrawListSplitter_Merge, 'func'):
+    proc = rpr_getfp('ImGui_DrawListSplitter_Merge')
+    ImGui_DrawListSplitter_Merge.func = CFUNCTYPE(None, c_void_p)(proc)
+  args = (rpr_packp('ImGui_DrawListSplitter*', splitter),)
+  ImGui_DrawListSplitter_Merge.func(args[0])
+
+def ImGui_DrawListSplitter_SetCurrentChannel(splitter, channel_idx):
+  if not hasattr(ImGui_DrawListSplitter_SetCurrentChannel, 'func'):
+    proc = rpr_getfp('ImGui_DrawListSplitter_SetCurrentChannel')
+    ImGui_DrawListSplitter_SetCurrentChannel.func = CFUNCTYPE(None, c_void_p, c_int)(proc)
+  args = (rpr_packp('ImGui_DrawListSplitter*', splitter), c_int(channel_idx))
+  ImGui_DrawListSplitter_SetCurrentChannel.func(args[0], args[1])
+
+def ImGui_DrawListSplitter_Split(splitter, count):
+  if not hasattr(ImGui_DrawListSplitter_Split, 'func'):
+    proc = rpr_getfp('ImGui_DrawListSplitter_Split')
+    ImGui_DrawListSplitter_Split.func = CFUNCTYPE(None, c_void_p, c_int)(proc)
+  args = (rpr_packp('ImGui_DrawListSplitter*', splitter), c_int(count))
+  ImGui_DrawListSplitter_Split.func(args[0], args[1])
 
 def ImGui_DrawList_AddBezierCubic(draw_list, p1_x, p1_y, p2_x, p2_y, p3_x, p3_y, p4_x, p4_y, col_rgba, thickness, num_segmentsInOptional = None):
   if not hasattr(ImGui_DrawList_AddBezierCubic, 'func'):

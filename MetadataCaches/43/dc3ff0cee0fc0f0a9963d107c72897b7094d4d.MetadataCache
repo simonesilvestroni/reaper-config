@@ -1,4 +1,46 @@
-C10018 "/Users/m2m/Desktop/test/Audio files"
+C10018 "/Users/m2m/Desktop/TEST/Audio files"
+F "Click source-glued-01.wav" 960736 0 1661854398 0
+D y 2022-08-30 s 48000 n 1 l 0:10.000
+D i 16
+F "Click source-glued-02.wav" 14306666 0 1661855635 0
+D y 2022-08-30 s 48000 n 1 l 2:29.020
+D i 16
+F "Click source-glued-03.wav" 5821368 0 1661933800 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-04.wav" 5821368 0 1661933838 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-05.wav" 5821368 0 1661935824 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-06.wav" 5821368 0 1661935824 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-07.wav" 5821368 0 1661935825 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-08.wav" 5821368 0 1661935825 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-09.wav" 5821368 0 1661937376 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-10.wav" 5821368 0 1661937376 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-11.wav" 5821368 0 1661937376 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-12.wav" 5821368 0 1661937377 0
+D y 2022-08-31 s 48000 n 1 l 1:00.631
+D i 16
+F "Click source-glued-13.wav" 11642000 0 1661938934 0
+D y 2022-08-31 s 48000 n 1 r 0:05.052
+D l 2:01.263 i 16
+F "Click source-glued.wav" 46509556 0 1661932395 0
+D y 2022-08-31 s 48000 n 1 l 8:04.466
+D i 16
 F "Love Field v11 12 guit_noise.wav" 74418174 0 1564410226 0
 D y 2019-07-29 s 48000 n 2 r 1:00:00.000
 D l 4:18.049 i 24

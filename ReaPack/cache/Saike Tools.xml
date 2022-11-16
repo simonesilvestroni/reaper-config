@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Saike Tools" commit="26f2612a15709399d2495265ba18471d51b68911">
+<index version="1" name="Saike Tools" commit="c80ba7aa83d66811ec30e8729952736cac57e192">
   <category name="Abyss">
     <reapack name="saike_abyss.jsfx" type="effect" desc="Abyss Reverb (Saike) [BETA]">
       <version name="0.01" author="Joep Vanlier" time="2021-06-13T15:05:07Z">
@@ -341,6 +341,12 @@ here
         <source file="BandJoiner.jsfx">https://github.com/JoepVanlier/JSFX/raw/86fd911d7cef8f08388200aac6f7cc5e596038f0/Basics/BandJoiner.jsfx</source>
         <source file="BandSplitter_phasematcher.jsfx">https://github.com/JoepVanlier/JSFX/raw/86fd911d7cef8f08388200aac6f7cc5e596038f0/Basics/BandSplitter_phasematcher.jsfx</source>
       </version>
+      <version name="0.14" author="Joep Vanlier" time="2022-10-23T00:11:30Z">
+        <changelog><![CDATA[Prevent overlapping labels when scaling down on retina display.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/1b511bb5f79443ec51396ccedc0deaa1702454d8/Basics/BandSplitter.jsfx</source>
+        <source file="BandJoiner.jsfx">https://github.com/JoepVanlier/JSFX/raw/1b511bb5f79443ec51396ccedc0deaa1702454d8/Basics/BandJoiner.jsfx</source>
+        <source file="BandSplitter_phasematcher.jsfx">https://github.com/JoepVanlier/JSFX/raw/1b511bb5f79443ec51396ccedc0deaa1702454d8/Basics/BandSplitter_phasematcher.jsfx</source>
+      </version>
     </reapack>
     <reapack name="MS-20.jsfx" type="effect" desc="Saike MS-20 filter emulation">
       <version name="1.00" author="Joep Vanlier" time="2019-01-20T00:02:09Z">
@@ -496,6 +502,11 @@ here
         <changelog><![CDATA[initial commit]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/b8e3533e3e8ba74737e7894b8239a3a2e712d9f4/Basics/Saike_Pitch_Shift.jsfx</source>
         <source file="saike_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b8e3533e3e8ba74737e7894b8239a3a2e712d9f4/Basics/saike_pitchlib.jsfx-inc</source>
+      </version>
+      <version name="0.02" author="Joep Vanlier" time="2022-10-23T00:22:58Z">
+        <changelog><![CDATA[improve label visibility]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/79731fd49f14b2ed71b1acdd98f48c126bd24560/Basics/Saike_Pitch_Shift.jsfx</source>
+        <source file="saike_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/79731fd49f14b2ed71b1acdd98f48c126bd24560/Basics/saike_pitchlib.jsfx-inc</source>
       </version>
     </reapack>
     <reapack name="Saike_Routing_Utility.jsfx" type="effect" desc="Saike Monitor Routing Utility [ALPHA]">
@@ -2419,6 +2430,30 @@ major bugfix extrapolation]]></changelog>
         <source file="FMFilter_Dependencies/Saike_FMF_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0b99958cd451b14edc8f5650ea204a8c74fabe78/FMFilter/FMFilter_Dependencies/Saike_FMF_widgets.jsfx-inc</source>
         <source file="FM Filter.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/0b99958cd451b14edc8f5650ea204a8c74fabe78/FMFilter/FM%20Filter.jsfx.rpl</source>
       </version>
+      <version name="0.20" author="Joep Vanlier" time="2022-10-15T20:00:38Z">
+        <changelog><![CDATA[Support high DPI screens]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FM%20Filter.jsfx</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_distortion.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_filters.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_interpolators.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_midilib.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_oversampling.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_widgetdata.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FMFilter_Dependencies/Saike_FMF_widgets.jsfx-inc</source>
+        <source file="FM Filter.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/409c0933c0c197fdbe8f595fd3ad8acae2546ff0/FMFilter/FM%20Filter.jsfx.rpl</source>
+      </version>
+      <version name="0.21" author="Joep Vanlier" time="2022-10-16T11:25:04Z">
+        <changelog><![CDATA[Fix retina support.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FM%20Filter.jsfx</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_distortion.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_filters.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_interpolators.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_midilib.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_oversampling.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_widgetdata.jsfx-inc</source>
+        <source file="FMFilter_Dependencies/Saike_FMF_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FMFilter_Dependencies/Saike_FMF_widgets.jsfx-inc</source>
+        <source file="FM Filter.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/FMFilter/FM%20Filter.jsfx.rpl</source>
+      </version>
     </reapack>
   </category>
   <category name="lavaverb">
@@ -2652,6 +2687,18 @@ major bugfix extrapolation]]></changelog>
         <source file="Lava_Dependencies/saike_lava_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc</source>
         <source file="saike_lava.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/45966ea86873f706c523ccbe7c5fdee8a193ceab/lavaverb/saike_lava.jsfx.rpl</source>
       </version>
+      <version name="0.23" author="Joep Vanlier" time="2022-10-22T23:57:38Z">
+        <changelog><![CDATA[Scale hints with window resolution.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/saike_lava.jsfx</source>
+        <source file="Lava_Dependencies/saike_fft_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_fft_verb.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_cabs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_lava_cabs.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_lava_delays.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_fluid.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_lava_fluid.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_lava_gfx.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_lava_pitchlib.jsfx-inc</source>
+        <source file="Lava_Dependencies/saike_lava_verb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/Lava_Dependencies/saike_lava_verb.jsfx-inc</source>
+        <source file="saike_lava.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/e5298604a16a7c13aa13d12522fab3b572d0aaa5/lavaverb/saike_lava.jsfx.rpl</source>
+      </version>
     </reapack>
   </category>
   <category name="Modizer">
@@ -2733,6 +2780,11 @@ major bugfix extrapolation]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/f1bf93e051593ca5faa74bdbc5b1ad209705a761/Nostalgizer/saike_nostalgizer.jsfx</source>
         <source file="nostalgizer_dependencies/saike_nostalgizer_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f1bf93e051593ca5faa74bdbc5b1ad209705a761/Nostalgizer/nostalgizer_dependencies/saike_nostalgizer_widgets.jsfx-inc</source>
       </version>
+      <version name="0.14" author="Joep Vanlier" time="2022-10-23T00:02:11Z">
+        <changelog><![CDATA[Make advanced toggle not go off screen on some resolutions.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/030b1e805c3375541c5fc095ac3afa3740649f86/Nostalgizer/saike_nostalgizer.jsfx</source>
+        <source file="nostalgizer_dependencies/saike_nostalgizer_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/030b1e805c3375541c5fc095ac3afa3740649f86/Nostalgizer/nostalgizer_dependencies/saike_nostalgizer_widgets.jsfx-inc</source>
+      </version>
     </reapack>
   </category>
   <category name="NOTT">
@@ -2806,6 +2858,10 @@ major bugfix extrapolation]]></changelog>
       <version name="0.15" author="Joep Vanlier" time="2022-02-19T00:02:50Z">
         <changelog><![CDATA[Add 2-pole option to not OTT.]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/97634357b8fbc25f57b8a60155cbc726381896a1/NOTT/nott.jsfx</source>
+      </version>
+      <version name="0.16" author="Joep Vanlier" time="2022-10-23T00:49:58Z">
+        <changelog><![CDATA[Fix rendering issues retina display]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/e17c5dbfe80912db390b25de69b4579d2beee058/NOTT/nott.jsfx</source>
       </version>
     </reapack>
   </category>
@@ -3021,6 +3077,469 @@ major bugfix extrapolation]]></changelog>
         <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/partials_dependencies/saike_vowel_data.ske</source>
         <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/26f2612a15709399d2495265ba18471d51b68911/partials/saike_partials.jsfx.rpl</source>
       </version>
+      <version name="0.13" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Started work on impulse mode.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/a2d41ef4aecabb3fafb6b8efac4d377631a209a6/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.14" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Hook up velocity to the impulse brightness.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/b2ba21b045a1425ad70addb1b342845f557facd0/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.15" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Add brightness filter to noise pulse.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/241a6455669cf2e12210c923bfa86602e92107fb/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.16" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Add brightness filter to noise pulse. Improve play mode selection.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/94397aaafdd1273203a5f3f610d2a45e8ec7220a/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.17" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[normalize audio level lower registers]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/2d0e1e489c356dba27534d7b090d60ff79416ed2/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.18" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Fix bug that could lead to partial buffer overruns in the STFT algorithm for very low notes.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/b4b5aa5f89626056a65ad0e6096b23efeb0a9d73/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.19" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Fix bug which ignored brightness setting for impulses.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/28d084da27aac0ec8a5479397ecd627ff54afb91/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.20" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Tweak non-legacy gain. Small UI tweaks.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/ec99f2e11a4fa0a48308b9bd2181fe680d62c424/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.21" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Improve midi handling (respond to all notes off and shift processing by one sample).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/3fddadfb5477bca9de9e894272faf4d10d137f70/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.22" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Give legacy gain button a place in the UI.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/9fd62a7d1e63ea49b974d36456a42f3f80746fd5/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.23" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Show MIDI activity.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/a927f7ee3da754306c4a137812799ad15fc78ddf/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.24" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Correctly handle play mode to make sure we don't enable it for play_mode < 1.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/233586351ebf9a6b2f6aa4c1dfa446fbd04f0108/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.25" author="Joep Vanlier" time="2022-09-25T16:03:12Z">
+        <changelog><![CDATA[Tuck away the number of partials somewhere so it doesn't take as much screen space and provide prediction of how many partials are needed.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.ske">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/logo.ske</source>
+        <source file="partials_dependencies/saike_female_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_female_vowel_data.ske</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.ske">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/partials_dependencies/saike_vowel_data.ske</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/bea8cb9c58eb1ef2d005295ad603703f44ccf0d0/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.26" author="Joep Vanlier" time="2022-10-02T12:54:10Z">
+        <changelog><![CDATA[Add scrolling, zooming and text labels to partial editors.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/09a675e7bc1fde374c9379d5d311f9c4ee681f9d/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.27" author="Joep Vanlier" time="2022-10-02T12:54:10Z">
+        <changelog><![CDATA[Add indicator for # partials used.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/1d8ca2100578d3b58a2d8f609462d177369ad134/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.28" author="Joep Vanlier" time="2022-10-02T12:54:10Z">
+        <changelog><![CDATA[Add hint about what the different spectra mean. Add visual cue which spectrum belongs to which extent of the dial.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/3a209e042b470bb05c67ad125845e5cb1acfcdf5/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.29" author="Joep Vanlier" time="2022-10-02T12:54:10Z">
+        <changelog><![CDATA[Added time domain variant of the memory mapped partials.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/d8076e5ac5e5dd6300f529e7001c1af5d30ca9bd/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.30" author="Joep Vanlier" time="2022-10-02T12:54:10Z">
+        <changelog><![CDATA[Small workflow fixes: Allow simultaneous LMB / RMB on partial window. Reset hint time when hint time is changed. Highlight button linked to specific spectrum. Add RMB menu for partial count selection.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/72b1a98c590840d05eda77e9937fb7f541bb516d/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.32" author="Joep Vanlier" time="2022-10-02T12:54:10Z">
+        <changelog><![CDATA[Add custom models to the main UI. Add custom model which still performs large scale inharmonicity things in the same manner as the regular models. Allow precision movements when ctrl / alt are held. Allow shifting all partials at once with alt. Add extra model.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/912929865f4286e69944847a4b81229cc1052c1a/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.33" author="Joep Vanlier" time="2022-10-03T20:25:29Z">
+        <changelog><![CDATA[Correct range model selection.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/c9d193388dcfc11b6fa4df87934a4649c15bd1d5/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.35" author="Joep Vanlier" time="2022-10-09T15:50:46Z">
+        <changelog><![CDATA[Fix bug non-MIDI mode (keyboard was no longer triggering). Fix bug play mode 1 (impulses were being sent). Refactor bigger update tick internals (handle this at the top level). Start work on glide mode.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/7574a463135c7d886760409faa66bf5eb1cc8c7b/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.36" author="Joep Vanlier" time="2022-10-15T16:54:32Z">
+        <changelog><![CDATA[Expose glide/legato mode to UI. Reduce STFT artefacts that happen in glide mode when resonator switches bin. Allow glide time to be customized.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/2af675e0cabc4fa758331c355d73e62e0e9a015a/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.37" author="Joep Vanlier" time="2022-10-15T16:54:32Z">
+        <changelog><![CDATA[Make FFT size configurable.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/088b3b18087384a17d2af26266c263347ef0426d/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.38" author="Joep Vanlier" time="2022-10-15T16:54:32Z">
+        <changelog><![CDATA[Add MIDI pass-through.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/2df05105991cf9644638ab0d6657fc7403cb6ae6/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.39" author="Joep Vanlier" time="2022-10-15T16:54:32Z">
+        <changelog><![CDATA[Added continuous noise model.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/bbb65c164feab470bd0e87dde9930ac14e519ed9/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.40" author="Joep Vanlier" time="2022-10-15T21:01:01Z">
+        <changelog><![CDATA[Support high DPI. Fix scrollbar issue. Fix rare memory clobbering bug (could clobber memory by dragging partials outside the FOV).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/e2bf7e9fa89643906c4c8efff91874fd455d3051/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.41" author="Joep Vanlier" time="2022-10-16T11:25:04Z">
+        <changelog><![CDATA[Fix retina issue.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.bin">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/logo.bin</source>
+        <source file="partials_dependencies/saike_female_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_female_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.bin">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_vowel_data.bin</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/partials/saike_partials.jsfx.rpl</source>
+      </version>
+      <version name="0.42" author="Joep Vanlier" time="2022-10-23T12:32:31Z">
+        <changelog><![CDATA[Switch file extension again to prevent being visible in jsfx list (thanks cfillion!).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/saike_partials.jsfx</source>
+        <source file="partials_dependencies/logo.dat">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/logo.dat</source>
+        <source file="partials_dependencies/saike_female_vowel_data.dat">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_female_vowel_data.dat</source>
+        <source file="partials_dependencies/saike_modal.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal_buffer.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_custom.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal_custom.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal_gfx.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_impulses.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal_impulses.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_kp_midi.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal_kp_midi.jsfx-inc</source>
+        <source file="partials_dependencies/saike_modal_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_modal_stft.jsfx-inc</source>
+        <source file="partials_dependencies/saike_partial_array.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_partial_array.jsfx-inc</source>
+        <source file="partials_dependencies/saike_vowel_data.dat">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_vowel_data.dat</source>
+        <source file="partials_dependencies/saike_vowel_data.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/partials_dependencies/saike_vowel_data.jsfx-inc</source>
+        <source file="saike_partials.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/e545a16b52cff67ab50f21ae1be9ee222bbaa552/partials/saike_partials.jsfx.rpl</source>
+      </version>
     </reapack>
   </category>
   <category name="PhaseMangler">
@@ -3060,6 +3579,22 @@ major bugfix extrapolation]]></changelog>
         <source file="PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc</source>
         <source file="PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc</source>
         <source file="PhaseMangler_Dependencies/saike_splines.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/29d40c9de00b316c19b285ef1c6636ee533cee70/PhaseMangler/PhaseMangler_Dependencies/saike_splines.jsfx-inc</source>
+      </version>
+      <version name="0.04" author="Joep Vanlier" time="2022-10-02T21:31:49Z">
+        <changelog><![CDATA[Bugfix in node Y-range. This range should have been -0.5 to 0.5, allowing automating points to negative Y (thanks glitched!).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/1b7e9cfb99e7fee3665def513a15f29f737b7c27/PhaseMangler/saike_phase_mangler.jsfx</source>
+        <source file="PhaseMangler_Dependencies/saike_fft_view.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1b7e9cfb99e7fee3665def513a15f29f737b7c27/PhaseMangler/PhaseMangler_Dependencies/saike_fft_view.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1b7e9cfb99e7fee3665def513a15f29f737b7c27/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1b7e9cfb99e7fee3665def513a15f29f737b7c27/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_splines.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1b7e9cfb99e7fee3665def513a15f29f737b7c27/PhaseMangler/PhaseMangler_Dependencies/saike_splines.jsfx-inc</source>
+      </version>
+      <version name="0.05" author="Joep Vanlier" time="2022-10-03T20:19:30Z">
+        <changelog><![CDATA[Fix graphical glitch that happened when updating the nodes while rendering (threading issue).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/4e59d7a5b780e4a2e15fc22ccd854535d3e96045/PhaseMangler/saike_phase_mangler.jsfx</source>
+        <source file="PhaseMangler_Dependencies/saike_fft_view.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4e59d7a5b780e4a2e15fc22ccd854535d3e96045/PhaseMangler/PhaseMangler_Dependencies/saike_fft_view.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4e59d7a5b780e4a2e15fc22ccd854535d3e96045/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_gfx.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4e59d7a5b780e4a2e15fc22ccd854535d3e96045/PhaseMangler/PhaseMangler_Dependencies/saike_phase_mangler_stft.jsfx-inc</source>
+        <source file="PhaseMangler_Dependencies/saike_splines.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/4e59d7a5b780e4a2e15fc22ccd854535d3e96045/PhaseMangler/PhaseMangler_Dependencies/saike_splines.jsfx-inc</source>
       </version>
     </reapack>
   </category>
@@ -3125,6 +3660,10 @@ major bugfix extrapolation]]></changelog>
       <version name="0.12" author="Joep Vanlier" time="2021-06-17T21:47:40Z">
         <changelog><![CDATA[Work around performance issue tan(pi/2) on JSFX SSE branch.]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/405f8223de95eb808118aac43d15e43e84898bd0/Ravager/Ravager_MB.jsfx</source>
+      </version>
+      <version name="0.13" author="Joep Vanlier" time="2022-10-23T00:46:20Z">
+        <changelog><![CDATA[Fix some font issues on retina display.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/91268d4f5bd6033d5223d6cbf7e424d3d996423f/Ravager/Ravager_MB.jsfx</source>
       </version>
     </reapack>
   </category>
@@ -4025,6 +4564,20 @@ here
         <source file="Reflectosaurus_Dependencies/reflecto_logo.png">https://github.com/JoepVanlier/JSFX/raw/f9363b5618e19471dc77a2969811addec2580fb7/Reflectosaurus/Reflectosaurus_Dependencies/reflecto_logo.png</source>
         <source file="Reflectosaurus.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/f9363b5618e19471dc77a2969811addec2580fb7/Reflectosaurus/Reflectosaurus.jsfx.rpl</source>
       </version>
+      <version name="0.105" author="Joep Vanlier" time="2022-10-08T11:45:27Z">
+        <changelog><![CDATA[Add bug fixed frequency shifter]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus.jsfx</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_allpassverb.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_allpassverb.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_buffers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_buffers.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_compressor.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_compressor.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_grainlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_grainlib.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_midilib.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_pitchlib.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_widgetdata.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/Reflectosaurus_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/Reflectosaurus_widgets.jsfx-inc</source>
+        <source file="Reflectosaurus_Dependencies/reflecto_logo.png">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus_Dependencies/reflecto_logo.png</source>
+        <source file="Reflectosaurus.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/7818eef15482d2a0a0a2805e96dd584d1cbbece6/Reflectosaurus/Reflectosaurus.jsfx.rpl</source>
+      </version>
     </reapack>
   </category>
   <category name="Ripple">
@@ -4142,6 +4695,13 @@ here
         <source file="midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/14d3d997af1e0fb402732d22afaff5fc9bfea754/saike_midi_arp/midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc</source>
         <source file="midi_arp_dependencies/saike_midi_arp_gfx_funcs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/14d3d997af1e0fb402732d22afaff5fc9bfea754/saike_midi_arp/midi_arp_dependencies/saike_midi_arp_gfx_funcs.jsfx-inc</source>
         <source file="midi_arp_dependencies/saike_midi_arp_pattern_handling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/14d3d997af1e0fb402732d22afaff5fc9bfea754/saike_midi_arp/midi_arp_dependencies/saike_midi_arp_pattern_handling.jsfx-inc</source>
+      </version>
+      <version name="0.17" author="Joep Vanlier" time="2022-10-23T00:18:50Z">
+        <changelog><![CDATA[Autoscale UI to width.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/bea49836de02c6e08653069dd407cc03c2a214d0/saike_midi_arp/saike_midi_arp.jsfx</source>
+        <source file="midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea49836de02c6e08653069dd407cc03c2a214d0/saike_midi_arp/midi_arp_dependencies/saike_arp_midi_handling.jsfx-inc</source>
+        <source file="midi_arp_dependencies/saike_midi_arp_gfx_funcs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea49836de02c6e08653069dd407cc03c2a214d0/saike_midi_arp/midi_arp_dependencies/saike_midi_arp_gfx_funcs.jsfx-inc</source>
+        <source file="midi_arp_dependencies/saike_midi_arp_pattern_handling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/bea49836de02c6e08653069dd407cc03c2a214d0/saike_midi_arp/midi_arp_dependencies/saike_midi_arp_pattern_handling.jsfx-inc</source>
       </version>
     </reapack>
   </category>
@@ -5155,6 +5715,54 @@ here
         <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
         <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/e8a8b9a5effe643288e610ed51b3939948bc2bd6/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
       </version>
+      <version name="0.102" author="Joep Vanlier" time="2022-09-05T21:28:43Z">
+        <changelog><![CDATA[Fix issue with incorrect speed approaching transition.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/ce9d4eb7060718a703fc7a6e7d5c15b7b100a10f/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
+      <version name="0.103" author="Joep Vanlier" time="2022-10-15T19:45:33Z">
+        <changelog><![CDATA[Fix scaling behaviour retina display.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/3bb9b01368e7156f45803ad4b32135c09876790d/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
+      <version name="0.104" author="Joep Vanlier" time="2022-10-16T11:25:04Z">
+        <changelog><![CDATA[Fix retina issue.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
+      <version name="0.105" author="Joep Vanlier" time="2022-10-23T00:37:55Z">
+        <changelog><![CDATA[Allow upscaling]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/SequencedFX.jsfx</source>
+        <source file="seqs_dependencies/saike_seqs_delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_delays.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_envelope.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_filters.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_interpolators.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_midilib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_pitchlib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_pitchlib.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_widgetdata.jsfx-inc</source>
+        <source file="seqs_dependencies/saike_seqs_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/de3d8b6a2269c1d5f79631d66399f78235d2df33/SequencedFX/seqs_dependencies/saike_seqs_widgets.jsfx-inc</source>
+      </version>
     </reapack>
   </category>
   <category name="SpectrumAnalyzer">
@@ -5471,6 +6079,11 @@ here
         <changelog><![CDATA[Updated LoadSpectrum to make sure the send volume to the spectral analyzer is not zero.]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/902efb22b4d193045dd92ba385d9265ef7ae7f08/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx</source>
         <source file="colormaps.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/902efb22b4d193045dd92ba385d9265ef7ae7f08/SpectrumAnalyzer/colormaps.jsfx-inc</source>
+      </version>
+      <version name="5.0.22" author="Joep Vanlier, Trond-Viggo Melssen, Cockos, Feed The Cat" time="2022-10-23T01:09:51Z">
+        <changelog><![CDATA[Make fewer things overlap on retina displays.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/dc03a3f1d58eec508c8f21ead5a7cfa2509c7d98/SpectrumAnalyzer/SaikeMultiSpectralAnalyzer.jsfx</source>
+        <source file="colormaps.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/dc03a3f1d58eec508c8f21ead5a7cfa2509c7d98/SpectrumAnalyzer/colormaps.jsfx-inc</source>
       </version>
     </reapack>
     <reapack name="SaikeMultiSpectralAnalyzer_MK2.jsfx" type="effect" desc="Saike Spectral Analyzer (Alternative)">
@@ -6058,6 +6671,46 @@ Screenshot
       <version name="0.08" author="Joep Vanlier" time="2022-07-10T15:29:55Z">
         <changelog><![CDATA[Respond to pitch shift CCs.]]></changelog>
         <source>https://github.com/JoepVanlier/JSFX/raw/280bb75e5142b72ecabda8a1ff1f80097ad55a2c/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.09" author="Joep Vanlier" time="2022-08-31T21:51:49Z">
+        <changelog><![CDATA[Make cutoff setting sample rate independent. Before this change, how the slider position maps to the obtained frequency depended on the sample rate. After this change, the range always runs from 0 to 20.6 kHz (note: indicated values were and are correct). A legacy mode is still available by clicking the LED next to inertia. This will allow you to go to higher cutoff frequencies at higher sample rates if desired.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.10" author="Joep Vanlier" time="2022-08-31T21:51:49Z">
+        <changelog><![CDATA[Add UI element for fixing DC.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.11" author="Joep Vanlier" time="2022-10-02T15:45:27Z">
+        <changelog><![CDATA[Show new filters in FM Filter]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/1f510e5391dc80035bcda861262d627093764a2e/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.12" author="Joep Vanlier" time="2022-10-15T19:56:01Z">
+        <changelog><![CDATA[Support high dpi screen.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/12af69e64359f8671c23af4e45de0d0ef0c97429/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.13" author="Joep Vanlier" time="2022-10-16T11:25:04Z">
+        <changelog><![CDATA[Fix retina issue.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.14" author="Joep Vanlier" time="2022-10-17T21:18:33Z">
+        <changelog><![CDATA[Add MIDI option to always trigger on note on (irrespective of whether there was a previous one).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/9faee2a4af2892b2d0fb9f6ec9f9302f2ee28f5b/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.15" author="Joep Vanlier" time="2022-10-19T21:41:17Z">
+        <changelog><![CDATA[Add MIDI option to always trigger on note on (irrespective of whether there was a previous one). Fix LFO labels not showing up correctly. Fix issue with amplitude envelope settings not being stored. Fix issue with envelope variable accidentally being shared between amp and filter envelope. Did some preparatory work for improving the threshold mode.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.17" author="Joep Vanlier" time="2022-10-22T16:05:48Z">
+        <changelog><![CDATA[Add mode that allows having filter dynamics be proportional to RMS.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/806d26d5a1a3983904958d8a8c6e1a4d659650e1/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.18" author="Joep Vanlier" time="2022-10-22T22:35:30Z">
+        <changelog><![CDATA[Add lower threshold to RMS mode.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/89bb1618271a8e2a7d30b62b1cd94ea2ba16b30c/Yutani/Saike_FMFilter2.jsfx</source>
+      </version>
+      <version name="0.19" author="Joep Vanlier" time="2022-10-23T14:14:29Z">
+        <changelog><![CDATA[Add economy mode toggle. Fix bug with certain buttons not being clickable (relies on Yutani update).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/c80ba7aa83d66811ec30e8729952736cac57e192/Yutani/Saike_FMFilter2.jsfx</source>
       </version>
     </reapack>
     <reapack name="Saike_Yutani.jsfx" type="effect" desc="Yutani Mono Bass Synth [Saike] (BETA)">
@@ -6901,6 +7554,405 @@ Screenshot
         <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/8dc301a47be124f5fab59087b3a03bce85110bfb/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
         <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/8dc301a47be124f5fab59087b3a03bce85110bfb/Yutani/bass_presets.rpl</source>
         <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/8dc301a47be124f5fab59087b3a03bce85110bfb/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.58" author="Joep Vanlier" time="2022-08-31T21:51:49Z">
+        <changelog><![CDATA[Make cutoff setting sample rate independent. Before this change, how the slider position maps to the obtained frequency depended on the sample rate. After this change, the range always runs from 0 to 20.6 kHz (note: indicated values were and are correct). A legacy mode is still available by clicking the LED next to inertia. This will allow you to go to higher cutoff frequencies at higher sample rates if desired. Removed grunge from the FM.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/2fdd7611609ccddd056b5bbd52af19bc97027d40/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.59" author="Joep Vanlier" time="2022-08-31T21:51:49Z">
+        <changelog><![CDATA[Add DC fix to UI.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/c119361eb41e7880dfa121873475609d60539fee/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.60" author="Joep Vanlier" time="2022-09-10T23:34:44Z">
+        <changelog><![CDATA[Add comb based oscillators.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/cf473e5f44642929ab5e313d193590c6ca8cd7af/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.61" author="Joep Vanlier" time="2022-09-10T23:34:44Z">
+        <changelog><![CDATA[Improved comb oscillator.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/efb9ac4e3954b614b230eda7f252760063a48c42/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.62" author="Joep Vanlier" time="2022-09-17T00:51:51Z">
+        <changelog><![CDATA[Added super-saw oscillator.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/72c71d369da44be5e9a8577fab60f3fde2045874/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.63" author="Joep Vanlier" time="2022-09-18T17:30:07Z">
+        <changelog><![CDATA[Added a few more filters.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/a950ce4fb3b077013d5ffa91660f640f957a20c4/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.64" author="Joep Vanlier" time="2022-09-18T17:30:07Z">
+        <changelog><![CDATA[Added clipper variant.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/238dcb3e1f6d87037e244794fcfc135ef90242da/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.65" author="Joep Vanlier" time="2022-09-18T17:30:07Z">
+        <changelog><![CDATA[Optimized filter selection a bit (linear chain of ifs -> hierarchical).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/cd4b29b512803af83094622af46da4bae3c2faf0/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.66" author="Joep Vanlier" time="2022-09-18T17:30:07Z">
+        <changelog><![CDATA[Stop running the heavy subsystems (filter / oscs / chorus) if there's no audio going out and no notes are being played.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/f321d4027b1f1b8eda1d50962544ba7da6a1cb23/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.67" author="Joep Vanlier" time="2022-09-18T17:30:07Z">
+        <changelog><![CDATA[Allow tuning the global comb filter time constant.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/b269a2317b955c90b58a936592d1cb8947b6299f/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.68" author="Joep Vanlier" time="2022-09-18T20:19:51Z">
+        <changelog><![CDATA[Bugfix filter Jacobian.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/1257e00a2d97763a955eaa1ccbeca5d0ff04807b/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.69" author="Joep Vanlier" time="2022-09-18T20:54:29Z">
+        <changelog><![CDATA[Add a few more variants of the pillow.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/54e37b7f088d395795e504e995b4ef5d26d83714/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.70" author="Joep Vanlier" time="2022-10-15T16:26:41Z">
+        <changelog><![CDATA[Add glottal oscillator.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/95e0e0c46abc73182e842cc79daed8301d0080ba/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.71" author="Joep Vanlier" time="2022-10-15T16:26:41Z">
+        <changelog><![CDATA[fix bug which would still allow having hardsync on special waveforms]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/1c999bd17a37a6e05148ded644992e607e6e6234/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.72" author="Joep Vanlier" time="2022-10-15T19:17:59Z">
+        <changelog><![CDATA[Improve button labelling.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/50a46c8f1dc2c2646a3d9723a1504676ca216154/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.73" author="Joep Vanlier" time="2022-10-15T19:49:34Z">
+        <changelog><![CDATA[Support high dpi screens.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/0867fc088a01bc8e418f1f667c1d678c3b6d2600/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.74" author="Joep Vanlier" time="2022-10-15T19:56:46Z">
+        <changelog><![CDATA[Fix for high DPI screen. Allow downscaling, but snap to nearest when close to native size.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/f3d5fceb555a05f8053983bf9b8ff05add78f0c4/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.75" author="Joep Vanlier" time="2022-10-15T21:37:00Z">
+        <changelog><![CDATA[Fix glottis oscillator not detecting that it has not been initialized yet.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/71021ebc858095fa8637badaff93dbaf77144fe6/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.76" author="Joep Vanlier" time="2022-10-16T11:25:04Z">
+        <changelog><![CDATA[Fix retina issue (hopefully).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/b1ace1f66160c6c79ff1cb60a7f60dd0fc2b7029/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.77" author="Joep Vanlier" time="2022-10-19T21:41:17Z">
+        <changelog><![CDATA[Fix in FM Filter2 dependency (envelope follower).]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/291f21cecee75b616594796b7e09ef83ccf9192b/Yutani/Saike_Yutani.jsfx.rpl</source>
+      </version>
+      <version name="0.78" author="Joep Vanlier" time="2022-10-23T14:14:07Z">
+        <changelog><![CDATA[Fix rate indicator LFOs. Add pitch bend semitone control.]]></changelog>
+        <source>https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Saike_Yutani.jsfx</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_Delays.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_Envelope.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_Filters.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_LFOs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_Oscs.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_distortion.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_interpolators.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_midilib.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_oversampling.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_sample_delay_buffer.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_upsamplers.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_widgetdata.jsfx-inc</source>
+        <source file="Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Yutani_Dependencies/Saike_Yutani_widgets.jsfx-inc</source>
+        <source file="bass_presets.rpl">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/bass_presets.rpl</source>
+        <source file="Saike_Yutani.jsfx.rpl">https://github.com/JoepVanlier/JSFX/raw/f2b459ad1355a65cb0d40ff4a021c764b047a21c/Yutani/Saike_Yutani.jsfx.rpl</source>
       </version>
     </reapack>
   </category>

@@ -131,6 +131,7 @@
                             b.txtback_col or DATA.GUI.default_backgr,
                             b.txt_a or DATA.GUI.default_txt_a,
                             b.txt_short or ''
+    local txt_allowreduce = b.txt_allowreduce or '' -- allow reduce to [...minimumtexzt] in multiline mode
                             
     -- txt
       local txt_fontsz_out = txt_fontsz
@@ -146,7 +147,7 @@
       local drawstr_flags,right, bottom = 0
       if txt then 
         if txt and tostring(txt) and tostring(txt):match('\n') then 
-          strw, strh = DATA:GUIdraw_txt_multiline(x,y,w,h,txt_flags, txt_a, txt) 
+          strw, strh = DATA:GUIdraw_txt_multiline(x,y,w,h,txt_flags, txt_a, txt,txt_allowreduce) 
          else 
           gfx.x, gfx.y = x+2,y
           gfx.a = txt_a
@@ -180,9 +181,22 @@
     --
     return strw, strh
   end
-  
+  -----------------------------------------------------------------------------
+  function DATA:GUIdraw_txt_reduce(line,x,w)
+    local symbcnt = line:len()
+    if symbcnt < 4 then gfx.drawstr(line) else
+      for symb = symbcnt, 1, -1 do
+        if gfx.measurestr(line:sub(-symb) ) < w then 
+          local out_str = '...'..line:sub(-symb+3) 
+          gfx.x = x + (w- gfx.measurestr(out_str))/2
+          gfx.drawstr(out_str)
+          break
+        end
+      end
+    end
+  end
   ----------------------------------------------------------------------------- 
-  function DATA:GUIdraw_txt_multiline(x,y0,w,h,txt_flags, txt_a,txt) 
+  function DATA:GUIdraw_txt_multiline(x,y0,w,h,txt_flags, txt_a,txt, txt_allowreduce) 
     if not txt then return end
     local cnt = 0 for line in txt:gmatch('[^\r\n]+') do cnt = cnt + 1 end
     local i = 0
@@ -198,7 +212,11 @@
       y = y0 + i *strh + h/2 - 0.5*cnt*strh
       gfx.y = y
       --if txt_flags&4==4 then gfx.y = y+(h-strh)/2 end
-      gfx.drawstr(line)
+      if txt_allowreduce and strw > w then 
+        DATA:GUIdraw_txt_reduce(line,x,w)
+       else
+        gfx.drawstr(line)
+      end
       i =i +1
     end
     return strwmax, cnt*strh
@@ -216,6 +234,7 @@
   end
   ----------------------------------------------------------------------------- 
   function DATA:GUIhandlemousestate_match(b)
+    if not b.x and b.y and b.w and b.h then return end
     b.mouse_match = false
     if DATA.GUI.x > gfx.w*DATA.GUI.default_scale or DATA.GUI.y > gfx.h*DATA.GUI.default_scale then return end
     b.mouse_match = DATA.GUI.x > b.x*DATA.GUI.default_scale and DATA.GUI.x < b.x*DATA.GUI.default_scale+b.w*DATA.GUI.default_scale and DATA.GUI.y > b.y*DATA.GUI.default_scale and DATA.GUI.y < b.y*DATA.GUI.default_scale+b.h*DATA.GUI.default_scale -- is mouse under object
@@ -233,8 +252,8 @@
   function DATA:GUIhandlemousestate_is_offlayer(b)
     local layer= b.layer
     if not (layer and DATA.GUI.layers[layer] and DATA.GUI.layers[layer].layer_yshift) then return end
-    local real_y = (b.y+ DATA.GUI.layers[layer].layer_y  )*DATA.GUI.default_scale -DATA.GUI.layers[layer].layer_yshift
-    if real_y+b.h < DATA.GUI.layers[layer].layer_y or real_y+b.h > DATA.GUI.layers[layer].layer_y + DATA.GUI.layers[layer].layer_h then return true end
+    local real_y = (b.y+ DATA.GUI.layers[layer].layer_y  ) *DATA.GUI.default_scale -DATA.GUI.layers[layer].layer_yshift--*DATA.GUI.default_scale
+    if real_y+b.h < DATA.GUI.layers[layer].layer_y*DATA.GUI.default_scale or real_y+b.h > (DATA.GUI.layers[layer].layer_y + DATA.GUI.layers[layer].layer_h)*DATA.GUI.default_scale then return true end
   end
   ----------------------------------------------------------------------------- 
   function DATA:GUIhandlemousestate()
@@ -249,22 +268,20 @@
         local refresh = true
         --if not b.ignoremouse_refresh then refresh = false end
       
-        DATA:GUIhandlemousestate_match(b) 
+        DATA:GUIhandlemousestate_match(b)
         if b.mouse_match then
+          --DATA.GUI.mouse_match = but
           b.mouse_matchparent = b
-          if b.onmousematchcont then DATA.perform_quere[#DATA.perform_quere+1] = b.onmousematchcont end 
-          if DATA.GUI.mouse_ismoving then b.refresh = refresh end
-          --msg('mouse_matchparent')
+          if b.onmousematchcont then DATA.perform_quere[#DATA.perform_quere+1] = b.onmousematchcont end                                                     -- arrow above pointer coninioulsy
+          if DATA.GUI.mouse_ismoving then b.refresh = refresh end                                                                                           -- refresh object is arrow above (handle context rectangle selection)
+          if DATA.GUI.droppedfiles.exist == true and b.onmousefiledrop then DATA.perform_quere[#DATA.perform_quere+1] = b.onmousefiledrop end               -- handle file drop
         end
-        if b.mouse_match and (not b.mouse_lastmatch  or ( b.mouse_lastmatch and b.mouse_lastmatch ~=b.mouse_match))  then 
+        if b.mouse_match and (not b.mouse_lastmatch  or ( b.mouse_lastmatch and b.mouse_lastmatch ~=b.mouse_match))  then                                   -- arrow is above AND [first loop OR arrow was nt above this object previously
           if b.onmousematch then DATA.perform_quere[#DATA.perform_quere+1] = b.onmousematch end
-          b.refresh = refresh
-          --msg('mouse_match2t')
-        end
-        if b.mouse_lastmatch  and not b.mouse_match  then 
+          if not b.prevent_matchrefresh then b.refresh = refresh end
+         elseif b.mouse_lastmatch and not b.mouse_match  then                                                                                                -- arrow is not above object but it was previously
           if b.mouse_matchparent and b.mouse_matchparent.onmouselost then DATA.perform_quere[#DATA.perform_quere+1] = b.mouse_matchparent.onmouselost end
-          b.refresh = refresh 
-          --msg('mouse_lastmatch')
+          if not b.prevent_matchrefresh then b.refresh = refresh end
         end
         b.mouse_lastmatch = b.mouse_match
       
@@ -279,41 +296,57 @@
             --msg(os.clock()  - b.mouse_latchTS)
             DATA.perform_quere[#DATA.perform_quere+1] = b.onmousedoubleclick
           end
-          tslatch = os.clock()
+          local tslatch = os.clock()
           DATA.GUI.buttons[but] .mouse_latchTS =  tslatch
-          if b.val then 
-            
-            b.latchval = b.val   
-            if b.val_min and b.val_max then
-              b.latchval = (b.val - b.val_min) / (b.val_max - b.val_min)
-            end
-          end
+          -- handle relative val slider
+          if b.val then   b.latchval = b.val    if b.val_min and b.val_max then b.latchval = (b.val - b.val_min) / (b.val_max - b.val_min) end end
+          -- handle absolute val slider
+          local res = b.val_res or 1 b.val_abs = ((DATA.GUI.y*res/DATA.GUI.default_scale)-b.y) / b.h 
           b.refresh = true
         end 
         
       -- handle mouse_latch on left drag
         if DATA.GUI.LMB_state == true and DATA.GUI.mouse_ismoving ==true and b.mouse_latch == true then
-          DATA.perform_quere[#DATA.perform_quere+1] = b.onmousedrag
-          
+          DATA.perform_quere[#DATA.perform_quere+1] = b.onmousedrag 
+          -- handle relative val slider
           if b.val and b.latchval and type(b.latchval) == 'number' then 
             local res= b.val_res or 1
-            if DATA.GUI.Ctrl then res = res /10 end
+            if DATA.GUI.Ctrl then res = res /10 end 
             
-            b.val = VF_lim(b.latchval - (DATA.GUI.dy*res/DATA.GUI.default_scale) / b.h)
-            if b.val_xaxis then b.val = VF_lim(b.latchval - (DATA.GUI.dx*res/DATA.GUI.default_scale) / b.w) end
-            if b.val_min and b.val_max then b.val = b.val_min + (b.val_max - b.val_min) * b.val end
+            local sourcediff = DATA.GUI.dy
+            local comdim = b.h
+            if b.val_xaxis then 
+              sourcediff = DATA.GUI.dx
+              comdim = b.w
+            end
+            local outval = 0
+            outval = VF_lim(b.latchval - (sourcediff*res/DATA.GUI.default_scale) / comdim)
+            local pow = 3
+            if b.val_ispow then 
+              outval = (VF_lim(b.latchval^(1/pow) - (sourcediff*res/DATA.GUI.default_scale) / comdim))^pow
+            end
+            if b.val_min and b.val_max then outval = b.val_min + (b.val_max - b.val_min) * outval end
+            b.val = outval
+            --val_islog
           end
+          -- handle absolute val slider
+          local res = b.val_res or 1
+          b.val_abs = ((DATA.GUI.y*res/DATA.GUI.default_scale)-b.y) / b.h
+          
+          
           b.refresh = true
         end
         
-      -- handle mouse_latch on left release
+     -- handle mouse_latch on left release
+        local mouse_latch = b.mouse_latch
         if DATA.GUI.LMB_release == true and b.mouse_latch == true then
           b.mouse_latch = false
           b.refresh = true
           DATA.perform_quere[#DATA.perform_quere+1] = b.onmouserelease
-        end      
-        
-      
+        elseif DATA.GUI.LMB_release == true and b.mouse_match == true and mouse_latch ~= true then -- handle mouse_latch on left release
+         DATA.perform_quere[#DATA.perform_quere+1] = b.onmousedrop
+       end 
+         
       -- RMB
       -- handle mouse_latch on left click
         if DATA.GUI.RMB_trig == true and b.mouse_match == true then 
@@ -323,10 +356,10 @@
           b.refresh = true
         end 
         
-      -- handle mouse_latch on left drag
-        if DATA.GUI.RMB_state == true and DATA.GUI.mouse_ismoving ==true and b.mouse_latch == true and b.latchval and type(b.latchval) == 'number' then
-          DATA.perform_quere[#DATA.perform_quere+1] = b.onmousedragR
-          if b.val then 
+      -- handle mouse_latch on right drag 
+        if DATA.GUI.RMB_state == true and DATA.GUI.mouse_ismoving ==true and b.mouse_latch == true then 
+          DATA.perform_quere[#DATA.perform_quere+1] = b.onmousedragR 
+          if  b.latchval  and type(b.latchval) == 'number' and b.val then 
             local res= b.val_res or 1
             b.val = VF_lim(b.latchval - (DATA.GUI.dy*res/DATA.GUI.default_scale) / b.h) 
           end
@@ -351,8 +384,10 @@
       
       --
       if DATA.GUI.LMB_state == true and DATA.GUI.mouse_ismoving ==true and b.mouse_latch == true and b.onmousedrag_skipotherobjects then return end
+      --if b.refresh then msg(1) end
       ::skipb::
     end
+    
   end
   ----------------------------------------------------------------------------- 
   function DATA:GUIdraw_knob(b)
@@ -468,7 +503,20 @@
       if backgr_fill2 ~= 0 and backgr_col2 then
         DATA:GUIhex2rgb(backgr_col2, true)
         gfx.a =backgr_fill2
-        gfx.rect(x+1,y+1,w-1,h-1,1)
+        if b.backgr_usevalue and b.val then 
+          if not b.val_centered then 
+            gfx.rect(x+1,y+1,math.floor(w*VF_lim(b.val))-1,h-1,1)
+           else
+            local rectw = math.floor( w*math.abs( b.val*0.5 )  )
+            if b.val < 0 then 
+              gfx.rect(x+1+w/2-rectw,y+1,rectw-1,h-1,1)
+             else
+              gfx.rect(x+1+w/2,y+1,rectw-1,h-1,1)
+            end
+          end
+         else
+          gfx.rect(x+1,y+1,w-1,h-1,1)
+        end
       end
         
     -- latched by mouse
@@ -509,7 +557,13 @@
       DATA:GUIhex2rgb(frame_col or DATA.GUI.default_frame_col, true)
       gfx.a = frame_a
       if b.mouse_match == true or b.mouse_latch == true then gfx.a = frame_asel end
-      if gfx.a > 0 then DATA:GUIdraw_rect(x,y,w,h,0)  end
+      if gfx.a > 0 then 
+        if b.frame_arcborder then 
+          DATA:GUIdraw_rectarcborder(x,y,w,h,b.frame_arcborder, b.frame_arcborderflags, b.frame_arcborderr) 
+         else
+          DATA:GUIdraw_rect(x,y,w,h,0)  
+        end
+      end
     -- offsetframe
       if offsetframe > 0 and b.txt_strw and b.txt_strh then
         DATA:GUIhex2rgb(DATA.GUI.default_frame_col, true)
@@ -619,6 +673,16 @@
     DATA.GUI.last_MMB_state = DATA.GUI.MMB_state  
     DATA.GUI.last_ANY_state = DATA.GUI.ANY_state 
     DATA.GUI.last_wheel = DATA.GUI.wheel 
+    
+    -- handle drop stuff
+    DATA.GUI.droppedfiles = {files = {}, exist = false}
+    for i = 0, 1000 do
+      local DRret, DRstr = gfx.getdropfile(i)
+      if DRret == 0 then break end
+      DATA.GUI.droppedfiles.files[i] = DRstr
+      DATA.GUI.droppedfiles.exist = true
+    end
+    gfx.getdropfile(-1)
   end
 -----------------------------------------------------------------------------  
   function DATA:handleProjUpdates()
@@ -661,6 +725,12 @@
     DATA.extstate.wind_h =  wh
     DATA.extstate.dock =    dock
                           
+    -- handle real gfx w/h change
+    DATA.UPD.test_gfxw = gfx.w                      
+    DATA.UPD.test_gfxh = gfx.h 
+    if DATA.UPD.test_lastgfxw and (DATA.UPD.test_lastgfxw~= DATA.UPD.test_gfxw or DATA.UPD.test_lastgfxh~= DATA.UPD.test_gfxh) then DATA.UPD.onWHchange = true  end
+    DATA.UPD.test_lastgfxw = DATA.UPD.test_gfxw                   
+    DATA.UPD.test_lastgfxh = DATA.UPD.test_gfxh  
   end
   -----------------------------------------------------------------------------  
   function DATA:perform()
@@ -678,7 +748,8 @@
   end
 -----------------------------------------------------------------------------  
   function RUN()
-    if not DATA.UPD then DATA.UPD = {} end
+    DATA.cnt = (DATA.cnt  or 0 )+ 1
+    if not DATA.UPD then DATA.UPD = {onGUIinit = true } end
       
     -- data
       DATA:handleProjUpdates()
@@ -690,7 +761,7 @@
       DATA:GUIhandleshortcuts()
       DATA:GUIhandlemousestate() -- create a quere for performing stuff
       DATA:GUIdraw() -- draw stuff 
-    
+      
       if DATA.UPD.onconfchange == true or DATA.UPD.onXYchange == true or DATA.UPD.onWHchange == true then DATA:ExtStateSet() DATA:ExtStateGet()  end
       if DATA.UPD.onWHchange == true or DATA.UPD.onGUIinit == true then if GUI_RESERVED_init then GUI_RESERVED_init(DATA) end DATA.GUI.firstloop = 1 end
     
@@ -748,13 +819,14 @@
     end
     
     if DATA.GUI.firstloop == 1 or DATA.UPD.onWHchange == true then DATA:GUIdraw_Layer1_MainBack() end
-    if DATA.GUI.firstloop == 1 or DATA.UPD.onWHchange == true or DATA.GUI.layers_refresh[2] then DATA:GUIdraw_Layer2_MainButtons() end
+    if DATA.GUI.firstloop == 1 or DATA.UPD.onWHchange == true or DATA.GUI.layers_refresh[2] then DATA:GUIdraw_Layer2_MainButtons() end--msg(os.clock())
     if DATA.GUI.firstloop == 1 or DATA.UPD.onWHchange == true or upd_customlayers == true then DATA:GUIdraw_LayerCustom() end
     
     gfx.mode = 0
     for layer in spairs(DATA.GUI.layers )do
       gfx.set(1,1,1,1)
       gfx.dest = -1   
+      if DATA.GUI.layers[layer].a and DATA.GUI.layers[layer].a == 0 then goto skip_layerdraw end
       gfx.a = DATA.GUI.layers[layer].a or 1
       gfx.x,gfx.y = 0,0
       local w,h = gfx.w, gfx.h
@@ -778,6 +850,7 @@
       gfx.blit(layer, 1, 0, 
           srcx,srcy,srcw,srch,
           destx,desty,destw,desth, 0,0) 
+      ::skip_layerdraw::
     end
     
     if GUI_RESERVED_drawDYN then GUI_RESERVED_drawDYN(DATA) end -- draw dynamic stuff if any
@@ -826,7 +899,7 @@
     local b
     for but in spairs(DATA.GUI.buttons ) do 
       b = DATA.GUI.buttons[but]
-      if not b.layer then DATA:GUIdraw_Button(b) end
+      if b and not b.layer then DATA:GUIdraw_Button(b) end
     end
   end
   -----------------------------------------------------------------------------  
@@ -864,6 +937,54 @@
     gfx.x,gfx.y = x+w-1,y
     gfx.lineto(x+1,y)
   end 
+  ----------------------------------------------------------------------------- 
+  function DATA:GUIdraw_rectarcborder(x,y,w,h,arcborder0, arcborderflags, arcborderr) 
+    local arcborder = arcborderr or math.floor(w*DATA.GUI.default_button_framew_arcratio)
+    if type(arcborder0)== 'number' then arcborder = arcborder0 end 
+    local aa =1
+    if not arcborderflags then arcborderflags = 1|2|4|8 end
+    
+      
+    -- draw lines
+    gfx.x,gfx.y = x+w-1-arcborder,y
+    gfx.lineto(x+1+arcborder,y) -- top 
+    
+    gfx.x,gfx.y = x+1+arcborder,y+h 
+    gfx.lineto(x+w-arcborder-1,y+h) -- bottom
+    
+    gfx.x,gfx.y = x+w,y+h-1-arcborder
+    gfx.lineto(x+w,y+arcborder+1) -- side right 
+    
+    gfx.x,gfx.y = x,y+arcborder+1
+    gfx.lineto(x,y+h-arcborder-1) -- side left 
+    
+    -- draw arcs
+    
+    if arcborderflags&1==1 then  
+      gfx.arc(x+arcborder,y+arcborder,arcborder,math.rad(0),math.rad(-90),aa ) -- top left
+     else
+      gfx.line(x+arcborder,y,x,y) 
+      gfx.line(x,y,x,y+arcborder)
+    end
+    if arcborderflags&2==2 then  
+      gfx.arc(x+w-arcborder,y+arcborder,arcborder,math.rad(0),math.rad(90),aa )-- top right
+     else
+      gfx.line(x+w-arcborder,y,x+w,y) 
+      gfx.line(x+w,y,x+w,y+arcborder)
+    end
+    if arcborderflags&4==4 then  
+      gfx.arc(x+w-arcborder,y+h-arcborder,arcborder,math.rad(180),math.rad(90),aa ) -- bot right
+     else
+      gfx.line(x+w,y+h-arcborder,x+w,y+h)
+      gfx.line(x+w,y+h,x+w-arcborder,y+h) 
+    end
+    if arcborderflags&8==8 then 
+      gfx.arc(x+arcborder,y+h-arcborder,arcborder,math.rad(180),math.rad(270),aa ) -- bot left
+     else
+      gfx.line(x+arcborder,y+h,x,y+h) 
+      gfx.line(x,y+h,x,y+h-arcborder)
+    end
+  end
   ----------------------------------------------------------------------------- 
   function DATA:GUIhex2rgb(s16,set)
     if not s16 then return end
@@ -1022,6 +1143,8 @@
     DATA.GUI.default_tooltipxoffs = 10
     DATA.GUI.default_tooltipyoffs = 0
     
+    DATA.GUI.default_button_framew_arcratio = 0.1
+    
     
     
     -- perform retina scaling -- https://forum.cockos.com/showpost.php?p=2493416&postcount=40
@@ -1114,6 +1237,7 @@
     DATA.GUI.layers[DATA.GUI.custom_layerset2].layer_y = DATA.GUI.buttons.Rlayer.y
     DATA.GUI.layers[DATA.GUI.custom_layerset2].layer_yshift = 0
     DATA.GUI.layers[DATA.GUI.custom_layerset2].layer_w = DATA.GUI.buttons.Rlayer.w-custom_scrollw
+    if DATA.GUI.buttons.Rlayer.noscroll == true then DATA.GUI.layers[DATA.GUI.custom_layerset2].layer_w = DATA.GUI.buttons.Rlayer.w end
     DATA.GUI.layers[DATA.GUI.custom_layerset2].layer_h = DATA.GUI.buttons.Rlayer.h
     local layer_h = 0
     if GUI_RESERVED_BuildLayer then layer_h  = GUI_RESERVED_BuildLayer(DATA) end

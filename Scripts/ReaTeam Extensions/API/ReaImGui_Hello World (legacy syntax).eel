@@ -9,9 +9,13 @@ color = 0;
 function frame() (
   track = GetSelectedTrack(0, 0);
 
-  !track ? (
+  track ? (
+    GetTrackGUID(#guid, track);
+    extension_api("ImGui_PushID", ctx, #guid);
+  ) : (
     color = 0;
     #notes = "";
+    extension_api("ImGui_BeginDisabled", ctx);
   );
 
   extension_api("ImGui_TextWrapped", ctx, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices turpis lectus, in semper ligula blandit in. Duis non ipsum varius, pretium magna eu, mattis sapien. Maecenas augue mi, luctus sed leo et, ullamcorper convallis ligula. Nunc vitae porttitor quam. Integer a lorem fermentum, dapibus tortor ut, gravida erat. Quisque ut justo ante. Quisque fringilla a lectus a porta.");
@@ -25,6 +29,10 @@ function frame() (
   GetSetMediaTrackInfo_String(track, "P_EXT:imhw_notes", #notes, 0);
   extension_api("ImGui_InputTextMultiline", ctx, "track notes", #notes, 0, -FLT_MIN) ?
     GetSetMediaTrackInfo_String(track, "P_EXT:imhw_notes", #notes, 1);
+
+  track
+    ? extension_api("ImGui_PopID", ctx)
+    : extension_api("ImGui_EndDisabled", ctx);
 );
 
 function loop() (
@@ -34,7 +42,7 @@ function loop() (
     frame();
     extension_api("ImGui_End", ctx);
   );
-  open ? defer("loop()") : extension_api("ImGui_DestroyContext", ctx);
+  open ? defer("loop()");
 );
 
 function init() (

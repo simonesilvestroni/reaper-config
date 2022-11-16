@@ -1,4 +1,4 @@
--- Generated for ReaImGui v0.7
+-- Generated for ReaImGui v0.7.1
 
 local shims = {
   { version=0x00070000, apply=function() -- v0.7
@@ -65,8 +65,8 @@ end
 
 return function(compat_version)
   local version = parseVersion(compat_version)
-  assert(version <= 0x00070000,
-    ('reaimgui 0.7 is too old (script requires %s)'):format(compat_version))
+  assert(version <= 0x00070100,
+    ('reaimgui 0.7.1 is too old (script requires %s)'):format(compat_version))
   for _, shim in ipairs(shims) do
     if shim.version <= version then break end
     shim.apply()

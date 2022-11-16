@@ -8,9 +8,13 @@ color = 0;
 function frame() (
   track = GetSelectedTrack(0, 0);
 
-  !track ? (
+  track ? (
+    GetTrackGUID(#guid, track);
+    ImGui_PushID(ctx, #guid);
+  ) : (
     color = 0;
     #notes = "";
+    ImGui_BeginDisabled(ctx);
   );
 
   ImGui_TextWrapped(ctx, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ultrices turpis lectus, in semper ligula blandit in. Duis non ipsum varius, pretium magna eu, mattis sapien. Maecenas augue mi, luctus sed leo et, ullamcorper convallis ligula. Nunc vitae porttitor quam. Integer a lorem fermentum, dapibus tortor ut, gravida erat. Quisque ut justo ante. Quisque fringilla a lectus a porta.");
@@ -24,13 +28,15 @@ function frame() (
   GetSetMediaTrackInfo_String(track, "P_EXT:imhw_notes", #notes, 0);
   ImGui_InputTextMultiline(ctx, "track notes", #notes, 0, -FLT_MIN) ?
     GetSetMediaTrackInfo_String(track, "P_EXT:imhw_notes", #notes, 1);
+
+  track ? ImGui_PopID(ctx) : ImGui_EndDisabled(ctx);
 );
 
 function loop() (
   open = 1; // enable the close button
   ImGUi_SetNextWindowSize(ctx, 500, 420, ImGui_Cond_FirstUseEver());
   ImGui_Begin(ctx, "Hello World!", open) ? ( frame(); ImGui_End(ctx); );
-  open ? defer("loop()") : ImGui_DestroyContext(ctx)
+  open ? defer("loop()")
 );
 
 function init() (

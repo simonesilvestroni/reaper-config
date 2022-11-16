@@ -1,4 +1,7 @@
 C10018 "/Users/m2m/Documents/REAPER Media"
+F "Click source-glued.wav" 3881158 0 1662037542 0
+D y 2022-09-01 s 48000 n 1 l 0:40.421
+D i 16
 F "Dico quel che so [PRE Master]-imported.RPP" 123113 0 1658063041 0
 D p 78 s 48000 n 2 l 3:42.199
 F "Dimenticare Rimini [PRE Master]-imported.RPP" 54404 0 1658063091 0
@@ -8,6 +11,12 @@ D y 2022-07-28 s 48000 n 2 l 2:37.280
 D i 32
 F "Ipogeo [PRE Master]-imported.RPP" 75982 0 1658063117 0
 D p 80 s 48000 n 2 l 3:39.000
+F reaper_stems-001.wav 16098428 0 1662037608 0
+D y 2022-09-01 s 48000 n 1 l 1:23.842
+D i 32
+F "reaper_stems_ - BIP.wav" 16674428 0 1662037716 0
+D y 2022-09-01 s 48000 n 1 l 1:26.842
+D i 32
 F "reaper_stems_DRM Logic.wav" 90515992 0 1658998448 0
 D y 2022-07-28 s 48000 n 2 l 3:55.716
 D i 32

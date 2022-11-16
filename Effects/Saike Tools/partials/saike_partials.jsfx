@@ -1,8 +1,8 @@
 desc:Partials (Saike)
 tags: modal effect
-version: 0.11
+version: 0.42
 author: Joep Vanlier
-changelog: Forgot to bump internal version number.
+changelog: Switch file extension again to prevent being visible in jsfx list (thanks cfillion!).
 license: MIT
 provides:
   partials_dependencies/*
@@ -12,8 +12,8 @@ about:
   This effect takes both audio and MIDI input. Based on the model selected the incoming audio will excite
   a number of resonators that produce particular sounds. Up to 4 note polyphony is supported.
 
-slider1:model=0<0,1,11{Metal,Tube,Beating,Beam open,Beam clamped,Membrane,Marimba,Pan,Voice (male),Voice (female),Custom>-model
-slider2:placeholder=0<0,1,1>-Placeholder
+slider1:model=0<0,12,1{Metal,Tube,Beating,Beam open,Beam clamped,Membrane,Marimba,Pan,Voice male,Voice female,Custom,Custom_Mem,Custom_Mem2>-model
+slider2:inverse_brightness=0<0,1,0.0001>-Inverse Brightness
 slider3:relative_position=0.1<0.0001,0.999,0.001>-Relative position
 slider4:damp=0.1<-2,2,0.0001>-Damping
 slider5:freq_damp=-4<-6,-1,0.0001>-Frequency Dependent Damping
@@ -29,12 +29,17 @@ slider14:position_vel=0<-1,1,0.000001>-Position velocity sensitivity
 slider15:damp_vel=0<-4,4,0.000001>-Damping velocity sensitivity
 slider16:freq_damp_vel=0<-5,5,0.000001>-Frequency dependent damping velocity sensitivity
 slider17:inharmonic_vel=0<-4,4,0.000001>-Inharmonicity velocity sensitivity
-slider18:midi_input=0<0,1,1{Off,On}>-Midi input
+slider18:dummy=0<0,0,1{Off,On}>-Dummy
 slider19:first_note=45<0,127,1>-Midi note 1
 slider20:second_note=52<0,127,1>-Midi note 2
 slider21:third_note=60<0,127,1>-Midi note 3
 slider22:fourth_note=64<0,127,1>-Midi note 4
 slider23:fifth_note=48<0,127,1>-Midi note 5
+slider24:fft_choice=1<0,4,1>-fft size
+slider52:glide_speed=0<0,1,1>-Glide [10-1000ms]
+slider53:legacy_gain=0<0,1,1>-Legacy mode
+slider54:brightness_vel=0<0,1,0.0001>-Brightness vel
+slider55:play_mode=3<0,4.99,1>-Impulse mode
 slider56:attack_slider=0<0,2,0.0001>-Attack
 slider57:decay_slider=1<0,3,0.0001>-Decay
 slider58:release_slider=1.5<0,3,0.0001>-Release
@@ -56,13 +61,21 @@ import saike_modal.jsfx-inc
 import saike_modal_kp_midi.jsfx-inc
 import saike_modal_stft.jsfx-inc
 import saike_modal_gfx.jsfx-inc
+import saike_partial_array.jsfx-inc
 import saike_vowel_data.jsfx-inc
 import saike_modal_buffer.jsfx-inc
+import saike_modal_impulses.jsfx-inc
 
 @init
-gfx_ext_retina = 1;
-version = 2;
+MAX_CUSTOM_PARTIALS = 1024;
 
+gfx_ext_retina == 0 ? gfx_ext_retina = 1;
+version = 3;
+
+string1.used_partials = string2.used_partials = string3.used_partials = string4.used_partials = string5.used_partials = 0;
+
+playmode_knob.init_knob(0, 4.99, 0.1, 55, 0);
+brightness_knob.init_knob(1, 0, 0.1, 2, 54);
 position_knob.init_knob(0, 1, 0.1, 3, 14);
 damp_knob.init_knob(-2, 2, 0.1, 4, 15);
 freq_damp_knob.init_knob(-6, -1, -4, 5, 16);
@@ -71,34 +84,63 @@ stiffness_knob.init_knob(3, 6, 4.6, 7, 0);
 stiffness_exp_knob.init_knob(1.0, 3.0, 2.3, 8, 0);
 force_fb.init_knob(0, 15.0, 1.0, 11, 0);
 partials.init_knob(16, 64, 32, 12, 0);
+glide_knob.init_knob(0, 1, 0, 52, 0);
+
+function stft_init()
+local()
+global(
+  string1.string_init, string2.string_init, string3.string_init, string4.string_init, string5.string_init,
+  stft_mem.init_stft,
+  stft_mem.fft_size, stft_mem.fft_interval,
+  fft_choice,
+)
+instance()
+(
+  stft_mem.init_stft(64 * (1 << fft_choice)) ? (
+    string1.string_init(stft_mem.fft_size, stft_mem.fft_interval);
+    string2.string_init(stft_mem.fft_size, stft_mem.fft_interval);
+    string3.string_init(stft_mem.fft_size, stft_mem.fft_interval);
+    string4.string_init(stft_mem.fft_size, stft_mem.fft_interval);
+    string5.string_init(stft_mem.fft_size, stft_mem.fft_interval);
+  );
+);
 
 function initialize_memory()
 local(logo_handle, freemem, lowcut, lowcut_freq, delay_ms, count)
 instance()
 global(
   rle_mem, logomem, logo_line_count,
+  gfx_stft_mem.init_stft,
+  stft_mem.init_stft,
   stft_mem.fft_mem, string1.string_mem, string2.string_mem, string3.string_mem, string4.string_mem, string5.string_mem,
   stft_mem.fft_size, stft_mem.fft_interval, stft_mem.in_fft_mem, stft_mem.out_fft_mem,
   gfx_stft_mem.fft_mem, gfx_string.string_mem, gfx_stft_mem.in_fft_mem, gfx_stft_mem.out_fft_mem,
   gfx_stft_mem.fft_size, gfx_stft_mem.fft_interval,
+  gfx_string.string_init,
   bessel_roots,
   midi.init_midi,
   buffer.init_buffer,
   buffer.set_offset,
   hp.init_linearSVF,
   srate,
+  MAX_CUSTOM_PARTIALS,
+  custom_partial_mem,
+  fft_choice,
 )
 (
   freemem = 0;
-  freemem = stft_mem.fft_mem(freemem, 64);
-  freemem = string1.string_mem(freemem, stft_mem.fft_size, stft_mem.fft_interval, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
-  freemem = string2.string_mem(freemem, stft_mem.fft_size, stft_mem.fft_interval, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
-  freemem = string3.string_mem(freemem, stft_mem.fft_size, stft_mem.fft_interval, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
-  freemem = string4.string_mem(freemem, stft_mem.fft_size, stft_mem.fft_interval, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
-  freemem = string5.string_mem(freemem, stft_mem.fft_size, stft_mem.fft_interval, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
+  freemem = stft_mem.fft_mem(freemem, 64 * 16);  // We allocate the maximum mem block here
+  freemem = string1.string_mem(freemem, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
+  freemem = string2.string_mem(freemem, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
+  freemem = string3.string_mem(freemem, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
+  freemem = string4.string_mem(freemem, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
+  freemem = string5.string_mem(freemem, stft_mem.in_fft_mem, stft_mem.out_fft_mem);
+  stft_init();
   
   freemem = gfx_stft_mem.fft_mem(freemem, 512);
-  freemem = gfx_string.string_mem(freemem, gfx_stft_mem.fft_size, gfx_stft_mem.fft_interval, gfx_stft_mem.in_fft_mem, gfx_stft_mem.out_fft_mem);
+  freemem = gfx_string.string_mem(freemem, gfx_stft_mem.in_fft_mem, gfx_stft_mem.out_fft_mem);
+  gfx_stft_mem.init_stft(512);
+  gfx_string.string_init(gfx_stft_mem.fft_size, gfx_stft_mem.fft_interval);
   
   freemem = (bessel_roots = freemem) + 2048;
   memset(bessel_roots, 0, 2048);
@@ -129,8 +171,11 @@ global(
   
   freemem = init_vowels(freemem);
   
+  custom_partial_mem = freemem;
+  freemem = alloc_model_memory_block(freemem, MAX_CUSTOM_PARTIALS);
+  
   logomem = freemem;
-  logo_handle = file_open("partials_dependencies/logo.ske");
+  logo_handle = file_open("partials_dependencies/logo.dat");
   file_var(logo_handle, logo_line_count);
   file_mem(logo_handle, logomem, logo_line_count);
   rle_mem = logomem + logo_line_count + 1;
@@ -147,14 +192,37 @@ instance()
   (2/(1+exp(-2*x)) - 1)
 );
 
-function set_pars(f_0, vel)
+
+function update_freq()
+local()
+global(stft, k_glide, big_tick, cSample, test_mode, _test_mode_pos)
+instance(freq, target_freq)
+(
+  freq += k_glide * (target_freq - freq);
+  
+  big_tick ? (
+    stft ? (
+      test_mode ? (
+        _test_mode_pos += 0.001;
+        _test_mode_pos > 0.5 ? _test_mode_pos = 0;
+        this.set_pars_stft(freq * (1 + 0.5*12 * test_mode * _test_mode_pos));
+      ) : (
+        this.set_pars_stft(freq);
+      );
+    ) : (
+      freq ? this.set_pars_td(freq);
+    );
+  );
+);
+
+function set_pars(f_0, vel, glide)
 local()
 global(
   stft,
   relative_position, damp, freq_damp, inharmonic,
   position_vel, damp_vel, freq_damp_vel, inharmonic_vel,
 )
-instance(base_damp, f_damp, inharm, rel_position)
+instance(base_damp, f_damp, inharm, rel_position, freq, target_freq)
 (
   // position 0 to 1
   // damp -2 to 2
@@ -163,28 +231,40 @@ instance(base_damp, f_damp, inharm, rel_position)
   rel_position = min(max(0, relative_position + position_vel * vel), 1);
   base_damp = 10^(min(max(-2, damp + damp_vel * vel), 2));
   f_damp = 10^(min(max(-6, freq_damp + freq_damp_vel * vel), -1));
-  inharm = 10^(min(max(-4, inharmonic + inharmonic_vel * vel), 0));
+  
+  inharm = inharm * 0.8 + 0.2 * 10^(min(max(-4, inharmonic + inharmonic_vel * vel), 0));
+  
+  
 
-  stft ? (
-    this.set_pars_stft(f_0);
+  ((!glide) || (freq == 0)) ? (
+    freq = f_0;
+    target_freq = f_0;
   ) : (
-    this.set_pars_td(f_0);
+    target_freq = f_0;
   );
 );
 
 function eval_string(f_h, env, on)
-local()
-global(stft)
+local(input_active)
+global(stft, play_mode, stft_mem.fft_size)
 instance()
 (
   stft ? (
-    this.eval_string_stft(env, on);
+    // Impulses are added at the global level below, since the STFT
+    // variant only uses one STFT for the entire input.
+    input_active = (play_mode >= 1) ? this.impulse.impulse_alive(stft_mem.fft_size) : 1;
+
+    this.eval_string_stft(env * input_active, env, on);
   ) : (
+    /* Add string specific impulse if relevant */
+    (play_mode >= 1) ? (
+      f_h += this.impulse.eval_impulse(this.freq);
+    );
     this.eval_string_td(on ? f_h * env : 0);
   );
 );
 
-function update_env_note(vel)
+function update_env_note(vel, state)
 instance(last_vel, target, sustain, rate,
          k_attack, k_decay, attack_samples)
 local()
@@ -193,7 +273,7 @@ global(srate, mlog0p05, attack_s, decay_s, release_s, sustain_level)
   target = 2 * vel;
   sustain = sustain_level * target;
   
-  (last_vel != vel) ? (
+  state ? (
     // Change!
     vel ? (
       attack_samples = attack_s * srate;
@@ -228,65 +308,141 @@ global()
   state += rate * (current_target - state);
 );
 
-
 function update_notes()
-instance(notes_on, active_note_mem, active_note_vel)
+instance(notes_on, active_note_mem, active_note_vel, active_note_state, note_history,
+         note_on0, note_on1, note_on2, note_on3, note_on4, last_count)
 global(string1.set_pars, string2.set_pars, string3.set_pars, string4.set_pars, string5.set_pars, pitch_shift, midi.pitchbend,
-       use_envelopes, envelope1.update_env_note, envelope2.update_env_note, envelope3.update_env_note, envelope4.update_env_note, envelope5.update_env_note)
+       use_envelopes, envelope1.update_env_note, envelope2.update_env_note, envelope3.update_env_note, envelope4.update_env_note, envelope5.update_env_note,
+       string1.impulse.update_impulse_note,
+       string2.impulse.update_impulse_note,
+       string3.impulse.update_impulse_note,
+       string4.impulse.update_impulse_note,
+       string5.impulse.update_impulse_note,
+       string1.used_partials,
+       string2.used_partials,
+       string3.used_partials,
+       string4.used_partials,
+       string5.used_partials,
+       play_mode, midi_recv,
+       inverse_brightness, brightness_vel,
+       partials_used,
+       glide)
 local(ref_pitch, scaling
-      note_vel0, note_vel1, note_vel2, note_vel3, note_vel4)
+      note_vel0, note_vel1, note_vel2, note_vel3, note_vel4,
+      note_state0, note_state1, note_state2, note_state3, note_state4,
+      latest_note
+      )
 (
   scaling = 440;
-
   ref_pitch = 2 * midi.pitchbend + pitch_shift - 69;
   
-  note_vel0 = active_note_vel[0];
-  note_vel1 = active_note_vel[1];
-  note_vel2 = active_note_vel[2];
-  note_vel3 = active_note_vel[3];
-  note_vel4 = active_note_vel[4];
+  midi_recv = max(midi_recv, ((note_state0 > 0) + (note_state1 > 0) + (note_state2 > 0) + (note_state3 > 0) + (note_state4 > 0)) > 0);
 
-  // Update note parameters
-  notes_on ? string1.set_pars(scaling * 2 ^ ((active_note_mem[0] + ref_pitch) / 12), note_vel0);
-  notes_on > 1 ? string2.set_pars(scaling * 2 ^ ((active_note_mem[1] + ref_pitch) / 12), note_vel1);
-  notes_on > 2 ? string3.set_pars(scaling * 2 ^ ((active_note_mem[2] + ref_pitch) / 12), note_vel2);
-  notes_on > 3 ? string4.set_pars(scaling * 2 ^ ((active_note_mem[3] + ref_pitch) / 12), note_vel3);
-  notes_on > 4 ? string5.set_pars(scaling * 2 ^ ((active_note_mem[4] + ref_pitch) / 12), note_vel4);
+  glide ? (
+    note_on2 = note_on3 = note_on4 = 0;
+    (notes_on > 0) ? (
+      latest_note = note_history[notes_on - 1];
+      note_on0 = active_note_mem[latest_note];
+      note_vel0 = active_note_vel[latest_note];
+      note_state0 = active_note_state[latest_note];
+    ) : (
+      note_state0 = -1;
+    );
+    (notes_on > 0) ? string1.set_pars(scaling * 2 ^ ((note_on0 + ref_pitch) / 12), note_vel0, last_count > 0);
+  ) : (
+    note_vel0 = active_note_vel[0];
+    note_vel1 = active_note_vel[1];
+    note_vel2 = active_note_vel[2];
+    note_vel3 = active_note_vel[3];
+    note_vel4 = active_note_vel[4];
+    
+    note_on0 = active_note_mem[0];
+    note_on1 = active_note_mem[1];
+    note_on2 = active_note_mem[2];
+    note_on3 = active_note_mem[3];
+    note_on4 = active_note_mem[4];
+    
+    note_state0 = active_note_state[0];
+    note_state1 = active_note_state[1];
+    note_state2 = active_note_state[2];
+    note_state3 = active_note_state[3];
+    note_state4 = active_note_state[4];
+    
+    // Update note parameters
+    note_on0 ? string1.set_pars(scaling * 2 ^ ((note_on0 + ref_pitch) / 12), note_vel0, 0);
+    note_on1 ? string2.set_pars(scaling * 2 ^ ((note_on1 + ref_pitch) / 12), note_vel1, 0);
+    note_on2 ? string3.set_pars(scaling * 2 ^ ((note_on2 + ref_pitch) / 12), note_vel2, 0);
+    note_on3 ? string4.set_pars(scaling * 2 ^ ((note_on3 + ref_pitch) / 12), note_vel3, 0);
+    note_on4 ? string5.set_pars(scaling * 2 ^ ((note_on4 + ref_pitch) / 12), note_vel4, 0);
+  );
   
   use_envelopes ? (
-    envelope1.update_env_note(note_vel0);
-    envelope2.update_env_note(note_vel1);
-    envelope3.update_env_note(note_vel2);
-    envelope4.update_env_note(note_vel3);
-    envelope5.update_env_note(note_vel4);
+    envelope1.update_env_note(note_vel0, note_state0);
+    envelope2.update_env_note(note_vel1, note_state1);
+    envelope3.update_env_note(note_vel2, note_state2);
+    envelope4.update_env_note(note_vel3, note_state3);
+    envelope5.update_env_note(note_vel4, note_state4);
   );
+  
+  (play_mode >= 1) ? (
+    string1.impulse.update_impulse_note(note_state0, inverse_brightness + brightness_vel * note_vel0);
+    string2.impulse.update_impulse_note(note_state1, inverse_brightness + brightness_vel * note_vel1);
+    string3.impulse.update_impulse_note(note_state2, inverse_brightness + brightness_vel * note_vel2);
+    string4.impulse.update_impulse_note(note_state3, inverse_brightness + brightness_vel * note_vel3);
+    string5.impulse.update_impulse_note(note_state4, inverse_brightness + brightness_vel * note_vel4);
+  );
+  
+  active_note_state[0] = 0;
+  active_note_state[1] = 0;
+  active_note_state[2] = 0;
+  active_note_state[3] = 0;
+  active_note_state[4] = 0;
+  
+  partials_used = max(string1.used_partials, max(string2.used_partials, max(string3.used_partials, max(string4.used_partials, string5.used_partials))));
+  last_count = notes_on;
 );
 
 function force_update()
 (
-  string1.ticker += 1000;
-  string2.ticker += 1000;
-  string3.ticker += 1000;
-  string4.ticker += 1000;
-  string5.ticker += 1000;
-  midi.update_notes();
+  update_ticker = 0;
 );
 
 initialize_memory();
+midi.reset_midi();
 settings_changed = 1;
 
 @slider
 settings_changed = 1;
 
+stft_init();
+
 @block
+sample_time = 1 / srate;
+glide_decay = pow(10, glide_speed * 2 - 2.5); // 12.0 / 1000;  // Decay in seconds
+k_glide = - sample_time * log(0.5) / glide_decay;
+
+midi_input = (play_mode >= 1);
+(floor(play_mode) != floor(last_play_mode)) ? (
+  memset(midi.active_note_mem, 0, 5);
+  midi.notes_on = 0;
+  settings_changed = 1;
+  last_play_mode = play_mode;
+);
+
+(srate != last_srate) ? (
+  prepare_impulse_globals();
+  last_srate = srate;
+);
+
 mlog0p05 = 2.995732273553991; // Corresponds to time to get to 95%
 attack_s = exp(-5.809142990314027 + 2.302585092994046 * attack_slider); // 3 - 300 ms <=> 0 - 2
 decay_s = exp(-5.809142990314027 + 2.302585092994046 * decay_slider); // 3 - 3000 ms <=> 0 - 3
 release_s = exp(-5.809142990314027 + 2.302585092994046 * release_slider); // 3 - 3000 ms <=> 0 - 3
 
-midi.midi_block();
+midi.midi_block(pass_through);
 
 @sample
+cSample += 1;
 update_global_parameters();
 
 function update_fixed_notes()
@@ -321,35 +477,61 @@ instance(active_note_mem, active_note_vel, notes_on)
   );
 );
 
+midi.curSample += 1;
+!midi_input ? (
+  midi.update_fixed_notes();
+);
+
 midi.notes_remain ? (
   // Reset if MIDI stuff updated
   midi.midi_sample(midi_input) ? (
     settings_changed = 1;
   );
 );
-midi.curSample += 1;
 
-!midi_input ? (
-  midi.update_fixed_notes();
+big_tick = update_ticker == 0;
+update_ticker += 1;
+(update_ticker > 128) ? (
+  update_ticker = 0;
 );
+
+big_tick ? (
+  midi.update_notes();
+);
+midi.note_on0 ? string1.update_freq();
+midi.note_on1 ? string2.update_freq();
+midi.note_on2 ? string3.update_freq();
+midi.note_on3 ? string4.update_freq();
+midi.note_on4 ? string5.update_freq();
+
 
 f_hn = 0;
 f_b = 0;
 
-stft ? stft_mem.read_stft(f_h);
+stft ? (
+  (play_mode >= 2) ? (
+    f_h += string1.impulse.eval_impulse(string1.freq) * 4;
+    f_h += string2.impulse.eval_impulse(string2.freq) * 4;
+    f_h += string3.impulse.eval_impulse(string3.freq) * 4;
+    f_h += string4.impulse.eval_impulse(string4.freq) * 4;
+    f_h += string5.impulse.eval_impulse(string5.freq) * 4;
+  );
+
+  stft_mem.read_stft(f_h);
+);
 
 (midi_input && use_envelopes) ? (
-  string1.eval_string(f_h, envelope1.env_sample(), midi.notes_on > 0);
-  string2.eval_string(f_h, envelope2.env_sample(), midi.notes_on > 1);
-  string3.eval_string(f_h, envelope3.env_sample(), midi.notes_on > 2);
-  string4.eval_string(f_h, envelope4.env_sample(), midi.notes_on > 3);
-  string5.eval_string(f_h, envelope5.env_sample(), midi.notes_on > 4);
+  string1.eval_string(f_h, envelope1.env_sample(), midi.note_on0);
+  string2.eval_string(f_h, envelope2.env_sample(), midi.note_on1);
+  string3.eval_string(f_h, envelope3.env_sample(), midi.note_on2);
+  string4.eval_string(f_h, envelope4.env_sample(), midi.note_on3);
+  string5.eval_string(f_h, envelope5.env_sample(), midi.note_on4);
 ) : (
-  string1.eval_string(f_h, 1, midi.notes_on > 0);
-  string2.eval_string(f_h, 1, midi.notes_on > 1);
-  string3.eval_string(f_h, 1, midi.notes_on > 2);
-  string4.eval_string(f_h, 1, midi.notes_on > 3);
-  string5.eval_string(f_h, 1, midi.notes_on > 4);
+  string1.eval_string(f_h, 1, midi.note_on0);
+  string2.eval_string(f_h, 1, midi.note_on1);
+  string3.eval_string(f_h, 1, midi.note_on2);
+  string4.eval_string(f_h, 1, midi.note_on3);
+  string5.eval_string(f_h, 1, midi.note_on4);
 );
 
 stft ? (
@@ -438,34 +620,44 @@ file_var(0, version);
   env.t_max = 0.1;
   use_envelopes = 0;
 );
-version = 2;
+
+file_var(0, MAX_CUSTOM_PARTIALS);
+file_mem(0, custom_partial_mem, MAX_CUSTOM_PARTIALS * 8 + 64);
+
+(version < 3) ? ( glide = 0; ) : ( file_var(0, glide); );
+(version < 3) ? ( test_mode = 0; ) : ( file_var(0, test_mode); );
+(version < 3) ? ( pass_through = 1; ) : ( file_var(0, pass_through); );
+version = 3;
 
 @gfx 1080 280
+_gfx_w = gfx_w;
+_gfx_h = gfx_h;
+
 //scaling = gfx_ext_retina == 2 ? 1 : 0;
-scaling = gfx_w / 1080;
+scaling = _gfx_w / 1080;
 
 //gfx_set(0, 0, 0, 1);
 //gfx_rect(0, 0, gfx_w, gfx_h);
 
-((init_w != gfx_w) || (init_h != gfx_h) || (model != last_model)) ? (
-  init_w = gfx_w;
-  init_h = gfx_h;
+((init_w != _gfx_w) || (init_h != _gfx_h) || (model != last_model)) ? (
+  init_w = _gfx_w;
+  init_h = _gfx_h;
   last_model = model;
   settings_changed = 1;
-  gfx_setimgdim(1, gfx_w, gfx_h);
+  gfx_setimgdim(1, _gfx_w, _gfx_h);
   gfx_dest = 1;
   gfx_set(0, 0, 0, 1);
-  gfx_rect(0, 0, gfx_w, gfx_h);
+  gfx_rect(0, 0, _gfx_w, _gfx_h);
   
   loop(100,
-    xx = gfx_w * rand();
-    yy = gfx_h * rand();
+    xx = _gfx_w * rand();
+    yy = _gfx_h * rand();
     colormodel(rand()*rand()*rand()); gfx_a = 0.2;
     gfx_circle(xx, yy, 50 + 50 * rand(), 1, 1);
   );
   loop(5,
     gfx_x = gfx_y = 0;
-    gfx_blurto(gfx_w, gfx_h)
+    gfx_blurto(_gfx_w, _gfx_h)
   );
   
   gfx_dest = -1;
@@ -473,8 +665,8 @@ scaling = gfx_w / 1080;
 
 
 gfx_dest = 1;
-xx = gfx_w * rand();
-yy = gfx_h * rand();
+xx = _gfx_w * rand();
+yy = _gfx_h * rand();
 colormodel(rand()*rand()*rand()); gfx_a = 0.2;
 gfx_circle(xx, yy, 50 + 50 * rand(), 1, 1);
 /*
@@ -489,7 +681,7 @@ loop(10,
 );
 */
 gfx_x = gfx_y = 0;
-gfx_blurto(gfx_w, gfx_h);
+gfx_blurto(_gfx_w, _gfx_h);
 gfx_dest = -1;
 
 gfx_x = gfx_y = 0; gfx_a = 0.25;
@@ -522,7 +714,7 @@ global()
 );
 
 function gfx_draw_icon(id, enabled)
-local(len, xp, xx, yy, dr, s, ds, cy, sy, ang1, ang2, x1, x2, y1, y2)
+local(len, xp, xx, yy, dr, s, ds, cy, sy, ang1, ang2, x1, x2, y1, y2, i, di, rr)
 global(gfx_x, gfx_y, gfx_a)
 instance(_x, _y, _r, relative_position)
 ( 
@@ -668,11 +860,154 @@ instance(_x, _y, _r, relative_position)
       y1 += 1;
       y2 += 1;
     );
+  ) : ( id == 7 ) ? (
+    s = 0;
+    _r *= 0.8;
+    loop(12,
+      gfx_a = 0.5 + (s < (17 * relative_position) ? 0.5 : 0);
+      !enabled ? gfx_a *= 0.2;
+      gfx_line(
+        _x - 0.2 * _r * sin(s),
+        _y + 0.2 * _r * cos(s), 
+        _x - (0.5 + 0.05 * s) * _r * sin(s),
+        _y + (0.5 + 0.03 * s) * _r * cos(s)
+      );
+      gfx_line(
+        _x - 0.2 * _r * sin(s),
+        _y + 0.2 * _r * cos(s) + 1, 
+        _x - (0.5 + 0.05 * s) * _r * sin(s),
+        _y + (0.5 + 0.03 * s) * _r * cos(s) + 1
+      );
+      s += 0.35 * $pi;
+    );
+  ) : ( id == 8 ) ? (
+    // Waveform
+    len = ceil(0.6 * _r);
+    yy = ceil(0.2 * _r);
+    ds = 3.14 / len;
+    sy = 1;
+    loop(2,
+      xx = - len;
+      s = 0;
+      gfx_x = _x + xx - 5;
+      gfx_y = _y;
+      gfx_a = 0.8;
+      loop(2 * len,
+        _r = sin(0.1 * s) + sin(2.22 * s + 3) + 0.2 * sin(1.48 * s * s + 10) - 0.1;
+        _r *= (1 - cos(s));
+        gfx_line(_x + xx - sy, _y - sy - yy * _r, _x + xx - sy, _y - sy + yy * _r);
+        s += ds;
+        xx += 1;
+      );
+      sy -= 1;
+    );
+  ) : ( id == 9 ) ? (
+    // MIDI
+    gfx_a = 0.17;
+    len = ceil(0.6 * _r);
+    yy = ceil(0.2 * _r);
+    ds = 3.14 / len;
+    sy = 1;
+    loop(2,
+      xx = - len;
+      s = 0;
+      gfx_x = _x + xx - 5;
+      gfx_y = _y;
+      loop(2 * len,
+        _r = sin(0.1 * s) + sin(2.22 * s + 3) + 0.2 * sin(1.48 * s * s + 10) - 0.1;
+        _r *= (1 - cos(s));
+        gfx_line(_x + xx - sy, _y - sy - yy * _r, _x + xx - sy, _y - sy + yy * _r);
+        s += ds;
+        xx += 1;
+      );
+      sy -= 1;
+    );
+    
+    gfx_a = 0.4;
+    sy = 0;
+    gfx_circle(_x, _y, 0.8 * len + 0.5 * sy, 1); 
+    loop(3,
+      gfx_circle(_x, _y, len + 0.5 * sy);
+      sy += 1;
+    );
+    
+    gfx_set(0, 0, 0, 0.7);
+    gfx_circle(_x - 0.5 * len, _y, 0.85 * sy, 1);
+    gfx_circle(_x + 0.5 * len, _y, 0.85 * sy, 1);
+    gfx_circle(_x, _y - 0.5 * len, 0.85 * sy, 1);
+    gfx_circle(_x - 0.5 / 1.41 * len, _y - 0.5 / 1.41 * len, 0.85 * sy, 1);
+    gfx_circle(_x + 0.5 / 1.41 * len, _y - 0.5 / 1.41 * len, 0.85 * sy, 1);
+  ) : ( id == 10 ) ? (
+    // Spike
+    gfx_line(_x - 0.5 * _r, _y + 0.25 * _r, _x + 0.5 * _r + 1, _y + 0.25 * _r);
+    gfx_line(_x - 0.5 * _r, _y + 0.25 * _r - 1, _x + 0.5 * _r + 1, _y + 0.25 * _r - 1);
+    simple_arrow(_x, _y - 0.35 * _r, -1.5 * _r);
+  ) : ( id == 11 ) ? (
+    // Noise burst
+    ang2 = 0;
+    loop(2,
+      s = _x - 0.5 * _r;
+      i = - 0.5;
+      di = - 2 * i / _r;
+      gfx_y = _y + 0.35 * _r;
+      gfx_x = s;
+      loop(_r,
+        ang1 = _y + 0.35 * _r - 0.8 * _r * exp(-1.5 * i * i * _r);
+        gfx_lineto(s, ang1 + ang2, 1);
+        s += 1;
+        i += di;
+      );
+      ang2 += 1;
+    );
+  ) : ( id == 12 ) ? (
+    // Noise
+    ang2 = 0;
+    loop(2,
+      s = _x - 0.5 * _r;
+      i = - 0.5;
+      di = - 2 * i / _r;
+      gfx_y = _y + 0.35 * _r;
+      gfx_x = s;
+      loop(_r,
+        rr = i * i;
+        rr *= 3 * rr;
+        ang1 = _y + 0.35 * _r - 0.8 * _r * exp(-1.5 * rr * _r);
+        gfx_lineto(s, ang1 + ang2, 1);
+        s += 1;
+        i += di;
+      );
+      ang2 += 1;
+    );
+  ) : ( id == 20 ) ? (
+    xx = _x - 0.5 * _r;
+    yy = _y + 0.3 * _r;
+    rr = floor(4/50 * _r);
+    
+    gfx_circle(xx, yy, rr, 1);
+    gfx_circle(xx + 1, yy, rr, 1);
+    gfx_circle(xx + 2, yy, rr, 1);
+    gfx_line(xx + rr, yy, xx + rr, yy - 0.5 * _r);
+    gfx_line(xx + rr + 1, yy, xx + rr + 1, yy - 0.5 * _r);
+    gfx_line(xx + rr + 2, yy, xx + rr + 2, yy - 0.5 * _r);
+    
+    xx = _x + 0.38 * _r;
+    yy = _y + 0.1 * _r - 0.5 * _r;
+    gfx_circle(xx, yy, rr, 1);
+    gfx_circle(xx + 1, yy, rr, 1);
+    gfx_circle(xx + 2, yy, rr, 1);
+    gfx_line(xx - rr, yy, xx - rr, yy + 0.5 * _r);
+    gfx_line(xx - rr + 1, yy, xx - rr + 1, yy + 0.5 * _r);
+    gfx_line(xx - rr + 2, yy, xx - rr + 2, yy + 0.5 * _r);
+    
+    yy += 0.5 * _r;
+    gfx_line(_x - 0.3 * _r, yy, xx - 4 - 0.1 * _r, yy - 0.4 * _r);
+    gfx_line(_x - 0.3 * _r, yy + 1, xx - 4 - 0.1 * _r, yy - 0.4 * _r + 1);
+//    gfx_circle(_x, _y, 1, 0.5);
   );
 );
 
 function draw_model_icon()
-local(s, ds, xx, yy, len, hh, xorig, yorig)
+local(s, ds, xx, yy, len, hh, xorig, yorig, value)
 global(gfx_x, gfx_y, gfx_a)
 instance(_x, _y, _w, _h, active, _me)
 (
@@ -800,10 +1135,49 @@ instance(_x, _y, _w, _h, active, _me)
     gfx_circle(xx, yy - 0.5 * len, len + 0.5, 0);
     gfx_line(xx, yy + 0.5 * len + 1, xx, yy + 1.75 * len);
     gfx_line(xx - 0.5 * len, yy + 1.25 * len, xx + 0.5 * len, yy + 1.25 * len);
+  ) : (_me == 11) ? (
+    xx = floor(_x + 0.18 * _w) - 1;
+    yy = floor(_y + 0.75 * _h);
+    len = floor((1 - 0.18*2) * _w);
+    ds = floor(len / 2);
+    
+    ds = floor(len / 3);
+    loop(ds,
+      value = floor(len * abs(sin(s)));
+      gfx_rect(xx, yy - value + 0.08 * _h, 3, value, 0);
+      xx += 3;
+      s += 1.23;
+    );
+    
+    xx = floor(_x + 0.18 * _w) - 1;
+    ds = floor(len / 2);
+    loop(ds,
+      value = floor(0.5 * len * abs(sin(s)));
+      gfx_rect(xx, yy - value + 0.08 * _h, 3, value, 0);
+      xx += 2;
+      s += 1.23;
+    );
+  ) : (_me == 12 ) ? (
+    xx = floor(_x + 0.18 * _w) - 1;
+    yy = floor(_y + 0.75 * _h);
+    len = floor((1 - 0.18*2) * _w);
+    ds = floor(len / 2);
+    
+    loop(ds,
+      value = floor(len * abs(sin(.9*s)));
+      gfx_rect(xx, yy - value + 0.08 * _h, 2, value);
+      xx += 2;
+      s += 1.23;
+    );
   );
 );
 
-gfx_string.draw_stft(0.02 * gfx_w, 0.02 * gfx_h, gfx_w * 0.93, gfx_h * 0.9);
+((model == 11) || (model == 12)) ? (
+  right = custom_partials.draw_custom_partial_ui(0.02 * _gfx_w, cy + 1.5 * radius, 0.96 * _gfx_w, 0.935 * _gfx_h - (cy + 1.5 * radius) - 5, custom_partial_mem, MAX_CUSTOM_PARTIALS, partials_used, model==11);
+) : (
+  gfx_string.draw_stft(0.02 * _gfx_w, 0.02 * _gfx_h, _gfx_w * 0.93, _gfx_h * 0.9);
+  right = 0.95 * _gfx_w;
+);
 
 function label_toggle(x, y, str, hint)
 local(ww, hh, over)
@@ -821,36 +1195,27 @@ global(mouse_x, mouse_y, mouse_cap, gfx_x, gfx_y, last_cap, hinter.sethint)
   );
 );
 
-
 gfx_setfont(3, "Arial", 12 * max(1, scaling));
-colormodel(1 - display_log - 0.01);
-label_toggle(0.02 * gfx_w, 0.93 * gfx_h, "[Linear] ", "Display frequencies on a linear scale") ? (display_log = 0);
+gfx_measurestr("[Velocity]", velw, velh);
+colormodel(change_vel_mod - 0.01);
+label_toggle(right - velw - 5, 0.935 * _gfx_h, " [Velocity]", "Click this to change the velocity sensitivity of the parameters.\nParameters that can be linked to MIDI note velocity will\nbe highlighted.\n\nChanging their settings will result in those parameters\nbeing sensitive to MIDI note velocity. This sensitivity is\nindicated by a differently colored arc.") ? (
+  change_vel_mod = 1 - change_vel_mod;
+);
+
+label_toggle(0.02 * _gfx_w, 0.93 * _gfx_h, "[Linear] ", "Display frequencies on a linear scale") ? (display_log = 0);
 colormodel(display_log);
 label_toggle(gfx_x, gfx_y, "[Logarithmic]", "Display frequencies on a logarithmic scale") ? (display_log = 1);
 
-keyboard.draw_keyboard(base_note, gfx_x + 0.01 * gfx_w, 0.935 * gfx_h, gfx_w * 0.82, 0.05 * gfx_y);
+keyboard.draw_keyboard(base_note, gfx_x + 0.01 * _gfx_w, 0.935 * _gfx_h, right - velw - gfx_x - 0.01 * _gfx_w, 0.05 * gfx_y);
 
-midi.notes_on > 0 ? keyboard.highlight_note(midi.active_note_mem[0]);
-midi.notes_on > 1 ? keyboard.highlight_note(midi.active_note_mem[1]);
-midi.notes_on > 2 ? keyboard.highlight_note(midi.active_note_mem[2]);
-midi.notes_on > 3 ? keyboard.highlight_note(midi.active_note_mem[3]);
-midi.notes_on > 4 ? keyboard.highlight_note(midi.active_note_mem[4]);
+midi.note_on0 ? keyboard.highlight_note(midi.active_note_mem[0]);
+midi.note_on1 ? keyboard.highlight_note(midi.active_note_mem[1]);
+midi.note_on2 ? keyboard.highlight_note(midi.active_note_mem[2]);
+midi.note_on3 ? keyboard.highlight_note(midi.active_note_mem[3]);
+midi.note_on4 ? keyboard.highlight_note(midi.active_note_mem[4]);
 
 note_over = keyboard.note_clicked();
 
-gfx_setfont(3, "Arial", 12 * max(1, scaling));
-colormodel(midi_input - 0.01);
-label_toggle(keyboard._x + keyboard._w, 0.935 * gfx_h, " [MIDI]", "Use MIDI notes as input\n\nWhen enabled, the pitches are set\nby MIDI notes being received by the\nplugin. Note that you will still need an\naudio source in addition as input.\n") ? (
-  midi_input = 1.0 - midi_input;
-  memset(midi.active_note_mem, 0, 5);
-  midi.notes_on = 0;
-  settings_changed = 1;
-);
-
-colormodel(change_vel_mod - 0.01);
-label_toggle(keyboard._x + keyboard._w + 30, 0.935 * gfx_h, " [Velocity]", "Click this to change the velocity sensitivity of the parameters.\nParameters that can be linked to MIDI note velocity will\nbe highlighted.\n\nChanging their settings will result in those parameters\nbeing sensitive to MIDI note velocity. This sensitivity is\nindicated by a differently colored arc.") ? (
-  change_vel_mod = 1 - change_vel_mod;
-);
 
 function handle_non_midi_click(note_over)
 instance(over)
@@ -887,30 +1252,124 @@ global(keyboard.over, last_cap, mouse_cap, settings_changed, midi_input)
 
 keyboard.handle_non_midi_click(note_over);
 
-
-
-radius = 0.032 * gfx_w;
-button_size = 0.004 * gfx_w;
+n_knobs = 9 + 0.65 * glide;
+radius = 0.0315 * 18 / (2 * n_knobs) * _gfx_w;
+button_size = 0.004 * _gfx_w;
 cx = 2 * radius;
 cy = 2 * radius;
+knob_spacing = 0.61 * 8 / (n_knobs - 1) * radius;
+
 
 label_font();
+legacy_gain = legacyToggle.processMouseToggle(cx + 1.1 * radius, cy + 1 * radius, button_size, button_size, legacy_gain, "Don't normalize gain to register being played\n\nNote that enabling this leads to low notes\nbeing a lot louder than high notes.", mouse_x, mouse_y, mouse_cap);
+
+glide = glideToggle.processMouseToggle(cx + 1.1 * radius, cy - 1.1 * radius, button_size, button_size, glide, "Monophonic mode with glide.", mouse_x, mouse_y, mouse_cap);
+color_model = 1;
+
+pass_through = passthroughToggle.processMouseToggle(cx - 1.1 * radius, cy - 1.1 * radius, button_size, button_size, pass_through, "Pass through MIDI.\n\nWhen enabled, this plugin will\nforward incoming MIDI notes.", mouse_x, mouse_y, mouse_cap);
+
+function knob_glow(cx, cy, radius, value)
+local(r_ix)
+global(gfx_a)
+instance()
+(
+  gfx_a = 0.5 * value;
+  r_ix = 0;
+  loop(10,
+    gfx_circle(floor(cx), floor(cy), radius * 1.3 + r_ix);
+    r_ix += 1;
+    gfx_a *= 0.7;
+  );
+);
+
+midi_recv *= 0.9;
+colormodel(midi_recv);
+knob_glow(cx, cy, radius, midi_recv);
+playmode_knob.draw_knob(cx, cy, radius, "", 
+"Play mode
+
+Determines how the plugin responds to inputs. Dial 
+for the different modes, or click with right mouse 
+button to select mode from a menu.
+
+Audio input fixes notes
+  Received audio and transforms it according to the
+  notes set on the keyboard at the bottom.
+Audio input with MIDI notes
+  Receives audio and MIDI input. Transforms the input
+  audio with the MIDI notes played. Note that envelopes
+  can optionally be enabled on the right (below the 
+  models)
+Spike impulse with MIDI notes
+  Plays spikes through the resonator on MIDI notes.
+  This allows you to play the plugin like a MIDI
+  instrument.
+Noise impulse with MIDI notes
+  Plays spikes through the resonator on MIDI notes.
+  This allows you to play the plugin like a MIDI
+  instrument.
+Constant noise with MIDI notes
+  Plays noise through the resonator on MIDI notes.
+  As a result, this plays a continuous note until 
+  released.
+", 1, 1);
+playmode_knob.gfx_draw_icon(8 + floor(play_mode), 1);
+
+playmode_knob.over ? (
+  ((mouse_cap & 2) == 2) && (last_cap == 0) ? (
+    menu_selection = gfx_showmenu("Audio input fixed notes|Audio input with MIDI notes|Spike impulse with MIDI notes|Noise impulse with MIDI notes|Continuous notes MIDI");
+    menu_selection > 0 ? (
+      play_mode = menu_selection - 1;
+      menu_selection = 0;
+    );
+  );
+);
+
+glide ? (
+  cx += 2 * radius + knob_spacing;
+  glide_knob.draw_knob(cx, cy, radius, "", "Glide\n\nGlide duration", 1, 1);
+  glide_knob.gfx_draw_icon(20, 1);
+);
+
+cx += 2 * radius + knob_spacing;
+brightness_knob.draw_knob(cx, cy, radius, "", 
+"Brightness
+
+How bright should the impulse be that is 
+played through the resonator. Note that 
+linking this to the velocity is generally 
+a good idea to get an expressive sound.
+
+You can do this by clicking the [velocity]
+button on the lower right.
+", 1, play_mode > 1.9999);
+brightness_knob.gfx_draw_icon(7, play_mode > 1.9999);
+cx += 2 * radius + knob_spacing;
+custom_partials.amp.over && (model == 11) ? (
+  knob_glow(cx, cy, radius, 1.5 * custom_partials.amp.over * abs(sin(time_precise())));
+);
 position_knob.draw_knob(cx, cy, radius, "", "Relative Position", 1, 1);
 position_knob.gfx_draw_icon(0, 1);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
 damp_knob.draw_knob(cx, cy, radius, "", "Frequency Independent Damping", 1, 1);
 damp_knob.gfx_draw_icon(1, 1);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
+custom_partials.decay.over && (model == 11) ? (
+  knob_glow(cx, cy, radius, custom_partials.decay.over * 1.5 * abs(sin(time_precise())));
+);
 freq_damp_knob.draw_knob(cx, cy, radius, "", "Frequency Dependent Damping", 1, 1);
 freq_damp_knob.gfx_draw_icon(2, 1);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
+((custom_partials.rfreq.over || custom_partials.afreq.over) && (model == 11)) ? (
+  knob_glow(cx, cy, radius, 1.5 * (custom_partials.rfreq.over || custom_partials.afreq.over) * abs(sin(time_precise())));
+);
 inharmonic_knob.draw_knob(cx, cy, radius, "", "Inharmonicity", 1, 1);
 inharmonic_knob.gfx_draw_icon(3, 1);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
 stereo = stereoToggle.processMouseToggle(cx - 1.1 * radius, cy - 1.1 * radius, button_size, button_size, stereo, "Stereoize the output.", mouse_x, mouse_y, mouse_cap);
 stiffness_exp_knob.draw_knob(cx, cy, radius, "", "Input Non-Linearity", 1, 1);
 stiffness_exp_knob.gfx_draw_icon(5, 1);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
 stft = 1 - stftToggle.processMouseToggle(cx - 1.1 * radius, cy - 1.1 * radius, button_size, button_size, 1 - stft, "Time domain mode\n\nTime domain mode allows using feedback but\nrequires significantly more CPU (especially\nwhen using a large number of partials).\n\nIn addition, it runs the risk of instability, so\nwhile it can be used to obtain creative effects\nit's not really recommended for live use.", mouse_x, mouse_y, mouse_cap);
 (last_stft != stft) ? (
   settings_changed = 1;
@@ -919,14 +1378,28 @@ last_stft = stft;
 
 force_fb.draw_knob(cx, cy, radius, "", "Feedback Level", 1, 1 - stft);
 force_fb.gfx_draw_icon(6, 1 - stft);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
+
+max_partial = max(string5.used_partials, max(string4.used_partials, max(string3.used_partials, max(string2.used_partials, string1.used_parials))));
+partials.textbox_control(cx + 0.9 * radius, cy - 1.2 * radius, 12, 1.0 - stft, sprintf(22, 
+"Number of partials to use.
+
+More leads to more high frequencies but higher CPU use.
+Low notes tend to require more partials. The currently 
+highest requested count is: %d
+", max_partial), 16);
+partials.over ? (
+  (mouse_cap & 2 == 2) ? (
+    menu_selection = gfx_showmenu("16|32|48|64");
+  );
+  menu_selection ? (
+    partials = 16 * menu_selection;
+  );
+);
+
 stiffness_knob.draw_knob(cx, cy, radius, "", "Stiffness (tends to make things louder)", 1, 1 - stft);
 stiffness_knob.gfx_draw_icon(4, 1 - stft);
-cx += 3 * radius;
-n_partials = sprintf(16, "%d", 16 * floor((partials / 16)));
-partials.draw_knob(cx, cy, radius, n_partials, "Number of partials to include", 1, 1 - stft);
-n_partials.gfx_draw_icon(7, 1 - stft);
-cx += 3 * radius;
+cx += 2 * radius + knob_spacing;
 
 choice_x = cx - radius;
 
@@ -954,11 +1427,16 @@ choice_button8.draw_choice(7, cx - radius, cy, radius, radius, 1, "Pan");
 choice_button8.draw_model_icon();
 cx += radius + 4;
 
-
 choice_button9.draw_choice(8, cx - radius, cy - 1.1 * radius, radius, radius, 1, "Male vowels");
 choice_button9.draw_model_icon();
 choice_button10.draw_choice(9, cx - radius, cy, radius, radius, 1, "Female vowels");
 choice_button10.draw_model_icon();
+cx += radius + 4;
+
+choice_button11.draw_choice(11, cx - radius, cy - 1.1 * radius, radius, radius, 1, "Custom\n\nCustom model that allows customization\nof two spectra. Interpolation between\nthese spectra is then controlled with\nthe macro controls.");
+choice_button11.draw_model_icon();
+choice_button12.draw_choice(12, cx - radius, cy, radius, radius, 1, "Custom\n\nCustom model that provides only a single\nspectrum.\n\nThe macro controls then retain the same\nfunction as they did for the built-in spectra.");
+choice_button12.draw_model_icon();
 cx += radius + 4;
 
 bins = 100;
@@ -1152,13 +1630,13 @@ global(gfx_a, mouse_x, mouse_y, mouse_cap, last_cap, hinter.sethint)
 
 midi_input ? (
   use_envelopes ? (
-    env.draw_envelope(floor(choice_x), floor(3 * radius + 8), floor((radius + 4) * 5 - 4), floor(2 * radius));
+    env.draw_envelope(floor(choice_x), floor(3 * radius + 8), floor((radius + 4) * 6 - 4), floor(2 * radius));
   );
   
   colormodel(use_envelopes);
   draw_collapse_rect(
     floor(choice_x), floor(3 * radius + 0.5 * button_size) + use_envelopes * floor(2 * radius) + use_envelopes * 1.5 * button_size, 
-    floor((radius + 4) * 5 - 4), button_size,
+    floor((radius + 4) * 6 - 4), button_size,
     use_envelopes ? 
       "Disable envelope."
     : "Apply an envelope to the input and output of each string."
@@ -1166,12 +1644,6 @@ midi_input ? (
   
   use_envelopes
 );
-
-
-
-
-//data = np.hstack((len(locations), locations, len(rle_data), rle_data))
-
 
 gfx_x = 0;
 gfx_y = 0;
@@ -1206,7 +1678,7 @@ instance(s, i)
   );
 );
 
-yy = 0.02 * gfx_h + gfx_h * 0.9;
+yy = 0.02 * _gfx_h + _gfx_h * 0.9;
 //logo.draw_logo(logomem, rle_mem, 0.45, gfx_w - 110, gfx_h - 22);
 logo.draw_logo(logomem, rle_mem, 0.45, 6, 6);
 
@@ -1216,20 +1688,27 @@ logo.draw_logo(logomem, rle_mem, 0.45, 6, 6);
   settings_changed = 1;
 );
 
+// Ctrl + Shift + RMB the logo enters test mode
+((mouse_cap == 6 + 8) && (last_cap == 0) && (mouse_x < 120) && (mouse_y < 25)) ? (
+  test_mode = 1 - test_mode;
+  settings_changed = 1;
+);
+
 gfx_x = 115; gfx_y = 3;
 colormodel(0.4);
 gfx_setfont(4, "Arial", 10 * max(1,scaling));
-gfx_printf("v0.11 ALPHA (Warning: this plugin is not production ready and is still actively being developed)");
+gfx_printf("v0.41 ALPHA (Warning: this plugin is not production ready and is still actively being developed)");
 
 (model == 10) ? (
   colormodel(0.0);
   gfx_a = 0.3 * abs(sin(time_precise()));
   gfx_setfont(6, "Arial", 180);
   gfx_measurestr("DEV MODE", gw, gh);
-  gfx_x = (gfx_w - gw) / 2; gfx_y = (gfx_h - gh) / 2;
+  gfx_x = (_gfx_w - gw) / 2; gfx_y = (_gfx_h - gh) / 2;
   gfx_printf("DEV MODE")
 );
 
+gfx_setfont(4, "Arial", 10 * max(1,scaling));
 hinter.drawhint();
 newtime = time_precise();
 delta_time = newtime - ctime;
@@ -1251,11 +1730,30 @@ loop(30,
 );
 
 gfx_x = 0;
-gfx_y = 10;
+gfx_y = 30;
 gfx_set(1, 1, 1, 1);
 fff = midi.active_note_mem;
 loop(30,
   gfx_printf("%f  ", fff[]);
   fff += 1;
 );
+
+gfx_x = 0;
+gfx_y = 60;
+gfx_set(1, 1, 1, 1);
+fff = midi.active_note_vel;
+loop(30,
+  gfx_printf("%f  ", fff[]);
+  fff += 1;
+);
+
+gfx_x = 0;
+gfx_y = 90;
+gfx_set(1, 1, 1, 1);
+fff = midi.active_note_state;
+loop(30,
+  gfx_printf("%f  ", fff[]);
+  fff += 1;
+);
 */
+

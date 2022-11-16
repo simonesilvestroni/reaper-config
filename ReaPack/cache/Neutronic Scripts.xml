@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Neutronic Scripts" commit="6657a0a0a7ba4dc1e690796c6bec434baaf7abf6">
+  <category name="FX">
+    <reapack name="neutronic_Show track or take envelope for last touched parameter.lua" type="script" desc="Show track or take envelope for last touched parameter">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Adds tracks or takes envelopes for the last touched FX parameter\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2019-07-19T00:04:37Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/55ea23d43b8f441a0a2b5e9bc2e1e85884513a6d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua</source>
+      </version>
+      <version name="1.01" author="Neutronic" time="2020-05-04T06:38:06Z">
+        <changelog><![CDATA[# check the pointer when parameter modulation is enabled]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/59827435b6b0992f6c01a87580770efe84f3d33f/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua</source>
+      </version>
+      <version name="1.02" author="Neutronic" time="2020-10-26T12:20:04Z">
+        <changelog><![CDATA[# check if touched parameter exists]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/20d398c5bbabaed2b374897ccf2fabf9812962ef/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua</source>
+      </version>
+      <version name="1.03" author="Neutronic" time="2021-07-08T04:14:06Z">
+        <changelog><![CDATA[# change ai_insert default to false
+# reliably update arrange when ai_insert is false
+# fix creating undo points in some cases]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/32d6cc09fff9a559affabf281c4fb430edb6d69d/FX/neutronic_Show%20track%20or%20take%20envelope%20for%20last%20touched%20parameter.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utilities">
+    <reapack name="neutronic_MIDI plug and play.lua" type="script" desc="MIDI Plug and Play">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 It's a background script that provides automatic MIDI controller initialization for REAPER.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=220867">Script's forum thread</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2019-05-13T18:57:39Z">
+        <changelog><![CDATA[v1.00 - May 13 2019
+  + initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/075357353fee3e35d510f552bf340dacb2204d3a/Utilities/neutronic_MIDI%20plug%20and%20play.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_Quick add FX or track template.lua" type="script" desc="Quick add FX or track template">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Adds FX or track templates to selected tracks or takes.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=220800">Script's forum thread</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2019-05-11T17:33:31Z">
+        <changelog><![CDATA[+ initial realease]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/61d082d8e115cebca98f3e6d5e0f9d24aac959f7/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.01" author="Neutronic" time="2019-05-14T15:15:31Z">
+        <changelog><![CDATA[+ added input_ovrd option to allow users hardcode a search query]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/e258ed63aa732b4087f5688a7e5897d564fe0137/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.2" author="Neutronic" time="2019-05-31T18:33:50Z">
+        <changelog><![CDATA[+ ability to apply track templates to selected tracks
+  # moved in-script help to console]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/1331e689063ff76a81232122889e00cf267039ee/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.25" author="Neutronic" time="2019-06-11T23:15:20Z">
+        <changelog><![CDATA[+ added "2", "3", "j" and "c" as shorthands for vst2/vst3/js/chain fx types]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/893b941533ca6fd6e951da142a901f8c9ad7ae53/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.30" author="Neutronic" time="2019-08-06T06:09:59Z">
+        <changelog><![CDATA[+ AU format support
++ video processor support
++ option to reverse the /a flag behavior
++ option to preserve layouts when applying track templates
++ safeguard against false JS files
+# improved JS instances naming in FX chains]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/8ae886c20c56d0ee69c2218e69762d75e3396ad8/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.31" author="Neutronic" time="2019-08-07T20:59:25Z">
+        <changelog><![CDATA[# improved FX listing logic]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/eb0fb57e8f482767ad5505b65560b773287ca61e/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.40" author="Neutronic" time="2019-09-17T14:58:40Z">
+        <changelog><![CDATA[+ start a search query with a whitespace to clear relevant FX chains before adding FX
++ ignore plugins that begin with #
+# show FX chain when adding it (instead of floating last FX in chain)]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/a3afd851884f362ef47e5fca53a436b7df61be7e/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.45" author="Neutronic" time="2019-10-13T13:49:25Z">
+        <changelog><![CDATA[# insert track templates after the last selected track or at the end of the track list
+# respect folder depth level if the last selected track is also the last track in folder]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/91246c69b73fbb6bd29ca17e545305f6ca852d89/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.47" author="Neutronic" time="2019-10-31T23:39:25Z">
+        <changelog><![CDATA[+ option to keep the track name when applying a track template (off by default)]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/8da5e1b2631566dc8fc17d7172e8322bfae982de/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+      <version name="1.50" author="Neutronic" time="2019-12-05T13:28:36Z">
+        <changelog><![CDATA[+ option to clear master track FX chain before adding FX
+# open plugins inside FX Chains if chains are visible]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/f7fbe7f132f729a575378404362fbc009024fe18/Utilities/neutronic_Quick%20add%20FX%20or%20track%20template.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utilities/Quick Adder 2">
+    <reapack name="neutronic_Quick Adder 2.lua" type="script" desc="Quick Adder 2">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Unified solution for adding FX, inserting track templates and running actions in REAPER.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="2.0" author="Neutronic" time="2020-03-17T15:25:13Z">
+        <changelog><![CDATA[+ custom resizable GUI
++ in-script favorites system
+# many UX improvements (check the demo video - http://bit.ly/seeQA2)]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/def33d35c353df71084d51119b66d49dc8691316/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.01" author="Neutronic" time="2020-03-18T14:14:42Z">
+        <changelog><![CDATA[# temporarily disable VST cross-checking]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/d646cbeaad6df7b8d51715d62fce2f0ae2aa4e33/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.05" author="Neutronic" time="2020-03-22T19:01:52Z">
+        <changelog><![CDATA[+ option to toggle FX/track template GUI floating after insertion
++ prompt to insert tracks to put FX on, when there are no tracks in project
+  and master track is unselected
++ pass Ctrl(Cmd)+Z and Ctrl(Cmd)+Shift+Z to main window
++ double click speed variable in the cfg file (dbl_click_speed)
+# slightly increased double click speed]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/6f5074ff9f88b212d072e69eef98a57f1b4cdcdb/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.07" author="Neutronic" time="2020-03-26T12:28:24Z">
+        <changelog><![CDATA[+ option to show favorites when the search box is empty
++ ability to reorder favorites with Alt + Shift + Up/Down]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/49d55cb6d365de9d0b45715d462a6f9866890da1/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.08" author="Neutronic" time="2020-03-31T18:31:30Z">
+        <changelog><![CDATA[+ option to clear the search box after FX/template insertion
++ put VSTi/AUi on a new named/armed/monitored track when no
+  tracks are selected
++ respect FX filter string rules in REAPER Preferences --> Plug-ins
++ ESC closes Quick Adder when the search box is empty
+# constrain favorites reordering to Alt + Shift + Up/Down only
+# improved "FX not found" warning
+# updated help file]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/6830de48347598230581461a6cbb4b4a164021c7/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.10" author="Neutronic" time="2020-04-06T21:05:41Z">
+        <changelog><![CDATA[+ drag and drop support
++ dropping an effect on empty TCP/MCP automatically
+  creates a named track with the effect on it
++ options for "no track selected" scenario
++ ability to pin Quick Adder
++ place text box carriage with mouse cursor
+
+NOTE: some new functionality requires SWS and/or JS APIs.
+
+]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/481dbb65e34a67c6cacc4866acabf157682b4bfe/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.15" author="Neutronic" time="2020-04-28T15:28:03Z">
+        <changelog><![CDATA[+ search and run actions
++ add actions to favorites
++ new filter to search actions only
++ define position of actions in the global search order
++ display actions toggle state in real time
++ option to toggle the actions functionality on/off
++ ability to resize the search view horizontally
++ notify user if there is no SWS and/or JS API installed
+# enhanced exact matching logic
+# enhanced FX filter string parsing]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/227db39d1ecee94a0cc7f2b37b3d803536f0642f/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.16" author="Neutronic" time="2020-04-29T03:30:40Z">
+        <changelog><![CDATA[+ support script docking with the title bar menu option (Windows only)
+# check JS names for double quotes
+
+New in v2.15:
++ search and run actions
++ add actions to favorites
++ new filter to search actions only
++ define position of actions in the global search order
++ display actions toggle state in real time
++ option to toggle the actions functionality on/off
++ ability to resize the search view horizontally
++ notify user if there is no SWS and/or JS API installed
+# enhanced exact matching logic
+# enhanced FX filter string parsing]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/d8cbac535257d8bc8343b1d75a4fcf361c503f1a/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.20" author="Neutronic" time="2020-05-26T23:36:03Z">
+        <changelog><![CDATA[Text selection for editing:
++ marquee select search box text
++ "Ctrl(Cmd) + A" or double-click a search query to select all text
++ "Ctrl(Cmd) + Left/Right" to move one word at a time
++ "Shift + Left/Right"  to select one letter at a time
++ "Ctrl(Cmd) + Shift + Left/Right" to select one word at a time
++ "Home" to go to start of the search query
++ "End" to go to the end of search query
+
+The docked mode:
++ right-click the hints bar to dock/undock the script's GUI
++ automatically set result rows number when docked
++ option to show result placeholders when docked
++ highlight the GUI when docked and the script is focused
++ temporarily undock the script when user opens QA2 Preferences
++ adjust results text size for the docked mode
++ open the filter tray vertically when docked and GUI width is
+  less than the tray width
+
+Various:
++ option to float FX at mouse cursor
++ maximum number of result rows increased to 99 for the undocked mode
++ unlock minimum horizontal GUI size
++ HiDPI/Retina displays support
+# make sure ALT + Key shortcuts do not collide with SHIFT + ALT + Key
+# fixed the "FX" filter sorting
+# fixed search box memory clearing when backspasing a whole query
+# insert correct result when no tracks selected and "Clear search
+  box after insertion" is on
+# don't reset QA2 result selection after insertion if search box is empty
+# bypass gfx.mouse_cap hang on macOS when inserting FX through double-clicking]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/654a925b5500fca033b69251c0ecb894b4090259/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.21" author="Neutronic" time="2020-05-28T03:47:46Z">
+        <changelog><![CDATA[# recall docked state on QA2 reopening
+
+New in v2.20
+Text selection for editing:
++ marquee select search box text
++ "Ctrl(Cmd) + A" or double-click a search query to select all text
++ "Ctrl(Cmd) + Left/Right" to move one word at a time
++ "Shift + Left/Right"  to select one letter at a time
++ "Ctrl(Cmd) + Shift + Left/Right" to select one word at a time
++ "Home" to go to start of the search query
++ "End" to go to the end of search query
+
+The docked mode:
++ right-click the hints bar to dock/undock the script's GUI
++ automatically set result rows number when docked
++ option to show result placeholders when docked
++ highlight the GUI when docked and the script is focused
++ temporarily undock the script when user opens QA2 Preferences
++ adjust results text size for the docked mode
++ open the filter tray vertically when docked and GUI width is
+  less than the tray width
+
+Various:
++ option to float FX at mouse cursor
++ maximum number of result rows increased to 99 for the undocked mode
++ unlock minimum horizontal GUI size
++ HiDPI/Retina displays support
+# make sure ALT + Key shortcuts do not collide with SHIFT + ALT + Key
+# fixed the "FX" filter sorting
+# fixed search box memory clearing when backspasing a whole query
+# insert correct result when no tracks selected and "Clear search
+  box after insertion" is on
+# don't reset QA2 result selection after insertion if search box is empty
+# bypass gfx.mouse_cap hang on macOS when inserting FX through double-clicking]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/11377c14bc88f0cd6a66f5e6ba533bff28fa5cfc/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.22" author="Neutronic" time="2020-06-02T20:26:03Z">
+        <changelog><![CDATA[# fixed Default Filter setting
+
+New in v2.20
+Text selection for editing:
++ marquee select search box text
++ "Ctrl(Cmd) + A" or double-click a search query to select all text
++ "Ctrl(Cmd) + Left/Right" to move one word at a time
++ "Shift + Left/Right"  to select one letter at a time
++ "Ctrl(Cmd) + Shift + Left/Right" to select one word at a time
++ "Home" to go to start of the search query
++ "End" to go to the end of search query
+
+The docked mode:
++ right-click the hints bar to dock/undock the script's GUI
++ automatically set result rows number when docked
++ option to show result placeholders when docked
++ highlight the GUI when docked and the script is focused
++ temporarily undock the script when user opens QA2 Preferences
++ adjust results text size for the docked mode
++ open the filter tray vertically when docked and GUI width is
+  less than the tray width
+
+Various:
++ option to float FX at mouse cursor
++ maximum number of result rows increased to 99 for the undocked mode
++ unlock minimum horizontal GUI size
++ HiDPI/Retina displays support
+# make sure ALT + Key shortcuts do not collide with SHIFT + ALT + Key
+# fixed the "FX" filter sorting
+# fixed search box memory clearing when backspasing a whole query
+# insert correct result when no tracks selected and "Clear search
+  box after insertion" is on
+# don't reset QA2 result selection after insertion if search box is empty
+# bypass gfx.mouse_cap hang on macOS when inserting FX through double-clicking]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/5796e176ff5f90f31f72f455a94477ecdc0517a7/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.23" author="Neutronic" time="2020-06-03T17:23:58Z">
+        <changelog><![CDATA[# escape backslashes in JS descriptions
+
+New in v2.20
+Text selection for editing:
++ marquee select search box text
++ "Ctrl(Cmd) + A" or double-click a search query to select all text
++ "Ctrl(Cmd) + Left/Right" to move one word at a time
++ "Shift + Left/Right"  to select one letter at a time
++ "Ctrl(Cmd) + Shift + Left/Right" to select one word at a time
++ "Home" to go to start of the search query
++ "End" to go to the end of search query
+
+The docked mode:
++ right-click the hints bar to dock/undock the script's GUI
++ automatically set result rows number when docked
++ option to show result placeholders when docked
++ highlight the GUI when docked and the script is focused
++ temporarily undock the script when user opens QA2 Preferences
++ adjust results text size for the docked mode
++ open the filter tray vertically when docked and GUI width is
+  less than the tray width
+
+Various:
++ option to float FX at mouse cursor
++ maximum number of result rows increased to 99 for the undocked mode
++ unlock minimum horizontal GUI size
++ HiDPI/Retina displays support
+# make sure ALT + Key shortcuts do not collide with SHIFT + ALT + Key
+# fixed the "FX" filter sorting
+# fixed search box memory clearing when backspasing a whole query
+# insert correct result when no tracks selected and "Clear search
+  box after insertion" is on
+# don't reset QA2 result selection after insertion if search box is empty
+# bypass gfx.mouse_cap hang on macOS when inserting FX through double-clicking]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/9cac68f6cd9114c6b6c60da5d389f4d8af543126/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.25" author="Neutronic" time="2020-06-19T13:28:38Z">
+        <changelog><![CDATA[+ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/7df725928de1f3d73cea8bcbbaf98abe7d095bfe/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.26" author="Neutronic" time="2020-06-21T16:05:52Z">
+        <changelog><![CDATA[# fix script crash when parsing fxfolders.ini
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/fe85cbb442cbc4ab66ee639c42c46ddad063f592/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.27" author="Neutronic" time="2020-06-24T18:31:23Z">
+        <changelog><![CDATA[# fix recalling favorites containing FX folder data
+# improve matching queries with numbers
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/2dd2af07a83629503b0a57a4b3f3274af146162f/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.28" author="Neutronic" time="2020-06-28T20:56:11Z">
+        <changelog><![CDATA[+ Shift+Enter inserts templates above first selected track
+# more improvements to reaper-fxfolders.ini parsing
+# check VST names for illegal characters
+# fix script crash if AU match doesn't have a space between developer and plugin names
+# improved INS/FOL filters logic
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/549609fd04e20df56d0a466cbaee4f387af670bf/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.29" author="Neutronic" time="2020-06-28T21:58:28Z">
+        <changelog><![CDATA[+ Shift+Enter inserts templates above first selected track
+# more improvements to reaper-fxfolders.ini parsing
+# check VST names for illegal characters
+# improve overall character sanitizing logic
+# fix script crash if AU match doesn't have a space between developer and plugin names
+# improve INS/FOL filters logic
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/4f6d07638fab420a6cc28777b75ab48e6a6d8d10/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.30" author="Neutronic" time="2020-07-07T14:12:46Z">
+        <changelog><![CDATA[# fix script crash if reaper-fxfolders.ini does not exist
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/7fc78f6670f9f0141ba8fd7997fc09f21fa1ea96/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.31" author="Neutronic" time="2020-07-15T11:10:55Z">
+        <changelog><![CDATA[# better handling of empty strings in getFXfolder() and fxExclCheck()
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/473c1a32883f2617240a1fa6ac446f6c83b7779a/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.32" author="Neutronic" time="2020-07-17T07:56:59Z">
+        <changelog><![CDATA[# improve handling of filter strings with OR logical operator
+
+New in v2.25
++ search FX browser folders
++ new FOL search filter for FX browser folders
++ option to disable FX folders searching (PREFS --> Search and ...)
++ new INS search filter for virtual instruments
++ FX search filter now gets effects only
++ configure Filter Tray items (right-click the tray button)
++ configure FX show options (right-click the Show FX button)
+# move "Show FX at mouse cursor" to FX show options
+# improve illegal characters sanitizing
+# internal optimizations]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/a8e8002f5f8e1e7aa20c8304edef12d8815c02fc/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.33" author="Neutronic" time="2020-08-09T19:41:36Z">
+        <changelog><![CDATA[+ Ctrl(Cmd) + Shift + Alt + Enter: inserts FX or template on new track and
+sends selected tracks (or track under mouse) to it
+# streamline targeting logic
+# update mouse cursor when switching views with key commands
+# improve hints
+# update help file]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/83f23999e54e18d93d78e20f3471badae932bc22/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.34" author="Neutronic" time="2020-10-26T12:19:57Z">
+        <changelog><![CDATA[+ LeftWin + Alt + Enter: insert FX on a new track above the first selected track
+  or the track under mouse cursor (Ctrl + Option + Return on macOS)
+# ignore "Auto-float newly created FX windows" in REAPER preferences]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/7218325dd06970d9e7b51ba9fa0864e050c3c070/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.35" author="Neutronic" time="2020-12-03T08:36:21Z">
+        <changelog><![CDATA[# fix redundant extension check in some cases]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/a78991242afcb299cc70db4b48e9ed42d998cf1a/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.36" author="Neutronic" time="2020-12-03T18:33:51Z">
+        <changelog><![CDATA[# more extension check fixes for macOS (non-retina with zero favorites)]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/bc2f28ebdf63302e484e9441b6d4549f8a262275/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.40" author="Neutronic" time="2021-01-12T14:33:15Z">
+        <changelog><![CDATA[+ scrollable results: introducing scrollbar and scrollwheel support
++ list all relevant entries if search bar is empty
++ display number of matches in hints bar
++ enhanced database scanning logic
++ provide short information on what is being scanned
++ prevent GUI lock when preparing database
+# do not refresh the list upon adding a match to favorites (enhances UX with new scrollable results)
+# fix crash when dropping FX on empty area and master track is selected
+# change "Always show favorites" to "List all if search is empty" (minds active filter)
+# change default Auto Refresh mode to "Do not auto refresh"
+# improved exact match searching
+# show correct FX GUI if ARA plugin is added and there are already other FX in chain]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/fc739a93d4da1620147c2a5732be8ab50880afaf/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.42" author="Neutronic" time="2021-01-21T18:07:02Z">
+        <changelog><![CDATA[+ display main action shortcuts
++ Linux support]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/54e02862c2d8c47c7720b75bc2f3860e839d54bc/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.43" author="Neutronic" time="2021-02-08T21:26:24Z">
+        <changelog><![CDATA[# fix compatibility issues with SWS 2.12.1.3+
+# fix incomplete results display for FOL and INS filters]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/7b1e7b8bcdffe92e03988888d6a487b6ff248f95/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.44" author="Neutronic" time="2021-02-10T14:05:28Z">
+        <changelog><![CDATA[# ignore files with restricted access when preparing database]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/d801b39edfedc1838bd095d561d35a48e0deac56/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.45" author="Neutronic" time="2021-03-09T00:20:39Z">
+        <changelog><![CDATA[# don't match vst_id in fxfolders.ini when the id is 0
+# case insensitive fxfolders.ini lookup]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/a347f9863d8729719a4da9a7219ee7406890fb78/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.47" author="Neutronic" time="2021-06-10T16:15:12Z">
+        <changelog><![CDATA[+ support native Apple silicon REAPER builds (macOS-ARM)
++ macOS-ARM: use correct font sizes
++ macOS-ARM: scan relevant VST and AU ini files
++ report QA2 state to REAPER action list and toolbars
++ auto-adjust GUI size when moving it from non-retina to retina screen and vice versa
+# fix showing results on QA2 launch (when "List all ..." is enabled)
+# fix mouse cursor flicker that occurred in some cases]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/a54d4e2856c2179fed96f729b4ff97151eb6ab99/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.49" author="Neutronic" time="2021-08-18T00:48:50Z">
+        <changelog><![CDATA[+ ability to control QA2 with external actions (downloaded separately)
++ post scanning status to REAPER info bar when siliently refreshing database
+# improve QA2 tab naming when docked
+# fix QA2 crash when scrolling zero results list
+# macOS: improve automatic GUI positioning]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/22f70e9e22f4e4f245601e41def9de1a32d66089/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.49.3" author="Neutronic" time="2022-08-18T23:07:29Z">
+        <changelog><![CDATA[# improve string construction for FX_AddByName functions
+# fix missing VST3 plugins when filter is FOL]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/6f48487cd7c8d97707702f71759dd3e4a03003ef/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+      <version name="2.49.4" author="Neutronic" time="2022-09-06T20:16:54Z">
+        <changelog><![CDATA[+ add context menu (right-click) for search bar
++ add "Clear Search", "Copy" and "Paste" to search context menu
++ add "Ctrl(Cmd) + C" shortcut to copy selected search text
++ add "Ctrl(Cmd) + V" shortcut to paste text from clipboard
+# use up-to-date command IDs with favorite scripts/extensions
+# set initial GUI size to 4k for retina screens]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/6657a0a0a7ba4dc1e690796c6bec434baaf7abf6/Utilities/Quick%20Adder%202/neutronic_Quick%20Adder%202.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Utilities/Quick Adder 2/Actions">
+    <reapack name="neutronic_Quick Adder 2 -- optimize GUI size for 1080p.lua" type="script" desc="Quick Adder 2 -- optimize GUI size for 1080p">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Optimizes Quick Adder 2 window size for 1080p screen resolution.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2021-08-18T00:48:16Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/cb1916c0b749b782e8c82892cbb0012f9ced5ce1/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%201080p.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_Quick Adder 2 -- optimize GUI size for 4k.lua" type="script" desc="Quick Adder 2 -- optimize GUI size for 4k">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Optimizes Quick Adder 2 window size for 4k screen resolution.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2021-08-18T00:48:22Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/b604cfcaebba9be58fe425771007738e63bc8748/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%204k.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_Quick Adder 2 -- optimize GUI size for 5k.lua" type="script" desc="Quick Adder 2 -- optimize GUI size for 5k">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Optimizes Quick Adder 2 window size for 5k screen resolution.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2021-08-18T00:48:28Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/7a9cad15d448b6a78f1ff6acf49d231fe94485b5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%205k.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_Quick Adder 2 -- optimize GUI size for 720p.lua" type="script" desc="Quick Adder 2 -- optimize GUI size for 720p">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Optimizes Quick Adder 2 window size for 720p screen resolution.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2021-08-18T00:48:34Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/b18a5a66a647cc077135339d2a935b288d8255d5/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%20720p.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_Quick Adder 2 -- optimize GUI size for 8k.lua" type="script" desc="Quick Adder 2 -- optimize GUI size for 8k">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Optimizes Quick Adder 2 window size for 8k screen resolution.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2021-08-18T00:48:39Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/4d3e2ab52d49f966865c10453d76481f392c170b/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20optimize%20GUI%20size%20for%208k.lua</source>
+      </version>
+    </reapack>
+    <reapack name="neutronic_Quick Adder 2 -- refresh database.lua" type="script" desc="Quick Adder 2 -- refresh database">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Refreshes Quick Adder 2 database.\par}
+}
+]]></description>
+        <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Neutronic's REAPER forum profile</link>
+        <link rel="website" href="https://forum.cockos.com/showthread.php?t=232928">Quick Adder 2 forum thread</link>
+        <link rel="website" href="http://bit.ly/seeQA2">Quick Adder 2 video demo</link>
+        <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+      </metadata>
+      <version name="1.0" author="Neutronic" time="2021-08-18T00:48:44Z">
+        <changelog><![CDATA[+ initial release]]></changelog>
+        <source main="main">https://github.com/Neutronic/ReaScripts/raw/94a0aea5da7e167fcab35fa9b8340f1723823b59/Utilities/Quick%20Adder%202/Actions/neutronic_Quick%20Adder%202%20--%20refresh%20database.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 {\field{\*\fldinst{HYPERLINK "https://www.reaper.fm/sdk/reascript/reascript.php"}}{\fldrslt{\ul
+ReaScripts
+}}}
+ by Neutronic\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This repository contains my public scripts made for {\field{\*\fldinst{HYPERLINK "https://www.reaper.fm"}}{\fldrslt{\ul
+REAPER
+}}}
+.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Everything you find here is {\i free} but {\field{\*\fldinst{HYPERLINK "https://www.paypal.me/SIXSTARCOS"}}{\fldrslt{\ul
+donations
+}}}
+ are very much welcome and appreciated.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 If you want to import the repository into {\field{\*\fldinst{HYPERLINK "https://reapack.com"}}{\fldrslt{\ul
+ReaPack
+}}}
+ please paste the following link when prompted: {\f1 https://github.com/Neutronic/ReaScripts/raw/master/index.xml}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 For questions and scripting inquiries feel free to reach me at the {\field{\*\fldinst{HYPERLINK "https://forum.cockos.com/member.php?u=66313"}}{\fldrslt{\ul
+REAPER forum
+}}}
+.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Best,\line Dmitri\par}
+}
+]]></description>
+    <link rel="donation">https://paypal.me/SIXSTARCOS</link>
+    <link rel="website" href="https://forum.cockos.com/member.php?u=66313">Contact Neutronic</link>
+  </metadata>
+</index>
